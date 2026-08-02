@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1546609889379635201",
+          "name": "Mengniu Dairy"
+        }
+      }
+    ],
+    "conversation_id": "2077412176411885794",
+    "created_at": "2026-07-15T15:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077422071706193968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638797277778296833",
+          "start": 0,
+          "username": "StayAway_Fools"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077422071706193968",
+    "in_reply_to_user_id": "1638797277778296833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077421108073316640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StayAway_Fools 伊利蒙牛打起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1546609889379635201",
+              "name": "Mengniu Dairy"
+            }
+          }
+        ],
+        "conversation_id": "2077412176411885794",
+        "created_at": "2026-07-15T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077422071706193968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638797277778296833",
+              "start": 0,
+              "username": "StayAway_Fools"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077422071706193968",
+        "in_reply_to_user_id": "1638797277778296833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077421108073316640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StayAway_Fools 伊利蒙牛打起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638797277778296833",
+        "conversation_id": "2077412176411885794",
+        "created_at": "2026-07-15T15:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077421108073316640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077421108073316640",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412176411885794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 冰工厂其实是有点素质的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 520,
+          "like_count": 17541,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 7756
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T06:58:23.000Z",
+        "description": "🤓☝🏻️\nDeutsch lernen...🧐\nWillkommen, mit mir zu sprechen！",
+        "id": "1638797277778296833",
+        "name": "妹由明子（真丶丶淡推中）",
+        "pinned_tweet_id": "1991311610326184421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049187558639521792/rYY3yPZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 1086,
+          "like_count": 10383,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2373
+        },
+        "url": "",
+        "username": "StayAway_Fools",
+        "verified": false
+      }
+    ]
+  }
+}

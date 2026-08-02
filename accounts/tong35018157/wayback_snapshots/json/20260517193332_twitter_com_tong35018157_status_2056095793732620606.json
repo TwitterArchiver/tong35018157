@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055662245221126145"
+      ],
+      "media_source_tweet_id": [
+        "2055662569604493449"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2056095793732620606",
+    "created_at": "2026-05-17T19:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056095793732620606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1711832533128650752",
+          "start": 3,
+          "username": "redfash39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7C5EzAmg7F",
+          "end": 103,
+          "expanded_url": "https://x.com/redfash39/status/2055662569604493449/photo/1",
+          "media_key": "3_2055662245221126145",
+          "start": 80,
+          "url": "https://t.co/7C5EzAmg7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056095793732620606",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055662569604493449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @redfash39: \"Stalin is the same as you, my Führer.\"\n\n-Joachim von Ribbentrop https://t.co/7C5EzAmg7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2055662245221126145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIct67CWUAEe-7B.png",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055662245221126145"
+          ],
+          "media_source_tweet_id": [
+            "2055662569604493449"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2056095793732620606",
+        "created_at": "2026-05-17T19:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056095793732620606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1711832533128650752",
+              "start": 3,
+              "username": "redfash39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7C5EzAmg7F",
+              "end": 103,
+              "expanded_url": "https://x.com/redfash39/status/2055662569604493449/photo/1",
+              "media_key": "3_2055662245221126145",
+              "start": 80,
+              "url": "https://t.co/7C5EzAmg7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056095793732620606",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055662569604493449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @redfash39: \"Stalin is the same as you, my Führer.\"\n\n-Joachim von Ribbentrop https://t.co/7C5EzAmg7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055662245221126145"
+          ]
+        },
+        "author_id": "1711832533128650752",
+        "conversation_id": "2055662569604493449",
+        "created_at": "2026-05-16T14:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055662569604493449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7C5EzAmg7F",
+              "end": 88,
+              "expanded_url": "https://x.com/redfash39/status/2055662569604493449/photo/1",
+              "media_key": "3_2055662245221126145",
+              "start": 65,
+              "url": "https://t.co/7C5EzAmg7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055662569604493449",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4757,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "\"Stalin is the same as you, my Führer.\"\n\n-Joachim von Ribbentrop https://t.co/7C5EzAmg7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 397,
+          "like_count": 14086,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6584
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T19:54:36.000Z",
+        "description": "",
+        "id": "1711832533128650752",
+        "name": "Aeneas",
+        "pinned_tweet_id": "1868468495807025568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864494754672627712/ITsvJHa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 218,
+          "like_count": 4911,
+          "listed_count": 3,
+          "media_count": 941,
+          "tweet_count": 3413
+        },
+        "username": "redfash39",
+        "verified": false
+      }
+    ]
+  }
+}

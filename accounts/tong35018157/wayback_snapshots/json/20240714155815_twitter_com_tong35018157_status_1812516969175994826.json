@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812516952205557760"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1812438713613570451",
+    "created_at": "2024-07-14T15:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T16:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812516969175994826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yZFT02ozEq",
+          "end": 36,
+          "expanded_url": "https://twitter.com/tong35018157/status/1812516969175994826/photo/1",
+          "media_key": "3_1812516952205557760",
+          "start": 13,
+          "url": "https://t.co/yZFT02ozEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812516969175994826",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812438713613570451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 https://t.co/yZFT02ozEq"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812438713613570451].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1812438713613570451",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1812438713613570451"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1812516952205557760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSdakJ2WAAAfR_d.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812516952205557760"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1812438713613570451",
+        "created_at": "2024-07-14T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T16:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812516969175994826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yZFT02ozEq",
+              "end": 36,
+              "expanded_url": "https://twitter.com/tong35018157/status/1812516969175994826/photo/1",
+              "media_key": "3_1812516952205557760",
+              "start": 13,
+              "url": "https://t.co/yZFT02ozEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812516969175994826",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812438713613570451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 https://t.co/yZFT02ozEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 205,
+          "like_count": 8071,
+          "listed_count": 1,
+          "tweet_count": 3815
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "睡大觉/抽象/可爱😻/社交生活推",
+        "id": "1679686176083685376",
+        "location": "he/they/mlm😽/afab😾/关注大概率不过抱歉",
+        "name": "🐈‍⬛灯灯猫🐈",
+        "pinned_tweet_id": "1810552087551541731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808315472137670659/_2-RF4Qd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 435,
+          "like_count": 5642,
+          "listed_count": 0,
+          "tweet_count": 7411
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      }
+    ]
+  }
+}

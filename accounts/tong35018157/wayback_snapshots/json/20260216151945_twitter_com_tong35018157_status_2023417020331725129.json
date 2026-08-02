@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2023417020331725129",
+    "created_at": "2026-02-16T15:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023417020331725129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkawsb/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kkawsb/status/2023048604491932083",
+          "start": 16,
+          "url": "https://t.co/NhKsBonDSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023417020331725129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023048604491932083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能不能拿ai生成的电影票入场 https://t.co/NhKsBonDSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49066,
+        "height": 1080,
+        "media_key": "13_2022915871371616256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022915871371616256/img/_gtvCwwvBuq4DtLp.jpg",
+        "public_metrics": {
+          "view_count": 597523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022915871371616256/vid/avc1/1280x720/pBaY6BYdCG3f0S8r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022915871371616256/vid/avc1/640x360/H_8Ap1g2euxT1KIr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022915871371616256/vid/avc1/480x270/ajYnXZ4KGtX5NWZ6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022915871371616256/vid/avc1/1920x1080/8Fe3t6hjuTtUIsp9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022915871371616256/pl/StRm7PQwAVFZPWmQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2023417020331725129",
+        "created_at": "2026-02-16T15:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023417020331725129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkawsb/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kkawsb/status/2023048604491932083",
+              "start": 16,
+              "url": "https://t.co/NhKsBonDSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023417020331725129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023048604491932083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能不能拿ai生成的电影票入场 https://t.co/NhKsBonDSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022915871371616256"
+          ],
+          "media_source_tweet_id": [
+            "2022918463799648416"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023048604491932083",
+        "created_at": "2026-02-15T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023048604491932083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBpMdTcEPY",
+              "end": 163,
+              "expanded_url": "https://x.com/Iancu_ai/status/2022918463799648416/video/1",
+              "media_key": "13_2022915871371616256",
+              "start": 140,
+              "url": "https://t.co/GBpMdTcEPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023048604491932083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 411827,
+          "like_count": 898,
+          "quote_count": 26,
+          "reply_count": 178,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "美国电影协会和迪士尼就 Seedance 2.0 项目对字节跳动提起诉讼，声称其存在“大规模版权侵权”。     \n\n看看这段视频，你就会明白好莱坞真正恐慌的原因：生存。过去，制作这样高水准的 CGI 镜头需要庞大的特效工作室和数百万美元的预算。而现在呢？成本几乎只需几美分。\n\nhttps://t.co/GBpMdTcEPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 292,
+          "like_count": 11140,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 5652
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜ 科技｜宇宙｜经济学｜趣闻｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59077,
+          "following_count": 2738,
+          "like_count": 8281,
+          "listed_count": 558,
+          "media_count": 3281,
+          "tweet_count": 7417
+        },
+        "url": "https://t.co/QsTW1lsaMp",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1956717465486139875",
+    "created_at": "2025-08-17T09:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T10:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957005929297174558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794035996889436160",
+          "start": 0,
+          "username": "Eris37298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957005929297174558",
+    "in_reply_to_user_id": "1794035996889436160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956717465486139875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris37298 666你玩过几部"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956717462155907073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeoKimbUAE-a3a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1956717465486139875",
+        "created_at": "2025-08-17T09:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957005929297174558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794035996889436160",
+              "start": 0,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957005929297174558",
+        "in_reply_to_user_id": "1794035996889436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956717465486139875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris37298 666你玩过几部"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956717462155907073"
+          ]
+        },
+        "author_id": "1794035996889436160",
+        "conversation_id": "1956717465486139875",
+        "created_at": "2025-08-16T13:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956717465486139875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvfcDiimYy",
+              "end": 113,
+              "expanded_url": "https://x.com/Eris37298/status/1956717465486139875/photo/1",
+              "media_key": "3_1956717462155907073",
+              "start": 90,
+              "url": "https://t.co/vvfcDiimYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956717465486139875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 47120,
+          "like_count": 311,
+          "quote_count": 9,
+          "reply_count": 137,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "当你玩射击游戏时你有没有感觉国产审美和国外审美简直是天壤之别不管是场景，人物形象，枪械模型，光是看到那些花里胡哨的皮肤枪总感觉国产射击游戏或者国产审美化的射击游戏就感觉非常的幼稚 https://t.co/vvfcDiimYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 217,
+          "like_count": 9316,
+          "listed_count": 2,
+          "media_count": 785,
+          "tweet_count": 4911
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本を語勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935002183189336064/Eu2XGB7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1107,
+          "like_count": 17867,
+          "listed_count": 2,
+          "media_count": 2090,
+          "tweet_count": 9060
+        },
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

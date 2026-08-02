@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1798882253499408438",
+    "created_at": "2024-06-07T00:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T01:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798882253499408438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/canonbirdbranc…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/canonbirdbranch/status/1798166366773813428",
+          "start": 7,
+          "url": "https://t.co/kXQC74LHsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798882253499408438",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798166366773813428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不错的灰喜鹊 https://t.co/kXQC74LHsZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1798882253499408438",
+        "created_at": "2024-06-07T00:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T01:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798882253499408438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canonbirdbranc…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/canonbirdbranch/status/1798166366773813428",
+              "start": 7,
+              "url": "https://t.co/kXQC74LHsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798882253499408438",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798166366773813428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不错的灰喜鹊 https://t.co/kXQC74LHsZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798166046265970688",
+            "3_1798166067518545920",
+            "3_1798165990070734849",
+            "3_1798166031611142144"
+          ]
+        },
+        "author_id": "1191915782755606528",
+        "conversation_id": "1798166366773813428",
+        "created_at": "2024-06-05T01:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T02:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798166366773813428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "オナガ"
+            },
+            {
+              "end": 31,
+              "start": 13,
+              "tag": "azurewingedmagpie"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "下丸子本社"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2qunu9FRfR",
+              "end": 62,
+              "expanded_url": "https://twitter.com/CanonBirdBranch/status/1798166366773813428/photo/1",
+              "media_key": "3_1798166046265970688",
+              "start": 39,
+              "url": "https://t.co/2qunu9FRfR"
+            },
+            {
+              "display_url": "pic.twitter.com/2qunu9FRfR",
+              "end": 62,
+              "expanded_url": "https://twitter.com/CanonBirdBranch/status/1798166366773813428/photo/1",
+              "media_key": "3_1798166067518545920",
+              "start": 39,
+              "url": "https://t.co/2qunu9FRfR"
+            },
+            {
+              "display_url": "pic.twitter.com/2qunu9FRfR",
+              "end": 62,
+              "expanded_url": "https://twitter.com/CanonBirdBranch/status/1798166366773813428/photo/1",
+              "media_key": "3_1798165990070734849",
+              "start": 39,
+              "url": "https://t.co/2qunu9FRfR"
+            },
+            {
+              "display_url": "pic.twitter.com/2qunu9FRfR",
+              "end": 62,
+              "expanded_url": "https://twitter.com/CanonBirdBranch/status/1798166366773813428/photo/1",
+              "media_key": "3_1798166031611142144",
+              "start": 39,
+              "url": "https://t.co/2qunu9FRfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798166366773813428",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 77281,
+          "like_count": 2440,
+          "quote_count": 25,
+          "reply_count": 4,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "わんぱく盛り🌈\n#オナガ #azurewingedmagpie #下丸子本社 https://t.co/2qunu9FRfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 206,
+          "like_count": 7800,
+          "listed_count": 1,
+          "tweet_count": 3688
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-06T03:11:51.000Z",
+        "description": "鳥をテーマにしたキヤノンの生物多様性活動「バードブランチプロジェクト」の公式アカウント。敷地内で見られる野鳥を中心に、多彩な情報を発信します！\nEnglish: https://t.co/nDRE7IFeAZ…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "global.canon/en/environment",
+                "end": 104,
+                "expanded_url": "http://global.canon/en/environment",
+                "start": 81,
+                "url": "https://t.co/nDRE7IFeAZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "global.canon/ja/environment…",
+                "end": 23,
+                "expanded_url": "https://global.canon/ja/environment/bird-branch/index.html",
+                "start": 0,
+                "url": "https://t.co/EgddUhiAbY"
+              }
+            ]
+          }
+        },
+        "id": "1191915782755606528",
+        "name": "キヤノン バードブランチプロジェクト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774659270010896384/Prp0L5FH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 20,
+          "like_count": 76,
+          "listed_count": 23,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/EgddUhiAbY",
+        "username": "CanonBirdBranch",
+        "verified": false
+      }
+    ]
+  }
+}

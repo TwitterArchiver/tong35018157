@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075231378581721291",
+    "created_at": "2026-07-10T02:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075400907559436366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075400907559436366",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075296306747314634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv 我是啊那咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075231378581721291",
+        "created_at": "2026-07-10T02:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075400907559436366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075400907559436366",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075296306747314634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 我是啊那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906286362603520",
+        "conversation_id": "2075231378581721291",
+        "created_at": "2026-07-09T19:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075296306747314634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075296306747314634",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075231378581721291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 我以为你是广东人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 510,
+          "like_count": 17292,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7654
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "哲学系/永恒之物@hh1364915645639",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "hh1364915645639"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1988899293726462438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024467730427158528/Y-UwhGOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

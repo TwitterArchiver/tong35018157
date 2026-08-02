@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1884684514439684589",
+    "created_at": "2025-01-29T19:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T20:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884684514439684589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foxtail9/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/foxtail9/status/1884360050367410576",
+          "start": 6,
+          "url": "https://t.co/Bq7R6AncW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884684514439684589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884360050367410576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一坨黑翅鸢 https://t.co/Bq7R6AncW8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1884684514439684589",
+        "created_at": "2025-01-29T19:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884684514439684589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxtail9/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/foxtail9/status/1884360050367410576",
+              "start": 6,
+              "url": "https://t.co/Bq7R6AncW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884684514439684589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884360050367410576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一坨黑翅鸢 https://t.co/Bq7R6AncW8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884194138968743936",
+            "3_1884194177396924420"
+          ]
+        },
+        "author_id": "25059718",
+        "conversation_id": "1884360050367410576",
+        "created_at": "2025-01-28T21:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T22:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884360050367410576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIiFsxnxBN",
+              "end": 23,
+              "expanded_url": "https://x.com/foxtail9/status/1884360050367410576/photo/1",
+              "media_key": "3_1884194138968743936",
+              "start": 0,
+              "url": "https://t.co/mIiFsxnxBN"
+            },
+            {
+              "display_url": "pic.x.com/mIiFsxnxBN",
+              "end": 23,
+              "expanded_url": "https://x.com/foxtail9/status/1884360050367410576/photo/1",
+              "media_key": "3_1884194177396924420",
+              "start": 0,
+              "url": "https://t.co/mIiFsxnxBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884360050367410576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10703,
+          "like_count": 596,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mIiFsxnxBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 225,
+          "like_count": 8412,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 4173
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-18T11:45:12.000Z",
+        "description": "🇹🇼\n野鳥、昆蟲、隨拍 \nAll the photos were taken by me. \nTweet every three days.",
+        "id": "25059718",
+        "name": "Kyuu",
+        "pinned_tweet_id": "1048913509151428608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260945755440738305/u3JPDbY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 640,
+          "like_count": 89173,
+          "listed_count": 11,
+          "media_count": 711,
+          "tweet_count": 735
+        },
+        "username": "foxtail9",
+        "verified": false
+      }
+    ]
+  }
+}

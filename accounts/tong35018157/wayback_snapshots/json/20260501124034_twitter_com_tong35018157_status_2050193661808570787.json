@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1889518464286568552",
+    "created_at": "2026-05-01T12:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050193661808570787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847916796516716544",
+          "start": 0,
+          "username": "sakuraba_emma"
+        },
+        {
+          "end": 31,
+          "id": "2035882965671215104",
+          "start": 15,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050193661808570787",
+    "in_reply_to_user_id": "1847916796516716544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889518464286568552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuraba_emma @amber_medusozoa 一点都不好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1889518460016926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjjrBz3aIAAbcTy.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1889518464286568552",
+        "created_at": "2026-05-01T12:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050193661808570787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847916796516716544",
+              "start": 0,
+              "username": "sakuraba_emma"
+            },
+            {
+              "end": 31,
+              "id": "2035882965671215104",
+              "start": 15,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050193661808570787",
+        "in_reply_to_user_id": "1847916796516716544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889518464286568552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuraba_emma @amber_medusozoa 一点都不好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889518460016926720"
+          ]
+        },
+        "author_id": "1847916796516716544",
+        "conversation_id": "1889518464286568552",
+        "created_at": "2025-02-12T03:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889518464286568552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gWak4RRDV",
+              "end": 23,
+              "expanded_url": "https://x.com/Paradise_091230/status/1889518464286568552/photo/1",
+              "media_key": "3_1889518460016926720",
+              "start": 0,
+              "url": "https://t.co/0gWak4RRDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889518464286568552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 517197,
+          "like_count": 4358,
+          "quote_count": 16,
+          "reply_count": 63,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gWak4RRDV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 372,
+          "like_count": 13437,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 6404
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:24:53.000Z",
+        "description": "被忌讳厌恶之物",
+        "id": "1847916796516716544",
+        "location": "常世",
+        "name": "桜羽 エマ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020786932146671616/qTEgR4Q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 280,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2410
+        },
+        "username": "sakuraba_emma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "原主号 @amber_toffee\n🇨🇦 #多伦多 #药娘 #TS\n🚪 ¥150/240 ($30/50)\nnsfw only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "多伦多"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "药娘"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "支持Zelle Venmo口令红包，其他付款方式请私信联系",
+        "name": "/",
+        "pinned_tweet_id": "2050188957724373239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527897036328960/hshFuKwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2898,
+          "following_count": 797,
+          "like_count": 3240,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 1261
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      }
+    ]
+  }
+}

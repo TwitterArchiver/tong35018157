@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1880906584123138521",
+    "created_at": "2025-01-19T09:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880906584123138521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/apatite6248901…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/apatite6248901/status/1880478251350651210",
+          "start": 10,
+          "url": "https://t.co/pe7uqK8Exu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880906584123138521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880478251350651210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢青柑和这个味 https://t.co/pe7uqK8Exu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1880906584123138521",
+        "created_at": "2025-01-19T09:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880906584123138521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apatite6248901…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/apatite6248901/status/1880478251350651210",
+              "start": 10,
+              "url": "https://t.co/pe7uqK8Exu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880906584123138521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880478251350651210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢青柑和这个味 https://t.co/pe7uqK8Exu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880478239216529412"
+          ]
+        },
+        "author_id": "1828707077323198464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880478251350651210",
+        "created_at": "2025-01-18T04:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880478251350651210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sESlqFVj75",
+              "end": 38,
+              "expanded_url": "https://x.com/Apatite6248901/status/1880478251350651210/photo/1",
+              "media_key": "3_1880478239216529412",
+              "start": 15,
+              "url": "https://t.co/sESlqFVj75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880478251350651210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 36037,
+          "like_count": 390,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "经常刷推的阴暗比都认得这个哈 https://t.co/sESlqFVj75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 210,
+          "like_count": 8214,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4055
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T08:12:28.000Z",
+        "description": "高中牲，福瑞控，航天，粥批，二次元，友跨顺男，轻中度抑郁，ADHD，政治成分混乱()现居达利安市",
+        "id": "1828707077323198464",
+        "location": "在这世界的角落",
+        "name": "湛陨🍊",
+        "pinned_tweet_id": "1879476554897777075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850494407830908928/shSpZ6vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 545,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 502
+        },
+        "username": "Apatite6248901",
+        "verified": false
+      }
+    ]
+  }
+}

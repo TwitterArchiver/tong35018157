@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2007390907319136406",
+    "created_at": "2026-01-03T09:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007390907319136406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milspec_mojyo/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/milspec_mojyo/status/2007023170939982096",
+          "start": 4,
+          "url": "https://t.co/zpbb1XnBNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007390907319136406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007023170939982096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？提把 https://t.co/zpbb1XnBNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2200,
+        "height": 1080,
+        "media_key": "13_2007023110940463104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007023110940463104/img/S5KBKlNU3plTVNE5.jpg",
+        "public_metrics": {
+          "view_count": 335618
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007023110940463104/vid/avc1/1280x720/vx5RTDugvt1EYz2P.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007023110940463104/vid/avc1/480x270/kBm0JkoxJ4Hg-yP9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007023110940463104/vid/avc1/640x360/iw1e6gzIzOeo3p4u.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007023110940463104/vid/avc1/1920x1080/mBHKh7xOFyk4WllY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007023110940463104/pl/dThyGDAKFUWHnmyB.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2007390907319136406",
+        "created_at": "2026-01-03T09:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007390907319136406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milspec_mojyo/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/milspec_mojyo/status/2007023170939982096",
+              "start": 4,
+              "url": "https://t.co/zpbb1XnBNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007390907319136406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007023170939982096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？提把 https://t.co/zpbb1XnBNS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007023110940463104"
+          ]
+        },
+        "author_id": "2791463750",
+        "conversation_id": "2007023170939982096",
+        "created_at": "2026-01-02T09:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007023170939982096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsfFbowmDG",
+              "end": 39,
+              "expanded_url": "https://x.com/MILSPEC_MOJYO/status/2007023170939982096/video/1",
+              "media_key": "13_2007023110940463104",
+              "start": 16,
+              "url": "https://t.co/FsfFbowmDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007023170939982096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1576,
+          "impression_count": 706679,
+          "like_count": 26798,
+          "quote_count": 136,
+          "reply_count": 204,
+          "retweet_count": 1408
+        },
+        "reply_settings": "everyone",
+        "text": "今日おぼえた新しいテクニーク。 https://t.co/FsfFbowmDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 275,
+          "like_count": 10574,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5505
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-05T08:48:01.000Z",
+        "description": "Hi I'm mojy JPN🇯🇵 Airsofter, GBB/MWS Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2AGFQC5QOQD90",
+                "start": 0,
+                "url": "https://t.co/Y9ArXqFywn"
+              }
+            ]
+          }
+        },
+        "id": "2791463750",
+        "location": "Your mom’s house",
+        "name": "MILSPEC_喪女【mojyo】🌸",
+        "pinned_tweet_id": "2006571576221983200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989988674654904321/Oxnw4N_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24125,
+          "following_count": 2723,
+          "like_count": 157428,
+          "listed_count": 110,
+          "media_count": 13932,
+          "tweet_count": 129277
+        },
+        "url": "https://t.co/Y9ArXqFywn",
+        "username": "MILSPEC_MOJYO",
+        "verified": true
+      }
+    ]
+  }
+}

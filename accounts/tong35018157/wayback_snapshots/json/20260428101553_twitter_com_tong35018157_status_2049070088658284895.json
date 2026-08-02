@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2049070088658284895",
+    "created_at": "2026-04-28T10:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049070088658284895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sisyphussts/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/sisyphussts/status/2048689037594992645",
+          "start": 18,
+          "url": "https://t.co/CmkqJngPTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049070088658284895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048689037594992645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天天玩这梅黑烂梗的是不是自己就这样 https://t.co/CmkqJngPTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2048689034487345153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5n0ovbMAE02xv.jpg",
+        "width": 354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2049070088658284895",
+        "created_at": "2026-04-28T10:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049070088658284895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sisyphussts/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sisyphussts/status/2048689037594992645",
+              "start": 18,
+              "url": "https://t.co/CmkqJngPTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049070088658284895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048689037594992645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天天玩这梅黑烂梗的是不是自己就这样 https://t.co/CmkqJngPTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048689034487345153"
+          ]
+        },
+        "author_id": "1820189807777349632",
+        "conversation_id": "2048689037594992645",
+        "created_at": "2026-04-27T09:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048689037594992645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bboll8s8S2",
+              "end": 23,
+              "expanded_url": "https://x.com/Sisyphussts/status/2048689037594992645/photo/1",
+              "media_key": "3_2048689034487345153",
+              "start": 0,
+              "url": "https://t.co/Bboll8s8S2"
+            },
+            {
+              "display_url": "x.com/Ruby3412won/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Ruby3412won/status/2048305065019179059",
+              "start": 24,
+              "url": "https://t.co/pK0uCK5WpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048689037594992645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 27821,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048305065019179059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bboll8s8S2 https://t.co/pK0uCK5WpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 373,
+          "like_count": 13202,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6356
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "",
+        "id": "1820189807777349632",
+        "name": "玩男孩卡屌",
+        "pinned_tweet_id": "1824482134708588658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041801860743622658/If6IfV5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "Sisyphussts",
+        "verified": false
+      }
+    ]
+  }
+}

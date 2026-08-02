@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "description": "KGO do not tune!",
+          "id": "1430251940810612738",
+          "name": "Minneapolis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "KGO do not tune!",
+          "id": "1430251940810612738",
+          "name": "Minneapolis"
+        }
+      }
+    ],
+    "conversation_id": "2016229114278232194",
+    "created_at": "2026-01-27T19:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T20:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016229114278232194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quadrakyiro/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/quadrakyiro/status/2015894830476390708",
+          "start": 8,
+          "url": "https://t.co/sm4Xg6U8O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016229114278232194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015894830476390708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是什么烧火棍 https://t.co/sm4Xg6U8O0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015894824507867137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nlqYdXAAEfEww.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          }
+        ],
+        "conversation_id": "2016229114278232194",
+        "created_at": "2026-01-27T19:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016229114278232194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quadrakyiro/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/quadrakyiro/status/2015894830476390708",
+              "start": 8,
+              "url": "https://t.co/sm4Xg6U8O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016229114278232194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015894830476390708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是什么烧火棍 https://t.co/sm4Xg6U8O0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015894824507867137"
+          ]
+        },
+        "author_id": "1478016794203992065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          }
+        ],
+        "conversation_id": "2015894830476390708",
+        "created_at": "2026-01-26T21:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015894830476390708"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "minneapolis",
+              "probability": 0.5631,
+              "start": 57,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gttwxb20Av",
+              "end": 96,
+              "expanded_url": "https://x.com/quadrakyiro/status/2015894830476390708/photo/1",
+              "media_key": "3_2015894824507867137",
+              "start": 73,
+              "url": "https://t.co/gttwxb20Av"
+            },
+            {
+              "display_url": "x.com/quadrakyiro/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/quadrakyiro/status/2015804232578814041",
+              "start": 97,
+              "url": "https://t.co/HKpwy705CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015894830476390708",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 1780939,
+          "like_count": 12178,
+          "quote_count": 308,
+          "reply_count": 1845,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015804232578814041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hopefully i dont get my account fucked but this is me in minneapolis btw https://t.co/gttwxb20Av https://t.co/HKpwy705CN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 282,
+          "like_count": 10618,
+          "listed_count": 3,
+          "media_count": 873,
+          "tweet_count": 5547
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T14:54:17.000Z",
+        "description": "✝️ | 18 | she/her | 🤍 @ChimpSwarm 🤍 | gd player (smelly) | 5'5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "ChimpSwarm"
+              }
+            ]
+          }
+        },
+        "id": "1478016794203992065",
+        "location": "Saint Paul, MN",
+        "name": "quad 🏳️‍⚧️",
+        "pinned_tweet_id": "2011251377704738964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006829925660033025/68atsUY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 3443,
+          "like_count": 130718,
+          "listed_count": 59,
+          "media_count": 2738,
+          "tweet_count": 20235
+        },
+        "username": "quadrakyiro",
+        "verified": true
+      }
+    ]
+  }
+}

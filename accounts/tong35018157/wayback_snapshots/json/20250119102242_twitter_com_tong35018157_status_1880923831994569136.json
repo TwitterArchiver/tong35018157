@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1880273986472616223",
+    "created_at": "2025-01-19T10:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880923831994569136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631131566813618177",
+          "start": 0,
+          "username": "charming_whw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880923831994569136",
+    "in_reply_to_user_id": "1631131566813618177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880273986472616223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charming_whw 💩×5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1880273986472616223",
+        "created_at": "2025-01-19T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880923831994569136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631131566813618177",
+              "start": 0,
+              "username": "charming_whw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880923831994569136",
+        "in_reply_to_user_id": "1631131566813618177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880273986472616223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_whw 💩×5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880273977815494661"
+          ]
+        },
+        "author_id": "1631131566813618177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880273986472616223",
+        "created_at": "2025-01-17T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880273986472616223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3FosOW8Kt",
+              "end": 39,
+              "expanded_url": "https://x.com/charming_whw/status/1880273986472616223/photo/1",
+              "media_key": "3_1880273977815494661",
+              "start": 16,
+              "url": "https://t.co/R3FosOW8Kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880273986472616223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 34282,
+          "like_count": 530,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "打cs遇到对面这种头像该怎么办 https://t.co/R3FosOW8Kt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 211,
+          "like_count": 8222,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4060
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:17:33.000Z",
+        "description": "二次元/共产主义/原神",
+        "id": "1631131566813618177",
+        "location": "璃月工总司",
+        "name": "青春王佐少年不会梦到走姿派美少女",
+        "pinned_tweet_id": "1878693234312110455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872330407590416385/bLD1a4Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 2226,
+          "like_count": 25619,
+          "listed_count": 11,
+          "media_count": 469,
+          "tweet_count": 5675
+        },
+        "username": "charming_whw",
+        "verified": true
+      }
+    ]
+  }
+}

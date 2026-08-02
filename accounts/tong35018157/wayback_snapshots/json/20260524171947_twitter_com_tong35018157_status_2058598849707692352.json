@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058569691870932992"
+      ],
+      "media_source_tweet_id": [
+        "2058569826784927976"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058598849707692352",
+    "created_at": "2026-05-24T17:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058598849707692352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "99704511",
+          "start": 3,
+          "username": "BADCOMPZERO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QYcp4pKvfR",
+          "end": 59,
+          "expanded_url": "https://x.com/BADCOMPZERO/status/2058569826784927976/photo/1",
+          "media_key": "3_2058569691870932992",
+          "start": 36,
+          "url": "https://t.co/QYcp4pKvfR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058598849707692352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058569826784927976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BADCOMPZERO: Goth in the Trench https://t.co/QYcp4pKvfR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058598849707692352].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058598849707692352",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058598849707692352"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2058569691870932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGCOl1aMAAV0cg.jpg",
+        "width": 2716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058569691870932992"
+          ]
+        },
+        "author_id": "99704511",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058569826784927976",
+        "created_at": "2026-05-24T15:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058569826784927976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYcp4pKvfR",
+              "end": 42,
+              "expanded_url": "https://x.com/BADCOMPZERO/status/2058569826784927976/photo/1",
+              "media_key": "3_2058569691870932992",
+              "start": 19,
+              "url": "https://t.co/QYcp4pKvfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058569826784927976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 5233,
+          "like_count": 1082,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "Goth in the Trench https://t.co/QYcp4pKvfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 417,
+          "like_count": 14721,
+          "listed_count": 3,
+          "media_count": 961,
+          "tweet_count": 6766
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-27T13:05:14.000Z",
+        "description": "2Dpin-up illustrator\nhttps://t.co/1Qieuw2JoO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/badcompzero",
+                "end": 44,
+                "expanded_url": "https://linktr.ee/badcompzero",
+                "start": 21,
+                "url": "https://t.co/1Qieuw2JoO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/badcompzero",
+                "end": 23,
+                "expanded_url": "http://patreon.com/badcompzero",
+                "start": 0,
+                "url": "https://t.co/JI1zM0tOy2"
+              }
+            ]
+          }
+        },
+        "id": "99704511",
+        "location": "THAI!",
+        "name": "BADCOMPZERO",
+        "pinned_tweet_id": "2050443666112864440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191923910301892608/PLc5QplV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70974,
+          "following_count": 2433,
+          "like_count": 15796,
+          "listed_count": 256,
+          "media_count": 1697,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/JI1zM0tOy2",
+        "username": "BADCOMPZERO",
+        "verified": false
+      }
+    ]
+  }
+}

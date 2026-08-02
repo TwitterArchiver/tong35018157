@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1355244713758969856",
+          "name": "Bodybuilding"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fitness",
+          "id": "872553326499422208",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1355244713758969856",
+          "name": "Bodybuilding"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      }
+    ],
+    "conversation_id": "1882795368045543689",
+    "created_at": "2025-01-24T14:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T15:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882795368045543689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/picturesussr/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/picturesussr/status/1882714875446935675",
+          "start": 9,
+          "url": "https://t.co/f6gjz1iWDx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882795368045543689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882714875446935675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？动画克拉克肯特 https://t.co/f6gjz1iWDx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1355244713758969856",
+              "name": "Bodybuilding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355244713758969856",
+              "name": "Bodybuilding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "1882795368045543689",
+        "created_at": "2025-01-24T14:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882795368045543689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picturesussr/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/picturesussr/status/1882714875446935675",
+              "start": 9,
+              "url": "https://t.co/f6gjz1iWDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882795368045543689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882714875446935675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？动画克拉克肯特 https://t.co/f6gjz1iWDx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882714868723142656"
+          ]
+        },
+        "author_id": "1263200873628471296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1355244713758969856",
+              "name": "Bodybuilding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355244713758969856",
+              "name": "Bodybuilding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "1882714875446935675",
+        "created_at": "2025-01-24T08:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T09:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882714875446935675"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Championship",
+              "probability": 0.5398,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "USSR",
+              "probability": 0.5607,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Boris Kaulin",
+              "probability": 0.9537,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOMcGpHBIV",
+              "end": 85,
+              "expanded_url": "https://x.com/PicturesUssr/status/1882714875446935675/photo/1",
+              "media_key": "3_1882714868723142656",
+              "start": 62,
+              "url": "https://t.co/bOMcGpHBIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882714875446935675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 20639,
+          "like_count": 469,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Bodybuilding Championship, USSR, 1980s. Photo by Boris Kaulin https://t.co/bOMcGpHBIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 214,
+          "like_count": 8283,
+          "listed_count": 1,
+          "media_count": 668,
+          "tweet_count": 4119
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T20:13:49.000Z",
+        "description": "Pictures and photographs from Soviet Union\nTelegram: https://t.co/UoLFYEkfbt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ussrpictures",
+                "end": 76,
+                "expanded_url": "https://t.me/ussrpictures",
+                "start": 53,
+                "url": "https://t.co/UoLFYEkfbt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ussrpictures",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ussrpictures",
+                "start": 0,
+                "url": "https://t.co/Qq7NDIihmq"
+              }
+            ]
+          }
+        },
+        "id": "1263200873628471296",
+        "location": "USSR",
+        "name": "USSR Pictures",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263201378337542146/arQpQpPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155112,
+          "following_count": 229,
+          "like_count": 267,
+          "listed_count": 539,
+          "media_count": 4893,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/Qq7NDIihmq",
+        "username": "PicturesUssr",
+        "verified": true
+      }
+    ]
+  }
+}

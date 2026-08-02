@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046565391628202306",
+    "created_at": "2026-04-22T11:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046911213624557698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046911213624557698",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046910117099323577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 是的，男娘日常可以t恤配裙裤，既舒服看着也像女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046565391628202306",
+        "created_at": "2026-04-22T11:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046911213624557698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046911213624557698",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046910117099323577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 是的，男娘日常可以t恤配裙裤，既舒服看着也像女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2046565391628202306",
+        "created_at": "2026-04-22T11:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046910117099323577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046910117099323577",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046565391628202306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 我穿了女装就回不去了（x）\n\n但是论舒适的话，还是男装好一些，以及男装没有那么神经病的尺码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 359,
+          "like_count": 12726,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6208
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 头像 @qyMinusk9 | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qyMinusk9"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 526,
+          "like_count": 11956,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 8261
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

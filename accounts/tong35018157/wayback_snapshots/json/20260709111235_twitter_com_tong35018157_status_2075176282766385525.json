@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075120298282885237",
+    "created_at": "2026-07-09T11:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075176282766385525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1336465528555069441",
+          "start": 0,
+          "username": "89dongyi64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075176282766385525",
+    "in_reply_to_user_id": "1336465528555069441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075174300844474811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89dongyi64 我的都是37 46这种🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075120298282885237",
+        "created_at": "2026-07-09T11:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075176282766385525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1336465528555069441",
+              "start": 0,
+              "username": "89dongyi64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176282766385525",
+        "in_reply_to_user_id": "1336465528555069441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075174300844474811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89dongyi64 我的都是37 46这种🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336465528555069441",
+        "conversation_id": "2075120298282885237",
+        "created_at": "2026-07-09T11:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075174300844474811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075174300844474811",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075120298282885237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 我一些专业都是5:5了基本挂的很少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 508,
+          "like_count": 17283,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7650
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T00:20:14.000Z",
+        "description": "顺直男，自封顺直皇帝，尊儒尊孔，喜欢的朋友可以关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fr.whotwi.com/itol21888373",
+                "end": 23,
+                "expanded_url": "https://fr.whotwi.com/itol21888373",
+                "start": 0,
+                "url": "https://t.co/CPTrfSH51U"
+              }
+            ]
+          }
+        },
+        "id": "1336465528555069441",
+        "location": "年代久远不可考",
+        "name": "油泼屁话🟥🟨🟦⬜️⬛️",
+        "pinned_tweet_id": "1824995870989000924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336093606522881/aojj0vUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1805,
+          "like_count": 26270,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 5789
+        },
+        "url": "https://t.co/CPTrfSH51U",
+        "username": "89dongyi64",
+        "verified": false
+      }
+    ]
+  }
+}

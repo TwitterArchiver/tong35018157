@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075507977302552576",
+        "3_2075507977344409600"
+      ],
+      "media_source_tweet_id": [
+        "2075507982662873279",
+        "2075507982662873279"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Sumo",
+          "id": "1067865481573355520",
+          "name": "Sumo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sumo",
+          "id": "1067865481573355520",
+          "name": "Sumo"
+        }
+      }
+    ],
+    "conversation_id": "2075541141756547082",
+    "created_at": "2026-07-10T11:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075541141756547082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305117266745241601",
+          "start": 3,
+          "username": "freesky46"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLds4QV6gx",
+          "end": 88,
+          "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+          "media_key": "3_2075507977302552576",
+          "start": 65,
+          "url": "https://t.co/jLds4QV6gx"
+        },
+        {
+          "display_url": "pic.x.com/jLds4QV6gx",
+          "end": 88,
+          "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+          "media_key": "3_2075507977344409600",
+          "start": 65,
+          "url": "https://t.co/jLds4QV6gx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075541141756547082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075507982662873279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @freesky46: なんだろうこれ笑笑\n叛逆美女2人がお相撲さんみたいになってる😂\nそして2枚目は背中やぶけてる👏🏻🤣 https://t.co/jLds4QV6gx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2075507977302552576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2vgkObsAABM6M.jpg",
+        "width": 1057
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2075507977344409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2vgkYaYAAhhNG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075507977302552576",
+            "3_2075507977344409600"
+          ],
+          "media_source_tweet_id": [
+            "2075507982662873279",
+            "2075507982662873279"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Sumo",
+              "id": "1067865481573355520",
+              "name": "Sumo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sumo",
+              "id": "1067865481573355520",
+              "name": "Sumo"
+            }
+          }
+        ],
+        "conversation_id": "2075541141756547082",
+        "created_at": "2026-07-10T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075541141756547082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305117266745241601",
+              "start": 3,
+              "username": "freesky46"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLds4QV6gx",
+              "end": 88,
+              "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+              "media_key": "3_2075507977302552576",
+              "start": 65,
+              "url": "https://t.co/jLds4QV6gx"
+            },
+            {
+              "display_url": "pic.x.com/jLds4QV6gx",
+              "end": 88,
+              "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+              "media_key": "3_2075507977344409600",
+              "start": 65,
+              "url": "https://t.co/jLds4QV6gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075541141756547082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075507982662873279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @freesky46: なんだろうこれ笑笑\n叛逆美女2人がお相撲さんみたいになってる😂\nそして2枚目は背中やぶけてる👏🏻🤣 https://t.co/jLds4QV6gx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075507977302552576",
+            "3_2075507977344409600"
+          ]
+        },
+        "author_id": "1305117266745241601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Sumo",
+              "id": "1067865481573355520",
+              "name": "Sumo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sumo",
+              "id": "1067865481573355520",
+              "name": "Sumo"
+            }
+          }
+        ],
+        "conversation_id": "2075507982662873279",
+        "created_at": "2026-07-10T09:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075507982662873279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLds4QV6gx",
+              "end": 73,
+              "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+              "media_key": "3_2075507977302552576",
+              "start": 50,
+              "url": "https://t.co/jLds4QV6gx"
+            },
+            {
+              "display_url": "pic.x.com/jLds4QV6gx",
+              "end": 73,
+              "expanded_url": "https://x.com/freesky46/status/2075507982662873279/photo/1",
+              "media_key": "3_2075507977344409600",
+              "start": 50,
+              "url": "https://t.co/jLds4QV6gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075507982662873279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5852,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "なんだろうこれ笑笑\n叛逆美女2人がお相撲さんみたいになってる😂\nそして2枚目は背中やぶけてる👏🏻🤣 https://t.co/jLds4QV6gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 513,
+          "like_count": 17318,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7674
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T12:13:07.000Z",
+        "description": "【推しMOD】@jerry880904\n【NSFW】@omnick74【サブ】@ullrid62\n【サブNSFW】@pomoloz \nドルフロ2 #少女前线2 #GirlsFrontline2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "少女前线2"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "tag": "GirlsFrontline2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "jerry880904"
+              },
+              {
+                "end": 35,
+                "start": 26,
+                "username": "omnick74"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "ullrid62"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "pomoloz"
+              }
+            ]
+          }
+        },
+        "id": "1305117266745241601",
+        "name": "そらドルフロ2",
+        "pinned_tweet_id": "2075176513943810500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058829333918294016/Rj1RG5xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9484,
+          "following_count": 5630,
+          "like_count": 4058,
+          "listed_count": 37,
+          "media_count": 514,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "freesky46",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068608261084065792",
+        "3_2068608261037895680"
+      ],
+      "media_source_tweet_id": [
+        "2068608275101446242",
+        "2068608275101446242"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2068699374864245058",
+    "created_at": "2026-06-21T14:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068699374864245058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510644782967967747",
+          "start": 3,
+          "username": "Obsidian117w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o149F8dsjh",
+          "end": 54,
+          "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+          "media_key": "3_2068608261084065792",
+          "start": 31,
+          "url": "https://t.co/o149F8dsjh"
+        },
+        {
+          "display_url": "pic.x.com/o149F8dsjh",
+          "end": 54,
+          "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+          "media_key": "3_2068608261037895680",
+          "start": 31,
+          "url": "https://t.co/o149F8dsjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068699374864245058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068608275101446242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Obsidian117w: 知穗(type56-1) https://t.co/o149F8dsjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2068608261084065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUsQOVasAAPKcg.jpg",
+        "width": 2388
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2068608261037895680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUsQOKaMAAANLh.jpg",
+        "width": 2388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068608261084065792",
+            "3_2068608261037895680"
+          ],
+          "media_source_tweet_id": [
+            "2068608275101446242",
+            "2068608275101446242"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2068699374864245058",
+        "created_at": "2026-06-21T14:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068699374864245058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510644782967967747",
+              "start": 3,
+              "username": "Obsidian117w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o149F8dsjh",
+              "end": 54,
+              "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+              "media_key": "3_2068608261084065792",
+              "start": 31,
+              "url": "https://t.co/o149F8dsjh"
+            },
+            {
+              "display_url": "pic.x.com/o149F8dsjh",
+              "end": 54,
+              "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+              "media_key": "3_2068608261037895680",
+              "start": 31,
+              "url": "https://t.co/o149F8dsjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068699374864245058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068608275101446242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Obsidian117w: 知穗(type56-1) https://t.co/o149F8dsjh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068608261084065792",
+            "3_2068608261037895680"
+          ]
+        },
+        "author_id": "1510644782967967747",
+        "conversation_id": "2068608275101446242",
+        "created_at": "2026-06-21T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068608275101446242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o149F8dsjh",
+              "end": 36,
+              "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+              "media_key": "3_2068608261084065792",
+              "start": 13,
+              "url": "https://t.co/o149F8dsjh"
+            },
+            {
+              "display_url": "pic.x.com/o149F8dsjh",
+              "end": 36,
+              "expanded_url": "https://x.com/Obsidian117w/status/2068608275101446242/photo/1",
+              "media_key": "3_2068608261037895680",
+              "start": 13,
+              "url": "https://t.co/o149F8dsjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068608275101446242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1091,
+          "impression_count": 27775,
+          "like_count": 3418,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "知穗(type56-1) https://t.co/o149F8dsjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 487,
+          "like_count": 16300,
+          "listed_count": 3,
+          "media_count": 992,
+          "tweet_count": 7236
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T15:46:58.000Z",
+        "description": "Pixiv:https://t.co/hlTS8GG01t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11889488",
+                "end": 29,
+                "expanded_url": "https://www.pixiv.net/users/11889488",
+                "start": 6,
+                "url": "https://t.co/hlTS8GG01t"
+              }
+            ]
+          }
+        },
+        "id": "1510644782967967747",
+        "name": "Obsidian117",
+        "pinned_tweet_id": "1859218822462312465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527350599641346048/7_FDatoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31213,
+          "following_count": 681,
+          "like_count": 32706,
+          "listed_count": 177,
+          "media_count": 211,
+          "tweet_count": 2524
+        },
+        "url": "",
+        "username": "Obsidian117w",
+        "verified": false
+      }
+    ]
+  }
+}

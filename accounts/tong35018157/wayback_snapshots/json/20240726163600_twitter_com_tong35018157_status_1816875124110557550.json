@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1816875124110557550",
+    "created_at": "2024-07-26T16:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T17:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816875124110557550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/picturesussr/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/picturesussr/status/1816535637811773512",
+          "start": 11,
+          "url": "https://t.co/1EWrwBXP17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816875124110557550",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816535637811773512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我大伯每天就穿成这样 https://t.co/1EWrwBXP17"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1816875124110557550",
+        "created_at": "2024-07-26T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816875124110557550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picturesussr/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/picturesussr/status/1816535637811773512",
+              "start": 11,
+              "url": "https://t.co/1EWrwBXP17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816875124110557550",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816535637811773512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我大伯每天就穿成这样 https://t.co/1EWrwBXP17"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814236024022646784"
+          ]
+        },
+        "author_id": "1263200873628471296",
+        "conversation_id": "1816535637811773512",
+        "created_at": "2024-07-25T18:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816535637811773512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dgw1yVCruK",
+              "end": 51,
+              "expanded_url": "https://twitter.com/PicturesUssr/status/1816535637811773512/photo/1",
+              "media_key": "3_1814236024022646784",
+              "start": 28,
+              "url": "https://t.co/dgw1yVCruK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816535637811773512",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 306929,
+          "like_count": 10897,
+          "quote_count": 282,
+          "reply_count": 76,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "Soviet sports fashion, 1988 https://t.co/dgw1yVCruK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815395831643537408/1mjR8wae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 208,
+          "like_count": 8123,
+          "listed_count": 1,
+          "tweet_count": 3860
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T20:13:49.000Z",
+        "description": "Pictures and photographs from Soviet Union\nTelegram: https://t.co/UoLFYEkfbt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ussrpictures",
+                "end": 76,
+                "expanded_url": "https://t.me/ussrpictures",
+                "start": 53,
+                "url": "https://t.co/UoLFYEkfbt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ussrpictures",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ussrpictures",
+                "start": 0,
+                "url": "https://t.co/Qq7NDIihmq"
+              }
+            ]
+          }
+        },
+        "id": "1263200873628471296",
+        "location": "USSR",
+        "name": "USSR Pictures",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263201378337542146/arQpQpPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143874,
+          "following_count": 165,
+          "like_count": 228,
+          "listed_count": 513,
+          "tweet_count": 4181
+        },
+        "url": "https://t.co/Qq7NDIihmq",
+        "username": "PicturesUssr",
+        "verified": true
+      }
+    ]
+  }
+}

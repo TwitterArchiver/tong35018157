@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2068584623345676671",
+    "created_at": "2026-06-21T08:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068616544209502319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1139940136102137856",
+          "start": 0,
+          "username": "luluspipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068616544209502319",
+    "in_reply_to_user_id": "1139940136102137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068584623345676671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luluspipi 好奇你会不会觉得勒蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068584609848397824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUWvinakAACnAQ.jpg",
+        "width": 1684
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068584609785520128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUWviYbIAA-o3p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068584609777143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUWviWbUAASeK3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068584609789657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUWviZaQAA2g09.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2068584623345676671",
+        "created_at": "2026-06-21T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068616544209502319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1139940136102137856",
+              "start": 0,
+              "username": "luluspipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068616544209502319",
+        "in_reply_to_user_id": "1139940136102137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068584623345676671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luluspipi 好奇你会不会觉得勒蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068584609848397824",
+            "3_2068584609785520128",
+            "3_2068584609777143808",
+            "3_2068584609789657088"
+          ]
+        },
+        "author_id": "1139940136102137856",
+        "conversation_id": "2068584623345676671",
+        "created_at": "2026-06-21T06:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068584623345676671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "伪娘"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "长筒袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayb7RETyml",
+              "end": 42,
+              "expanded_url": "https://x.com/luluspipi/status/2068584623345676671/photo/1",
+              "media_key": "3_2068584609848397824",
+              "start": 19,
+              "url": "https://t.co/ayb7RETyml"
+            },
+            {
+              "display_url": "pic.x.com/ayb7RETyml",
+              "end": 42,
+              "expanded_url": "https://x.com/luluspipi/status/2068584623345676671/photo/1",
+              "media_key": "3_2068584609785520128",
+              "start": 19,
+              "url": "https://t.co/ayb7RETyml"
+            },
+            {
+              "display_url": "pic.x.com/ayb7RETyml",
+              "end": 42,
+              "expanded_url": "https://x.com/luluspipi/status/2068584623345676671/photo/1",
+              "media_key": "3_2068584609777143808",
+              "start": 19,
+              "url": "https://t.co/ayb7RETyml"
+            },
+            {
+              "display_url": "pic.x.com/ayb7RETyml",
+              "end": 42,
+              "expanded_url": "https://x.com/luluspipi/status/2068584623345676671/photo/1",
+              "media_key": "3_2068584609789657088",
+              "start": 19,
+              "url": "https://t.co/ayb7RETyml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068584623345676671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 852,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "透透气呢\n#伪娘 #男娘  #长筒袜 https://t.co/ayb7RETyml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 487,
+          "like_count": 16262,
+          "listed_count": 3,
+          "media_count": 992,
+          "tweet_count": 7230
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-15T16:58:02.000Z",
+        "description": "小唧唧，早泄，喜欢露出。麻烦先关注再私信，不主动，偶尔发骚。",
+        "id": "1139940136102137856",
+        "location": "020",
+        "name": "露oO",
+        "pinned_tweet_id": "2006670257910665531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647137575092535296/KOkzEIEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 2362,
+          "like_count": 5902,
+          "listed_count": 9,
+          "media_count": 90,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "luluspipi",
+        "verified": false
+      }
+    ]
+  }
+}

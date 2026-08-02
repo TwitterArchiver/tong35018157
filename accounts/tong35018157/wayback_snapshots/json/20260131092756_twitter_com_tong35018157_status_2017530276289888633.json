@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2017500692588659082",
+    "created_at": "2026-01-31T09:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017530276289888633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017530276289888633",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017500692588659082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 广州有，不过没去，又贵又不好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2017500692588659082",
+        "created_at": "2026-01-31T09:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017530276289888633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017530276289888633",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017500692588659082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 广州有，不过没去，又贵又不好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911458837107732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2017500692588659082",
+        "created_at": "2026-01-31T07:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017500692588659082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EXILIUMJP/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/EXILIUMJP/status/2017437702400958932",
+              "start": 24,
+              "url": "https://t.co/wLJqndwaFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017500692588659082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017437702400958932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洋基米吃得真好，国内都没啥少前2的咖啡店联动🥹 https://t.co/wLJqndwaFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 282,
+          "like_count": 10646,
+          "listed_count": 3,
+          "media_count": 875,
+          "tweet_count": 5556
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "过气指挥官，永远喜欢HK416。支持🇺🇦🇮🇱的老右德棍🇩🇪，不洗白纳粹但是刷黄纳肥皂梗的德黑祝你全家死光（以色列犹太纪念馆都亲自辟过谣的，谁信谁弱智）（可能是改良型民族社会主义者，6分保守威权4分自由）（中文JapOK，English苦手，Deutsch学习中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzh.moegirl.org.cn/%E5%B0%91%E5%A…",
+                "end": 23,
+                "expanded_url": "https://mzh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF:HK416",
+                "start": 0,
+                "url": "https://t.co/7u7GR9qL0o"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "团结协定-大日耳曼国-日耳曼尼亚/汉堡",
+        "name": "✙守望莱茵的乐奈✙🇩🇪🇦🇹",
+        "pinned_tweet_id": "1982328137875894693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013665475494825984/1eamgtMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 681,
+          "like_count": 10316,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/7u7GR9qL0o",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

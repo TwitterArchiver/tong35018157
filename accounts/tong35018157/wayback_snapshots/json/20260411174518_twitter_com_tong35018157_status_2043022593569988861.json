@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2043022593569988861",
+    "created_at": "2026-04-11T17:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043022593569988861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763141363762364416",
+          "start": 3,
+          "username": "unixeno74715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043022593569988861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042936992917573988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unixeno74715: 难得同情一次日本人，他们现在整个国家都是洋鬼子的手淫素材。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2043022593569988861",
+        "created_at": "2026-04-11T17:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043022593569988861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763141363762364416",
+              "start": 3,
+              "username": "unixeno74715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043022593569988861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042936992917573988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unixeno74715: 难得同情一次日本人，他们现在整个国家都是洋鬼子的手淫素材。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763141363762364416",
+        "conversation_id": "2042936992917573988",
+        "created_at": "2026-04-11T12:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042936992917573988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CaudilloXIV/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/CaudilloXIV/status/2038062287685124354",
+              "start": 30,
+              "url": "https://t.co/QNMIBkbFoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042936992917573988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038062287685124354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难得同情一次日本人，他们现在整个国家都是洋鬼子的手淫素材。 https://t.co/QNMIBkbFoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 324,
+          "like_count": 12312,
+          "listed_count": 3,
+          "media_count": 924,
+          "tweet_count": 6077
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T09:57:55.000Z",
+        "description": "On day *(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧* of gestating the crawling horror",
+        "id": "1763141363762364416",
+        "location": "Salem",
+        "name": "Salemn_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885236459634098176/GC4gT2cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 254,
+          "like_count": 8898,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1331
+        },
+        "username": "unixeno74715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "1962522041665438157",
+    "created_at": "2025-09-01T14:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962522041665438157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/from_the_61/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/from_the_61/status/1961806283751018599",
+          "start": 9,
+          "url": "https://t.co/LSubciD0VN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962522041665438157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961806283751018599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麻雀大吃饱这一块 https://t.co/LSubciD0VN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_1961806281083392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm8ayYbEAAyVLh.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "1962522041665438157",
+        "created_at": "2025-09-01T14:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962522041665438157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/from_the_61/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/from_the_61/status/1961806283751018599",
+              "start": 9,
+              "url": "https://t.co/LSubciD0VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962522041665438157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961806283751018599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻雀大吃饱这一块 https://t.co/LSubciD0VN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961806281083392000"
+          ]
+        },
+        "author_id": "1248692996503031809",
+        "conversation_id": "1961806283751018599",
+        "created_at": "2025-08-30T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961806283751018599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "ムチムチの鳥をミチミチに収める"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXl14yRTDe",
+              "end": 40,
+              "expanded_url": "https://x.com/from_the_61/status/1961806283751018599/photo/1",
+              "media_key": "3_1961806281083392000",
+              "start": 17,
+              "url": "https://t.co/JXl14yRTDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961806283751018599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 102272,
+          "like_count": 5616,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 594
+        },
+        "reply_settings": "everyone",
+        "text": "#ムチムチの鳥をミチミチに収める https://t.co/JXl14yRTDe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 226,
+          "like_count": 9499,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 5024
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T19:25:05.000Z",
+        "description": "音と、歩いて歩いて・・時々休む人。\n相棒はNW-ZX707バランス/Sennheiser IE600/EOSR7/R6mk2。\n\nBlueskyに引っ越すかも？\nhttps://t.co/PD8v3rA79a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/jammin…",
+                "end": 104,
+                "expanded_url": "https://bsky.app/profile/jammin61.bsky.social",
+                "start": 81,
+                "url": "https://t.co/PD8v3rA79a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/a_lemonedo_mea…",
+                "end": 23,
+                "expanded_url": "https://note.com/a_lemonedo_meat/m/m41109b39961f",
+                "start": 0,
+                "url": "https://t.co/sUonLGFkyG"
+              }
+            ]
+          }
+        },
+        "id": "1248692996503031809",
+        "location": "せまい角部屋、上白石界の僻地",
+        "name": "jammin'",
+        "pinned_tweet_id": "1850880471124889921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776357859976261632/Y8Pu6c9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 110,
+          "like_count": 16197,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/sUonLGFkyG",
+        "username": "from_the_61",
+        "verified": false
+      }
+    ]
+  }
+}

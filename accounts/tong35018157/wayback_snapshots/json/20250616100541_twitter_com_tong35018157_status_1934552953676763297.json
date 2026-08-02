@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930141386252206080"
+      ],
+      "media_source_tweet_id": [
+        "1934338873611677958"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1934552953676763297",
+    "created_at": "2025-06-16T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934552953676763297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852480545906688000",
+          "start": 3,
+          "username": "TheFrogPond_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65afNQ8UwH",
+          "end": 41,
+          "expanded_url": "https://x.com/TheFrogPond_/status/1934338873611677958/video/1",
+          "media_key": "13_1930141386252206080",
+          "start": 18,
+          "url": "https://t.co/65afNQ8UwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934552953676763297",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934338873611677958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheFrogPond_: https://t.co/65afNQ8UwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6244,
+        "height": 854,
+        "media_key": "13_1930141386252206080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930141386252206080/img/CCQS13z4sQCayKln.jpg",
+        "public_metrics": {
+          "view_count": 33360
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930141386252206080/vid/avc1/320x568/NxqXR4ImdSJUhqnV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930141386252206080/vid/avc1/480x854/ImyiwjSrzUUxAs8U.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930141386252206080/pl/G4U-SDwYdqmw5syf.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930141386252206080"
+          ],
+          "media_source_tweet_id": [
+            "1934338873611677958"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1934552953676763297",
+        "created_at": "2025-06-16T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934552953676763297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852480545906688000",
+              "start": 3,
+              "username": "TheFrogPond_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65afNQ8UwH",
+              "end": 41,
+              "expanded_url": "https://x.com/TheFrogPond_/status/1934338873611677958/video/1",
+              "media_key": "13_1930141386252206080",
+              "start": 18,
+              "url": "https://t.co/65afNQ8UwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934552953676763297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934338873611677958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheFrogPond_: https://t.co/65afNQ8UwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930141386252206080"
+          ]
+        },
+        "author_id": "1852480545906688000",
+        "conversation_id": "1934338873611677958",
+        "created_at": "2025-06-15T19:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T20:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934338873611677958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65afNQ8UwH",
+              "end": 23,
+              "expanded_url": "https://x.com/TheFrogPond_/status/1934338873611677958/video/1",
+              "media_key": "13_1930141386252206080",
+              "start": 0,
+              "url": "https://t.co/65afNQ8UwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934338873611677958",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 77078,
+          "like_count": 3609,
+          "quote_count": 35,
+          "reply_count": 25,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/65afNQ8UwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 223,
+          "like_count": 8852,
+          "listed_count": 2,
+          "media_count": 723,
+          "tweet_count": 4516
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T22:39:43.000Z",
+        "description": "ribbit!\n\ni post frogs (and toads sometimes)\n\nplease dm for credit/removal/submissions!",
+        "id": "1852480545906688000",
+        "name": "The Frog Pond",
+        "pinned_tweet_id": "1857048230514594062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856822880958328832/dhkD4VeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 131,
+          "like_count": 3277,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 416
+        },
+        "username": "TheFrogPond_",
+        "verified": false
+      }
+    ]
+  }
+}

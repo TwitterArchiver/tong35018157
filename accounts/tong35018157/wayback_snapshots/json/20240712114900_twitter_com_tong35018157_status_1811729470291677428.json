@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1811729470291677428",
+    "created_at": "2024-07-12T11:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T12:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811729470291677428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hu_lalalalala/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hu_lalalalala/status/1811425615511212242",
+          "start": 6,
+          "url": "https://t.co/5gk3mmWmQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811729470291677428",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811425615511212242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好搞笑我天 https://t.co/5gk3mmWmQv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1811729470291677428",
+        "created_at": "2024-07-12T11:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T12:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811729470291677428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_lalalalala/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hu_lalalalala/status/1811425615511212242",
+              "start": 6,
+              "url": "https://t.co/5gk3mmWmQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811729470291677428",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811425615511212242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞笑我天 https://t.co/5gk3mmWmQv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811425371839168512"
+          ]
+        },
+        "author_id": "48261647",
+        "conversation_id": "1811425615511212242",
+        "created_at": "2024-07-11T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811425615511212242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Sj3XkjXlDA",
+              "end": 64,
+              "expanded_url": "https://twitter.com/hu_lalalalala/status/1811425615511212242/video/1",
+              "media_key": "7_1811425371839168512",
+              "start": 41,
+              "url": "https://t.co/Sj3XkjXlDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811425615511212242",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1338,
+          "impression_count": 4071523,
+          "like_count": 7054,
+          "quote_count": 137,
+          "reply_count": 535,
+          "retweet_count": 981
+        },
+        "reply_settings": "everyone",
+        "text": "安地斯神鹫分布在安地斯山脉及南美洲西部邻近的太平洋海岸，是西半球最大的飞行鸟类。 https://t.co/Sj3XkjXlDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 204,
+          "like_count": 8024,
+          "listed_count": 1,
+          "tweet_count": 3792
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-18T05:47:38.000Z",
+        "description": "",
+        "id": "48261647",
+        "name": "出埃及记",
+        "pinned_tweet_id": "1062984215636062208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064878017300770816/bvhJ9wpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145726,
+          "following_count": 1104,
+          "like_count": 1660,
+          "listed_count": 647,
+          "tweet_count": 70944
+        },
+        "username": "hu_lalalalala",
+        "verified": false
+      }
+    ]
+  }
+}

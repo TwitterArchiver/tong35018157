@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2019937349589709100",
+    "created_at": "2026-02-07T00:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T01:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019937349589709100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ralee85/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ralee85/status/2019685863547105348",
+          "start": 2,
+          "url": "https://t.co/YBQ62ZfjkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019937349589709100",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019685863547105348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁 https://t.co/YBQ62ZfjkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2019685851882471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAddlN9WQAAa7Hg.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2019937349589709100",
+        "created_at": "2026-02-07T00:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019937349589709100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ralee85/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ralee85/status/2019685863547105348",
+              "start": 2,
+              "url": "https://t.co/YBQ62ZfjkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019937349589709100",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019685863547105348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁 https://t.co/YBQ62ZfjkQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019685851882471424"
+          ]
+        },
+        "author_id": "4107939250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Следите за обновлениями о Российском военном вторжении в Украине от журналистов, независимых и иностранных медиа. ",
+              "id": "1499425805633425409",
+              "name": "Новости и последняя информация о ситуации в Украине"
+            }
+          }
+        ],
+        "conversation_id": "2019685863547105348",
+        "created_at": "2026-02-06T08:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019685863547105348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Russia",
+              "probability": 0.9574,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "GRU",
+              "probability": 0.8067,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Vladimir Alekseev",
+              "probability": 0.8603,
+              "start": 90,
+              "type": "Person"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Moscow",
+              "probability": 0.9812,
+              "start": 141,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "В Москве в жилом доме на Волоколамском шоссе мужчина несколько раз выстрелил в генерал-лейтенанта Минобороны РФ Владимира Алексеева, он госпитализирован. Об этом сообщили в Следственном комитете РФ.",
+              "display_url": "meduza.io/amp/news/2026/…",
+              "end": 212,
+              "expanded_url": "https://meduza.io/amp/news/2026/02/06/v-moskve-soversheno-pokushenie-na-zamnachalnika-gru-vladimira-alekseeva",
+              "start": 189,
+              "status": 200,
+              "title": "В Москве совершено покушение на замначальника ГРУ Владимира Алексеева — Meduza",
+              "unwound_url": "https://meduza.io/amp/news/2026/02/06/v-moskve-soversheno-pokushenie-na-zamnachalnika-gru-vladimira-alekseeva",
+              "url": "https://t.co/n1BaK0d9Y6"
+            },
+            {
+              "description": "Киллер расстрелял генерал-лейтенанта Алексеева в спину. Покушение на высокопоставленного сотрудника Минобороны РФ произошло на Волоколамском шоссе Москве. Преступник несколько раз выстрелил в спину генерал-лейтенанту Алексееву и скрылся. Владимир Алексеев выжил, его госпитализировали. Но состояние офицера остается неизвестным. На месте покушения работают экстренные службы и силовики. Следователи столичного СК изучают записи с камер видеонаблюдения, идет розыск подозреваемого. Генерал-лейтенант Владимир Алексеев с 2011 года — первый заместитель начальника ГРУ. В 2017 году ему было присвоено звание Героя России. 🔥 BAZA в MAX 🔍 Прислать новость",
+              "display_url": "t.me/bazabazon/43913",
+              "end": 236,
+              "expanded_url": "https://t.me/bazabazon/43913",
+              "start": 213,
+              "status": 200,
+              "title": "Baza",
+              "unwound_url": "https://t.me/bazabazon/43913",
+              "url": "https://t.co/t2ZxsXSjLn"
+            },
+            {
+              "display_url": "pic.x.com/UAQhjoomqq",
+              "end": 260,
+              "expanded_url": "https://x.com/RALee85/status/2019685863547105348/photo/1",
+              "media_key": "3_2019685851882471424",
+              "start": 237,
+              "url": "https://t.co/UAQhjoomqq"
+            },
+            {
+              "display_url": "x.com/ralee85/status…",
+              "end": 284,
+              "expanded_url": "https://twitter.com/ralee85/status/1730617639158808953",
+              "start": 261,
+              "url": "https://t.co/YCBaTh2yAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019685863547105348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 119518,
+          "like_count": 382,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1730617639158808953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Russia’s Investigative Committee says that the Deputy Chief of the GRU Lieutenant General Vladimir Alekseev was shot multiple times today in Moscow. He is reportedly in serious condition. \nhttps://t.co/n1BaK0d9Y6\nhttps://t.co/t2ZxsXSjLn https://t.co/UAQhjoomqq https://t.co/YCBaTh2yAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 288,
+          "like_count": 10805,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 5586
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-03T23:15:13.000Z",
+        "description": "Senior Fellow @FPRI. Previously @USMC, @ColumbiaSIPA, @CentreAST. Focused on Russian defense policy.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 14,
+                "username": "FPRI"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "username": "USMC"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "ColumbiaSIPA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "CentreAST"
+              }
+            ]
+          }
+        },
+        "id": "4107939250",
+        "name": "Rob Lee",
+        "pinned_tweet_id": "1980723783729139946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/964497068424249345/Y6ce6atF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690709,
+          "following_count": 3771,
+          "like_count": 13472,
+          "listed_count": 14414,
+          "media_count": 33584,
+          "tweet_count": 76022
+        },
+        "username": "RALee85",
+        "verified": true
+      }
+    ]
+  }
+}

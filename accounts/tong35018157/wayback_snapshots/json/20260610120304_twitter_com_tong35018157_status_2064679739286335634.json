@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2064675301574259144",
+    "created_at": "2026-06-10T12:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064679739286335634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064679739286335634",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064678435231064164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee 听的解释是睾酮会让皮肤变红，白皮特别明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2064675301574259144",
+        "created_at": "2026-06-10T12:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064679739286335634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064679739286335634",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064678435231064164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee 听的解释是睾酮会让皮肤变红，白皮特别明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "2064675301574259144",
+        "created_at": "2026-06-10T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064678435231064164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064678435231064164",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064675301574259144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 469,
+          "like_count": 15547,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 7025
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 503,
+          "like_count": 45859,
+          "listed_count": 0,
+          "media_count": 1028,
+          "tweet_count": 28901
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

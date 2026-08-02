@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078204781638947152",
+    "created_at": "2026-07-17T19:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078204781638947152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892178261150728192",
+          "start": 3,
+          "username": "www1145362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078204781638947152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077681297674350690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @www1145362: 我对年上男的态度：大哥哥你好骚啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078204781638947152",
+        "created_at": "2026-07-17T19:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078204781638947152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892178261150728192",
+              "start": 3,
+              "username": "www1145362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078204781638947152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077681297674350690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @www1145362: 我对年上男的态度：大哥哥你好骚啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892178261150728192",
+        "conversation_id": "2077681297674350690",
+        "created_at": "2026-07-16T09:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077681297674350690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077681297674350690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 63248,
+          "like_count": 1018,
+          "quote_count": 8,
+          "reply_count": 187,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "我对年上男的态度：大哥哥你好骚啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 521,
+          "like_count": 17600,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 7782
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T11:43:55.000Z",
+        "description": "匿名提问箱: https://t.co/exqq4n3D4i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/www11453621",
+                "end": 30,
+                "expanded_url": "https://ngl.link/www11453621",
+                "start": 7,
+                "url": "https://t.co/exqq4n3D4i"
+              }
+            ]
+          }
+        },
+        "id": "1892178261150728192",
+        "name": "ir",
+        "pinned_tweet_id": "2026232506798977505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039138584419332096/nqSnGRGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 106,
+          "like_count": 5554,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "www1145362",
+        "verified": false
+      }
+    ]
+  }
+}

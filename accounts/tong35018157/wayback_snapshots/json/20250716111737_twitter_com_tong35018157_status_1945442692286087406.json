@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943830966264639491"
+      ],
+      "media_source_tweet_id": [
+        "1943831341227028608"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1945442692286087406",
+    "created_at": "2025-07-16T11:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T12:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945442692286087406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929884390269825025",
+          "start": 3,
+          "username": "0x4849544C4552"
+        },
+        {
+          "end": 34,
+          "id": "1645170859387002880",
+          "start": 20,
+          "username": "thedragonstea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w551TDxIDo",
+          "end": 58,
+          "expanded_url": "https://x.com/0x4849544C4552/status/1943831341227028608/photo/1",
+          "media_key": "3_1943830966264639491",
+          "start": 35,
+          "url": "https://t.co/w551TDxIDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945442692286087406",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943831341227028608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x4849544C4552: @thedragonstea https://t.co/w551TDxIDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1943830966264639491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvnf9websAMeCuZ.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943830966264639491"
+          ],
+          "media_source_tweet_id": [
+            "1943831341227028608"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1945442692286087406",
+        "created_at": "2025-07-16T11:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945442692286087406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929884390269825025",
+              "start": 3,
+              "username": "0x4849544C4552"
+            },
+            {
+              "end": 34,
+              "id": "1645170859387002880",
+              "start": 20,
+              "username": "thedragonstea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w551TDxIDo",
+              "end": 58,
+              "expanded_url": "https://x.com/0x4849544C4552/status/1943831341227028608/photo/1",
+              "media_key": "3_1943830966264639491",
+              "start": 35,
+              "url": "https://t.co/w551TDxIDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945442692286087406",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943831341227028608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x4849544C4552: @thedragonstea https://t.co/w551TDxIDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943830966264639491"
+          ]
+        },
+        "author_id": "1929884390269825025",
+        "conversation_id": "1943820459205697552",
+        "created_at": "2025-07-12T00:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943831341227028608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645170859387002880",
+              "start": 0,
+              "username": "thedragonstea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w551TDxIDo",
+              "end": 38,
+              "expanded_url": "https://x.com/0x4849544C4552/status/1943831341227028608/photo/1",
+              "media_key": "3_1943830966264639491",
+              "start": 15,
+              "url": "https://t.co/w551TDxIDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943831341227028608",
+        "in_reply_to_user_id": "1645170859387002880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2540,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943820459205697552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thedragonstea https://t.co/w551TDxIDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 9039,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 4695
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T12:55:24.000Z",
+        "description": "Your local frenly schizo shitpostеr.\nEdits and memes *sometimes* I guess.\nNS 🇦🇺",
+        "id": "1929884390269825025",
+        "location": "Weimar Australia",
+        "name": "Punished Xyz IV",
+        "pinned_tweet_id": "1942885305255858191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929920384180408320/K733erXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 916,
+          "like_count": 6705,
+          "listed_count": 1,
+          "media_count": 846,
+          "tweet_count": 2001
+        },
+        "username": "0x4849544C4552",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T21:04:50.000Z",
+        "description": "The official Twitter account for The Dragon's Treasure, A Haven for Anime and Tea Lovers!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thedragonstreasure.com",
+                "end": 23,
+                "expanded_url": "http://www.thedragonstreasure.com",
+                "start": 0,
+                "url": "https://t.co/7uqv9at6tt"
+              }
+            ]
+          }
+        },
+        "id": "1645170859387002880",
+        "name": "The Dragon's Treasure",
+        "pinned_tweet_id": "1919033512478359652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645171031177404416/5a365CaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5531,
+          "following_count": 994,
+          "like_count": 31629,
+          "listed_count": 12,
+          "media_count": 3324,
+          "tweet_count": 17549
+        },
+        "url": "https://t.co/7uqv9at6tt",
+        "username": "thedragonstea",
+        "verified": true
+      }
+    ]
+  }
+}

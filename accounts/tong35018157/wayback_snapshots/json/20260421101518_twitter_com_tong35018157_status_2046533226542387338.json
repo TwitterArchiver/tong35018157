@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046531849904927094",
+    "created_at": "2026-04-21T10:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046533226542387338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046533226542387338",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046531849904927094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 等mp40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046531836579590145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa93MTasAEmbPY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046531849904927094",
+        "created_at": "2026-04-21T10:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046533226542387338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046533226542387338",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531849904927094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 等mp40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046531836579590145"
+          ]
+        },
+        "author_id": "1911458837107732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2046531849904927094",
+        "created_at": "2026-04-21T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046531849904927094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPJEJqPg7D",
+              "end": 46,
+              "expanded_url": "https://x.com/kanameranaswly/status/2046531849904927094/photo/1",
+              "media_key": "3_2046531836579590145",
+              "start": 23,
+              "url": "https://t.co/nPJEJqPg7D"
+            },
+            {
+              "display_url": "x.com/kzwolf12/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/kzwolf12/status/2046520099528724482",
+              "start": 47,
+              "url": "https://t.co/jcU4MCT6YK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046531849904927094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046520099528724482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么时候才能等到奥皇IWS2000回归啊😭 https://t.co/nPJEJqPg7D https://t.co/jcU4MCT6YK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 340,
+          "like_count": 12650,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6179
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "过气の指挥官，HK416の星怒，404小队❤️❤️❤️。4I＞1I直男，Sub+Ⓜ️（减肥准备出45姐ing）。少谈国事，支持🇺🇦🇮🇱的老右德棍🇩🇪（德二德三都粉）不反犹的温和派纳粹，但是来我这刷黄纳肥皂梗的反法西斯德黑小鬼你老冯出门被车创飞了。zz立场是建制改良派民族社会主义者，5分保守威权5分自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzh.moegirl.org.cn/%E5%B0%91%E5%A…",
+                "end": 23,
+                "expanded_url": "https://mzh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF:HK416",
+                "start": 0,
+                "url": "https://t.co/7u7GR9qL0o"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "I.G. Farben AG",
+        "name": "✙守望莱茵的乐奈✠ꑭ🇩🇪🇦🇹",
+        "pinned_tweet_id": "2008164859587023315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046264069913759744/_iawzwjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 749,
+          "like_count": 12875,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/7u7GR9qL0o",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

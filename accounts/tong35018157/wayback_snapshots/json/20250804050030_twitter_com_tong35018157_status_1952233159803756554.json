@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1952232166823182722",
+    "created_at": "2025-08-04T05:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T06:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952233159803756554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547227506339524609",
+          "start": 0,
+          "username": "lipoeas1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952233159803756554",
+    "in_reply_to_user_id": "1547227506339524609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952232166823182722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipoeas1 666我还没拿到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1952232166823182722",
+        "created_at": "2025-08-04T05:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952233159803756554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547227506339524609",
+              "start": 0,
+              "username": "lipoeas1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952233159803756554",
+        "in_reply_to_user_id": "1547227506339524609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952232166823182722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipoeas1 666我还没拿到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547227506339524609",
+        "conversation_id": "1952232166823182722",
+        "created_at": "2025-08-04T04:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T05:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952232166823182722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952232166823182722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不行了为什么别的录取通知书都做工这么好看我的这么丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 218,
+          "like_count": 9197,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 4829
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T14:33:14.000Z",
+        "description": "＝立礼／中/eng/tf2／oc and other",
+        "id": "1547227506339524609",
+        "name": "LIPOEAS",
+        "pinned_tweet_id": "1933094272003121282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951878518184316928/PEQ_WnWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 157,
+          "like_count": 2910,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2267
+        },
+        "username": "lipoeas1",
+        "verified": false
+      }
+    ]
+  }
+}

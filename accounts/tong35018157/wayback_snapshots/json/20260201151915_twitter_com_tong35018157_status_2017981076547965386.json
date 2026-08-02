@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2017981076547965386",
+    "created_at": "2026-02-01T15:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017981076547965386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ride_and_photo…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ride_and_photo/status/2017894741036372340",
+          "start": 7,
+          "url": "https://t.co/wYdYbmV1xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017981076547965386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017894741036372340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麦乐鸡真可爱 https://t.co/wYdYbmV1xg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2017894731536355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEAkStbUAAmn_c.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2017894731548925953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEAkSwbIAE_CMo.jpg",
+        "width": 1207
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2017894731536343041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEAkStbIAErXEE.jpg",
+        "width": 1207
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2017894731536306177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEAkStakAEiUUW.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2017981076547965386",
+        "created_at": "2026-02-01T15:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017981076547965386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ride_and_photo…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ride_and_photo/status/2017894741036372340",
+              "start": 7,
+              "url": "https://t.co/wYdYbmV1xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017981076547965386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017894741036372340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麦乐鸡真可爱 https://t.co/wYdYbmV1xg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017894731536355328",
+            "3_2017894731548925953",
+            "3_2017894731536343041",
+            "3_2017894731536306177"
+          ]
+        },
+        "author_id": "1515623986683543556",
+        "conversation_id": "2017894741036372340",
+        "created_at": "2026-02-01T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017894741036372340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEYOK2iL5Z",
+              "end": 48,
+              "expanded_url": "https://x.com/ride_and_photo/status/2017894741036372340/photo/1",
+              "media_key": "3_2017894731536355328",
+              "start": 25,
+              "url": "https://t.co/PEYOK2iL5Z"
+            },
+            {
+              "display_url": "pic.x.com/PEYOK2iL5Z",
+              "end": 48,
+              "expanded_url": "https://x.com/ride_and_photo/status/2017894741036372340/photo/1",
+              "media_key": "3_2017894731548925953",
+              "start": 25,
+              "url": "https://t.co/PEYOK2iL5Z"
+            },
+            {
+              "display_url": "pic.x.com/PEYOK2iL5Z",
+              "end": 48,
+              "expanded_url": "https://x.com/ride_and_photo/status/2017894741036372340/photo/1",
+              "media_key": "3_2017894731536343041",
+              "start": 25,
+              "url": "https://t.co/PEYOK2iL5Z"
+            },
+            {
+              "display_url": "pic.x.com/PEYOK2iL5Z",
+              "end": 48,
+              "expanded_url": "https://x.com/ride_and_photo/status/2017894741036372340/photo/1",
+              "media_key": "3_2017894731536306177",
+              "start": 25,
+              "url": "https://t.co/PEYOK2iL5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017894741036372340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3959,
+          "like_count": 289,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "タゲリの羽根の構造を写すのは本当に難しいのです。 https://t.co/PEYOK2iL5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 283,
+          "like_count": 10659,
+          "listed_count": 3,
+          "media_count": 875,
+          "tweet_count": 5559
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T09:31:39.000Z",
+        "description": "バイクに乗って青い鳥の写真を撮りに行く人です。ごくまれにバイクや風景の写真も上がります。手持ち撮影派です。過去写真はハイライト、画像からご覧下さい🙏 📷𝙉𝙞𝙠𝙤𝙣 ℤ𝟵 + Z600mm f/4他 🏍CC110, F900XR→? 🚙X1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ride_and_photo/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ride_and_photo/",
+                "start": 0,
+                "url": "https://t.co/IpMOPD8YZD"
+              }
+            ]
+          }
+        },
+        "id": "1515623986683543556",
+        "location": "神奈川県",
+        "name": "Tads",
+        "pinned_tweet_id": "1932733709528240531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774439950819512320/OCnvBRAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7038,
+          "following_count": 447,
+          "like_count": 39337,
+          "listed_count": 65,
+          "media_count": 1561,
+          "tweet_count": 8940
+        },
+        "url": "https://t.co/IpMOPD8YZD",
+        "username": "ride_and_photo",
+        "verified": true
+      }
+    ]
+  }
+}

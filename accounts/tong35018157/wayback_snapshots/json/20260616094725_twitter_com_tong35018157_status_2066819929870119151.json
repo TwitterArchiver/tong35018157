@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066492778893512704"
+      ],
+      "media_source_tweet_id": [
+        "2066492784832622924"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066819929870119151",
+    "created_at": "2026-06-16T09:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066819929870119151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1674077726993698817",
+          "start": 3,
+          "username": "nenusweetpotato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Uz5jnTMUS",
+          "end": 44,
+          "expanded_url": "https://x.com/nenusweetpotato/status/2066492784832622924/photo/1",
+          "media_key": "3_2066492778893512704",
+          "start": 21,
+          "url": "https://t.co/9Uz5jnTMUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066819929870119151",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066492784832622924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nenusweetpotato: https://t.co/9Uz5jnTMUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2066492778893512704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2oO9DbkAAToG5.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066492778893512704"
+          ],
+          "media_source_tweet_id": [
+            "2066492784832622924"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066819929870119151",
+        "created_at": "2026-06-16T09:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066819929870119151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1674077726993698817",
+              "start": 3,
+              "username": "nenusweetpotato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Uz5jnTMUS",
+              "end": 44,
+              "expanded_url": "https://x.com/nenusweetpotato/status/2066492784832622924/photo/1",
+              "media_key": "3_2066492778893512704",
+              "start": 21,
+              "url": "https://t.co/9Uz5jnTMUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066819929870119151",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066492784832622924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nenusweetpotato: https://t.co/9Uz5jnTMUS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066492778893512704"
+          ]
+        },
+        "author_id": "1674077726993698817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066492784832622924",
+        "created_at": "2026-06-15T12:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066492784832622924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Uz5jnTMUS",
+              "end": 23,
+              "expanded_url": "https://x.com/nenusweetpotato/status/2066492784832622924/photo/1",
+              "media_key": "3_2066492778893512704",
+              "start": 0,
+              "url": "https://t.co/9Uz5jnTMUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066492784832622924",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1688,
+          "impression_count": 348970,
+          "like_count": 28011,
+          "quote_count": 236,
+          "reply_count": 71,
+          "retweet_count": 6401
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Uz5jnTMUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 478,
+          "like_count": 15931,
+          "listed_count": 3,
+          "media_count": 986,
+          "tweet_count": 7143
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T15:30:16.000Z",
+        "description": "𖥻 ׁ ׅ ᴄᴏᴏᴋɪᴇ ᴍᴏɴsᴛᴇʀ ! ׁ ׅ 🍪",
+        "id": "1674077726993698817",
+        "name": "— 𝘯𝘦𝘯𝘶 ᰋ.",
+        "pinned_tweet_id": "2063896899187589321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062752940277055488/r4fLQUlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 200,
+          "like_count": 3406,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 3158
+        },
+        "username": "nenusweetpotato",
+        "verified": false
+      }
+    ]
+  }
+}

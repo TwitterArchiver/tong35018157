@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041658367",
+          "name": "Metal Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041658367",
+          "name": "Metal Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2058721255394869398",
+    "created_at": "2026-05-25T01:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058721255394869398"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "mgs"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "mgs3"
+        },
+        {
+          "end": 69,
+          "start": 54,
+          "tag": "metalgearsolid"
+        },
+        {
+          "end": 86,
+          "start": 70,
+          "tag": "metalgearsolid3"
+        },
+        {
+          "end": 107,
+          "start": 87,
+          "tag": "metalgearsoliddelta"
+        },
+        {
+          "end": 119,
+          "start": 108,
+          "tag": "ivanraikov"
+        },
+        {
+          "end": 132,
+          "start": 120,
+          "tag": "majorraikov"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "938485858163884032",
+          "start": 3,
+          "username": "JosefGalahad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058721255394869398",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058648792795152401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosefGalahad: Beware of the bitch grrr\n#mgs #mgs3 #metalgearsolid #metalgearsolid3 #metalgearsoliddelta #ivanraikov #majorraikov https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058648786876919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHKKhsWcAA61LB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041658367",
+              "name": "Metal Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041658367",
+              "name": "Metal Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2058721255394869398",
+        "created_at": "2026-05-25T01:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058721255394869398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "mgs"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "mgs3"
+            },
+            {
+              "end": 69,
+              "start": 54,
+              "tag": "metalgearsolid"
+            },
+            {
+              "end": 86,
+              "start": 70,
+              "tag": "metalgearsolid3"
+            },
+            {
+              "end": 107,
+              "start": 87,
+              "tag": "metalgearsoliddelta"
+            },
+            {
+              "end": 119,
+              "start": 108,
+              "tag": "ivanraikov"
+            },
+            {
+              "end": 132,
+              "start": 120,
+              "tag": "majorraikov"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "938485858163884032",
+              "start": 3,
+              "username": "JosefGalahad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058721255394869398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058648792795152401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JosefGalahad: Beware of the bitch grrr\n#mgs #mgs3 #metalgearsolid #metalgearsolid3 #metalgearsoliddelta #ivanraikov #majorraikov https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058648786876919808"
+          ]
+        },
+        "author_id": "938485858163884032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041658367",
+              "name": "Metal Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041658367",
+              "name": "Metal Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2058648792795152401",
+        "created_at": "2026-05-24T20:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058648792795152401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "mgs"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "mgs3"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "metalgearsolid"
+            },
+            {
+              "end": 68,
+              "start": 52,
+              "tag": "metalgearsolid3"
+            },
+            {
+              "end": 89,
+              "start": 69,
+              "tag": "metalgearsoliddelta"
+            },
+            {
+              "end": 101,
+              "start": 90,
+              "tag": "ivanraikov"
+            },
+            {
+              "end": 114,
+              "start": 102,
+              "tag": "majorraikov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOSltvHnZM",
+              "end": 138,
+              "expanded_url": "https://x.com/JosefGalahad/status/2058648792795152401/photo/1",
+              "media_key": "3_2058648786876919808",
+              "start": 115,
+              "url": "https://t.co/BOSltvHnZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058648792795152401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Beware of the bitch grrr\n#mgs #mgs3 #metalgearsolid #metalgearsolid3 #metalgearsoliddelta #ivanraikov #majorraikov https://t.co/BOSltvHnZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 417,
+          "like_count": 14723,
+          "listed_count": 3,
+          "media_count": 961,
+          "tweet_count": 6768
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-06T19:10:39.000Z",
+        "description": "× 𓃮𓃓𓃗𓃚𓃦 × \n× Artist and Writer × Multifandom × I like draw pretty boys and uniforms ×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/MrGalahad",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/MrGalahad",
+                "start": 0,
+                "url": "https://t.co/rMVwL33Rqy"
+              }
+            ]
+          }
+        },
+        "id": "938485858163884032",
+        "name": "MrGalahadOfficial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011684280884207616/Z_ABgHjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 442,
+          "like_count": 154455,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/rMVwL33Rqy",
+        "username": "JosefGalahad",
+        "verified": false
+      }
+    ]
+  }
+}

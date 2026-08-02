@@ -1,0 +1,451 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Hobbies and interests",
+          "id": "847868745150119936",
+          "name": "Family & relationships"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1612622495483584512",
+    "created_at": "2023-01-10T01:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-10T01:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1612622495483584512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315275321868869634",
+          "start": 3,
+          "username": "GordonTheSloth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/CiM2OzEtRL",
+          "end": 65,
+          "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+          "media_key": "3_1612416848838135808",
+          "start": 42,
+          "url": "https://t.co/CiM2OzEtRL"
+        },
+        {
+          "display_url": "pic.twitter.com/CiM2OzEtRL",
+          "end": 65,
+          "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+          "media_key": "3_1612416852646572033",
+          "start": 42,
+          "url": "https://t.co/CiM2OzEtRL"
+        },
+        {
+          "display_url": "pic.twitter.com/CiM2OzEtRL",
+          "end": 65,
+          "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+          "media_key": "3_1612416858262765579",
+          "start": 42,
+          "url": "https://t.co/CiM2OzEtRL"
+        },
+        {
+          "display_url": "pic.twitter.com/CiM2OzEtRL",
+          "end": 65,
+          "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+          "media_key": "3_1612416862498992135",
+          "start": 42,
+          "url": "https://t.co/CiM2OzEtRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1612622495483584512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612416866227736579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GordonTheSloth: 海外台灣人上世紀於世界各地的台獨運動遊行： https://t.co/CiM2OzEtRL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Hobbies and interests",
+              "id": "847868745150119936",
+              "name": "Family & relationships"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1612622495483584512",
+        "created_at": "2023-01-10T01:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-10T01:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612622495483584512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315275321868869634",
+              "start": 3,
+              "username": "GordonTheSloth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 65,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416848838135808",
+              "start": 42,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 65,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416852646572033",
+              "start": 42,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 65,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416858262765579",
+              "start": 42,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 65,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416862498992135",
+              "start": 42,
+              "url": "https://t.co/CiM2OzEtRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612622495483584512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612416866227736579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GordonTheSloth: 海外台灣人上世紀於世界各地的台獨運動遊行： https://t.co/CiM2OzEtRL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1612416848838135808",
+            "3_1612416852646572033",
+            "3_1612416858262765579",
+            "3_1612416862498992135"
+          ]
+        },
+        "author_id": "1315275321868869634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Hobbies and interests",
+              "id": "847868745150119936",
+              "name": "Family & relationships"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1612416866227736579",
+        "created_at": "2023-01-09T11:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-09T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612416866227736579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 45,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416848838135808",
+              "start": 22,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 45,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416852646572033",
+              "start": 22,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 45,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416858262765579",
+              "start": 22,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "pic.twitter.com/CiM2OzEtRL",
+              "end": 45,
+              "expanded_url": "https://twitter.com/GordonTheSloth/status/1612416866227736579/photo/1",
+              "media_key": "3_1612416862498992135",
+              "start": 22,
+              "url": "https://t.co/CiM2OzEtRL"
+            },
+            {
+              "display_url": "twitter.com/HelenaL6812235…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/HelenaL68122359/status/1612301538193727489",
+              "start": 46,
+              "url": "https://t.co/kTIWmHe13Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612416866227736579",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612301538193727489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海外台灣人上世紀於世界各地的台獨運動遊行： https://t.co/CiM2OzEtRL https://t.co/kTIWmHe13Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "沙贝异性恋一个，恋老恋丑还恋尸， 非长假期间一个月回来一次（悲）高中太忙了",
+        "id": "1467315060041256963",
+        "location": "老攻怀里",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1608540531654787074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576135182117019648/25Gf3tAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 115,
+          "listed_count": 0,
+          "tweet_count": 831
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T12:57:41.000Z",
+        "description": "@DystopianGordon  嘅圍爐用粵語帳。男性，非麻甩佬，精神蘇格蘭人，兩餸飯enjoyer。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "DystopianGordon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/DystopianGordon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/DystopianGordon",
+                "start": 0,
+                "url": "https://t.co/uf5xJLuGZ5"
+              }
+            ]
+          }
+        },
+        "id": "1315275321868869634",
+        "location": "兩餸飯檔口前排緊隊",
+        "name": "🦥💼",
+        "pinned_tweet_id": "1584750613828554753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607045851503013888/L3nCqI2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 284,
+          "listed_count": 6,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/uf5xJLuGZ5",
+        "username": "GordonTheSloth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070085329155919873"
+      ],
+      "media_source_tweet_id": [
+        "2070085335397142962"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "A longtime favorite of children and adults, and a staple of PBS, \"Sesame Street\" bridges many cultural and educational gaps with a fun program. Big Bird leads a cast of characters teaching children numbers, colors and the alphabet. Bert and Ernie, Oscar the Grouch and Grover are just a few of the other creatures involved in this show, set on a city street full of valuable learning opportunities.",
+          "id": "10004507682",
+          "name": "Sesame Street"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263218608655626240",
+          "name": "Sesame Street"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481313492652032",
+          "name": "Family & nostalgic"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1263218608655626240",
+          "name": "Sesame Street"
+        }
+      }
+    ],
+    "conversation_id": "2071420130165510328",
+    "created_at": "2026-06-29T02:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071420130165510328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594396827339685891",
+          "start": 3,
+          "username": "kamuroid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJ8rgGPfUq",
+          "end": 57,
+          "expanded_url": "https://x.com/kamuroid/status/2070085335397142962/photo/1",
+          "media_key": "3_2070085329155919873",
+          "start": 34,
+          "url": "https://t.co/tJ8rgGPfUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071420130165510328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070085335397142962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamuroid: five nights at ELMO https://t.co/tJ8rgGPfUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2070085329155919873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpro5sWEAE4Ub5.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070085329155919873"
+          ],
+          "media_source_tweet_id": [
+            "2070085335397142962"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A longtime favorite of children and adults, and a staple of PBS, \"Sesame Street\" bridges many cultural and educational gaps with a fun program. Big Bird leads a cast of characters teaching children numbers, colors and the alphabet. Bert and Ernie, Oscar the Grouch and Grover are just a few of the other creatures involved in this show, set on a city street full of valuable learning opportunities.",
+              "id": "10004507682",
+              "name": "Sesame Street"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263218608655626240",
+              "name": "Sesame Street"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263218608655626240",
+              "name": "Sesame Street"
+            }
+          }
+        ],
+        "conversation_id": "2071420130165510328",
+        "created_at": "2026-06-29T02:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071420130165510328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594396827339685891",
+              "start": 3,
+              "username": "kamuroid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJ8rgGPfUq",
+              "end": 57,
+              "expanded_url": "https://x.com/kamuroid/status/2070085335397142962/photo/1",
+              "media_key": "3_2070085329155919873",
+              "start": 34,
+              "url": "https://t.co/tJ8rgGPfUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071420130165510328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070085335397142962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamuroid: five nights at ELMO https://t.co/tJ8rgGPfUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070085329155919873"
+          ]
+        },
+        "author_id": "1594396827339685891",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A longtime favorite of children and adults, and a staple of PBS, \"Sesame Street\" bridges many cultural and educational gaps with a fun program. Big Bird leads a cast of characters teaching children numbers, colors and the alphabet. Bert and Ernie, Oscar the Grouch and Grover are just a few of the other creatures involved in this show, set on a city street full of valuable learning opportunities.",
+              "id": "10004507682",
+              "name": "Sesame Street"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263218608655626240",
+              "name": "Sesame Street"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481313492652032",
+              "name": "Family & nostalgic"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263218608655626240",
+              "name": "Sesame Street"
+            }
+          }
+        ],
+        "conversation_id": "2070085335397142962",
+        "created_at": "2026-06-25T10:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070085335397142962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJ8rgGPfUq",
+              "end": 43,
+              "expanded_url": "https://x.com/kamuroid/status/2070085335397142962/photo/1",
+              "media_key": "3_2070085329155919873",
+              "start": 20,
+              "url": "https://t.co/tJ8rgGPfUq"
+            },
+            {
+              "display_url": "x.com/gira__art/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/gira__art/status/2069993532933472418",
+              "start": 44,
+              "url": "https://t.co/9gnLp7a5VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070085335397142962",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 10326,
+          "like_count": 866,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069993532933472418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "five nights at ELMO https://t.co/tJ8rgGPfUq https://t.co/9gnLp7a5VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 489,
+          "like_count": 16715,
+          "listed_count": 3,
+          "media_count": 995,
+          "tweet_count": 7375
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T18:27:21.000Z",
+        "description": "I likey bnuuyu | usually NSFW retweets | krolik best bun",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "krolikicious.straw.page",
+                "end": 23,
+                "expanded_url": "http://krolikicious.straw.page",
+                "start": 0,
+                "url": "https://t.co/Y8deJcpoDv"
+              }
+            ]
+          }
+        },
+        "id": "1594396827339685891",
+        "location": "🇹🇷",
+        "name": "kamuroid",
+        "pinned_tweet_id": "2064796431404224798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448142907858945/0wngUzZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1904,
+          "like_count": 84626,
+          "listed_count": 1,
+          "media_count": 1548,
+          "tweet_count": 23061
+        },
+        "url": "https://t.co/Y8deJcpoDv",
+        "username": "kamuroid",
+        "verified": false
+      }
+    ]
+  }
+}

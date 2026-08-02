@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2067205372205813856",
+    "created_at": "2026-06-17T11:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067205372205813856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2031711674227732480",
+          "start": 3,
+          "username": "Angelina_SJim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067205372205813856",
+    "lang": "uk",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067154673375547882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelina_SJim: На перші 100 підписників тут вирішила запостити сюди фул версію цього арту 🤭\nДякую, що слідкуєте за моєю творчістю! 🫶\n#s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067153862377529345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLABfE8W4AEMQ4X.jpg",
+        "width": 3990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2067205372205813856",
+        "created_at": "2026-06-17T11:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067205372205813856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2031711674227732480",
+              "start": 3,
+              "username": "Angelina_SJim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067205372205813856",
+        "lang": "uk",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067154673375547882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelina_SJim: На перші 100 підписників тут вирішила запостити сюди фул версію цього арту 🤭\nДякую, що слідкуєте за моєю творчістю! 🫶\n#s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067153862377529345"
+          ]
+        },
+        "author_id": "2031711674227732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          }
+        ],
+        "conversation_id": "2067154673375547882",
+        "created_at": "2026-06-17T07:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067154673375547882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "stalker2"
+            },
+            {
+              "end": 139,
+              "start": 128,
+              "tag": "digitalart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yD4C7rP2Fq",
+              "end": 163,
+              "expanded_url": "https://x.com/Angelina_SJim/status/2067154673375547882/photo/1",
+              "media_key": "3_2067153862377529345",
+              "start": 140,
+              "url": "https://t.co/yD4C7rP2Fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067154673375547882",
+        "lang": "uk",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 776,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "На перші 100 підписників тут вирішила запостити сюди фул версію цього арту 🤭\nДякую, що слідкуєте за моєю творчістю! 🫶\n#stalker2 #digitalart https://t.co/yD4C7rP2Fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 483,
+          "like_count": 16041,
+          "listed_count": 3,
+          "media_count": 987,
+          "tweet_count": 7165
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:42:11.000Z",
+        "description": "Дніпро 🛡\n2D Artist / Character concept artist 🎨                          \nАрхів артів 🖌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/art_sjim_galle…",
+                "end": 23,
+                "expanded_url": "https://t.me/art_sjim_gallery",
+                "start": 0,
+                "url": "https://t.co/GM2r8KUivH"
+              }
+            ]
+          }
+        },
+        "id": "2031711674227732480",
+        "location": "Україна",
+        "name": "Angelina_S.Jim. 🇺🇦",
+        "pinned_tweet_id": "2031746180120498224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037451593571065856/6tl1RaSy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 37,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/GM2r8KUivH",
+        "username": "Angelina_SJim",
+        "verified": false
+      }
+    ]
+  }
+}

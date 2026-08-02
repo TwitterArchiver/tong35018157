@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978505935468326912"
+      ],
+      "media_source_tweet_id": [
+        "1978506131430375727"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1979767736164364606",
+    "created_at": "2025-10-19T04:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979767736164364606"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 62,
+          "tag": "artmoots"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1944793426475753472",
+          "start": 3,
+          "username": "felicia_drawss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXF9HQcFqe",
+          "end": 95,
+          "expanded_url": "https://x.com/felicia_drawss/status/1978506131430375727/photo/1",
+          "media_key": "3_1978505935468326912",
+          "start": 72,
+          "url": "https://t.co/cXF9HQcFqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979767736164364606",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2748
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978506131430375727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @felicia_drawss: Guys Is that Me Only 😭Why WHyyyyyyyyyyyy\n\n#artmoots https://t.co/cXF9HQcFqe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1978505935468326912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UQqm2XcAArU8H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978505935468326912"
+          ],
+          "media_source_tweet_id": [
+            "1978506131430375727"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1979767736164364606",
+        "created_at": "2025-10-19T04:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979767736164364606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "artmoots"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1944793426475753472",
+              "start": 3,
+              "username": "felicia_drawss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXF9HQcFqe",
+              "end": 95,
+              "expanded_url": "https://x.com/felicia_drawss/status/1978506131430375727/photo/1",
+              "media_key": "3_1978505935468326912",
+              "start": 72,
+              "url": "https://t.co/cXF9HQcFqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767736164364606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2748
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978506131430375727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @felicia_drawss: Guys Is that Me Only 😭Why WHyyyyyyyyyyyy\n\n#artmoots https://t.co/cXF9HQcFqe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978505935468326912"
+          ]
+        },
+        "author_id": "1944793426475753472",
+        "conversation_id": "1978506131430375727",
+        "created_at": "2025-10-15T16:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978506131430375727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "artmoots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXF9HQcFqe",
+              "end": 75,
+              "expanded_url": "https://x.com/felicia_drawss/status/1978506131430375727/photo/1",
+              "media_key": "3_1978505935468326912",
+              "start": 52,
+              "url": "https://t.co/cXF9HQcFqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978506131430375727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 1338575,
+          "like_count": 15782,
+          "quote_count": 467,
+          "reply_count": 422,
+          "retweet_count": 2748
+        },
+        "reply_settings": "everyone",
+        "text": "Guys Is that Me Only 😭Why WHyyyyyyyyyyyy\n\n#artmoots https://t.co/cXF9HQcFqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 248,
+          "like_count": 9953,
+          "listed_count": 3,
+          "media_count": 837,
+          "tweet_count": 5277
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T16:17:51.000Z",
+        "description": "drawing feelings  ♡(｡• ᴗ •｡)♡\nsunsets, playlists & pretty little things 🌸\n#commissions open now :p",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 74,
+                "tag": "commissions"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/felicia_drawss",
+                "end": 23,
+                "expanded_url": "http://vgen.co/felicia_drawss",
+                "start": 0,
+                "url": "https://t.co/YKSy1Q3Ar5"
+              }
+            ]
+          }
+        },
+        "id": "1944793426475753472",
+        "location": "Kiss Me Mootie",
+        "name": "Felicia",
+        "pinned_tweet_id": "1976646905036742779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975218922774265856/DPC8p1xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 854,
+          "like_count": 1652,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/YKSy1Q3Ar5",
+        "username": "felicia_drawss",
+        "verified": false
+      }
+    ]
+  }
+}

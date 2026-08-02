@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985644838356992001"
+      ],
+      "media_source_tweet_id": [
+        "1985644847798337768"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1986212983387590788",
+    "created_at": "2025-11-05T23:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T00:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986212983387590788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1162139789266604032",
+          "start": 3,
+          "username": "Munchen672"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqnW3Kw1Zl",
+          "end": 51,
+          "expanded_url": "https://x.com/Munchen672/status/1985644847798337768/photo/1",
+          "media_key": "3_1985644838356992001",
+          "start": 28,
+          "url": "https://t.co/DqnW3Kw1Zl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986212983387590788",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 373
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985644847798337768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Munchen672: 혁명적 동지애 실시! https://t.co/DqnW3Kw1Zl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986212983387590788].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986212983387590788",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986212983387590788"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985644838356992001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45tdchbQAEEBzh.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985644838356992001"
+          ]
+        },
+        "author_id": "1162139789266604032",
+        "conversation_id": "1985644847798337768",
+        "created_at": "2025-11-04T09:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985644847798337768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqnW3Kw1Zl",
+              "end": 35,
+              "expanded_url": "https://x.com/Munchen672/status/1985644847798337768/photo/1",
+              "media_key": "3_1985644838356992001",
+              "start": 12,
+              "url": "https://t.co/DqnW3Kw1Zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985644847798337768",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 523,
+          "impression_count": 43531,
+          "like_count": 2287,
+          "quote_count": 29,
+          "reply_count": 12,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "혁명적 동지애 실시! https://t.co/DqnW3Kw1Zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 249,
+          "like_count": 10098,
+          "listed_count": 3,
+          "media_count": 847,
+          "tweet_count": 5331
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T23:11:38.000Z",
+        "description": "일단 난 가능",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/munchen672",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/munchen672",
+                "start": 0,
+                "url": "https://t.co/K5IzLtcChg"
+              }
+            ]
+          }
+        },
+        "id": "1162139789266604032",
+        "name": "민도식",
+        "pinned_tweet_id": "1935269499101659318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918455087036547082/SHtk4u9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23917,
+          "following_count": 100,
+          "like_count": 4359,
+          "listed_count": 77,
+          "media_count": 1230,
+          "tweet_count": 14120
+        },
+        "url": "https://t.co/K5IzLtcChg",
+        "username": "Munchen672",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1960987079380492387",
+    "created_at": "2025-08-28T10:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T11:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961007591015797116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        },
+        {
+          "end": 27,
+          "id": "1810686092137627648",
+          "start": 16,
+          "username": "chong4shi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961007591015797116",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961006567857205254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 @chong4shi4 好der（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1961006567857205254].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1961006567857205254",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1961006567857205254"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1960987079380492387",
+        "created_at": "2025-08-28T10:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961007591015797116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            },
+            {
+              "end": 27,
+              "id": "1810686092137627648",
+              "start": 16,
+              "username": "chong4shi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961007591015797116",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961006567857205254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 @chong4shi4 好der（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 224,
+          "like_count": 9408,
+          "listed_count": 3,
+          "media_count": 796,
+          "tweet_count": 4977
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "失败！！！",
+        "id": "1647217584117280771",
+        "name": "山᳐海懒得平᳐੭🏁🏳️",
+        "pinned_tweet_id": "1878114384859238670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908907036307296258/FkHJg5qt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1424,
+          "like_count": 172637,
+          "listed_count": 4,
+          "media_count": 1823,
+          "tweet_count": 40928
+        },
+        "username": "zanbuzhidao555",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T14:43:12.000Z",
+        "description": "isfp/民主社会主义/中表🇨🇳藏表🇷🇪/汉字改良/        不过鉴证哥/日常发电性压抑/只要你搞表说话不味大意识形态不魔怔 主播都可以聊！",
+        "id": "1810686092137627648",
+        "location": "卢关革命委员会",
+        "name": "主席女孩重度依赖🏁🏳️",
+        "pinned_tweet_id": "1957893429524066367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954635895782723584/Vq6LnYnp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 193,
+          "like_count": 14788,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 2180
+        },
+        "username": "chong4shi4",
+        "verified": false
+      }
+    ]
+  }
+}

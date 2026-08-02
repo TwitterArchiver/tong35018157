@@ -1,0 +1,647 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1797193986194518064",
+    "created_at": "2024-06-02T09:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797193986194518064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "チェレン"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "ベル"
+        },
+        {
+          "end": 122,
+          "start": 115,
+          "tag": "ポケマスEX"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "987228577522376704",
+          "start": 3,
+          "username": "poke_times"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "go.dena.my/NRnRtj3",
+          "end": 114,
+          "expanded_url": "https://go.dena.my/NRnRtj3",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 91,
+          "status": 200,
+          "title": "Pokémon Masters EX",
+          "unwound_url": "https://app.adjust.com/z82yonk?deeplink=pokemonmasters-game%3A%2F%2F&campaign=DDD_JP_DeNA_Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8&adgroup=Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8_5&creative=05",
+          "url": "https://t.co/9p2Eka4ltA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797193986194518064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9688
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796783756209971334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poke_times: 「パシオのネオ・チャンピオン」となった #チェレン と #ベル 。\nあの「最初の一歩」から...たくさん歩いて成長したね😭\n\nふたりの成長っぷりは👉 https://t.co/9p2Eka4ltA #ポケマスEX https://t.co/b5p…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1797193986194518064",
+        "created_at": "2024-06-02T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797193986194518064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "チェレン"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "ベル"
+            },
+            {
+              "end": 122,
+              "start": 115,
+              "tag": "ポケマスEX"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "987228577522376704",
+              "start": 3,
+              "username": "poke_times"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "go.dena.my/NRnRtj3",
+              "end": 114,
+              "expanded_url": "https://go.dena.my/NRnRtj3",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "Pokémon Masters EX",
+              "unwound_url": "https://app.adjust.com/z82yonk?deeplink=pokemonmasters-game%3A%2F%2F&campaign=DDD_JP_DeNA_Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8&adgroup=Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8_5&creative=05",
+              "url": "https://t.co/9p2Eka4ltA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797193986194518064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9688
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796783756209971334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poke_times: 「パシオのネオ・チャンピオン」となった #チェレン と #ベル 。\nあの「最初の一歩」から...たくさん歩いて成長したね😭\n\nふたりの成長っぷりは👉 https://t.co/9p2Eka4ltA #ポケマスEX https://t.co/b5p…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796783750904250368"
+          ]
+        },
+        "author_id": "987228577522376704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1796783756209971334",
+        "created_at": "2024-06-01T06:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T07:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796783756209971334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "パシオのネオ・チャンピオン",
+              "probability": 0.5427,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "チェレン"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "ベル"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "ポケマスEX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "go.dena.my/NRnRtj3",
+              "end": 98,
+              "expanded_url": "https://go.dena.my/NRnRtj3",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1794753713640476673/ZlLi7sMw?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "Pokémon Masters EX",
+              "unwound_url": "https://app.adjust.com/z82yonk?deeplink=pokemonmasters-game%3A%2F%2F&campaign=DDD_JP_DeNA_Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8&adgroup=Twitter_SNS%E6%8A%95%E7%A8%BF%E6%A4%9C%E8%A8%BC%E7%94%A8_5&creative=05",
+              "url": "https://t.co/9p2Eka4ltA"
+            },
+            {
+              "display_url": "pic.twitter.com/b5pl1lHLDP",
+              "end": 130,
+              "expanded_url": "https://twitter.com/poke_times/status/1796783756209971334/photo/1",
+              "media_key": "3_1796783750904250368",
+              "start": 107,
+              "url": "https://t.co/b5pl1lHLDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796783756209971334",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2012,
+          "impression_count": 2067887,
+          "like_count": 39255,
+          "quote_count": 979,
+          "reply_count": 35,
+          "retweet_count": 9688
+        },
+        "reply_settings": "everyone",
+        "text": "「パシオのネオ・チャンピオン」となった #チェレン と #ベル 。\nあの「最初の一歩」から...たくさん歩いて成長したね😭\n\nふたりの成長っぷりは👉 https://t.co/9p2Eka4ltA #ポケマスEX https://t.co/b5pl1lHLDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750482046236172288/yZ4e_tlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 206,
+          "like_count": 7740,
+          "listed_count": 1,
+          "tweet_count": 3661
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T07:16:49.000Z",
+        "description": "ポケモン公式アカウント #ポケモン情報局 。 最新情報や気になるトピックスなど、ポケモンがもっと楽しくなる情報を発信していきます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 12,
+                "tag": "ポケモン情報局"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pokemon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.pokemon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/l69lEte0n8"
+              }
+            ]
+          }
+        },
+        "id": "987228577522376704",
+        "name": "【公式】ポケモン情報局",
+        "pinned_tweet_id": "1762481244095254780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695088651317952512/PgdkN7IO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866034,
+          "following_count": 36,
+          "like_count": 659,
+          "listed_count": 8643,
+          "tweet_count": 1092707
+        },
+        "url": "https://t.co/l69lEte0n8",
+        "username": "poke_times",
+        "verified": true
+      }
+    ]
+  }
+}

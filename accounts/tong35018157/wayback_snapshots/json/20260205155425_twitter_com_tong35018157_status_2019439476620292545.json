@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2019077107838746805",
+    "created_at": "2026-02-05T15:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019439476620292545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019439476620292545",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019077107838746805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 狼堡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29678,
+        "height": 1278,
+        "media_key": "7_2019076489732632577",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019076489732632577/pu/img/j-_B5js18r1FzhQx.jpg",
+        "public_metrics": {
+          "view_count": 2501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019076489732632577/pu/vid/avc1/320x706/59mEWRgrE5TInD_O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019076489732632577/pu/vid/avc1/480x1060/QjQ8Lou2canVpSpX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019076489732632577/pu/vid/avc1/578x1278/K38m_LEUgVNPiOOS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019076489732632577/pu/pl/Mu9VxRubt4xvvLsL.m3u8?tag=12&v=8ff"
+          }
+        ],
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2019077107838746805",
+        "created_at": "2026-02-05T15:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019439476620292545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019439476620292545",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019077107838746805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 狼堡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019076489732632577"
+          ]
+        },
+        "author_id": "1853777198018404352",
+        "conversation_id": "2019077107838746805",
+        "created_at": "2026-02-04T15:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019077107838746805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcJMhFMGUX",
+              "end": 28,
+              "expanded_url": "https://x.com/huthawar17115/status/2019077107838746805/video/1",
+              "media_key": "7_2019076489732632577",
+              "start": 5,
+              "url": "https://t.co/rcJMhFMGUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019077107838746805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4221,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "何意为？ https://t.co/rcJMhFMGUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 288,
+          "like_count": 10709,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 5572
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠坂下葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940273123896561664/5uvFE0k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1598,
+          "like_count": 37718,
+          "listed_count": 8,
+          "media_count": 941,
+          "tweet_count": 11973
+        },
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

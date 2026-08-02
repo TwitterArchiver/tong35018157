@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2027172098406322568",
+    "created_at": "2026-02-27T00:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027172098406322568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/canspain/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/canspain/status/2025866279442121181",
+          "start": 16,
+          "url": "https://t.co/1GdFiqL5Re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027172098406322568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025866279442121181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我滴妈有点像我们老钟明通姐…… https://t.co/1GdFiqL5Re"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12281,
+        "height": 1280,
+        "media_key": "13_2025866202157838336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025866202157838336/img/YqBhWbt12thQx4d1.jpg",
+        "public_metrics": {
+          "view_count": 95983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025866202157838336/vid/avc1/320x568/H5O5kLucRZoH3Von.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025866202157838336/vid/avc1/480x852/YuDNSi2ypbc7x9VA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025866202157838336/vid/avc1/720x1280/bjKJmqaZPD9gOTfp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025866202157838336/pl/CEvHulizYuHkAzR9.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2027172098406322568",
+        "created_at": "2026-02-27T00:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027172098406322568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canspain/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/canspain/status/2025866279442121181",
+              "start": 16,
+              "url": "https://t.co/1GdFiqL5Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027172098406322568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025866279442121181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我滴妈有点像我们老钟明通姐…… https://t.co/1GdFiqL5Re"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025866202157838336"
+          ]
+        },
+        "author_id": "1489959123080863746",
+        "conversation_id": "2025866279442121181",
+        "created_at": "2026-02-23T09:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025866279442121181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1eEBrkT3s",
+              "end": 51,
+              "expanded_url": "https://x.com/CanSpain/status/2025866279442121181/video/1",
+              "media_key": "13_2025866202157838336",
+              "start": 28,
+              "url": "https://t.co/S1eEBrkT3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025866279442121181",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 824,
+          "impression_count": 150644,
+          "like_count": 2806,
+          "quote_count": 63,
+          "reply_count": 115,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "Se busca novia inteligente. https://t.co/S1eEBrkT3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 302,
+          "like_count": 11407,
+          "listed_count": 3,
+          "media_count": 892,
+          "tweet_count": 5725
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T13:48:39.000Z",
+        "description": "",
+        "id": "1489959123080863746",
+        "name": "Roby Trabucon",
+        "pinned_tweet_id": "2025866279442121181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986452352786698240/pixd0-5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 382,
+          "like_count": 3011,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2093
+        },
+        "username": "CanSpain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2072554094682865995",
+    "created_at": "2026-07-02T14:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072688606960087176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1018205901851910144",
+          "start": 0,
+          "username": "5km100kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072688606960087176",
+    "in_reply_to_user_id": "1018205901851910144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072655465742487841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5km100kg （鼻子一凉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2072554094682865995",
+        "created_at": "2026-07-02T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072688606960087176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1018205901851910144",
+              "start": 0,
+              "username": "5km100kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072688606960087176",
+        "in_reply_to_user_id": "1018205901851910144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072655465742487841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5km100kg （鼻子一凉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1018205901851910144",
+        "conversation_id": "2072554094682865995",
+        "created_at": "2026-07-02T12:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072655465742487841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072655465742487841",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072554094682865995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 494,
+          "like_count": 16858,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 7445
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-14T18:49:39.000Z",
+        "description": "党妈赐我支那身，天皇赐我昭和魂",
+        "id": "1018205901851910144",
+        "name": "钢板水豚",
+        "pinned_tweet_id": "1582278307349139456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001916676212989952/IWT_4ZJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 6179,
+          "like_count": 319678,
+          "listed_count": 3,
+          "media_count": 610,
+          "tweet_count": 55389
+        },
+        "url": "",
+        "username": "5km100kg",
+        "verified": false
+      }
+    ]
+  }
+}

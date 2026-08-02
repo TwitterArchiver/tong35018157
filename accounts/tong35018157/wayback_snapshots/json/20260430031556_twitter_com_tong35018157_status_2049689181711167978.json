@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2049689181711167978",
+    "created_at": "2026-04-30T03:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049689181711167978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxwell2000080…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/maxwell20000808/status/2049471113235988654",
+          "start": 19,
+          "url": "https://t.co/cYjgSZkRwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049689181711167978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049471113235988654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "……我在女生宿舍没见过有人穿这种拖鞋 https://t.co/cYjgSZkRwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049471110929162240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEvHehboAA3Btd.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2049689181711167978",
+        "created_at": "2026-04-30T03:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049689181711167978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxwell2000080…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/maxwell20000808/status/2049471113235988654",
+              "start": 19,
+              "url": "https://t.co/cYjgSZkRwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049689181711167978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049471113235988654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……我在女生宿舍没见过有人穿这种拖鞋 https://t.co/cYjgSZkRwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049471110929162240"
+          ]
+        },
+        "author_id": "950952657270681600",
+        "conversation_id": "2049471113235988654",
+        "created_at": "2026-04-29T12:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049471113235988654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmzqwe2XJd",
+              "end": 67,
+              "expanded_url": "https://x.com/maxwell20000808/status/2049471113235988654/photo/1",
+              "media_key": "3_2049471110929162240",
+              "start": 44,
+              "url": "https://t.co/bmzqwe2XJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049471113235988654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 50722,
+          "like_count": 595,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "所有男娘都应该买这些女士拖鞋，而不是穿着黑白丝配城中村出租屋劣质黑色塑料男拖，恶心死了 https://t.co/bmzqwe2XJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 372,
+          "like_count": 13327,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6385
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-10T04:49:16.000Z",
+        "description": "UCLA Mathematics | 东莞 | 爱好c服、花嫁婚纱、lolita、jk 、汉服 ｜重度恋物癖｜不卖号不卖视频不接推广｜男娘收集者",
+        "id": "950952657270681600",
+        "location": "广东省",
+        "name": "Maxwell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103907190023188480/UWwObgir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80502,
+          "following_count": 395,
+          "like_count": 523,
+          "listed_count": 364,
+          "media_count": 124,
+          "tweet_count": 1867
+        },
+        "username": "maxwell20000808",
+        "verified": false
+      }
+    ]
+  }
+}

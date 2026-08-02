@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1493177750324056064",
+          "name": "Babies"
+        }
+      }
+    ],
+    "conversation_id": "2063839395686580597",
+    "created_at": "2026-06-08T04:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063839395686580597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409467647658541064",
+          "start": 3,
+          "username": "_Lynneyard_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063839395686580597",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063640104942317793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Lynneyard_: Весь этот срач за аборты при патологиях просто смешон. Люди пытаются эмоционально манипулировать, показывая красивые карти…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          }
+        ],
+        "conversation_id": "2063839395686580597",
+        "created_at": "2026-06-08T04:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063839395686580597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409467647658541064",
+              "start": 3,
+              "username": "_Lynneyard_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063839395686580597",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640104942317793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Lynneyard_: Весь этот срач за аборты при патологиях просто смешон. Люди пытаются эмоционально манипулировать, показывая красивые карти…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409467647658541064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          }
+        ],
+        "conversation_id": "2063640104942317793",
+        "created_at": "2026-06-07T15:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063640104942317793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LilaGraceRose/…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/LilaGraceRose/status/2063328296662647248",
+              "start": 279,
+              "url": "https://t.co/F2sLztQDMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063640104942317793",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 36681,
+          "like_count": 2403,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063328296662647248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Весь этот срач за аборты при патологиях просто смешон. Люди пытаются эмоционально манипулировать, показывая красивые картиночки и давя на жалость, при этом игнорируя тот факт, насколько сложно растит ребёнка-инвалида. Ты мразь, потому что не хочешь угробить себе и другому жизнь https://t.co/F2sLztQDMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 458,
+          "like_count": 15383,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6971
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T11:04:26.000Z",
+        "description": "oderint dum metuant.",
+        "id": "1409467647658541064",
+        "location": "19 y.o.",
+        "name": "𝕬𝖌𝖌𝖗𝖊𝖘𝖘𝖎𝖛𝖊 𝕸𝖊𝖓𝖆𝖈𝖊 ☣︎",
+        "pinned_tweet_id": "1998053946871402505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007073595781005312/rGZ2tT38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 1395,
+          "like_count": 82383,
+          "listed_count": 15,
+          "media_count": 2740,
+          "tweet_count": 22047
+        },
+        "username": "_Lynneyard_",
+        "verified": false
+      }
+    ]
+  }
+}

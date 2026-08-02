@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2063159895617392667",
+    "created_at": "2026-06-06T09:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063192439335342498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        },
+        {
+          "end": 26,
+          "id": "1409071214954389504",
+          "start": 17,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063192439335342498",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063192193368559731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange @TKongtou 只有亲密关系才这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2063159895617392667",
+        "created_at": "2026-06-06T09:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192439335342498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            },
+            {
+              "end": 26,
+              "id": "1409071214954389504",
+              "start": 17,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192439335342498",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063192193368559731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange @TKongtou 只有亲密关系才这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "2063159895617392667",
+        "created_at": "2026-06-06T09:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192193368559731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409071214954389504",
+              "start": 0,
+              "username": "TKongtou"
+            },
+            {
+              "end": 23,
+              "id": "1467315060041256963",
+              "start": 10,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192193368559731",
+        "in_reply_to_user_id": "1409071214954389504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063165240716771575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKongtou @tong35018157 边缘型人格障碍么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 458,
+          "like_count": 15267,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6950
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管 但是努力康复中！｜⚠️鉴证魔怔b滚贴脸飞老冯｜随便发发 偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776652401012736/ZaGBqDqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 749,
+          "like_count": 63429,
+          "listed_count": 8,
+          "media_count": 812,
+          "tweet_count": 25966
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ MC builder ‖ 我是某种互联网底栖生物 ‖ 人工智能 ‖ 计算机视觉\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou1",
+                "start": 0,
+                "url": "https://t.co/JoVJ47SdAY"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "location": "底特律 我正在努力变人",
+        "name": "kongtou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039951996195942400/LlQ9yjEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 863,
+          "like_count": 80864,
+          "listed_count": 3,
+          "media_count": 993,
+          "tweet_count": 20958
+        },
+        "url": "https://t.co/JoVJ47SdAY",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

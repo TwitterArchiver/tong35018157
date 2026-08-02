@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1972081767869042914",
+    "created_at": "2025-09-27T23:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T00:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972081767869042914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/cldeop/status/1971901719081849334",
+          "start": 12,
+          "url": "https://t.co/2gnMajjSF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972081767869042914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971901719081849334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "废了怪不得雷批找我面基 https://t.co/2gnMajjSF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1971901696797560837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12aJUmb0AUfw9M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1972081767869042914",
+        "created_at": "2025-09-27T23:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T00:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972081767869042914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/cldeop/status/1971901719081849334",
+              "start": 12,
+              "url": "https://t.co/2gnMajjSF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972081767869042914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971901719081849334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "废了怪不得雷批找我面基 https://t.co/2gnMajjSF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971901696797560837"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1971901719081849334",
+        "created_at": "2025-09-27T11:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971901719081849334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiat49HmvE",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1971901719081849334/photo/1",
+              "media_key": "3_1971901696797560837",
+              "start": 0,
+              "url": "https://t.co/uiat49HmvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971901719081849334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 162841,
+          "like_count": 1319,
+          "quote_count": 13,
+          "reply_count": 24,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uiat49HmvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 245,
+          "like_count": 9817,
+          "listed_count": 3,
+          "media_count": 829,
+          "tweet_count": 5220
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80802,
+          "following_count": 639,
+          "like_count": 30636,
+          "listed_count": 256,
+          "media_count": 12444,
+          "tweet_count": 17630
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

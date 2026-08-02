@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1944297411993616572",
+    "created_at": "2025-07-14T14:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944760537230827629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1058609497088782336",
+          "start": 0,
+          "username": "Signalman_Free"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944760537230827629",
+    "in_reply_to_user_id": "1058609497088782336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944297411993616572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Signalman_Free 去百合吐槽吧消消气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_1944297406235127813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvuIMIxbsAUEuaj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1944297411993616572",
+        "created_at": "2025-07-14T14:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944760537230827629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058609497088782336",
+              "start": 0,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944760537230827629",
+        "in_reply_to_user_id": "1058609497088782336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944297411993616572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Signalman_Free 去百合吐槽吧消消气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944297406235127813"
+          ]
+        },
+        "author_id": "1058609497088782336",
+        "conversation_id": "1944297411993616572",
+        "created_at": "2025-07-13T07:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944297411993616572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXbUMXVSGV",
+              "end": 46,
+              "expanded_url": "https://x.com/Signalman_Free/status/1944297411993616572/photo/1",
+              "media_key": "3_1944297406235127813",
+              "start": 23,
+              "url": "https://t.co/xXbUMXVSGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944297411993616572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16435,
+          "like_count": 324,
+          "quote_count": 7,
+          "reply_count": 33,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "所以说郭楠不图能行吗，不但要图，还应该多图。 https://t.co/xXbUMXVSGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 9037,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 4692
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:39:06.000Z",
+        "description": "在这个形态下的信号侠拥有在道路上无限飞驰的能力。もはや止まるものなど存在しない、光を超える、モードチェンジ、パーフェクトグリーン信号モード！",
+        "id": "1058609497088782336",
+        "location": "信号星",
+        "name": "信号侠-完美绿灯形态",
+        "pinned_tweet_id": "1938167160247070918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938453389316395011/zYjBTVtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 142,
+          "like_count": 16342,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 13934
+        },
+        "username": "Signalman_Free",
+        "verified": false
+      }
+    ]
+  }
+}

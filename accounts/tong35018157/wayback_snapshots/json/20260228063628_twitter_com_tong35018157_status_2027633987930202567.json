@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2027633987930202567",
+    "created_at": "2026-02-28T06:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027633987930202567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832664562086060032",
+          "start": 3,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027633987930202567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027415715989344338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amy526969: 你的品味再小众再高级，能不在抖音刷到末日降临寒潮来袭的时候，选择你的庇护所？能不领取你的十二星座专属床铺？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2027633987930202567",
+        "created_at": "2026-02-28T06:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027633987930202567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832664562086060032",
+              "start": 3,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633987930202567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027415715989344338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amy526969: 你的品味再小众再高级，能不在抖音刷到末日降临寒潮来袭的时候，选择你的庇护所？能不领取你的十二星座专属床铺？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2027415715989344338",
+        "created_at": "2026-02-27T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027415715989344338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027415715989344338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20221,
+          "like_count": 515,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你的品味再小众再高级，能不在抖音刷到末日降临寒潮来袭的时候，选择你的庇护所？能不领取你的十二星座专属床铺？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 303,
+          "like_count": 11431,
+          "listed_count": 3,
+          "media_count": 893,
+          "tweet_count": 5732
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "生活将我击倒在地 我幸福的睡着了 ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 58,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 35,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "2012493963584770511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 147,
+          "like_count": 16588,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 6166
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

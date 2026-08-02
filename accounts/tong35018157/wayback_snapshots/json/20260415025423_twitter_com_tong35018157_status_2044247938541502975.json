@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2044244192894038521",
+    "created_at": "2026-04-15T02:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044247938541502975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843173661362323456",
+          "start": 0,
+          "username": "DokkMk11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044247938541502975",
+    "in_reply_to_user_id": "1843173661362323456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044244192894038521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DokkMk11 ？！帅帅！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7944,
+        "height": 960,
+        "media_key": "7_2044244165635256320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044244165635256320/pu/img/xWZ1YlYOuoz2F66p.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044244165635256320/pu/vid/avc1/320x426/FOMGitKPZg3VBQSA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044244165635256320/pu/vid/avc1/480x640/fbUSRaDbk9A6GQua.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044244165635256320/pu/vid/avc1/720x960/681Wwm9zQ0dIYyDI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044244165635256320/pu/pl/h1ydfLZjypQJYfeZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2044244192894038521",
+        "created_at": "2026-04-15T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044247938541502975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843173661362323456",
+              "start": 0,
+              "username": "DokkMk11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044247938541502975",
+        "in_reply_to_user_id": "1843173661362323456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044244192894038521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DokkMk11 ？！帅帅！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044244165635256320"
+          ]
+        },
+        "author_id": "1843173661362323456",
+        "conversation_id": "2044244192894038521",
+        "created_at": "2026-04-15T02:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044244192894038521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VFGqN4Nro",
+              "end": 28,
+              "expanded_url": "https://x.com/DokkMk11/status/2044244192894038521/video/1",
+              "media_key": "7_2044244165635256320",
+              "start": 5,
+              "url": "https://t.co/0VFGqN4Nro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044244192894038521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大屌小甩 https://t.co/0VFGqN4Nro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 327,
+          "like_count": 12431,
+          "listed_count": 3,
+          "media_count": 924,
+          "tweet_count": 6112
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T06:17:14.000Z",
+        "description": "06年小南娘#crossdress👿\n#坐标广州\n#哪里都可以去的呢😋\n很需要宝宝们的关注和转发~小咪爱你们🥰\n₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "坐标广州"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "哪里都可以去的呢"
+              }
+            ]
+          }
+        },
+        "id": "1843173661362323456",
+        "name": "sleepy咪咪",
+        "pinned_tweet_id": "1957302447069651057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998895728014565376/bfWl0P0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 185,
+          "like_count": 1473,
+          "listed_count": 12,
+          "media_count": 481,
+          "tweet_count": 906
+        },
+        "username": "DokkMk11",
+        "verified": false
+      }
+    ]
+  }
+}

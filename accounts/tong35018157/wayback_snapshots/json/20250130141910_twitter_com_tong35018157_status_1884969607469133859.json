@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1884827367660769413",
+    "created_at": "2025-01-30T14:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T15:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884969607469133859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1244282246111973382",
+          "start": 0,
+          "username": "SR_Malaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884969607469133859",
+    "in_reply_to_user_id": "1244282246111973382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884827367660769413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SR_Malaya ？？第一个是真的畜生啊😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1884827367660769413",
+        "created_at": "2025-01-30T14:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884969607469133859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244282246111973382",
+              "start": 0,
+              "username": "SR_Malaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884969607469133859",
+        "in_reply_to_user_id": "1244282246111973382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884827367660769413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SR_Malaya ？？第一个是真的畜生啊😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244282246111973382",
+        "conversation_id": "1884827367660769413",
+        "created_at": "2025-01-30T04:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884827367660769413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884827367660769413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5381,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "性别战争是一场没有硝烟的战争。\n一个无孩爱猫女同学，在产科给剖腹产孕妇换药的时，故意很用力地撕开刀口处的敷贴，就是为了折磨她们口中的“娇妻婚驴”，还得意洋洋的说出来炫耀。\n一个初中豆瓣女，家里是肉摊摊主，当家长有事委托她代管时，她就故意给男顾客缺斤少两。\n我今天不说，你们能想象到吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 225,
+          "like_count": 8432,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 4184
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T15:16:38.000Z",
+        "description": "君权神授，神权我授",
+        "id": "1244282246111973382",
+        "name": "乱编瞎想",
+        "pinned_tweet_id": "1873254866522660955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872643178173763584/SUvNULOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6453,
+          "following_count": 3589,
+          "like_count": 3758,
+          "listed_count": 40,
+          "media_count": 716,
+          "tweet_count": 6857
+        },
+        "username": "SR_Malaya",
+        "verified": false
+      }
+    ]
+  }
+}

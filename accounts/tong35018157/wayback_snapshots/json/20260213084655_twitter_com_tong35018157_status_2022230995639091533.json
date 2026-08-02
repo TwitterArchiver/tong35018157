@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022175515378167808"
+      ],
+      "media_source_tweet_id": [
+        "2022175890281836849"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2022230995639091533",
+    "created_at": "2026-02-13T08:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022230995639091533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "981381937653796865",
+          "start": 3,
+          "username": "sinzinsitappa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGgpBKNQ8Q",
+          "end": 88,
+          "expanded_url": "https://x.com/sinzinsitappa/status/2022175890281836849/photo/1",
+          "media_key": "3_2022175515378167808",
+          "start": 65,
+          "url": "https://t.co/gGgpBKNQ8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022230995639091533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022175890281836849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sinzinsitappa: パパからちんちん取るためだけに医療サイトや個人ブログや宦官のウィキペディアを見たんですよ。 https://t.co/gGgpBKNQ8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2022175515378167808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBA16tObsAAlz_t.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022175515378167808"
+          ],
+          "media_source_tweet_id": [
+            "2022175890281836849"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2022230995639091533",
+        "created_at": "2026-02-13T08:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022230995639091533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "981381937653796865",
+              "start": 3,
+              "username": "sinzinsitappa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGgpBKNQ8Q",
+              "end": 88,
+              "expanded_url": "https://x.com/sinzinsitappa/status/2022175890281836849/photo/1",
+              "media_key": "3_2022175515378167808",
+              "start": 65,
+              "url": "https://t.co/gGgpBKNQ8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022230995639091533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022175890281836849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sinzinsitappa: パパからちんちん取るためだけに医療サイトや個人ブログや宦官のウィキペディアを見たんですよ。 https://t.co/gGgpBKNQ8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022175515378167808"
+          ]
+        },
+        "author_id": "981381937653796865",
+        "conversation_id": "2022175890281836849",
+        "created_at": "2026-02-13T05:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022175890281836849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGgpBKNQ8Q",
+              "end": 69,
+              "expanded_url": "https://x.com/sinzinsitappa/status/2022175890281836849/photo/1",
+              "media_key": "3_2022175515378167808",
+              "start": 46,
+              "url": "https://t.co/gGgpBKNQ8Q"
+            },
+            {
+              "display_url": "x.com/sinzinsitappa/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/sinzinsitappa/status/2022156952353354201",
+              "start": 70,
+              "url": "https://t.co/6dRb02nXqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022175890281836849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1285,
+          "impression_count": 266609,
+          "like_count": 4692,
+          "quote_count": 23,
+          "reply_count": 16,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022156952353354201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "パパからちんちん取るためだけに医療サイトや個人ブログや宦官のウィキペディアを見たんですよ。 https://t.co/gGgpBKNQ8Q https://t.co/6dRb02nXqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 290,
+          "like_count": 10975,
+          "listed_count": 3,
+          "media_count": 880,
+          "tweet_count": 5612
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T04:04:21.000Z",
+        "description": "只のファンです。一次創作と絵のお仕事します。/\nmisskey→https://t.co/xy3Uvd49z2　\n納品物は好きに公開してOKです。\nskeb(停止中)→https://t.co/yxZTH57KsK\n※NSFWのムービーは受け付けてません",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@sitamarimo",
+                "end": 55,
+                "expanded_url": "https://misskey.io/@sitamarimo",
+                "start": 32,
+                "url": "https://t.co/xy3Uvd49z2"
+              },
+              {
+                "display_url": "skeb.jp/@sinzinsitappa",
+                "end": 107,
+                "expanded_url": "https://skeb.jp/@sinzinsitappa",
+                "start": 84,
+                "url": "https://t.co/yxZTH57KsK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yama-zero.com/home/",
+                "end": 23,
+                "expanded_url": "https://yama-zero.com/home/",
+                "start": 0,
+                "url": "https://t.co/yNWhb0GNUy"
+              }
+            ]
+          }
+        },
+        "id": "981381937653796865",
+        "location": "日本",
+        "name": "シタッパ@ｺﾐﾃｨｱ155🚍う02b",
+        "pinned_tweet_id": "1964645501787341189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610923190943117313/N9twyy5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6412,
+          "following_count": 339,
+          "like_count": 175091,
+          "listed_count": 63,
+          "media_count": 2567,
+          "tweet_count": 21636
+        },
+        "url": "https://t.co/yNWhb0GNUy",
+        "username": "sinzinsitappa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048799775089475584"
+      ],
+      "media_source_tweet_id": [
+        "2048799777316549112"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048936194243973263",
+    "created_at": "2026-04-28T01:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048936194243973263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1075003732088090625",
+          "start": 3,
+          "username": "Gheetsis_is_god"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2FeZLMJyWU",
+          "end": 44,
+          "expanded_url": "https://x.com/Gheetsis_is_god/status/2048799777316549112/photo/1",
+          "media_key": "3_2048799775089475584",
+          "start": 21,
+          "url": "https://t.co/2FeZLMJyWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048936194243973263",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048799777316549112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gheetsis_is_god: https://t.co/2FeZLMJyWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048799775089475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7MilobwAAbTJ2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048799775089475584"
+          ],
+          "media_source_tweet_id": [
+            "2048799777316549112"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048936194243973263",
+        "created_at": "2026-04-28T01:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048936194243973263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1075003732088090625",
+              "start": 3,
+              "username": "Gheetsis_is_god"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FeZLMJyWU",
+              "end": 44,
+              "expanded_url": "https://x.com/Gheetsis_is_god/status/2048799777316549112/photo/1",
+              "media_key": "3_2048799775089475584",
+              "start": 21,
+              "url": "https://t.co/2FeZLMJyWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048936194243973263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048799777316549112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gheetsis_is_god: https://t.co/2FeZLMJyWU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048799775089475584"
+          ]
+        },
+        "author_id": "1075003732088090625",
+        "conversation_id": "2048799777316549112",
+        "created_at": "2026-04-27T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048799777316549112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FeZLMJyWU",
+              "end": 23,
+              "expanded_url": "https://x.com/Gheetsis_is_god/status/2048799777316549112/photo/1",
+              "media_key": "3_2048799775089475584",
+              "start": 0,
+              "url": "https://t.co/2FeZLMJyWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048799777316549112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 11925,
+          "like_count": 1730,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2FeZLMJyWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 371,
+          "like_count": 13132,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6330
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-18T12:23:57.000Z",
+        "description": "@botti_315ja71 地雷：特定キャラへの過激発言のバッシング行為。　絵は（本家様に迷惑が掛からないように）適当使用して下さい。\nメンタルクソ雑魚豆腐以下です。　　　（元雑多）　ようつべにも動画時々上げてます。自分用に描いているためリクエストは受け付けておりません、ご了承を。　TL遡れナイト",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "botti_315ja71"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ghetsis_is_go…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ghetsis_is_god?si=fYwbYLNn5TEq3H_p",
+                "start": 0,
+                "url": "https://t.co/N8UVKJpjqQ"
+              }
+            ]
+          }
+        },
+        "id": "1075003732088090625",
+        "location": "カントーのどこかorサブ垢（たさし一世）",
+        "name": "スノゥ丸☃",
+        "pinned_tweet_id": "1857702354025591162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022673397713637379/yzdnsjip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 436,
+          "like_count": 25547,
+          "listed_count": 2,
+          "media_count": 825,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/N8UVKJpjqQ",
+        "username": "Gheetsis_is_god",
+        "verified": false
+      }
+    ]
+  }
+}

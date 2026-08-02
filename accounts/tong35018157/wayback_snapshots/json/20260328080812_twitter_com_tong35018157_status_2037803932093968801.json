@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2037803932093968801",
+    "created_at": "2026-03-28T08:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037803932093968801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/windy_skyline/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/windy_skyline/status/2037356212367352236",
+          "start": 55,
+          "url": "https://t.co/8y73SP7Iqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037803932093968801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037356212367352236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前读湖北佬开的黑心学校就这样，而且很喜欢加辣把我有肠胃炎的同桌吃去做胃镜了，要我说领导就该赔她这一千块钱 https://t.co/8y73SP7Iqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2037356196701798400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYkqqFaAAA5IwE.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2037803932093968801",
+        "created_at": "2026-03-28T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037803932093968801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/windy_skyline/status/2037356212367352236",
+              "start": 55,
+              "url": "https://t.co/8y73SP7Iqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037803932093968801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037356212367352236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前读湖北佬开的黑心学校就这样，而且很喜欢加辣把我有肠胃炎的同桌吃去做胃镜了，要我说领导就该赔她这一千块钱 https://t.co/8y73SP7Iqb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037356196701798400"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "conversation_id": "2037356212367352236",
+        "created_at": "2026-03-27T02:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037356212367352236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Eh6XnzOcT",
+              "end": 111,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2037356212367352236/photo/1",
+              "media_key": "3_2037356196701798400",
+              "start": 88,
+              "url": "https://t.co/9Eh6XnzOcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037356212367352236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 49249,
+          "like_count": 712,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "把高中生逼的要疯狂计划、试验路线、在脑子里排练，然后歇斯底里地跑路然后抢食大锅饭的视频，互动全是玩笑、比赛、吹嘘自己以前抢饭的勇猛身姿，足以可见这个教育体系究竟想培养的是什么 https://t.co/9Eh6XnzOcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 321,
+          "like_count": 11915,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 5957
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 243,
+          "like_count": 2429,
+          "listed_count": 10,
+          "media_count": 3785,
+          "tweet_count": 12855
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

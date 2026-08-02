@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1626937893343358983"
+      ],
+      "media_source_tweet_id": [
+        "1626937983361511429"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2052427957868916757",
+    "created_at": "2026-05-07T16:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052427957868916757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346687408339750912",
+          "start": 3,
+          "username": "Futaba_141"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tk1Gufolzm",
+          "end": 39,
+          "expanded_url": "https://x.com/Futaba_141/status/1626937983361511429/photo/1",
+          "media_key": "3_1626937893343358983",
+          "start": 16,
+          "url": "https://t.co/Tk1Gufolzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052427957868916757",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1626937983361511429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Futaba_141: https://t.co/Tk1Gufolzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_1626937893343358983",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FpQLZORacAc47pa.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1626937893343358983"
+          ],
+          "media_source_tweet_id": [
+            "1626937983361511429"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2052427957868916757",
+        "created_at": "2026-05-07T16:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052427957868916757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346687408339750912",
+              "start": 3,
+              "username": "Futaba_141"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk1Gufolzm",
+              "end": 39,
+              "expanded_url": "https://x.com/Futaba_141/status/1626937983361511429/photo/1",
+              "media_key": "3_1626937893343358983",
+              "start": 16,
+              "url": "https://t.co/Tk1Gufolzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052427957868916757",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1626937983361511429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Futaba_141: https://t.co/Tk1Gufolzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1626937893343358983"
+          ]
+        },
+        "author_id": "1346687408339750912",
+        "conversation_id": "1626937983361511429",
+        "created_at": "2023-02-18T13:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-18T14:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1626937983361511429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk1Gufolzm",
+              "end": 23,
+              "expanded_url": "https://x.com/Futaba_141/status/1626937983361511429/photo/1",
+              "media_key": "3_1626937893343358983",
+              "start": 0,
+              "url": "https://t.co/Tk1Gufolzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1626937983361511429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 7518,
+          "like_count": 305,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tk1Gufolzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 384,
+          "like_count": 13676,
+          "listed_count": 4,
+          "media_count": 942,
+          "tweet_count": 6469
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T05:19:03.000Z",
+        "description": "20y / thai || artist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/arthitraemchai…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/arthitraemchai?igsh=dzQ0bnNibTMyYmJw",
+                "start": 0,
+                "url": "https://t.co/ossGRPRS3L"
+              }
+            ]
+          }
+        },
+        "id": "1346687408339750912",
+        "name": "•Ar-thit• CM 1/2",
+        "pinned_tweet_id": "2050486810699337807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925880251189469184/a329008d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12832,
+          "following_count": 1242,
+          "like_count": 9333,
+          "listed_count": 66,
+          "media_count": 232,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/ossGRPRS3L",
+        "username": "Futaba_141",
+        "verified": false
+      }
+    ]
+  }
+}

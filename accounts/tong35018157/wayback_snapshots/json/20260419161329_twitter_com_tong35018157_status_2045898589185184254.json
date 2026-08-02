@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2045809918448742850",
+    "created_at": "2026-04-19T16:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045898589185184254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682687182375636992",
+          "start": 0,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045898589185184254",
+    "in_reply_to_user_id": "1682687182375636992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045809918448742850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cavaradossi1008 生日快乐宝子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045809831332945920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQtM9KaIAAOwS0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2045809918448742850",
+        "created_at": "2026-04-19T16:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045898589185184254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682687182375636992",
+              "start": 0,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045898589185184254",
+        "in_reply_to_user_id": "1682687182375636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045809918448742850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cavaradossi1008 生日快乐宝子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045809831332945920"
+          ]
+        },
+        "author_id": "1682687182375636992",
+        "conversation_id": "2045809918448742850",
+        "created_at": "2026-04-19T10:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045809918448742850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaYdPVTR8Z",
+              "end": 31,
+              "expanded_url": "https://x.com/Cavaradossi1008/status/2045809918448742850/photo/1",
+              "media_key": "3_2045809831332945920",
+              "start": 8,
+              "url": "https://t.co/vaYdPVTR8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045809918448742850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一定要活下去 https://t.co/vaYdPVTR8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 336,
+          "like_count": 12585,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6158
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "🔱🇮🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MajheMaherPand…",
+                "end": 23,
+                "expanded_url": "https://t.me/MajheMaherPandhari",
+                "start": 0,
+                "url": "https://t.co/bNqhFL4qFx"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "location": "Ganga",
+        "name": "MerryMerryHearn",
+        "pinned_tweet_id": "2007562246478827570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797915426091009/vc4YUeLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1426,
+          "like_count": 169174,
+          "listed_count": 10,
+          "media_count": 1314,
+          "tweet_count": 17320
+        },
+        "url": "https://t.co/bNqhFL4qFx",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

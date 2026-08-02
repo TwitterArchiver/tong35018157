@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028073107576258561",
+        "3_2028073107580407808"
+      ],
+      "media_source_tweet_id": [
+        "2028073114379354120",
+        "2028073114379354120"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2028410776130843115",
+    "created_at": "2026-03-02T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028410776130843115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914350559148298240",
+          "start": 3,
+          "username": "MGKAWAIIKING"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sa99eSSYLs",
+          "end": 45,
+          "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+          "media_key": "3_2028073107576258561",
+          "start": 22,
+          "url": "https://t.co/sa99eSSYLs"
+        },
+        {
+          "display_url": "pic.x.com/sa99eSSYLs",
+          "end": 45,
+          "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+          "media_key": "3_2028073107580407808",
+          "start": 22,
+          "url": "https://t.co/sa99eSSYLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028410776130843115",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1517
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028073114379354120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MGKAWAIIKING: 0_0 https://t.co/sa99eSSYLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028073107576258561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUpvwObAAEF-CO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028073107580407808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUpvwPaUAAR1kQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028073107576258561",
+            "3_2028073107580407808"
+          ],
+          "media_source_tweet_id": [
+            "2028073114379354120",
+            "2028073114379354120"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2028410776130843115",
+        "created_at": "2026-03-02T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028410776130843115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914350559148298240",
+              "start": 3,
+              "username": "MGKAWAIIKING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sa99eSSYLs",
+              "end": 45,
+              "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+              "media_key": "3_2028073107576258561",
+              "start": 22,
+              "url": "https://t.co/sa99eSSYLs"
+            },
+            {
+              "display_url": "pic.x.com/sa99eSSYLs",
+              "end": 45,
+              "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+              "media_key": "3_2028073107580407808",
+              "start": 22,
+              "url": "https://t.co/sa99eSSYLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028410776130843115",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1517
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028073114379354120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MGKAWAIIKING: 0_0 https://t.co/sa99eSSYLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028073107576258561",
+            "3_2028073107580407808"
+          ]
+        },
+        "author_id": "1914350559148298240",
+        "conversation_id": "2028073114379354120",
+        "created_at": "2026-03-01T11:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028073114379354120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sa99eSSYLs",
+              "end": 27,
+              "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+              "media_key": "3_2028073107576258561",
+              "start": 4,
+              "url": "https://t.co/sa99eSSYLs"
+            },
+            {
+              "display_url": "pic.x.com/sa99eSSYLs",
+              "end": 27,
+              "expanded_url": "https://x.com/MGKAWAIIKING/status/2028073114379354120/photo/1",
+              "media_key": "3_2028073107580407808",
+              "start": 4,
+              "url": "https://t.co/sa99eSSYLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028073114379354120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1664,
+          "impression_count": 118148,
+          "like_count": 13744,
+          "quote_count": 58,
+          "reply_count": 7,
+          "retweet_count": 1517
+        },
+        "reply_settings": "everyone",
+        "text": "0_0 https://t.co/sa99eSSYLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 302,
+          "like_count": 11488,
+          "listed_count": 3,
+          "media_count": 893,
+          "tweet_count": 5746
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T16:08:40.000Z",
+        "description": "HOLD ON LET ME PROCESS THIS. YOU'RE SAYING YOU HANDCUFFED MY BROTHER TO A ROOF AND YOU LEFT HIM THERE?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/5fek-1R7ei8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/5fek-1R7ei8?si=xBFURETr3hqqYdCY",
+                "start": 0,
+                "url": "https://t.co/Cbuo7fvrzm"
+              }
+            ]
+          }
+        },
+        "id": "1914350559148298240",
+        "name": "MG",
+        "pinned_tweet_id": "2024777863212540325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025380465902014464/Dt3EHxUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 87,
+          "like_count": 1162,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/Cbuo7fvrzm",
+        "username": "MGKAWAIIKING",
+        "verified": false
+      }
+    ]
+  }
+}

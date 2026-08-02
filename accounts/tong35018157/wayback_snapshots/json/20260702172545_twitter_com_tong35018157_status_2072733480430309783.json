@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072554619587231744"
+      ],
+      "media_source_tweet_id": [
+        "2072554624830017855"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2072733480430309783",
+    "created_at": "2026-07-02T17:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072733480430309783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1725193970643308544",
+          "start": 3,
+          "username": "billgoldwater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Nbj0xPJA7",
+          "end": 42,
+          "expanded_url": "https://x.com/billgoldwater/status/2072554624830017855/photo/1",
+          "media_key": "3_2072554619587231744",
+          "start": 19,
+          "url": "https://t.co/9Nbj0xPJA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072733480430309783",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2520
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072554624830017855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @billgoldwater: https://t.co/9Nbj0xPJA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2072554619587231744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMxchYXgAAd_E3.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072554619587231744"
+          ],
+          "media_source_tweet_id": [
+            "2072554624830017855"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2072733480430309783",
+        "created_at": "2026-07-02T17:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072733480430309783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1725193970643308544",
+              "start": 3,
+              "username": "billgoldwater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Nbj0xPJA7",
+              "end": 42,
+              "expanded_url": "https://x.com/billgoldwater/status/2072554624830017855/photo/1",
+              "media_key": "3_2072554619587231744",
+              "start": 19,
+              "url": "https://t.co/9Nbj0xPJA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072733480430309783",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072554624830017855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @billgoldwater: https://t.co/9Nbj0xPJA7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072554619587231744"
+          ]
+        },
+        "author_id": "1725193970643308544",
+        "conversation_id": "2072554624830017855",
+        "created_at": "2026-07-02T05:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072554624830017855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Nbj0xPJA7",
+              "end": 23,
+              "expanded_url": "https://x.com/billgoldwater/status/2072554624830017855/photo/1",
+              "media_key": "3_2072554619587231744",
+              "start": 0,
+              "url": "https://t.co/9Nbj0xPJA7"
+            },
+            {
+              "display_url": "x.com/NewFreedomGuy/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/NewFreedomGuy/status/2072547339399737774",
+              "start": 24,
+              "url": "https://t.co/6bWGRxvvQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072554624830017855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 795,
+          "impression_count": 549577,
+          "like_count": 47978,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 2520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072547339399737774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Nbj0xPJA7 https://t.co/6bWGRxvvQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 494,
+          "like_count": 16885,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 7452
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T16:47:54.000Z",
+        "description": "Senator in @poligsim (Roleplay)\n\nChair @SenLibCaucus (Roleplay)\n\nBeltway Libertarian Atlantacist, Reason Magazine Enjoyer, \nAnti Slopulist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "poligsim"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "SenLibCaucus"
+              }
+            ]
+          }
+        },
+        "id": "1725193970643308544",
+        "location": "Coruscant",
+        "name": "Senator Bill Goldwater🗽💛(RP)",
+        "pinned_tweet_id": "2070263581082263676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038299299579039744/-lWC9ZC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 6252,
+          "like_count": 19836,
+          "listed_count": 17,
+          "media_count": 1497,
+          "tweet_count": 17330
+        },
+        "url": "",
+        "username": "billgoldwater",
+        "verified": false
+      }
+    ]
+  }
+}

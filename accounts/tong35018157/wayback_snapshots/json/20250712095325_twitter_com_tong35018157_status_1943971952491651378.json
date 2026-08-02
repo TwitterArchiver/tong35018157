@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1943890875547103501",
+    "created_at": "2025-07-12T09:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T10:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943971952491651378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692408428642357248",
+          "start": 0,
+          "username": "chiyoukawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943971952491651378",
+    "in_reply_to_user_id": "1692408428642357248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943890875547103501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoukawai 河豚不比炫压抑辣仙正常多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1943890875547103501",
+        "created_at": "2025-07-12T09:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943971952491651378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692408428642357248",
+              "start": 0,
+              "username": "chiyoukawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943971952491651378",
+        "in_reply_to_user_id": "1692408428642357248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943890875547103501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoukawai 河豚不比炫压抑辣仙正常多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692408428642357248",
+        "conversation_id": "1943890875547103501",
+        "created_at": "2025-07-12T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943890875547103501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943890875547103501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1049,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看少女樂隊的有正常男性嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 225,
+          "like_count": 9014,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 4679
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T05:29:59.000Z",
+        "description": "いいね≠認同\nムツキは世界一1⃣️1⃣️1⃣️\n日本語👌 EN👌CN👌 16歳女子高一生\nホロライブ ヨルシカ BAND-MAIDが好き 兔兔派 兔兔黨 兔兔主義😼😼 以及我不能使用私信🙇‍♀️🙇‍♀️上推衹是為了看可愛的東西 我害怕建政的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi",
+                "start": 0,
+                "url": "https://t.co/SR2vL36YlE"
+              }
+            ]
+          }
+        },
+        "id": "1692408428642357248",
+        "location": "兔兔窩",
+        "name": "koieivi🍰🍙💊",
+        "pinned_tweet_id": "1918913241893200170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943162203042897920/NkhyQGf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 433,
+          "like_count": 19715,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/SR2vL36YlE",
+        "username": "chiyoukawai",
+        "verified": false
+      }
+    ]
+  }
+}

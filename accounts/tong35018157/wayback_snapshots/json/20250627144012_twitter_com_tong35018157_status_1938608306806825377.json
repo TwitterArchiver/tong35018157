@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1938608306806825377",
+    "created_at": "2025-06-27T14:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938608306806825377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dexchan_/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dexchan_/status/1938392096299225460",
+          "start": 9,
+          "url": "https://t.co/feDQC0Qvel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938608306806825377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938392096299225460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老婆孩子睡觉了🥰 https://t.co/feDQC0Qvel"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1938392088254558208",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GuaNVY_XMAAYQOd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GuaNVY_XMAAYQOd.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1938608306806825377",
+        "created_at": "2025-06-27T14:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938608306806825377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexchan_/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dexchan_/status/1938392096299225460",
+              "start": 9,
+              "url": "https://t.co/feDQC0Qvel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938608306806825377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938392096299225460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老婆孩子睡觉了🥰 https://t.co/feDQC0Qvel"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1938392088254558208"
+          ]
+        },
+        "author_id": "1238089249129467905",
+        "conversation_id": "1938392096299225460",
+        "created_at": "2025-06-27T00:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938392096299225460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hE8dAIopT",
+              "end": 44,
+              "expanded_url": "https://x.com/DexChan_/status/1938392096299225460/photo/1",
+              "media_key": "16_1938392088254558208",
+              "start": 21,
+              "url": "https://t.co/3hE8dAIopT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938392096299225460",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 6388,
+          "like_count": 659,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "Good night oomfys ❤️ https://t.co/3hE8dAIopT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 226,
+          "like_count": 8937,
+          "listed_count": 2,
+          "media_count": 738,
+          "tweet_count": 4589
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T13:07:50.000Z",
+        "description": "Gyaru VTuber -\nHere to kick ass and be cute💖\n#Nikke First Generation Commander 🫡 & Nikke Streamer\nGFL enjoyer.\nGym advocate 💪.\nhttps://t.co/NerrtkAisd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "Nikke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dexcha.straw.page",
+                "end": 150,
+                "expanded_url": "https://dexcha.straw.page",
+                "start": 127,
+                "url": "https://t.co/NerrtkAisd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dex.lat",
+                "end": 23,
+                "expanded_url": "https://dex.lat/",
+                "start": 0,
+                "url": "https://t.co/rDz1G7ITpz"
+              }
+            ]
+          }
+        },
+        "id": "1238089249129467905",
+        "location": "Cyberspace ",
+        "name": "DexChan 💖 Gyaru -V 🎼🐟",
+        "pinned_tweet_id": "1936785856091635855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881063276215144448/4vAJWOtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1013,
+          "like_count": 16983,
+          "listed_count": 13,
+          "media_count": 615,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/rDz1G7ITpz",
+        "username": "DexChan_",
+        "verified": true
+      }
+    ]
+  }
+}

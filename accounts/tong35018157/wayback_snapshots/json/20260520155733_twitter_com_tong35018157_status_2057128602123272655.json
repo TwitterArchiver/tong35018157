@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057013635415966151",
+    "created_at": "2026-05-20T15:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057128602123272655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1918771312568487936",
+          "start": 0,
+          "username": "miko1780820"
+        },
+        {
+          "end": 24,
+          "id": "1918857660835020800",
+          "start": 13,
+          "username": "mji1627885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057128602123272655",
+    "in_reply_to_user_id": "1918771312568487936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057105245465928017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miko1780820 @mji1627885 我也是……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057013635415966151",
+        "created_at": "2026-05-20T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057128602123272655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1918771312568487936",
+              "start": 0,
+              "username": "miko1780820"
+            },
+            {
+              "end": 24,
+              "id": "1918857660835020800",
+              "start": 13,
+              "username": "mji1627885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057128602123272655",
+        "in_reply_to_user_id": "1918771312568487936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057105245465928017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miko1780820 @mji1627885 我也是……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918771312568487936",
+        "conversation_id": "2057013635415966151",
+        "created_at": "2026-05-20T14:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057105245465928017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918857660835020800",
+              "start": 0,
+              "username": "mji1627885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057105245465928017",
+        "in_reply_to_user_id": "1918857660835020800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2184,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057013635415966151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mji1627885 我小学经常看 还以为这很小众。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 406,
+          "like_count": 14350,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6643
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T20:55:15.000Z",
+        "description": "",
+        "id": "1918771312568487936",
+        "name": "ovo",
+        "pinned_tweet_id": "2049501419808432223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918771785102983168/LAgs3mfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 213,
+          "like_count": 6180,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 174
+        },
+        "username": "miko1780820",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T02:38:19.000Z",
+        "description": "想被女人操。",
+        "id": "1918857660835020800",
+        "name": "恨",
+        "pinned_tweet_id": "2056935059790483709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053764890670796800/2zcvYowU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 510,
+          "like_count": 4059,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 113
+        },
+        "username": "mji1627885",
+        "verified": false
+      }
+    ]
+  }
+}

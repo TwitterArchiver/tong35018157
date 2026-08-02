@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2045319999028683039",
+    "created_at": "2026-04-18T01:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045319999028683039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fukushima_wsc/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/fukushima_wsc/status/2044974136435630181",
+          "start": 9,
+          "url": "https://t.co/gSCHRg5CSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045319999028683039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044974136435630181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想去冲绳看这个 https://t.co/gSCHRg5CSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8493,
+        "height": 420,
+        "media_key": "13_2034797721669050371",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034797721669050371/img/TrgaOHbRQOvZi-wv.jpg",
+        "public_metrics": {
+          "view_count": 3406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034797721669050371/vid/avc1/308x270/wU25e-Um9KP6BUj8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034797721669050371/vid/avc1/480x420/vEqvvEQ-Iwd3uywf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034797721669050371/pl/k_AFQUqYjva8AugU.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2045319999028683039",
+        "created_at": "2026-04-18T01:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045319999028683039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fukushima_wsc/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/fukushima_wsc/status/2044974136435630181",
+              "start": 9,
+              "url": "https://t.co/gSCHRg5CSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045319999028683039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044974136435630181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想去冲绳看这个 https://t.co/gSCHRg5CSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034797721669050371"
+          ]
+        },
+        "author_id": "1581907863491911680",
+        "conversation_id": "2044974136435630181",
+        "created_at": "2026-04-17T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044974136435630181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 55,
+              "tag": "野生生物共生センター"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "アカショウビン"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "野生動物の救護"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDhpNtogyH",
+              "end": 108,
+              "expanded_url": "https://x.com/Fukushima_WSC/status/2044974136435630181/video/1",
+              "media_key": "13_2034797721669050371",
+              "start": 85,
+              "url": "https://t.co/iDhpNtogyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044974136435630181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 27248,
+          "like_count": 1606,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "まばたきしないで見れますか？\n初めて見るカメラに攻撃しています。\nその後は慣れたようで攻撃はなくなりました。\n＃野生生物共生センター\n＃アカショウビン\n＃野生動物の救護 https://t.co/iDhpNtogyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 333,
+          "like_count": 12529,
+          "listed_count": 3,
+          "media_count": 926,
+          "tweet_count": 6137
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T07:21:57.000Z",
+        "description": "福島県野生生物共生センターの公式アカウント（個別のご質問等には対応しておりませんのでご了承ください）。 業務や救護している野生動物の状況、イベント情報などを発信。開館:火〜日の9:00〜17:00。休館:年末年始、月曜日（月曜が祝日の場合は翌日）。入館無料で野生動物や生物多様性について学べます。ご来館お待ちしてます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fukushima-kankyosozo.jp/otama-yasei.ht…",
+                "end": 23,
+                "expanded_url": "https://www.fukushima-kankyosozo.jp/otama-yasei.html",
+                "start": 0,
+                "url": "https://t.co/u6jUo2DHUo"
+              }
+            ]
+          }
+        },
+        "id": "1581907863491911680",
+        "location": "福島県大玉村",
+        "name": "福島県 野生生物共生センター",
+        "pinned_tweet_id": "1670658451717120000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586579759957676033/cAXEbtD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 14,
+          "like_count": 152,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/u6jUo2DHUo",
+        "username": "Fukushima_WSC",
+        "verified": false
+      }
+    ]
+  }
+}

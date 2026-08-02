@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968822885679865856"
+      ],
+      "media_source_tweet_id": [
+        "1968823102298521768"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1968922445466812900",
+    "created_at": "2025-09-19T06:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T07:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968922445466812900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "comission"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1280158969437122561",
+          "start": 3,
+          "username": "KagaMywifeis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3HAhfrrfM",
+          "end": 57,
+          "expanded_url": "https://x.com/KagaMywifeis/status/1968823102298521768/photo/1",
+          "media_key": "3_1968822885679865856",
+          "start": 34,
+          "url": "https://t.co/D3HAhfrrfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968922445466812900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968823102298521768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagaMywifeis: 大户人家\n#comission https://t.co/D3HAhfrrfM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1968822885679865856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Kp-7aboAA2ZwK.png",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968822885679865856"
+          ],
+          "media_source_tweet_id": [
+            "1968823102298521768"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1968922445466812900",
+        "created_at": "2025-09-19T06:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T07:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968922445466812900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "comission"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1280158969437122561",
+              "start": 3,
+              "username": "KagaMywifeis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3HAhfrrfM",
+              "end": 57,
+              "expanded_url": "https://x.com/KagaMywifeis/status/1968823102298521768/photo/1",
+              "media_key": "3_1968822885679865856",
+              "start": 34,
+              "url": "https://t.co/D3HAhfrrfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968922445466812900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968823102298521768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagaMywifeis: 大户人家\n#comission https://t.co/D3HAhfrrfM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968822885679865856"
+          ]
+        },
+        "author_id": "1280158969437122561",
+        "conversation_id": "1968823102298521768",
+        "created_at": "2025-09-18T23:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968823102298521768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "comission"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3HAhfrrfM",
+              "end": 39,
+              "expanded_url": "https://x.com/KagaMywifeis/status/1968823102298521768/photo/1",
+              "media_key": "3_1968822885679865856",
+              "start": 16,
+              "url": "https://t.co/D3HAhfrrfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968823102298521768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2202,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大户人家\n#comission https://t.co/D3HAhfrrfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 234,
+          "like_count": 9698,
+          "listed_count": 3,
+          "media_count": 821,
+          "tweet_count": 5153
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T15:17:45.000Z",
+        "description": "I do what I love.  一次創作メインの個人創作アカンウト。 Lego、二郎系❤ / 🔞 /Pixiv：https://t.co/XdWzczPsKj ホモ、見知らぬ奴は一律ブロック。 8964天安門",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9873380",
+                "end": 82,
+                "expanded_url": "https://www.pixiv.net/users/9873380",
+                "start": 59,
+                "url": "https://t.co/XdWzczPsKj"
+              }
+            ]
+          }
+        },
+        "id": "1280158969437122561",
+        "location": "大日本帝國  吳市 柱島泊地",
+        "name": "Hashirajima001🇺🇦🇮🇱 comms open",
+        "pinned_tweet_id": "1965824817581666802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964327752032800770/B_yRfoBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3543,
+          "following_count": 600,
+          "like_count": 20671,
+          "listed_count": 30,
+          "media_count": 990,
+          "tweet_count": 5600
+        },
+        "username": "KagaMywifeis",
+        "verified": false
+      }
+    ]
+  }
+}

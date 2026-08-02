@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047522127474315617",
+    "created_at": "2026-04-24T04:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047529397796901335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        },
+        {
+          "end": 19,
+          "id": "1668917712851181568",
+          "start": 9,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047529397796901335",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047528413028659571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl @Astdeitee xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047522127474315617",
+        "created_at": "2026-04-24T04:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047529397796901335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 19,
+              "id": "1668917712851181568",
+              "start": 9,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047529397796901335",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047528413028659571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl @Astdeitee xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2047522127474315617",
+        "created_at": "2026-04-24T04:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047528413028659571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            },
+            {
+              "end": 24,
+              "id": "1467315060041256963",
+              "start": 11,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047528413028659571",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047526183861166145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee @tong35018157 什么意思😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 359,
+          "like_count": 12864,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6243
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "虾头看黄男 （确信）| 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "live with physics 鴇鵬機工|Tokiho Engineering",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10906,
+          "following_count": 6563,
+          "like_count": 157923,
+          "listed_count": 26,
+          "media_count": 6643,
+          "tweet_count": 93320
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 497,
+          "like_count": 45310,
+          "listed_count": 0,
+          "media_count": 994,
+          "tweet_count": 27678
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

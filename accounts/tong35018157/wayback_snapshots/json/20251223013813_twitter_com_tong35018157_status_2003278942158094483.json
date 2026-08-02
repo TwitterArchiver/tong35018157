@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2001088334894944256"
+      ],
+      "media_source_tweet_id": [
+        "2001088362011050190"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2003278942158094483",
+    "created_at": "2025-12-23T01:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T02:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003278942158094483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846469285637492736",
+          "start": 3,
+          "username": "Artist_1917"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ny239lyiN",
+          "end": 40,
+          "expanded_url": "https://x.com/Artist_1917/status/2001088362011050190/video/1",
+          "media_key": "7_2001088334894944256",
+          "start": 17,
+          "url": "https://t.co/8ny239lyiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003278942158094483",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001088362011050190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Artist_1917: https://t.co/8ny239lyiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18530,
+        "height": 1050,
+        "media_key": "7_2001088334894944256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001088334894944256/pu/img/ZnG-QCZNb_lA3UwW.jpg",
+        "public_metrics": {
+          "view_count": 513
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001088334894944256/pu/vid/avc1/320x582/cm2MT93O_znG5pDG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001088334894944256/pu/vid/avc1/480x874/iAxXqyXf47oaLosM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001088334894944256/pu/vid/avc1/576x1050/c2FaOqZ5dbjfhCmb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001088334894944256/pu/pl/M9w5sRhVHTOchqM9.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001088334894944256"
+          ],
+          "media_source_tweet_id": [
+            "2001088362011050190"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2003278942158094483",
+        "created_at": "2025-12-23T01:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T02:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003278942158094483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846469285637492736",
+              "start": 3,
+              "username": "Artist_1917"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ny239lyiN",
+              "end": 40,
+              "expanded_url": "https://x.com/Artist_1917/status/2001088362011050190/video/1",
+              "media_key": "7_2001088334894944256",
+              "start": 17,
+              "url": "https://t.co/8ny239lyiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003278942158094483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001088362011050190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Artist_1917: https://t.co/8ny239lyiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001088334894944256"
+          ]
+        },
+        "author_id": "1846469285637492736",
+        "conversation_id": "2001088362011050190",
+        "created_at": "2025-12-17T00:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T01:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001088362011050190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ny239lyiN",
+              "end": 23,
+              "expanded_url": "https://x.com/Artist_1917/status/2001088362011050190/video/1",
+              "media_key": "7_2001088334894944256",
+              "start": 0,
+              "url": "https://t.co/8ny239lyiN"
+            },
+            {
+              "display_url": "x.com/LaPanteraRoja6…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LaPanteraRoja6/status/2000617408898437237",
+              "start": 24,
+              "url": "https://t.co/e2wSXrAevc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001088362011050190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1161,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000617408898437237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8ny239lyiN https://t.co/e2wSXrAevc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 272,
+          "like_count": 10559,
+          "listed_count": 3,
+          "media_count": 866,
+          "tweet_count": 5493
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T08:33:54.000Z",
+        "description": "📔Semi-Constitutional Monarchist 👑 | 🏛️Paternalistic Conservative 🌹| Аніме-Гетьманство | У держави три стовпа - Фрірен, Армія, Кучма | @Hetman_Pamphlet |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Hetman_Pamphlet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BonapartismUA",
+                "end": 23,
+                "expanded_url": "https://t.me/BonapartismUA",
+                "start": 0,
+                "url": "https://t.co/OUtbblJHiU"
+              }
+            ]
+          }
+        },
+        "id": "1846469285637492736",
+        "location": "Український Гетьманат",
+        "name": "🇺🇦 Зумери за Гетьмана ꑭ",
+        "pinned_tweet_id": "1982406503257788748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980272332443648/OpnWzhbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 2819,
+          "like_count": 58596,
+          "listed_count": 3,
+          "media_count": 3088,
+          "tweet_count": 10630
+        },
+        "url": "https://t.co/OUtbblJHiU",
+        "username": "Artist_1917",
+        "verified": false
+      }
+    ]
+  }
+}

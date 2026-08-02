@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1921864393601499319",
+    "created_at": "2025-05-12T18:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T19:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922000329056342245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "153305674",
+          "start": 0,
+          "username": "boluochuixuexue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922000329056342245",
+    "in_reply_to_user_id": "153305674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921864393601499319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluochuixuexue 在家里洗一整天都无所谓，但是宿舍别人也要洗……有点自私了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1921864391030620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvVey3aQAAtxEG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1921864393601499319",
+        "created_at": "2025-05-12T18:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T19:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922000329056342245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "153305674",
+              "start": 0,
+              "username": "boluochuixuexue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922000329056342245",
+        "in_reply_to_user_id": "153305674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921864393601499319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluochuixuexue 在家里洗一整天都无所谓，但是宿舍别人也要洗……有点自私了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921864391030620160"
+          ]
+        },
+        "author_id": "153305674",
+        "conversation_id": "1921864393601499319",
+        "created_at": "2025-05-12T09:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T10:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921864393601499319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5Ag7jkGTy",
+              "end": 58,
+              "expanded_url": "https://x.com/boluochuixuexue/status/1921864393601499319/photo/1",
+              "media_key": "3_1921864391030620160",
+              "start": 35,
+              "url": "https://t.co/r5Ag7jkGTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921864393601499319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15957,
+          "like_count": 155,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "北方女生，洗澡两个半小时被南方室友怼。我想问洗澡两个半小时真的久吗? https://t.co/r5Ag7jkGTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 219,
+          "like_count": 8726,
+          "listed_count": 2,
+          "media_count": 710,
+          "tweet_count": 4402
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-08T05:53:18.000Z",
+        "description": "最骚菠萝头在此🍍我菠萝吹雪，吹的不是雪，是梗🍍梨花诗忠犬，见到梨花诗麻烦客气一点，否则我对你就不客气了🍍互fo我是专业的🍍由于账号限制有的时候无法回 fo，如果有没回的情况一定要私信提醒我！我保证 100% 回 fo🍍欢迎交朋友🍍试试我的🪜？很好用哦 https://t.co/jAQNmuaTGj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/blcxvvv",
+                "end": 149,
+                "expanded_url": "http://bit.ly/blcxvvv",
+                "start": 126,
+                "url": "https://t.co/jAQNmuaTGj"
+              }
+            ]
+          }
+        },
+        "id": "153305674",
+        "name": "菠萝吹雪（神评达人互fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917882547335491584/2Gl5Xdbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 36,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 570
+        },
+        "username": "boluochuixuexue",
+        "verified": false
+      }
+    ]
+  }
+}

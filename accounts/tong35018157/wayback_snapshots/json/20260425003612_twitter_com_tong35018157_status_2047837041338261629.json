@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047714619104296960"
+      ],
+      "media_source_tweet_id": [
+        "2047785149031461349"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2047837041338261629",
+    "created_at": "2026-04-25T00:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047837041338261629"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 72,
+          "tag": "girlsfrontline"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874003712",
+          "start": 3,
+          "username": "Darkpulsegg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64mUGCaDQm",
+          "end": 111,
+          "expanded_url": "https://x.com/Darkpulsegg/status/2047785149031461349/photo/1",
+          "media_key": "3_2047714619104296960",
+          "start": 88,
+          "url": "https://t.co/64mUGCaDQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047837041338261629",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047785149031461349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Darkpulsegg: “Real human bean and a real hero” \n—RPK-16 (problably)\n#girlsfrontline https://t.co/64mUGCaDQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_2047714619104296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrxmMkWAAAYklT.jpg",
+        "width": 3114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047714619104296960"
+          ],
+          "media_source_tweet_id": [
+            "2047785149031461349"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2047837041338261629",
+        "created_at": "2026-04-25T00:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047837041338261629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 72,
+              "tag": "girlsfrontline"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874003712",
+              "start": 3,
+              "username": "Darkpulsegg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64mUGCaDQm",
+              "end": 111,
+              "expanded_url": "https://x.com/Darkpulsegg/status/2047785149031461349/photo/1",
+              "media_key": "3_2047714619104296960",
+              "start": 88,
+              "url": "https://t.co/64mUGCaDQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047837041338261629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047785149031461349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Darkpulsegg: “Real human bean and a real hero” \n—RPK-16 (problably)\n#girlsfrontline https://t.co/64mUGCaDQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047714619104296960"
+          ]
+        },
+        "author_id": "1874003712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2047785149031461349",
+        "created_at": "2026-04-24T21:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047785149031461349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "girlsfrontline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64mUGCaDQm",
+              "end": 94,
+              "expanded_url": "https://x.com/Darkpulsegg/status/2047785149031461349/photo/1",
+              "media_key": "3_2047714619104296960",
+              "start": 71,
+              "url": "https://t.co/64mUGCaDQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047785149031461349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 4356,
+          "like_count": 512,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "“Real human bean and a real hero” \n—RPK-16 (problably)\n#girlsfrontline https://t.co/64mUGCaDQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 364,
+          "like_count": 12934,
+          "listed_count": 4,
+          "media_count": 931,
+          "tweet_count": 6264
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-17T04:02:35.000Z",
+        "description": "If you are interested in commissioning me send me a DM through here or discord at darkpulsegg. You can also support me here \nhttps://t.co/FTYtCscBmH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/darkpulsegg",
+                "end": 148,
+                "expanded_url": "https://www.patreon.com/darkpulsegg",
+                "start": 125,
+                "url": "https://t.co/FTYtCscBmH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/darkpulsegg?ut…",
+                "end": 23,
+                "expanded_url": "https://patreon.com/darkpulsegg?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_cr",
+                "start": 0,
+                "url": "https://t.co/avsJN4bk8m"
+              }
+            ]
+          }
+        },
+        "id": "1874003712",
+        "location": "Mexico",
+        "name": "DarkpulseGG",
+        "pinned_tweet_id": "1917331850873430178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015604376992096256/Edfyl_N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8502,
+          "following_count": 1070,
+          "like_count": 23870,
+          "listed_count": 44,
+          "media_count": 979,
+          "tweet_count": 8610
+        },
+        "url": "https://t.co/avsJN4bk8m",
+        "username": "Darkpulsegg",
+        "verified": false
+      }
+    ]
+  }
+}

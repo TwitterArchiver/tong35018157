@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028802810356396032"
+      ],
+      "media_source_tweet_id": [
+        "2028802871521853501"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2029008999577002023",
+    "created_at": "2026-03-04T01:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029008999577002023"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "gacha",
+          "probability": 0.529,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1329990487181148167",
+          "start": 3,
+          "username": "Puffy026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cy5UF6Fmdp",
+          "end": 115,
+          "expanded_url": "https://x.com/Puffy026/status/2028802871521853501/video/1",
+          "media_key": "7_2028802810356396032",
+          "start": 92,
+          "url": "https://t.co/Cy5UF6Fmdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029008999577002023",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028802871521853501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Puffy026: Hey no no, they should get at this gacha game instead while they're at it ))) https://t.co/Cy5UF6Fmdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14349,
+        "height": 1876,
+        "media_key": "7_2028802810356396032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028802810356396032/pu/img/KbhH-SpGzmUdwra8.jpg",
+        "public_metrics": {
+          "view_count": 26745
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028802810356396032/pu/vid/avc1/320x554/KO38LwkQeb5oTFT_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028802810356396032/pu/vid/avc1/480x832/nPjo2YGICbmlhwe8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028802810356396032/pu/vid/avc1/720x1250/VlG9irCDN4YKTH_I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028802810356396032/pu/pl/n0sA25vGsgOIG-FL.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028802810356396032"
+          ],
+          "media_source_tweet_id": [
+            "2028802871521853501"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2029008999577002023",
+        "created_at": "2026-03-04T01:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029008999577002023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "gacha",
+              "probability": 0.529,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1329990487181148167",
+              "start": 3,
+              "username": "Puffy026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy5UF6Fmdp",
+              "end": 115,
+              "expanded_url": "https://x.com/Puffy026/status/2028802871521853501/video/1",
+              "media_key": "7_2028802810356396032",
+              "start": 92,
+              "url": "https://t.co/Cy5UF6Fmdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029008999577002023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028802871521853501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Puffy026: Hey no no, they should get at this gacha game instead while they're at it ))) https://t.co/Cy5UF6Fmdp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028802810356396032"
+          ]
+        },
+        "author_id": "1329990487181148167",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2028802871521853501",
+        "created_at": "2026-03-03T12:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028802871521853501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "gacha",
+              "probability": 0.6207,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy5UF6Fmdp",
+              "end": 101,
+              "expanded_url": "https://x.com/Puffy026/status/2028802871521853501/video/1",
+              "media_key": "7_2028802810356396032",
+              "start": 78,
+              "url": "https://t.co/Cy5UF6Fmdp"
+            },
+            {
+              "display_url": "x.com/Arubelik/statu…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Arubelik/status/2028552817753927793",
+              "start": 102,
+              "url": "https://t.co/69eNL7HSw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028802871521853501",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 75619,
+          "like_count": 2247,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028552817753927793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hey no no, they should get at this gacha game instead while they're at it ))) https://t.co/Cy5UF6Fmdp https://t.co/69eNL7HSw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 302,
+          "like_count": 11515,
+          "listed_count": 3,
+          "media_count": 895,
+          "tweet_count": 5754
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T03:30:22.000Z",
+        "description": "7年少前指挥官 | AN94 私の妻 | 🈲 NO Politics | 🈲 NO Drama | 🈯 avid GFL/Cedar/Ravenfield/AK/SW/BF4 enthusiast |  sometimes doodle T-dorks! __〆ヾ(≧▽≦)シ Привет!",
+        "id": "1329990487181148167",
+        "location": "AN94 V6R6 GF2 CN | MOD3 GF1 TW",
+        "name": "ПУФФИ",
+        "pinned_tweet_id": "2027501794868552057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994813341144166400/WFEmEOji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 2610,
+          "like_count": 105073,
+          "listed_count": 17,
+          "media_count": 618,
+          "tweet_count": 14419
+        },
+        "username": "Puffy026",
+        "verified": false
+      }
+    ]
+  }
+}

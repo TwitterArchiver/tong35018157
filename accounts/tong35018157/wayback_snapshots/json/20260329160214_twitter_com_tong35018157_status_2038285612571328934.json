@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2038285612571328934",
+    "created_at": "2026-03-29T16:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038285612571328934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maigomaigohh/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/maigomaigohh/status/2038183408908836879",
+          "start": 15,
+          "url": "https://t.co/PkCHUUROHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038285612571328934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038183408908836879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么韩国游戏都叫红色棕色的 https://t.co/PkCHUUROHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_2038182960042799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkUmnia8AAIaHB.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2038285612571328934",
+        "created_at": "2026-03-29T16:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038285612571328934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigomaigohh/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/maigomaigohh/status/2038183408908836879",
+              "start": 15,
+              "url": "https://t.co/PkCHUUROHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038285612571328934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038183408908836879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么韩国游戏都叫红色棕色的 https://t.co/PkCHUUROHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038182960042799104"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2038183408908836879",
+        "created_at": "2026-03-29T09:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038183408908836879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq7MxAPkLN",
+              "end": 64,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2038183408908836879/photo/1",
+              "media_key": "3_2038182960042799104",
+              "start": 41,
+              "url": "https://t.co/Mq7MxAPkLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038183408908836879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10459,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们韩国人做游戏起名字还是讲究啊，这要是日本人做的名字肯定是クリムゾンディザート https://t.co/Mq7MxAPkLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 322,
+          "like_count": 11945,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 5965
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6193,
+          "following_count": 903,
+          "like_count": 24589,
+          "listed_count": 32,
+          "media_count": 1508,
+          "tweet_count": 20405
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

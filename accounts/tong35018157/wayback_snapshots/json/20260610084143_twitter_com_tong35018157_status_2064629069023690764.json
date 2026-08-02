@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064597913788121089"
+      ],
+      "media_source_tweet_id": [
+        "2064598031513899040"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064629069023690764",
+    "created_at": "2026-06-10T08:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064629069023690764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "327087689",
+          "start": 3,
+          "username": "blueStardust_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ynLg9jwmp6",
+          "end": 57,
+          "expanded_url": "https://x.com/blueStardust_/status/2064598031513899040/photo/1",
+          "media_key": "3_2064597913788121089",
+          "start": 34,
+          "url": "https://t.co/ynLg9jwmp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629069023690764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064598031513899040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueStardust_: 416と45 ほほえましいね https://t.co/ynLg9jwmp6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2064597913788121089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbs3SdagAEDZX0.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064597913788121089"
+          ],
+          "media_source_tweet_id": [
+            "2064598031513899040"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064629069023690764",
+        "created_at": "2026-06-10T08:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064629069023690764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "327087689",
+              "start": 3,
+              "username": "blueStardust_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynLg9jwmp6",
+              "end": 57,
+              "expanded_url": "https://x.com/blueStardust_/status/2064598031513899040/photo/1",
+              "media_key": "3_2064597913788121089",
+              "start": 34,
+              "url": "https://t.co/ynLg9jwmp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629069023690764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064598031513899040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blueStardust_: 416と45 ほほえましいね https://t.co/ynLg9jwmp6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064597913788121089"
+          ]
+        },
+        "author_id": "327087689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064598031513899040",
+        "created_at": "2026-06-10T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064598031513899040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynLg9jwmp6",
+              "end": 38,
+              "expanded_url": "https://x.com/blueStardust_/status/2064598031513899040/photo/1",
+              "media_key": "3_2064597913788121089",
+              "start": 15,
+              "url": "https://t.co/ynLg9jwmp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064598031513899040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3044,
+          "like_count": 415,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "416と45 ほほえましいね https://t.co/ynLg9jwmp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 469,
+          "like_count": 15534,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 7022
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-01T00:01:11.000Z",
+        "description": "AI学習使用・無断転載禁止\nhttps://t.co/pKrfUuOwE3\nhttps://t.co/wwuZzVTynz\nhttps://t.co/mQTHmjJDls",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@blueStardust_",
+                "end": 37,
+                "expanded_url": "http://skeb.jp/@blueStardust_",
+                "start": 14,
+                "url": "https://t.co/pKrfUuOwE3"
+              },
+              {
+                "display_url": "bluestardust.fanbox.cc",
+                "end": 61,
+                "expanded_url": "http://bluestardust.fanbox.cc",
+                "start": 38,
+                "url": "https://t.co/wwuZzVTynz"
+              },
+              {
+                "display_url": "ec.toranoana.jp/tora_r/ec/item…",
+                "end": 85,
+                "expanded_url": "https://ec.toranoana.jp/tora_r/ec/item/040031126770/",
+                "start": 62,
+                "url": "https://t.co/mQTHmjJDls"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bluest…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bluestardust.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DRcVqAAME1"
+              }
+            ]
+          }
+        },
+        "id": "327087689",
+        "location": "日本 福岡",
+        "name": "児島領",
+        "pinned_tweet_id": "1959541516088586394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058811142076821504/zooxyyli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82296,
+          "following_count": 1737,
+          "like_count": 65213,
+          "listed_count": 916,
+          "media_count": 3827,
+          "tweet_count": 173707
+        },
+        "url": "https://t.co/DRcVqAAME1",
+        "username": "blueStardust_",
+        "verified": true
+      }
+    ]
+  }
+}

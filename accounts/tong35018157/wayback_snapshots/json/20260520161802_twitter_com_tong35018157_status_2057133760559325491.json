@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057010383005900800",
+        "3_2057010383601508352"
+      ],
+      "media_source_tweet_id": [
+        "2057010388437529070",
+        "2057010388437529070"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057133760559325491",
+    "created_at": "2026-05-20T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057133760559325491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864811895661957120",
+          "start": 3,
+          "username": "birdsnowbbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhfbcPdrfJ",
+          "end": 40,
+          "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+          "media_key": "3_2057010383005900800",
+          "start": 17,
+          "url": "https://t.co/uhfbcPdrfJ"
+        },
+        {
+          "display_url": "pic.x.com/uhfbcPdrfJ",
+          "end": 40,
+          "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+          "media_key": "3_2057010383601508352",
+          "start": 17,
+          "url": "https://t.co/uhfbcPdrfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057133760559325491",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057010388437529070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdsnowbbb: https://t.co/uhfbcPdrfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2057010383005900800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv4C3pbYAAANGr.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2057010383601508352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv4C53boAANeMn.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057010383005900800",
+            "3_2057010383601508352"
+          ],
+          "media_source_tweet_id": [
+            "2057010388437529070",
+            "2057010388437529070"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057133760559325491",
+        "created_at": "2026-05-20T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057133760559325491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864811895661957120",
+              "start": 3,
+              "username": "birdsnowbbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhfbcPdrfJ",
+              "end": 40,
+              "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+              "media_key": "3_2057010383005900800",
+              "start": 17,
+              "url": "https://t.co/uhfbcPdrfJ"
+            },
+            {
+              "display_url": "pic.x.com/uhfbcPdrfJ",
+              "end": 40,
+              "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+              "media_key": "3_2057010383601508352",
+              "start": 17,
+              "url": "https://t.co/uhfbcPdrfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057133760559325491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057010388437529070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdsnowbbb: https://t.co/uhfbcPdrfJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057010383005900800",
+            "3_2057010383601508352"
+          ]
+        },
+        "author_id": "1864811895661957120",
+        "conversation_id": "2057010388437529070",
+        "created_at": "2026-05-20T08:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057010388437529070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhfbcPdrfJ",
+              "end": 23,
+              "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+              "media_key": "3_2057010383005900800",
+              "start": 0,
+              "url": "https://t.co/uhfbcPdrfJ"
+            },
+            {
+              "display_url": "pic.x.com/uhfbcPdrfJ",
+              "end": 23,
+              "expanded_url": "https://x.com/birdsnowbbb/status/2057010388437529070/photo/1",
+              "media_key": "3_2057010383601508352",
+              "start": 0,
+              "url": "https://t.co/uhfbcPdrfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057010388437529070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 4931,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uhfbcPdrfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 406,
+          "like_count": 14353,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6645
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T23:19:45.000Z",
+        "description": "sfw&日常用\n睡去的人们，祝你们晚安🌙",
+        "id": "1864811895661957120",
+        "location": "美丽新世界",
+        "name": "青鳥白花",
+        "pinned_tweet_id": "2033470402773791178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033653016713433088/l61QVeOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 271,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 84
+        },
+        "username": "birdsnowbbb",
+        "verified": false
+      }
+    ]
+  }
+}

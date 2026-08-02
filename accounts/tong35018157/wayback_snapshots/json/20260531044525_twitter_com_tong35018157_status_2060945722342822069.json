@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060682155190075396"
+      ],
+      "media_source_tweet_id": [
+        "2060682159816384685"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060945722342822069",
+    "created_at": "2026-05-31T04:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060945722342822069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1250804435275710465",
+          "start": 3,
+          "username": "Antykomunista_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/phjUA7FYWC",
+          "end": 71,
+          "expanded_url": "https://x.com/Antykomunista_/status/2060682159816384685/photo/1",
+          "media_key": "3_2060682155190075396",
+          "start": 48,
+          "url": "https://t.co/phjUA7FYWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060945722342822069",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060682159816384685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antykomunista_: Tak się ta przyjaźń kończy. https://t.co/phjUA7FYWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2060682155190075396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkDgI8XQAQwM5D.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060682155190075396"
+          ],
+          "media_source_tweet_id": [
+            "2060682159816384685"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060945722342822069",
+        "created_at": "2026-05-31T04:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060945722342822069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1250804435275710465",
+              "start": 3,
+              "username": "Antykomunista_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/phjUA7FYWC",
+              "end": 71,
+              "expanded_url": "https://x.com/Antykomunista_/status/2060682159816384685/photo/1",
+              "media_key": "3_2060682155190075396",
+              "start": 48,
+              "url": "https://t.co/phjUA7FYWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060945722342822069",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060682159816384685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antykomunista_: Tak się ta przyjaźń kończy. https://t.co/phjUA7FYWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060682155190075396"
+          ]
+        },
+        "author_id": "1250804435275710465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060682159816384685",
+        "created_at": "2026-05-30T11:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060682159816384685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phjUA7FYWC",
+              "end": 51,
+              "expanded_url": "https://x.com/Antykomunista_/status/2060682159816384685/photo/1",
+              "media_key": "3_2060682155190075396",
+              "start": 28,
+              "url": "https://t.co/phjUA7FYWC"
+            },
+            {
+              "display_url": "x.com/dhulqarnayn786…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/dhulqarnayn786/status/2060477417550971030",
+              "start": 52,
+              "url": "https://t.co/DSxadzBboT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060682159816384685",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 195667,
+          "like_count": 10289,
+          "quote_count": 11,
+          "reply_count": 74,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060477417550971030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Tak się ta przyjaźń kończy. https://t.co/phjUA7FYWC https://t.co/DSxadzBboT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 452,
+          "like_count": 15109,
+          "listed_count": 3,
+          "media_count": 972,
+          "tweet_count": 6894
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T15:13:21.000Z",
+        "description": "",
+        "id": "1250804435275710465",
+        "name": "Antykomunista",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645161568403857412/YQ9A4g17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19354,
+          "following_count": 344,
+          "like_count": 48561,
+          "listed_count": 200,
+          "media_count": 15001,
+          "tweet_count": 63125
+        },
+        "username": "Antykomunista_",
+        "verified": false
+      }
+    ]
+  }
+}

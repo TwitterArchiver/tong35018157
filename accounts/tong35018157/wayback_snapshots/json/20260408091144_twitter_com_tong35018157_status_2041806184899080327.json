@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2041666809066352781",
+    "created_at": "2026-04-08T09:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041806184899080327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982094962792833026",
+          "start": 0,
+          "username": "iiifreespirit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041806184899080327",
+    "in_reply_to_user_id": "1982094962792833026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041666809066352781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiifreespirit 白胸翡翠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37150,
+        "height": 1280,
+        "media_key": "13_2041443101294882816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041443101294882816/img/rvsLi2cBDFCeTgmQ.jpg",
+        "public_metrics": {
+          "view_count": 23539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041443101294882816/vid/avc1/320x568/falOh8pwfGaDSbtD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041443101294882816/vid/avc1/480x852/PP5w0IQwfDYY7UNY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041443101294882816/vid/avc1/720x1280/wGzTu7CDiSlaM7RF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041443101294882816/pl/5P9j-_0u9AGBWADh.m3u8?v=d3f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2041666809066352781",
+        "created_at": "2026-04-08T09:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041806184899080327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982094962792833026",
+              "start": 0,
+              "username": "iiifreespirit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041806184899080327",
+        "in_reply_to_user_id": "1982094962792833026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041666809066352781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiifreespirit 白胸翡翠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041443101294882816"
+          ]
+        },
+        "author_id": "1982094962792833026",
+        "conversation_id": "2041666809066352781",
+        "created_at": "2026-04-07T23:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041666809066352781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAvL1Bxyii",
+              "end": 38,
+              "expanded_url": "https://x.com/iiifreespirit/status/2041666809066352781/video/1",
+              "media_key": "13_2041443101294882816",
+              "start": 15,
+              "url": "https://t.co/lAvL1Bxyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041666809066352781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 46742,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 105,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么鸟类？胃口如此独特！ https://t.co/lAvL1Bxyii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 323,
+          "like_count": 12233,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 6034
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T14:40:55.000Z",
+        "description": "两犬一娃伴晨昏，闲时喂猫檐下坐。我是在烟火日常里，捡拾温柔碎片的全职妈妈。情感#婚姻#育儿#部分素材来自网络，如涉侵权请联系，我将及时删除。",
+        "id": "1982094962792833026",
+        "name": "Iris",
+        "pinned_tweet_id": "2041437783794000229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015056590928580608/nklYbqUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10729,
+          "following_count": 6273,
+          "like_count": 76559,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 10752
+        },
+        "username": "iiifreespirit",
+        "verified": true
+      }
+    ]
+  }
+}

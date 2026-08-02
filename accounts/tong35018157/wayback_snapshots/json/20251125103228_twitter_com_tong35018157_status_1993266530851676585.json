@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1992916099122561493",
+    "created_at": "2025-11-25T10:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993266530851676585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829394735393562624",
+          "start": 0,
+          "username": "llywjtlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993266530851676585",
+    "in_reply_to_user_id": "1829394735393562624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992916099122561493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llywjtlb 我感觉二次元男娘喜欢女的多，三次元男娘喜欢男的多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1992916099122561493",
+        "created_at": "2025-11-25T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993266530851676585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829394735393562624",
+              "start": 0,
+              "username": "llywjtlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993266530851676585",
+        "in_reply_to_user_id": "1829394735393562624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992916099122561493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llywjtlb 我感觉二次元男娘喜欢女的多，三次元男娘喜欢男的多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829394735393562624",
+        "conversation_id": "1992916099122561493",
+        "created_at": "2025-11-24T11:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992916099122561493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992916099122561493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32463,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 73,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了，我好像找到了我最喜欢的身材的拥有者群体……男娘💔但我有点不懂，男娘是性别男自我认知女然后喜欢男生么？会有自我认知男喜欢女生的么，无意冒犯真诚发问🙏🏻🙏🏻🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 256,
+          "like_count": 10372,
+          "listed_count": 3,
+          "media_count": 856,
+          "tweet_count": 5413
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T05:44:39.000Z",
+        "description": "4i 纯｜满嘴跑火车选手",
+        "id": "1829394735393562624",
+        "name": "白日猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992966275497340928/fW_dXibQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 26,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 41
+        },
+        "username": "llywjtlb",
+        "verified": false
+      }
+    ]
+  }
+}

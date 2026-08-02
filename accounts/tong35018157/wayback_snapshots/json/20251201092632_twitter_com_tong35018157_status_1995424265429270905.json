@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1995424265429270905",
+    "created_at": "2025-12-01T09:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T10:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995424265429270905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n0sh1tk33pg01n…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/n0sh1tk33pg01ng/status/1995384351195046166",
+          "start": 28,
+          "url": "https://t.co/XELKTi9tDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995424265429270905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995384351195046166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么韩友又把这家暴未婚妻境外集资买军火的搬出来说了ww https://t.co/XELKTi9tDa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_1995384344710660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EHfVDawAAn6_2.jpg",
+        "width": 557
+      },
+      {
+        "height": 728,
+        "media_key": "3_1995384344748457984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EHfVMbgAA84wr.jpg",
+        "width": 720
+      },
+      {
+        "height": 625,
+        "media_key": "3_1995384346057097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EHfaEbwAAfpKf.jpg",
+        "width": 495
+      },
+      {
+        "height": 593,
+        "media_key": "3_1995384346149281792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EHfaaaYAA87G7.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1995424265429270905",
+        "created_at": "2025-12-01T09:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995424265429270905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n0sh1tk33pg01n…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/n0sh1tk33pg01ng/status/1995384351195046166",
+              "start": 28,
+              "url": "https://t.co/XELKTi9tDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995424265429270905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995384351195046166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么韩友又把这家暴未婚妻境外集资买军火的搬出来说了ww https://t.co/XELKTi9tDa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995384344710660096",
+            "3_1995384344748457984",
+            "3_1995384346057097216",
+            "3_1995384346149281792"
+          ]
+        },
+        "author_id": "1964008905802985472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1995384351195046166",
+        "created_at": "2025-12-01T06:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995384351195046166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKrGsTUlRc",
+              "end": 38,
+              "expanded_url": "https://x.com/N0SH1TK33PG01NG/status/1995384351195046166/photo/1",
+              "media_key": "3_1995384344710660096",
+              "start": 15,
+              "url": "https://t.co/QKrGsTUlRc"
+            },
+            {
+              "display_url": "pic.x.com/QKrGsTUlRc",
+              "end": 38,
+              "expanded_url": "https://x.com/N0SH1TK33PG01NG/status/1995384351195046166/photo/1",
+              "media_key": "3_1995384344748457984",
+              "start": 15,
+              "url": "https://t.co/QKrGsTUlRc"
+            },
+            {
+              "display_url": "pic.x.com/QKrGsTUlRc",
+              "end": 38,
+              "expanded_url": "https://x.com/N0SH1TK33PG01NG/status/1995384351195046166/photo/1",
+              "media_key": "3_1995384346057097216",
+              "start": 15,
+              "url": "https://t.co/QKrGsTUlRc"
+            },
+            {
+              "display_url": "pic.x.com/QKrGsTUlRc",
+              "end": 38,
+              "expanded_url": "https://x.com/N0SH1TK33PG01NG/status/1995384351195046166/photo/1",
+              "media_key": "3_1995384346149281792",
+              "start": 15,
+              "url": "https://t.co/QKrGsTUlRc"
+            },
+            {
+              "display_url": "x.com/N0SH1TK33PG01N…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/N0SH1TK33PG01NG/status/1995380833340039648",
+              "start": 39,
+              "url": "https://t.co/KlUY2UwvBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995384351195046166",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1254,
+          "impression_count": 275726,
+          "like_count": 2235,
+          "quote_count": 495,
+          "reply_count": 1,
+          "retweet_count": 529
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995380833340039648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이게 그 유명한 이 사람임 https://t.co/QKrGsTUlRc https://t.co/KlUY2UwvBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 259,
+          "like_count": 10466,
+          "listed_count": 3,
+          "media_count": 862,
+          "tweet_count": 5441
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T16:53:22.000Z",
+        "description": "You'd have hell to pay when you come face to face with whatever saw fit to let you exist in this world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1652521436/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1652521436/",
+                "start": 0,
+                "url": "https://t.co/NzqMBX6EgV"
+              }
+            ]
+          }
+        },
+        "id": "1964008905802985472",
+        "location": "18↑/KOR/ENG ",
+        "name": "JE0K",
+        "pinned_tweet_id": "1964011653554409857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964010291294822400/VKQOjCMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 51,
+          "like_count": 1375,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/NzqMBX6EgV",
+        "username": "N0SH1TK33PG01NG",
+        "verified": false
+      }
+    ]
+  }
+}

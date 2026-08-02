@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948410892485615616"
+      ],
+      "media_source_tweet_id": [
+        "1948410917919633664"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1948438560505319910",
+    "created_at": "2025-07-24T17:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T18:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948438560505319910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636727253492207616",
+          "start": 3,
+          "username": "mittumoti211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JQdlajHoW1",
+          "end": 75,
+          "expanded_url": "https://x.com/mittumoti211/status/1948410917919633664/photo/1",
+          "media_key": "3_1948410892485615616",
+          "start": 52,
+          "url": "https://t.co/JQdlajHoW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948438560505319910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948410917919633664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mittumoti211: ⚠️cp要素有\nパロです、ﾄｩﾊﾌﾞｼﾞｮﾄｩﾊ?\nﾌ.ﾘ.ｰ.ﾄ https://t.co/JQdlajHoW1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948438560505319910].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948438560505319910",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948438560505319910"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948410892485615616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwolYjMbYAAWn81.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948410892485615616"
+          ]
+        },
+        "author_id": "1636727253492207616",
+        "conversation_id": "1948410917919633664",
+        "created_at": "2025-07-24T15:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948410917919633664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQdlajHoW1",
+              "end": 57,
+              "expanded_url": "https://x.com/mittumoti211/status/1948410917919633664/photo/1",
+              "media_key": "3_1948410892485615616",
+              "start": 34,
+              "url": "https://t.co/JQdlajHoW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948410917919633664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 117,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️cp要素有\nパロです、ﾄｩﾊﾌﾞｼﾞｮﾄｩﾊ?\nﾌ.ﾘ.ｰ.ﾄ https://t.co/JQdlajHoW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 228,
+          "like_count": 9100,
+          "listed_count": 2,
+          "media_count": 767,
+          "tweet_count": 4751
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T13:53:01.000Z",
+        "description": "ソ連史･音楽等 ※特定の思想・人物等を一切支持していません 日本語/English 【作曲家歴創タグ】#夢境で織りなすラプソディ 【世界史全般歴創タグ】#みつ餅の歴創 【FAタグ】 #みつ餅の歴創FA BOOTH https://t.co/6s0H71S2lq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 51,
+                "tag": "夢境で織りなすラプソディ"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "みつ餅の歴創"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "みつ餅の歴創FA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mittunomoti.booth.pm",
+                "end": 130,
+                "expanded_url": "https://mittunomoti.booth.pm/",
+                "start": 107,
+                "url": "https://t.co/6s0H71S2lq"
+              }
+            ]
+          }
+        },
+        "id": "1636727253492207616",
+        "name": "みつ餅",
+        "pinned_tweet_id": "1897243089351401693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904100038160322560/PbF40eph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 184,
+          "like_count": 6250,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1429
+        },
+        "username": "mittumoti211",
+        "verified": false
+      }
+    ]
+  }
+}

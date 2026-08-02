@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "conversation_id": "2066486023811641701",
+    "created_at": "2026-06-15T11:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066486023811641701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948958206031790084",
+          "start": 3,
+          "username": "Pixald88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066486023811641701",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066218825528287572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pixald88: Putin send this ոіggеr to Donbass and my life is yours"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066486023811641701",
+        "created_at": "2026-06-15T11:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066486023811641701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948958206031790084",
+              "start": 3,
+              "username": "Pixald88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066486023811641701",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066218825528287572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pixald88: Putin send this ոіggеr to Donbass and my life is yours"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948958206031790084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066218825528287572",
+        "created_at": "2026-06-14T17:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066218825528287572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AMnePofigs/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/AMnePofigs/status/2065870867012141130",
+              "start": 55,
+              "url": "https://t.co/17uSGf4yb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066218825528287572",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 938,
+          "impression_count": 140668,
+          "like_count": 10361,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065870867012141130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Putin send this ոіggеr to Donbass and my life is yours https://t.co/17uSGf4yb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 478,
+          "like_count": 15865,
+          "listed_count": 3,
+          "media_count": 985,
+          "tweet_count": 7124
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T04:07:13.000Z",
+        "description": "Self-proclaimed schizophrenic microcelebrity.\nWho is @Pixald2? I certainly don't know...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Pixald2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/pixald8",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/pixald8",
+                "start": 0,
+                "url": "https://t.co/yGjCjPbp2q"
+              }
+            ]
+          }
+        },
+        "id": "1948958206031790084",
+        "location": "Somewhere",
+        "name": "Pixald The Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060430470752428040/Ff7PEpKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 658,
+          "like_count": 2155,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/yGjCjPbp2q",
+        "username": "Pixald88",
+        "verified": false
+      }
+    ]
+  }
+}

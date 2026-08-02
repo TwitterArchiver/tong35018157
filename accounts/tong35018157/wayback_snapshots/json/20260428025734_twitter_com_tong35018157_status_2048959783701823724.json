@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048959783701823724",
+    "created_at": "2026-04-28T02:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048959783701823724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadasan1970/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/sadasan1970/status/2048642296833548606",
+          "start": 8,
+          "url": "https://t.co/q3HxcF7UIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048959783701823724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048642296833548606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鹪鹩：屁眼好痒 https://t.co/q3HxcF7UIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12011,
+        "height": 1688,
+        "media_key": "13_2048642235466735616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048642235466735616/img/PC1k4GlZeBEiLPyO.jpg",
+        "public_metrics": {
+          "view_count": 5540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048642235466735616/pl/xSa2flbuLzIVhucb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048642235466735616/vid/avc1/320x568/jE9u20frN9sdQGwc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048642235466735616/vid/avc1/480x852/R0z-GhJsMUxVIiHz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048642235466735616/vid/avc1/720x1278/rl90PwFak_YIK6p8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048642235466735616/vid/avc1/950x1688/FGv6rgXN00-DSBib.mp4"
+          }
+        ],
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048959783701823724",
+        "created_at": "2026-04-28T02:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048959783701823724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadasan1970/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sadasan1970/status/2048642296833548606",
+              "start": 8,
+              "url": "https://t.co/q3HxcF7UIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048959783701823724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048642296833548606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鹪鹩：屁眼好痒 https://t.co/q3HxcF7UIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048642235466735616"
+          ]
+        },
+        "author_id": "1238146187691081728",
+        "conversation_id": "2048642296833548606",
+        "created_at": "2026-04-27T05:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048642296833548606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ミソザザイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jajty3pE3g",
+              "end": 44,
+              "expanded_url": "https://x.com/sadasan1970/status/2048642296833548606/video/1",
+              "media_key": "13_2048642235466735616",
+              "start": 21,
+              "url": "https://t.co/jajty3pE3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048642296833548606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 19366,
+          "like_count": 1228,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "お尻フリフリ🥰ミソザザイ😊\n#ミソザザイ https://t.co/jajty3pE3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 371,
+          "like_count": 13154,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6336
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T16:53:58.000Z",
+        "description": "野鳥と夜景が好きです😊SONYプロサポートメンバー📸OM SYSTEM 📸SONIDORI🦉KANIフィルター📷AIROS skyview🚁アンバサダー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sadanao_s",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sadanao_s",
+                "start": 0,
+                "url": "https://t.co/NxfVTZd7oz"
+              }
+            ]
+          }
+        },
+        "id": "1238146187691081728",
+        "location": "福岡",
+        "name": "sadanao_s",
+        "pinned_tweet_id": "1934416162546430063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803203687885754368/aeYoWG54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 317,
+          "like_count": 3836,
+          "listed_count": 10,
+          "media_count": 283,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/NxfVTZd7oz",
+        "username": "sadasan1970",
+        "verified": true
+      }
+    ]
+  }
+}

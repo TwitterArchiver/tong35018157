@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077964304800944128"
+      ],
+      "media_source_tweet_id": [
+        "2077964376376787395"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078174017379618846",
+    "created_at": "2026-07-17T17:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078174017379618846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058445125697871872",
+          "start": 3,
+          "username": "kitteninac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mVnkeP38z0",
+          "end": 103,
+          "expanded_url": "https://x.com/kitteninac/status/2077964376376787395/video/1",
+          "media_key": "13_2077964304800944128",
+          "start": 80,
+          "url": "https://t.co/mVnkeP38z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078174017379618846",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077964376376787395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitteninac: Grateful beauty😍 could someone place tell me what bird this is? https://t.co/mVnkeP38z0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21804,
+        "height": 1024,
+        "media_key": "13_2077964304800944128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077964304800944128/img/ek6MuXhf_P2iegwr.jpg",
+        "public_metrics": {
+          "view_count": 8761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077964304800944128/vid/avc1/320x568/E0vVMR1xuLkCFrbx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077964304800944128/vid/avc1/480x852/4VtxACd1XrdEdJjJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077964304800944128/vid/avc1/576x1024/-DDjHXbxmBxJSIpH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077964304800944128/pl/bOLmMuwN5LYh8sV8.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077964304800944128"
+          ]
+        },
+        "author_id": "2058445125697871872",
+        "conversation_id": "2077964376376787395",
+        "created_at": "2026-07-17T03:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077964376376787395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVnkeP38z0",
+              "end": 87,
+              "expanded_url": "https://x.com/kitteninac/status/2077964376376787395/video/1",
+              "media_key": "13_2077964304800944128",
+              "start": 64,
+              "url": "https://t.co/mVnkeP38z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077964376376787395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 25803,
+          "like_count": 1349,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "Grateful beauty😍 could someone place tell me what bird this is? https://t.co/mVnkeP38z0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077964304800944128"
+          ],
+          "media_source_tweet_id": [
+            "2077964376376787395"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078174017379618846",
+        "created_at": "2026-07-17T17:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078174017379618846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058445125697871872",
+              "start": 3,
+              "username": "kitteninac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVnkeP38z0",
+              "end": 103,
+              "expanded_url": "https://x.com/kitteninac/status/2077964376376787395/video/1",
+              "media_key": "13_2077964304800944128",
+              "start": 80,
+              "url": "https://t.co/mVnkeP38z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078174017379618846",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077964376376787395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitteninac: Grateful beauty😍 could someone place tell me what bird this is? https://t.co/mVnkeP38z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 521,
+          "like_count": 17593,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 7781
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T07:12:03.000Z",
+        "description": "daily doses of birds and animals | DM for copyright concerns or post removal📩",
+        "id": "2058445125697871872",
+        "name": "cat",
+        "pinned_tweet_id": "2074681653751107651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058453797530411008/qbNLrgot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 228,
+          "like_count": 1748,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "kitteninac",
+        "verified": false
+      }
+    ]
+  }
+}

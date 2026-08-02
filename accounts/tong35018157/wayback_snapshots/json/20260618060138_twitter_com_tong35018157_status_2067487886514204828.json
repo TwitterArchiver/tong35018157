@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2067487886514204828",
+    "created_at": "2026-06-18T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067487886514204828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chase_centem03…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/chase_centem03p/status/2067245960195965251",
+          "start": 2,
+          "url": "https://t.co/4bESQDxpD1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067487886514204828",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067245960195965251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/4bESQDxpD1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 872,
+        "media_key": "13_2067243549695922176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067243549695922176/img/RWfATIGxaQ7RxtVI.jpg",
+        "public_metrics": {
+          "view_count": 185111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067243549695922176/vid/avc1/320x386/peXQFe39Q4T0V_8T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067243549695922176/vid/avc1/480x580/o1CEdNQoZAi2afKP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067243549695922176/vid/avc1/720x872/LkZU9zHg94HK7YYj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067243549695922176/pl/UD7M7mBrSYUm4b5z.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2067487886514204828",
+        "created_at": "2026-06-18T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067487886514204828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chase_centem03…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/chase_centem03p/status/2067245960195965251",
+              "start": 2,
+              "url": "https://t.co/4bESQDxpD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067487886514204828",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067245960195965251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/4bESQDxpD1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067243549695922176"
+          ]
+        },
+        "author_id": "2056079399347474432",
+        "conversation_id": "2067245960195965251",
+        "created_at": "2026-06-17T14:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067245960195965251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLPsal1yvL",
+              "end": 23,
+              "expanded_url": "https://x.com/chase_centem03p/status/2067245960195965251/video/1",
+              "media_key": "13_2067243549695922176",
+              "start": 0,
+              "url": "https://t.co/bLPsal1yvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067245960195965251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 358614,
+          "like_count": 829,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "verified",
+        "text": "https://t.co/bLPsal1yvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 485,
+          "like_count": 16106,
+          "listed_count": 3,
+          "media_count": 987,
+          "tweet_count": 7181
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T18:28:40.000Z",
+        "description": "State-of-the-art entertainment venue located in the 💙  of Mission Bay, San Francisco.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buff.ly/FFmGywD",
+                "end": 23,
+                "expanded_url": "https://buff.ly/FFmGywD",
+                "start": 0,
+                "url": "https://t.co/BDdD5ZqnNU"
+              }
+            ]
+          }
+        },
+        "id": "2056079399347474432",
+        "name": "Chase Center",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056848732071809024/FQfDHFPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/BDdD5ZqnNU",
+        "username": "chase_centem03p",
+        "verified": false
+      }
+    ]
+  }
+}

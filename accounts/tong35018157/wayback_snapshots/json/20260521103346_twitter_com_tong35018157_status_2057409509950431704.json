@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057409509950431704",
+    "created_at": "2026-05-21T10:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057409509950431704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shangweibuzu/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shangweibuzu/status/2057253993240485921",
+          "start": 13,
+          "url": "https://t.co/ijz0povEMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057409509950431704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057253993240485921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩三天吃两天肯德基的城市 https://t.co/ijz0povEMz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057409509950431704",
+        "created_at": "2026-05-21T10:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057409509950431704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shangweibuzu/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shangweibuzu/status/2057253993240485921",
+              "start": 13,
+              "url": "https://t.co/ijz0povEMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057409509950431704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057253993240485921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩三天吃两天肯德基的城市 https://t.co/ijz0povEMz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885740874293837825",
+        "conversation_id": "2057253993240485921",
+        "created_at": "2026-05-21T00:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057253993240485921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057253993240485921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10695,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "竟然还有人喜欢北京这个城市\n\n这是多没过过正常生活啊。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 407,
+          "like_count": 14389,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6660
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T06:00:55.000Z",
+        "description": "微博，b站同名，欢迎国内国外同时关注～",
+        "id": "885740874293837825",
+        "location": "People's Republic of China",
+        "name": "赏味不足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579629843473309698/RIr5nu0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 612,
+          "like_count": 2862,
+          "listed_count": 14,
+          "media_count": 320,
+          "tweet_count": 6061
+        },
+        "username": "shangweibuzu",
+        "verified": false
+      }
+    ]
+  }
+}

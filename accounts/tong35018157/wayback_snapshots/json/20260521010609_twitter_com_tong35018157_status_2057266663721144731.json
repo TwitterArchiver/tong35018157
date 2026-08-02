@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2057266663721144731",
+    "created_at": "2026-05-21T01:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057266663721144731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370809862209249281",
+          "start": 3,
+          "username": "J5Tko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057266663721144731",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057146132762165346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J5Tko: 뭐라도 올리고 싶다 넘 그림 그리고 싶음... 원래 매일매일 그림 그리는데 요즘 일주일에 한두 번 펜 잡을까 말까임 그리고 이거 세 개 다 다른 만화임 셋 중 두 개는 유기한 건데 하나는 다시 보니깐 나쁘지 않아서 다시 작업해도…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2122,
+        "media_key": "3_2057143208707301376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxw2V8bIAAjfzb.jpg",
+        "width": 1461
+      },
+      {
+        "height": 2122,
+        "media_key": "3_2057143237866123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxw4CkbcAA2CXZ.jpg",
+        "width": 1461
+      },
+      {
+        "height": 911,
+        "media_key": "3_2057143592154800128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxxMqZboAAWiQy.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2057266663721144731",
+        "created_at": "2026-05-21T01:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057266663721144731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370809862209249281",
+              "start": 3,
+              "username": "J5Tko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057266663721144731",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057146132762165346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J5Tko: 뭐라도 올리고 싶다 넘 그림 그리고 싶음... 원래 매일매일 그림 그리는데 요즘 일주일에 한두 번 펜 잡을까 말까임 그리고 이거 세 개 다 다른 만화임 셋 중 두 개는 유기한 건데 하나는 다시 보니깐 나쁘지 않아서 다시 작업해도…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057143208707301376",
+            "3_2057143237866123264",
+            "3_2057143592154800128"
+          ]
+        },
+        "author_id": "1370809862209249281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2057146132762165346",
+        "created_at": "2026-05-20T17:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057146132762165346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vntjRo98CW",
+              "end": 184,
+              "expanded_url": "https://x.com/J5Tko/status/2057146132762165346/photo/1",
+              "media_key": "3_2057143208707301376",
+              "start": 161,
+              "url": "https://t.co/vntjRo98CW"
+            },
+            {
+              "display_url": "pic.x.com/vntjRo98CW",
+              "end": 184,
+              "expanded_url": "https://x.com/J5Tko/status/2057146132762165346/photo/1",
+              "media_key": "3_2057143237866123264",
+              "start": 161,
+              "url": "https://t.co/vntjRo98CW"
+            },
+            {
+              "display_url": "pic.x.com/vntjRo98CW",
+              "end": 184,
+              "expanded_url": "https://x.com/J5Tko/status/2057146132762165346/photo/1",
+              "media_key": "3_2057143592154800128",
+              "start": 161,
+              "url": "https://t.co/vntjRo98CW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057146132762165346",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2446,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "뭐라도 올리고 싶다 넘 그림 그리고 싶음... 원래 매일매일 그림 그리는데 요즘 일주일에 한두 번 펜 잡을까 말까임 그리고 이거 세 개 다 다른 만화임 셋 중 두 개는 유기한 건데 하나는 다시 보니깐 나쁘지 않아서 다시 작업해도 괜찮을 것 같다는 생각함 푸념죄송하고요... 만화너무어려움 https://t.co/vntjRo98CW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 406,
+          "like_count": 14359,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6649
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:52:04.000Z",
+        "description": "https://t.co/RmA7mKbFqc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/J5Tko",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/J5Tko",
+                "start": 0,
+                "url": "https://t.co/RmA7mKbFqc"
+              }
+            ]
+          }
+        },
+        "id": "1370809862209249281",
+        "name": "아빠",
+        "pinned_tweet_id": "2050967174093959207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882094753065656320/k0aQxFpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 46,
+          "like_count": 1031,
+          "listed_count": 12,
+          "media_count": 56,
+          "tweet_count": 331
+        },
+        "username": "J5Tko",
+        "verified": false
+      }
+    ]
+  }
+}

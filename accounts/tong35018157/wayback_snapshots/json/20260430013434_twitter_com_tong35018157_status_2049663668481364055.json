@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2049663668481364055",
+    "created_at": "2026-04-30T01:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049663668481364055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "987236107669655552",
+          "start": 3,
+          "username": "TheDeadDistrict"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049663668481364055",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049083213608264129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheDeadDistrict: If you ever feel useless, just remember this ruSSian FPV drone knocking on this Ukrainian FMTV M1083 truck. https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13467,
+        "height": 720,
+        "media_key": "7_2049080991734525952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049080991734525952/pu/img/pK0cGk97hnWwCzh5.jpg",
+        "public_metrics": {
+          "view_count": 736949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049080991734525952/pu/vid/avc1/470x270/9e08PEjfmkHKWuDL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049080991734525952/pu/vid/avc1/628x360/bFH7s6jzk6tbkqmp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049080991734525952/pu/vid/avc1/1256x720/mgAcck-v7x2yYhDJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049080991734525952/pu/pl/yxgx8mAb9tJkzhDA.m3u8?v=cfc"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2049663668481364055",
+        "created_at": "2026-04-30T01:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049663668481364055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "987236107669655552",
+              "start": 3,
+              "username": "TheDeadDistrict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049663668481364055",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049083213608264129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheDeadDistrict: If you ever feel useless, just remember this ruSSian FPV drone knocking on this Ukrainian FMTV M1083 truck. https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049080991734525952"
+          ]
+        },
+        "author_id": "987236107669655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049083213608264129",
+        "created_at": "2026-04-28T11:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:59:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049081030200410151",
+          "2049083213608264129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtU7cgMjxY",
+              "end": 131,
+              "expanded_url": "https://x.com/TheDeadDistrict/status/2049083213608264129/video/1",
+              "media_key": "7_2049080991734525952",
+              "start": 108,
+              "url": "https://t.co/JtU7cgMjxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049083213608264129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 548,
+          "impression_count": 1311289,
+          "like_count": 5876,
+          "quote_count": 19,
+          "reply_count": 57,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "If you ever feel useless, just remember this ruSSian FPV drone knocking on this Ukrainian FMTV M1083 truck. https://t.co/JtU7cgMjxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 372,
+          "like_count": 13326,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6384
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T07:46:44.000Z",
+        "description": "The latest on conflicts, weapons systems and military-related news.\nSupport my work https://t.co/F4HkJgo15s\nThank you!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/thedeaddistrict",
+                "end": 107,
+                "expanded_url": "https://ko-fi.com/thedeaddistrict",
+                "start": 84,
+                "url": "https://t.co/F4HkJgo15s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheDeadDistri…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@TheDeadDistrict",
+                "start": 0,
+                "url": "https://t.co/n0W9OFuoTL"
+              }
+            ]
+          }
+        },
+        "id": "987236107669655552",
+        "location": "United States",
+        "name": "𝔗𝔥𝔢 𝕯𝔢𝔞𝔡 𝕯𝔦𝔰𝔱𝔯𝔦𝔠𝔱△ 🇬🇪🇺🇦🇺🇲🇬🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007158811346231296/7s9BOL7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155645,
+          "following_count": 105,
+          "like_count": 13084,
+          "listed_count": 2585,
+          "media_count": 28324,
+          "tweet_count": 47087
+        },
+        "url": "https://t.co/n0W9OFuoTL",
+        "username": "TheDeadDistrict",
+        "verified": true
+      }
+    ]
+  }
+}

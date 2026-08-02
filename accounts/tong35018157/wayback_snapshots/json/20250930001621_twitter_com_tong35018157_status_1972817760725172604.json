@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972623071262703616"
+      ],
+      "media_source_tweet_id": [
+        "1972623073733173304"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1972817760725172604",
+    "created_at": "2025-09-30T00:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972817760725172604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3175488314",
+          "start": 3,
+          "username": "jpg2t785"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TI2VxOIYV",
+          "end": 107,
+          "expanded_url": "https://x.com/jpg2t785/status/1972623073733173304/photo/1",
+          "media_key": "3_1972623071262703616",
+          "start": 84,
+          "url": "https://t.co/0TI2VxOIYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972817760725172604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 737
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972623073733173304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jpg2t785: 「存在の秘匿と予算要求のために全く実態に伴わない名前が付けられた部隊」←好き\n\n「性格悪そうなチビ幹部に率いられた特殊部隊（雑魚）」←好き https://t.co/0TI2VxOIYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_1972623071262703616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AqO15agAAwXxF.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972623071262703616"
+          ],
+          "media_source_tweet_id": [
+            "1972623073733173304"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1972817760725172604",
+        "created_at": "2025-09-30T00:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972817760725172604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3175488314",
+              "start": 3,
+              "username": "jpg2t785"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TI2VxOIYV",
+              "end": 107,
+              "expanded_url": "https://x.com/jpg2t785/status/1972623073733173304/photo/1",
+              "media_key": "3_1972623071262703616",
+              "start": 84,
+              "url": "https://t.co/0TI2VxOIYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972817760725172604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 737
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972623073733173304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jpg2t785: 「存在の秘匿と予算要求のために全く実態に伴わない名前が付けられた部隊」←好き\n\n「性格悪そうなチビ幹部に率いられた特殊部隊（雑魚）」←好き https://t.co/0TI2VxOIYV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972623071262703616"
+          ]
+        },
+        "author_id": "3175488314",
+        "conversation_id": "1972623073733173304",
+        "created_at": "2025-09-29T11:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972623073733173304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TI2VxOIYV",
+              "end": 93,
+              "expanded_url": "https://x.com/jpg2t785/status/1972623073733173304/photo/1",
+              "media_key": "3_1972623071262703616",
+              "start": 70,
+              "url": "https://t.co/0TI2VxOIYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972623073733173304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 328144,
+          "like_count": 5297,
+          "quote_count": 26,
+          "reply_count": 45,
+          "retweet_count": 737
+        },
+        "reply_settings": "everyone",
+        "text": "「存在の秘匿と予算要求のために全く実態に伴わない名前が付けられた部隊」←好き\n\n「性格悪そうなチビ幹部に率いられた特殊部隊（雑魚）」←好き https://t.co/0TI2VxOIYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 245,
+          "like_count": 9855,
+          "listed_count": 3,
+          "media_count": 832,
+          "tweet_count": 5236
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-26T07:44:55.000Z",
+        "description": "絵まとめ\nhttps://t.co/YT2xSy2wLv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60873332",
+                "end": 28,
+                "expanded_url": "https://www.pixiv.net/users/60873332",
+                "start": 5,
+                "url": "https://t.co/YT2xSy2wLv"
+              }
+            ]
+          }
+        },
+        "id": "3175488314",
+        "name": "mssn65",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/888413808473001984/3Oq5r3g5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206269,
+          "following_count": 54,
+          "like_count": 72508,
+          "listed_count": 2862,
+          "media_count": 5790,
+          "tweet_count": 102064
+        },
+        "username": "jpg2t785",
+        "verified": true
+      }
+    ]
+  }
+}

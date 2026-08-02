@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1985614400498082176",
+    "created_at": "2025-11-04T07:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985614400498082176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bucketyishere/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/bucketyishere/status/1985560630821318962",
+          "start": 2,
+          "url": "https://t.co/EbxlNon6Ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985614400498082176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985560630821318962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求 https://t.co/EbxlNon6Ev"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1985614400498082176",
+        "created_at": "2025-11-04T07:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985614400498082176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bucketyishere/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/bucketyishere/status/1985560630821318962",
+              "start": 2,
+              "url": "https://t.co/EbxlNon6Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985614400498082176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985560630821318962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求 https://t.co/EbxlNon6Ev"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947652886273368065",
+        "conversation_id": "1985560630821318962",
+        "created_at": "2025-11-04T04:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T05:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985560630821318962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985560630821318962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求全网屏蔽主体性祛魅这几个词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 249,
+          "like_count": 10069,
+          "listed_count": 3,
+          "media_count": 845,
+          "tweet_count": 5315
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "Bard 6 / Warlock 5/ Paranoid PD 9 multiclass",
+        "id": "1947652886273368065",
+        "location": "夺命十头桶",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983893056337354752/32etKydU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 337,
+          "like_count": 6541,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1630
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

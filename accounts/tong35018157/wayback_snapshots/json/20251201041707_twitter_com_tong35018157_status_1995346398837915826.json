@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995069351574294528"
+      ],
+      "media_source_tweet_id": [
+        "1995069360596218043"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995346398837915826",
+    "created_at": "2025-12-01T04:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995346398837915826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "881516676306444289",
+          "start": 3,
+          "username": "OtakuEspiritu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjzwwTdbAq",
+          "end": 42,
+          "expanded_url": "https://x.com/OtakuEspiritu/status/1995069360596218043/photo/1",
+          "media_key": "3_1995069351574294528",
+          "start": 19,
+          "url": "https://t.co/KjzwwTdbAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995346398837915826",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1291
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995069360596218043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OtakuEspiritu: https://t.co/KjzwwTdbAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1995069351574294528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_pAULa0AA3oAS.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995069351574294528"
+          ],
+          "media_source_tweet_id": [
+            "1995069360596218043"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995346398837915826",
+        "created_at": "2025-12-01T04:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995346398837915826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "881516676306444289",
+              "start": 3,
+              "username": "OtakuEspiritu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjzwwTdbAq",
+              "end": 42,
+              "expanded_url": "https://x.com/OtakuEspiritu/status/1995069360596218043/photo/1",
+              "media_key": "3_1995069351574294528",
+              "start": 19,
+              "url": "https://t.co/KjzwwTdbAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995346398837915826",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1291
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995069360596218043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OtakuEspiritu: https://t.co/KjzwwTdbAq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995069351574294528"
+          ]
+        },
+        "author_id": "881516676306444289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995069360596218043",
+        "created_at": "2025-11-30T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995069360596218043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjzwwTdbAq",
+              "end": 23,
+              "expanded_url": "https://x.com/OtakuEspiritu/status/1995069360596218043/photo/1",
+              "media_key": "3_1995069351574294528",
+              "start": 0,
+              "url": "https://t.co/KjzwwTdbAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995069360596218043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1879,
+          "impression_count": 214341,
+          "like_count": 12962,
+          "quote_count": 84,
+          "reply_count": 161,
+          "retweet_count": 1291
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KjzwwTdbAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 259,
+          "like_count": 10463,
+          "listed_count": 3,
+          "media_count": 861,
+          "tweet_count": 5439
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-02T14:15:28.000Z",
+        "description": "Dundee of Anitube\n\nThe Best & Most Ugly Loot Goblin AniTuber around!\n\nHere to hate and cook ur fav Tourist AniTuber & CC!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Espiritu_Anal…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Espiritu_Analysis",
+                "start": 0,
+                "url": "https://t.co/AKPmCRlIuF"
+              }
+            ]
+          }
+        },
+        "id": "881516676306444289",
+        "location": "Australia",
+        "name": "Espiritu",
+        "pinned_tweet_id": "1904116289922351532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892797799554830339/uhX825jG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49497,
+          "following_count": 211,
+          "like_count": 20379,
+          "listed_count": 108,
+          "media_count": 8136,
+          "tweet_count": 21199
+        },
+        "url": "https://t.co/AKPmCRlIuF",
+        "username": "OtakuEspiritu",
+        "verified": true
+      }
+    ]
+  }
+}

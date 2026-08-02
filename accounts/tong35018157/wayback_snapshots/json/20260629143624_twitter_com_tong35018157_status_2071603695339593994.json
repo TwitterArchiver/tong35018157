@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2071603695339593994",
+    "created_at": "2026-06-29T14:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071603695339593994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akiratoriyama/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/akiratoriyama/status/2070676627164467392",
+          "start": 55,
+          "url": "https://t.co/yJvcuqU0b9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071603695339593994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070676627164467392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然但是如果把二游痴当为榜样那真是烂完了\n追放最有意义的是为严阵以待求生之路提供建模这游戏本身真的很无聊xd https://t.co/yJvcuqU0b9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45083,
+        "height": 480,
+        "media_key": "13_2070674642038042624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070674642038042624/img/vxuDaHueOQz7DeCx.jpg",
+        "public_metrics": {
+          "view_count": 316136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070674642038042624/vid/avc1/480x270/EooEy_0pXLg0IH2H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070674642038042624/vid/avc1/640x360/Wp2QkV_C2tGLaxWy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070674642038042624/vid/avc1/854x480/R-G1GCfW_UnWqvgF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070674642038042624/pl/OPfs3GbTzUX3OlaG.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2071603695339593994",
+        "created_at": "2026-06-29T14:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071603695339593994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akiratoriyama/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/akiratoriyama/status/2070676627164467392",
+              "start": 55,
+              "url": "https://t.co/yJvcuqU0b9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071603695339593994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070676627164467392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是如果把二游痴当为榜样那真是烂完了\n追放最有意义的是为严阵以待求生之路提供建模这游戏本身真的很无聊xd https://t.co/yJvcuqU0b9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070674642038042624"
+          ]
+        },
+        "author_id": "31354355",
+        "conversation_id": "2070676627164467392",
+        "created_at": "2026-06-27T01:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070676627164467392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv1InNx6A5",
+              "end": 279,
+              "expanded_url": "https://x.com/AkiraToriyama/status/2070676627164467392/video/1",
+              "media_key": "13_2070674642038042624",
+              "start": 256,
+              "url": "https://t.co/zv1InNx6A5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070676627164467392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1983,
+          "impression_count": 750151,
+          "like_count": 8076,
+          "quote_count": 89,
+          "reply_count": 158,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "This is one thing Asian devs consistently get right.\n\nIt's not just about making them sexy or attractive, it's the way they move, react, interact and express themselves that makes them feel so alive and memorable.\n\nWhy can't more western devs do the same? https://t.co/zv1InNx6A5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 490,
+          "like_count": 16739,
+          "listed_count": 3,
+          "media_count": 996,
+          "tweet_count": 7389
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-15T06:08:34.000Z",
+        "description": "Game Enthusiast | Nintendo, PlayStation, PC, RPGs and More!。(パロディー/parody)",
+        "id": "31354355",
+        "name": "Not Akira",
+        "pinned_tweet_id": "2067226776820920505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/142254996/bo030_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27834,
+          "following_count": 1094,
+          "like_count": 70108,
+          "listed_count": 91,
+          "media_count": 8673,
+          "tweet_count": 25139
+        },
+        "url": "",
+        "username": "AkiraToriyama",
+        "verified": true
+      }
+    ]
+  }
+}

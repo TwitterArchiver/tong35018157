@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975765669305327621"
+      ],
+      "media_source_tweet_id": [
+        "1975765674795712526"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1976137412423143619",
+    "created_at": "2025-10-09T04:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T05:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976137412423143619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1194806836437774336",
+          "start": 3,
+          "username": "patriach2051"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtLjdBZCJ2",
+          "end": 41,
+          "expanded_url": "https://x.com/patriach2051/status/1975765674795712526/photo/1",
+          "media_key": "3_1975765669305327621",
+          "start": 18,
+          "url": "https://t.co/QtLjdBZCJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976137412423143619",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975765674795712526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @patriach2051: https://t.co/QtLjdBZCJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_1975765669305327621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tUaH5bIAUkpLh.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975765669305327621"
+          ],
+          "media_source_tweet_id": [
+            "1975765674795712526"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1976137412423143619",
+        "created_at": "2025-10-09T04:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976137412423143619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194806836437774336",
+              "start": 3,
+              "username": "patriach2051"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtLjdBZCJ2",
+              "end": 41,
+              "expanded_url": "https://x.com/patriach2051/status/1975765674795712526/photo/1",
+              "media_key": "3_1975765669305327621",
+              "start": 18,
+              "url": "https://t.co/QtLjdBZCJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976137412423143619",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975765674795712526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @patriach2051: https://t.co/QtLjdBZCJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975765669305327621"
+          ]
+        },
+        "author_id": "1194806836437774336",
+        "conversation_id": "1975765674795712526",
+        "created_at": "2025-10-08T03:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975765674795712526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtLjdBZCJ2",
+              "end": 23,
+              "expanded_url": "https://x.com/patriach2051/status/1975765674795712526/photo/1",
+              "media_key": "3_1975765669305327621",
+              "start": 0,
+              "url": "https://t.co/QtLjdBZCJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975765674795712526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 38186,
+          "like_count": 3567,
+          "quote_count": 27,
+          "reply_count": 25,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QtLjdBZCJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 248,
+          "like_count": 9925,
+          "listed_count": 3,
+          "media_count": 835,
+          "tweet_count": 5263
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-14T02:38:58.000Z",
+        "description": "Blasian or Koregro. Pro everything that everybody needs to survive and thrive. We have to come together to survive.",
+        "id": "1194806836437774336",
+        "name": "🇰🇵단일성 Commie on the Rez 단일성 🇰🇵",
+        "pinned_tweet_id": "1581484608138317824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429252804401500160/0hi2cwFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6672,
+          "following_count": 2652,
+          "like_count": 38220,
+          "listed_count": 64,
+          "media_count": 22712,
+          "tweet_count": 30261
+        },
+        "username": "patriach2051",
+        "verified": false
+      }
+    ]
+  }
+}

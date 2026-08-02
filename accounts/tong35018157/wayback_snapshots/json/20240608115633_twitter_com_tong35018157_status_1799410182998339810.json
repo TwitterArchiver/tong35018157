@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1799410182998339810",
+    "created_at": "2024-06-08T11:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T12:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799410182998339810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sergey_r6s/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/sergey_r6s/status/1799400967370371550",
+          "start": 20,
+          "url": "https://t.co/N34hccTtoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799410182998339810",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799400967370371550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "格列齐科监制的电影，不过我还没看完（） https://t.co/N34hccTtoB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1799410182998339810",
+        "created_at": "2024-06-08T11:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T12:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799410182998339810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sergey_r6s/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/sergey_r6s/status/1799400967370371550",
+              "start": 20,
+              "url": "https://t.co/N34hccTtoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799410182998339810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799400967370371550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "格列齐科监制的电影，不过我还没看完（） https://t.co/N34hccTtoB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799400964446928896"
+          ]
+        },
+        "author_id": "1287446671257767938",
+        "conversation_id": "1799400967370371550",
+        "created_at": "2024-06-08T11:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T12:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799400967370371550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tx91TiqUQp",
+              "end": 76,
+              "expanded_url": "https://twitter.com/sergey_r6s/status/1799400967370371550/photo/1",
+              "media_key": "3_1799400964446928896",
+              "start": 53,
+              "url": "https://t.co/tx91TiqUQp"
+            },
+            {
+              "display_url": "x.com/sergey_r6s/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/sergey_r6s/status/1799364105926795479",
+              "start": 77,
+              "url": "https://t.co/dOn4VYYFes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799400967370371550",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799364105926795479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "이거 한 이유: 바실동상 옆에 이 영화 동상이 잇음\n나도 이제 이게 뭔장면인지 알고 앉을수잇다 https://t.co/tx91TiqUQp https://t.co/dOn4VYYFes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 206,
+          "like_count": 7855,
+          "listed_count": 1,
+          "tweet_count": 3713
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T17:56:29.000Z",
+        "description": "하바롭스크 역페스 운영자 / Icon:sure_thing_boss💗 Head:hamzraider💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCj8Og…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCj8OgPLbSr9GY6jhc_kbKGw",
+                "start": 0,
+                "url": "https://t.co/E0IFNLjSrb"
+              }
+            ]
+          }
+        },
+        "id": "1287446671257767938",
+        "name": "낫망이🦭(라진7호기)",
+        "pinned_tweet_id": "1313774021922545669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775328328704299008/Cu5Six-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 317,
+          "like_count": 58288,
+          "listed_count": 17,
+          "tweet_count": 57559
+        },
+        "url": "https://t.co/E0IFNLjSrb",
+        "username": "sergey_r6s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2064726419704545622",
+    "created_at": "2026-06-10T15:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064726419704545622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042828122542727168",
+          "start": 3,
+          "username": "zhangyunyingjb"
+        },
+        {
+          "end": 32,
+          "id": "1433060339466264579",
+          "start": 20,
+          "username": "axialmedia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064726419704545622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064496401502048377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhangyunyingjb: @axialmedia1 赵紫阳穿丝袜色诱江贼民😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2064726419704545622",
+        "created_at": "2026-06-10T15:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064726419704545622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042828122542727168",
+              "start": 3,
+              "username": "zhangyunyingjb"
+            },
+            {
+              "end": 32,
+              "id": "1433060339466264579",
+              "start": 20,
+              "username": "axialmedia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064726419704545622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064496401502048377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhangyunyingjb: @axialmedia1 赵紫阳穿丝袜色诱江贼民😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042828122542727168",
+        "conversation_id": "2064336914421837934",
+        "created_at": "2026-06-09T23:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064496401502048377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433060339466264579",
+              "start": 0,
+              "username": "axialmedia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064496401502048377",
+        "in_reply_to_user_id": "1433060339466264579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14232,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336914421837934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axialmedia1 赵紫阳穿丝袜色诱江贼民😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 469,
+          "like_count": 15551,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 7028
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T04:52:58.000Z",
+        "description": "黑龙江省设计集团党委副书记、副董事长、总经理，黑龙江省勘察设计协会秘书长，原黑龙江省建筑设计研究院党委书记。身在体制内，心是民主心！吃中共的饭，就要砸中共的锅！\n民主万岁！自由万岁！法制万岁！宪政万岁！打倒独裁国贼习近平！推翻罪恶邪教中国共产党！\n全网征集黑龙江省住建厅高起生、李守志、刘晓东、徐东锋等领导腐败犯罪线索。",
+        "id": "2042828122542727168",
+        "location": "黑龙江省哈尔滨市南岗区果戈里大街1号",
+        "name": "89张云英64",
+        "pinned_tweet_id": "2060950170641355203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042830659610382336/qF8He2OE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 32,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 770
+        },
+        "username": "zhangyunyingjb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-01T13:33:17.000Z",
+        "description": "常识*真相*良知🇺🇸不与赤佬论是非，懒对傻叉说短长",
+        "id": "1433060339466264579",
+        "name": "華夏畫報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064026214084354049/oFVxAIse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11094,
+          "following_count": 596,
+          "like_count": 694,
+          "listed_count": 69,
+          "media_count": 17303,
+          "tweet_count": 26232
+        },
+        "username": "axialmedia1",
+        "verified": true
+      }
+    ]
+  }
+}

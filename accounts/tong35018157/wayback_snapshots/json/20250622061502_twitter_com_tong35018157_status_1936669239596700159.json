@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1936410304021487831",
+    "created_at": "2025-06-22T06:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936669239596700159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691385929968062464",
+          "start": 0,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936669239596700159",
+    "in_reply_to_user_id": "1691385929968062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936410304021487831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou1919456789 我们一般都是教育做人大于成绩……额其实做人也不太行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1936410300615380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-C6KuWUAAAJ9S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1936410304021487831",
+        "created_at": "2025-06-22T06:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936669239596700159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936669239596700159",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936410304021487831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 我们一般都是教育做人大于成绩……额其实做人也不太行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936410300615380992"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1936410304021487831",
+        "created_at": "2025-06-21T13:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936410304021487831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZJfhDdBJJ",
+              "end": 36,
+              "expanded_url": "https://x.com/zhou1919456789/status/1936410304021487831/photo/1",
+              "media_key": "3_1936410300615380992",
+              "start": 13,
+              "url": "https://t.co/ZZJfhDdBJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936410304021487831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 328985,
+          "like_count": 789,
+          "quote_count": 20,
+          "reply_count": 157,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "你们广东人心态怎么那么好 https://t.co/ZZJfhDdBJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 224,
+          "like_count": 8885,
+          "listed_count": 2,
+          "media_count": 735,
+          "tweet_count": 4557
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 793,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 550
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

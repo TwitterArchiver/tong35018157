@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2061569341209141702",
+    "created_at": "2026-06-02T00:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061608127292989872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061608127292989872",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061569341209141702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 怎么设的出来的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061569341209141702].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061569341209141702",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061569341209141702"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2061569341209141702",
+        "created_at": "2026-06-02T00:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061608127292989872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061608127292989872",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061569341209141702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 怎么设的出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 455,
+          "like_count": 15194,
+          "listed_count": 3,
+          "media_count": 974,
+          "tweet_count": 6916
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，喜欢日帝反感日本国。不清真的炸猪排爱好者\n右翼威权主义者，秩序高于一切，法律至上\n目前正在学习外语以及研究日本帝国，大韩民国独裁时期和以色列国的历史。喜欢大文豪三岛由纪夫\n一代目@zhinarencnm8964三代目@zhinarensb8964四代目@zhinarencs8964\n⚠️无差别屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那贱畜它妈的骚逼里",
+        "name": "古美门 正雄✡️🩵",
+        "pinned_tweet_id": "2061592472623681874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061181934177538048/bt5b2Jn0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 1058,
+          "like_count": 42700,
+          "listed_count": 6,
+          "media_count": 677,
+          "tweet_count": 3907
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

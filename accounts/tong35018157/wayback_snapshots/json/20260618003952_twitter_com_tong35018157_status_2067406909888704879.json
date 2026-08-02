@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067312162562060288"
+      ],
+      "media_source_tweet_id": [
+        "2067312164709535997"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2067406909888704879",
+    "created_at": "2026-06-18T00:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067406909888704879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778669137944055808",
+          "start": 3,
+          "username": "dhfzvbj11050"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqGmk8TcgC",
+          "end": 41,
+          "expanded_url": "https://x.com/dhfzvbj11050/status/2067312164709535997/photo/1",
+          "media_key": "3_2067312162562060288",
+          "start": 18,
+          "url": "https://t.co/YqGmk8TcgC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067406909888704879",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067312164709535997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dhfzvbj11050: https://t.co/YqGmk8TcgC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2067312162562060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCRdXFbMAAvaIc.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067312162562060288"
+          ],
+          "media_source_tweet_id": [
+            "2067312164709535997"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2067406909888704879",
+        "created_at": "2026-06-18T00:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067406909888704879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778669137944055808",
+              "start": 3,
+              "username": "dhfzvbj11050"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqGmk8TcgC",
+              "end": 41,
+              "expanded_url": "https://x.com/dhfzvbj11050/status/2067312164709535997/photo/1",
+              "media_key": "3_2067312162562060288",
+              "start": 18,
+              "url": "https://t.co/YqGmk8TcgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067406909888704879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067312164709535997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dhfzvbj11050: https://t.co/YqGmk8TcgC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067312162562060288"
+          ]
+        },
+        "author_id": "1778669137944055808",
+        "conversation_id": "2067312164709535997",
+        "created_at": "2026-06-17T18:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067312164709535997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqGmk8TcgC",
+              "end": 23,
+              "expanded_url": "https://x.com/dhfzvbj11050/status/2067312164709535997/photo/1",
+              "media_key": "3_2067312162562060288",
+              "start": 0,
+              "url": "https://t.co/YqGmk8TcgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067312164709535997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 3810,
+          "like_count": 352,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YqGmk8TcgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 485,
+          "like_count": 16091,
+          "listed_count": 3,
+          "media_count": 987,
+          "tweet_count": 7175
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T06:19:25.000Z",
+        "description": "Lei Feng (December 18, 1940 – August 15, 1962),Soldiers of the Chinese People's Liberation Army, great communist fighters  backup account：@Shutdxcb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Shutdxcb"
+              }
+            ]
+          }
+        },
+        "id": "1778669137944055808",
+        "name": "Lei Feng",
+        "pinned_tweet_id": "1938607233799225849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030219140674531328/82wI0GUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 130,
+          "like_count": 877,
+          "listed_count": 21,
+          "media_count": 2338,
+          "tweet_count": 3217
+        },
+        "username": "dhfzvbj11050",
+        "verified": false
+      }
+    ]
+  }
+}

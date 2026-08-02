@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1874326240494313510",
+    "created_at": "2025-01-01T05:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T06:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874326240494313510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "vivziepop",
+          "probability": 0.5459,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826096059824623616",
+          "start": 3,
+          "username": "sorrven69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874326240494313510",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870936609165836361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorrven69: I hate vivziepop and furthermore I hate the way women are written in always everything. Women never get to be their own char…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1874326240494313510",
+        "created_at": "2025-01-01T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874326240494313510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "vivziepop",
+              "probability": 0.5459,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826096059824623616",
+              "start": 3,
+              "username": "sorrven69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874326240494313510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870936609165836361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorrven69: I hate vivziepop and furthermore I hate the way women are written in always everything. Women never get to be their own char…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826096059824623616",
+        "conversation_id": "1870936609165836361",
+        "created_at": "2024-12-22T20:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T21:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870936609165836361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "vivziepop",
+              "probability": 0.5082,
+              "start": 7,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870936609165836361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1155,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I hate vivziepop and furthermore I hate the way women are written in always everything. Women never get to be their own characters. Always a wife, or a mother, or a toxic ex. They have zero agency and half the time zero personality cuz writers refuse to let them exist themself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 207,
+          "like_count": 8162,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 3997
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T03:16:48.000Z",
+        "description": "do you support @sticksnstal? /genq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "sticksnstal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hipsternug.carrd.co",
+                "end": 23,
+                "expanded_url": "https://hipsternug.carrd.co",
+                "start": 0,
+                "url": "https://t.co/3VYReEk7q7"
+              }
+            ]
+          }
+        },
+        "id": "1826096059824623616",
+        "location": "he/him / 20 ",
+        "name": "Sorrven ♡",
+        "pinned_tweet_id": "1868186654860808698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873261495179501568/u350BumX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 416,
+          "like_count": 16416,
+          "listed_count": 1,
+          "media_count": 1394,
+          "tweet_count": 7089
+        },
+        "url": "https://t.co/3VYReEk7q7",
+        "username": "sorrven69",
+        "verified": false
+      }
+    ]
+  }
+}

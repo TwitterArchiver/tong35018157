@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045193702163791872",
+        "3_2045193860247179264",
+        "3_2045193963183706112",
+        "3_2045194100727488512"
+      ],
+      "media_source_tweet_id": [
+        "2045194217379529213",
+        "2045194217379529213",
+        "2045194217379529213",
+        "2045194217379529213"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2045305555657671115",
+    "created_at": "2026-04-18T00:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045305555657671115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1173623155",
+          "start": 3,
+          "username": "evornithology"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZnICrKBMV",
+          "end": 101,
+          "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+          "media_key": "3_2045193702163791872",
+          "start": 78,
+          "url": "https://t.co/5ZnICrKBMV"
+        },
+        {
+          "display_url": "pic.x.com/5ZnICrKBMV",
+          "end": 101,
+          "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+          "media_key": "3_2045193860247179264",
+          "start": 78,
+          "url": "https://t.co/5ZnICrKBMV"
+        },
+        {
+          "display_url": "pic.x.com/5ZnICrKBMV",
+          "end": 101,
+          "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+          "media_key": "3_2045193963183706112",
+          "start": 78,
+          "url": "https://t.co/5ZnICrKBMV"
+        },
+        {
+          "display_url": "pic.x.com/5ZnICrKBMV",
+          "end": 101,
+          "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+          "media_key": "3_2045194100727488512",
+          "start": 78,
+          "url": "https://t.co/5ZnICrKBMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045305555657671115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045194217379529213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evornithology: Imagine making AI bird slop when kingfishers already exist https://t.co/5ZnICrKBMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2045193702163791872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH81hJWwAAkoeJ.png",
+        "width": 806
+      },
+      {
+        "height": 774,
+        "media_key": "3_2045193860247179264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH8-uDX0AA8lZV.png",
+        "width": 806
+      },
+      {
+        "height": 774,
+        "media_key": "3_2045193963183706112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH9EthWkAARh4r.png",
+        "width": 806
+      },
+      {
+        "height": 774,
+        "media_key": "3_2045194100727488512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH9Mt6WIAA53_V.png",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045193702163791872",
+            "3_2045193860247179264",
+            "3_2045193963183706112",
+            "3_2045194100727488512"
+          ],
+          "media_source_tweet_id": [
+            "2045194217379529213",
+            "2045194217379529213",
+            "2045194217379529213",
+            "2045194217379529213"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2045305555657671115",
+        "created_at": "2026-04-18T00:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045305555657671115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1173623155",
+              "start": 3,
+              "username": "evornithology"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 101,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193702163791872",
+              "start": 78,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 101,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193860247179264",
+              "start": 78,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 101,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193963183706112",
+              "start": 78,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 101,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045194100727488512",
+              "start": 78,
+              "url": "https://t.co/5ZnICrKBMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045305555657671115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045194217379529213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evornithology: Imagine making AI bird slop when kingfishers already exist https://t.co/5ZnICrKBMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045193702163791872",
+            "3_2045193860247179264",
+            "3_2045193963183706112",
+            "3_2045194100727488512"
+          ]
+        },
+        "author_id": "1173623155",
+        "conversation_id": "2045194217379529213",
+        "created_at": "2026-04-17T17:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045194217379529213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 82,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193702163791872",
+              "start": 59,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 82,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193860247179264",
+              "start": 59,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 82,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045193963183706112",
+              "start": 59,
+              "url": "https://t.co/5ZnICrKBMV"
+            },
+            {
+              "display_url": "pic.x.com/5ZnICrKBMV",
+              "end": 82,
+              "expanded_url": "https://x.com/evornithology/status/2045194217379529213/photo/1",
+              "media_key": "3_2045194100727488512",
+              "start": 59,
+              "url": "https://t.co/5ZnICrKBMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045194217379529213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 20772,
+          "like_count": 1697,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine making AI bird slop when kingfishers already exist https://t.co/5ZnICrKBMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 333,
+          "like_count": 12526,
+          "listed_count": 3,
+          "media_count": 926,
+          "tweet_count": 6136
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-13T02:05:13.000Z",
+        "description": "Doctor of Birds at @sunyoswego. Opinions = mine, not representative of NY state government. I run a banding station: @rcbobirds on IG.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "sunyoswego"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "rcbobirds"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danbaldassarre.weebly.com",
+                "end": 23,
+                "expanded_url": "http://danbaldassarre.weebly.com",
+                "start": 0,
+                "url": "https://t.co/fXogwLuqFI"
+              }
+            ]
+          }
+        },
+        "id": "1173623155",
+        "location": "Oswego, NY",
+        "name": "Dan Baldassarre",
+        "pinned_tweet_id": "1823786320080052345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/762775621315489792/LDKds18f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19518,
+          "following_count": 3032,
+          "like_count": 103776,
+          "listed_count": 107,
+          "media_count": 6341,
+          "tweet_count": 53820
+        },
+        "url": "https://t.co/fXogwLuqFI",
+        "username": "evornithology",
+        "verified": false
+      }
+    ]
+  }
+}

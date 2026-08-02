@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017526979118219265",
+        "3_2017526980141584387",
+        "3_2017526981680926720"
+      ],
+      "media_source_tweet_id": [
+        "2017526984222642471",
+        "2017526984222642471",
+        "2017526984222642471"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017697778986786962",
+    "created_at": "2026-01-31T20:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T21:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017697778986786962"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "WF2026冬"
+        },
+        {
+          "end": 56,
+          "start": 48,
+          "tag": "WF2026W"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "284916059",
+          "start": 3,
+          "username": "yatou36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaKW85oq0G",
+          "end": 80,
+          "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+          "media_key": "3_2017526979118219265",
+          "start": 57,
+          "url": "https://t.co/XaKW85oq0G"
+        },
+        {
+          "display_url": "pic.x.com/XaKW85oq0G",
+          "end": 80,
+          "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+          "media_key": "3_2017526980141584387",
+          "start": 57,
+          "url": "https://t.co/XaKW85oq0G"
+        },
+        {
+          "display_url": "pic.x.com/XaKW85oq0G",
+          "end": 80,
+          "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+          "media_key": "3_2017526981680926720",
+          "start": 57,
+          "url": "https://t.co/XaKW85oq0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017697778986786962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017526984222642471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yatou36: いつものスズメスナイパー・スポッター\n4羽づつ待機\n#WF2026冬\n#WF2026W https://t.co/XaKW85oq0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2017526979118219265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-yGSMbwAE4oMN.jpg",
+        "width": 953
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017526980141584387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-yGWAbEAMedgP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1218,
+        "media_key": "3_2017526981680926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-yGbvbkAAf7bl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017526979118219265",
+            "3_2017526980141584387",
+            "3_2017526981680926720"
+          ],
+          "media_source_tweet_id": [
+            "2017526984222642471",
+            "2017526984222642471",
+            "2017526984222642471"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017697778986786962",
+        "created_at": "2026-01-31T20:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T21:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017697778986786962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "WF2026冬"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "WF2026W"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "284916059",
+              "start": 3,
+              "username": "yatou36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 80,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526979118219265",
+              "start": 57,
+              "url": "https://t.co/XaKW85oq0G"
+            },
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 80,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526980141584387",
+              "start": 57,
+              "url": "https://t.co/XaKW85oq0G"
+            },
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 80,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526981680926720",
+              "start": 57,
+              "url": "https://t.co/XaKW85oq0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017697778986786962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017526984222642471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yatou36: いつものスズメスナイパー・スポッター\n4羽づつ待機\n#WF2026冬\n#WF2026W https://t.co/XaKW85oq0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017526979118219265",
+            "3_2017526980141584387",
+            "3_2017526981680926720"
+          ]
+        },
+        "author_id": "284916059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017526984222642471",
+        "created_at": "2026-01-31T09:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017526984222642471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "WF2026冬"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "WF2026W"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 67,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526979118219265",
+              "start": 44,
+              "url": "https://t.co/XaKW85oq0G"
+            },
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 67,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526980141584387",
+              "start": 44,
+              "url": "https://t.co/XaKW85oq0G"
+            },
+            {
+              "display_url": "pic.x.com/XaKW85oq0G",
+              "end": 67,
+              "expanded_url": "https://x.com/yatou36/status/2017526984222642471/photo/1",
+              "media_key": "3_2017526981680926720",
+              "start": 44,
+              "url": "https://t.co/XaKW85oq0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017526984222642471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2824,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "いつものスズメスナイパー・スポッター\n4羽づつ待機\n#WF2026冬\n#WF2026W https://t.co/XaKW85oq0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 282,
+          "like_count": 10656,
+          "listed_count": 3,
+          "media_count": 875,
+          "tweet_count": 5558
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-20T05:58:10.000Z",
+        "description": "コザクラの故からしとボタンのどんべえに妨害されながら鳥のグッズを作っています\n 「ＣＨＵＮ」\nミンネにてシルバーアクセサリー販売中https://t.co/VWCCXZQ7pD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "minne.com/@yatou36",
+                "end": 88,
+                "expanded_url": "http://minne.com/@yatou36",
+                "start": 65,
+                "url": "https://t.co/VWCCXZQ7pD"
+              }
+            ]
+          }
+        },
+        "id": "284916059",
+        "location": "日本 岐阜",
+        "name": "ヤトウナオコ🐥ワン6-06-03",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/629519855302000640/BMhZwLEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10064,
+          "following_count": 749,
+          "like_count": 16961,
+          "listed_count": 223,
+          "media_count": 1072,
+          "tweet_count": 3609
+        },
+        "username": "yatou36",
+        "verified": false
+      }
+    ]
+  }
+}

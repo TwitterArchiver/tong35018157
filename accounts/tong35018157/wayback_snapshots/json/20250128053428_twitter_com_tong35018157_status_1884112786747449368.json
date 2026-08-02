@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1884112786747449368",
+    "created_at": "2025-01-28T05:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884112786747449368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thomaslim2019/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/thomaslim2019/status/1883885373224538374",
+          "start": 15,
+          "url": "https://t.co/l9w0ArFGUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884112786747449368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883885373224538374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋😋😋葱爆是油直接蘸能吃一周 https://t.co/l9w0ArFGUp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1884112786747449368",
+        "created_at": "2025-01-28T05:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884112786747449368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thomaslim2019/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/thomaslim2019/status/1883885373224538374",
+              "start": 15,
+              "url": "https://t.co/l9w0ArFGUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884112786747449368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883885373224538374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋😋😋葱爆是油直接蘸能吃一周 https://t.co/l9w0ArFGUp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883885355973345280"
+          ]
+        },
+        "author_id": "1206932939470041089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1883885373224538374",
+        "created_at": "2025-01-27T14:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883885373224538374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaQ5oExooc",
+              "end": 30,
+              "expanded_url": "https://x.com/thomaslim2019/status/1883885373224538374/photo/1",
+              "media_key": "3_1883885355973345280",
+              "start": 7,
+              "url": "https://t.co/EaQ5oExooc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883885373224538374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 329219,
+          "like_count": 1290,
+          "quote_count": 31,
+          "reply_count": 138,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "广东人的春节 https://t.co/EaQ5oExooc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 221,
+          "like_count": 8349,
+          "listed_count": 1,
+          "media_count": 672,
+          "tweet_count": 4149
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T13:43:52.000Z",
+        "description": "迷雾里最远处吹来号角声",
+        "id": "1206932939470041089",
+        "name": "老林永生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376930629229502472/rEjLtwVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37468,
+          "following_count": 44,
+          "like_count": 2241,
+          "listed_count": 172,
+          "media_count": 16294,
+          "tweet_count": 33276
+        },
+        "username": "thomaslim2019",
+        "verified": true
+      }
+    ]
+  }
+}

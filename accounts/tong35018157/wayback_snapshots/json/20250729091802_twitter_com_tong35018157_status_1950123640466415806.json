@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950073806162116608"
+      ],
+      "media_source_tweet_id": [
+        "1950073810574594454"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1950123640466415806",
+    "created_at": "2025-07-29T09:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950123640466415806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529557088577396737",
+          "start": 3,
+          "username": "DarkOddCon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vofdEELbfT",
+          "end": 39,
+          "expanded_url": "https://x.com/DarkOddCon/status/1950073810574594454/photo/1",
+          "media_key": "3_1950073806162116608",
+          "start": 16,
+          "url": "https://t.co/vofdEELbfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950123640466415806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950073810574594454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkOddCon: https://t.co/vofdEELbfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1950073806162116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxANy3YWQAAXpt3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950073806162116608"
+          ],
+          "media_source_tweet_id": [
+            "1950073810574594454"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1950123640466415806",
+        "created_at": "2025-07-29T09:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950123640466415806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529557088577396737",
+              "start": 3,
+              "username": "DarkOddCon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vofdEELbfT",
+              "end": 39,
+              "expanded_url": "https://x.com/DarkOddCon/status/1950073810574594454/photo/1",
+              "media_key": "3_1950073806162116608",
+              "start": 16,
+              "url": "https://t.co/vofdEELbfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950123640466415806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950073810574594454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkOddCon: https://t.co/vofdEELbfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950073806162116608"
+          ]
+        },
+        "author_id": "1529557088577396737",
+        "conversation_id": "1950073810574594454",
+        "created_at": "2025-07-29T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950073810574594454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vofdEELbfT",
+              "end": 23,
+              "expanded_url": "https://x.com/DarkOddCon/status/1950073810574594454/photo/1",
+              "media_key": "3_1950073806162116608",
+              "start": 0,
+              "url": "https://t.co/vofdEELbfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950073810574594454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 8480,
+          "like_count": 442,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vofdEELbfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 219,
+          "like_count": 9145,
+          "listed_count": 2,
+          "media_count": 768,
+          "tweet_count": 4787
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T20:17:02.000Z",
+        "description": "I just post Dark Humor, Schizo, Conspiracy, Edgy, and Weird/Odd memes/posts along with regular memes too. Trying to be more active, posting regular memes too.",
+        "id": "1529557088577396737",
+        "location": "Insane Asylum",
+        "name": "Dark,Odd,Conspiracy",
+        "pinned_tweet_id": "1918862078724407667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529558209568157697/Sjv9-6f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296756,
+          "following_count": 120,
+          "like_count": 197,
+          "listed_count": 288,
+          "media_count": 4292,
+          "tweet_count": 5536
+        },
+        "username": "DarkOddCon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047548098923380834",
+    "created_at": "2026-04-24T05:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047548098923380834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newsdaymundo/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/newsdaymundo/status/2047454150045106275",
+          "start": 12,
+          "url": "https://t.co/dViPPy037c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548098923380834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047454150045106275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起了《黄昏里的男孩》 https://t.co/dViPPy037c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30209,
+        "height": 852,
+        "media_key": "7_2047454122522140672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047454122522140672/pu/img/tcpuPDj9X8Gjanuv.jpg",
+        "public_metrics": {
+          "view_count": 397952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047454122522140672/pu/vid/avc1/320x568/e9dCtdx6xl0-VFXc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047454122522140672/pu/vid/avc1/480x852/RMmDoPunTXq-Klyu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047454122522140672/pu/pl/RQSrewpU_ZcXLs43.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047548098923380834",
+        "created_at": "2026-04-24T05:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047548098923380834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newsdaymundo/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/newsdaymundo/status/2047454150045106275",
+              "start": 12,
+              "url": "https://t.co/dViPPy037c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548098923380834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047454150045106275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起了《黄昏里的男孩》 https://t.co/dViPPy037c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047454122522140672"
+          ]
+        },
+        "author_id": "1256798446343933958",
+        "conversation_id": "2047454150045106275",
+        "created_at": "2026-04-23T23:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047454150045106275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 190,
+              "start": 184,
+              "tag": "Viral"
+            },
+            {
+              "end": 199,
+              "start": 191,
+              "tag": "Valores"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQ6lGTnnqg",
+              "end": 223,
+              "expanded_url": "https://x.com/NewsDayMundo/status/2047454150045106275/video/1",
+              "media_key": "7_2047454122522140672",
+              "start": 200,
+              "url": "https://t.co/eQ6lGTnnqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047454150045106275",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1790,
+          "impression_count": 714576,
+          "like_count": 8772,
+          "quote_count": 50,
+          "reply_count": 367,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "El video que es viral: Niños intentan robar en una vivienda y la reacción del dueño sorprende a todos. Ni policía, ni violencia: educación y ayuda. 🤝\n\n ¿Qué harías tú en su lugar?\n\n 💬 #Viral #Valores https://t.co/eQ6lGTnnqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 358,
+          "like_count": 12872,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6245
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T04:11:26.000Z",
+        "description": "Somos News Day Mundo. Noticias desde todo el mundo, todos los días. Síguenos y activa las notificaciones 🔔",
+        "id": "1256798446343933958",
+        "name": "News Day Mundo",
+        "pinned_tweet_id": "2047014059069911050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035748743962914817/OSMlGlK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193981,
+          "following_count": 14417,
+          "like_count": 22434,
+          "listed_count": 512,
+          "media_count": 13075,
+          "tweet_count": 39091
+        },
+        "username": "NewsDayMundo",
+        "verified": true
+      }
+    ]
+  }
+}

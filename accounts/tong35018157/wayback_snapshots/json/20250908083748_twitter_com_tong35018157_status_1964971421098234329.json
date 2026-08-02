@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1964971421098234329",
+    "created_at": "2025-09-08T08:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T09:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964971421098234329"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Bureau",
+          "probability": 0.3705,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "We Love Cold War",
+          "probability": 0.7426,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Yvette",
+          "probability": 0.2905,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Joséphine",
+          "probability": 0.3385,
+          "start": 68,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "AMX-",
+          "probability": 0.4882,
+          "start": 89,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "772511835710902273",
+          "start": 3,
+          "username": "nicojian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964971421098234329",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964800661658513419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nicojian: The French - 2e Bureau - We Love Cold War!!\nYvette et Joséphine testing an AMX-13 somewhere in the empty diagonal... #indie_a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3958,
+        "height": 1080,
+        "media_key": "13_1964799123745374208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964799123745374208/img/nfDuCm4mWhV9mHtn.jpg",
+        "public_metrics": {
+          "view_count": 10444
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964799123745374208/vid/avc1/480x270/IVKRayyyOU_ELmsG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964799123745374208/vid/avc1/640x360/wvgn1oR8b_UnSVuH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964799123745374208/vid/avc1/1280x720/Hvm5pZG6B-w8W23o.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964799123745374208/pl/N16m47h_umT-ZlLc.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1964971421098234329",
+        "created_at": "2025-09-08T08:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964971421098234329"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Bureau",
+              "probability": 0.3705,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "We Love Cold War",
+              "probability": 0.7426,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Yvette",
+              "probability": 0.2905,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Joséphine",
+              "probability": 0.3385,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "AMX-",
+              "probability": 0.4882,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "772511835710902273",
+              "start": 3,
+              "username": "nicojian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964971421098234329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964800661658513419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nicojian: The French - 2e Bureau - We Love Cold War!!\nYvette et Joséphine testing an AMX-13 somewhere in the empty diagonal... #indie_a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964799123745374208"
+          ]
+        },
+        "author_id": "772511835710902273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "1964800661658513419",
+        "created_at": "2025-09-07T21:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T22:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964800661658513419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "We Love Cold War",
+              "probability": 0.7164,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Yvette",
+              "probability": 0.277,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Joséphine",
+              "probability": 0.366,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "AMX-13",
+              "probability": 0.6025,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 117,
+              "tag": "indie_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXyYvCOT4P",
+              "end": 153,
+              "expanded_url": "https://x.com/nicojian/status/1964800661658513419/video/1",
+              "media_key": "13_1964799123745374208",
+              "start": 130,
+              "url": "https://t.co/oXyYvCOT4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964800661658513419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 20726,
+          "like_count": 2157,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "The French - 2e Bureau - We Love Cold War!!\nYvette et Joséphine testing an AMX-13 somewhere in the empty diagonal... #indie_anime https://t.co/oXyYvCOT4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 232,
+          "like_count": 9591,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 5078
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-04T19:09:09.000Z",
+        "description": "🇨🇦 Independent Animator, creator of We Love Cold War!!\nhttps://t.co/Xrg3MX85tj\nhttps://t.co/mrc5cP0R0J\nsupport: https://t.co/EiIFDY7h46\n📧: nicoanimeworks@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "welovecoldwar.com",
+                "end": 78,
+                "expanded_url": "http://welovecoldwar.com/",
+                "start": 55,
+                "url": "https://t.co/Xrg3MX85tj"
+              },
+              {
+                "display_url": "youtube.com/@nicoanime",
+                "end": 102,
+                "expanded_url": "http://youtube.com/@nicoanime",
+                "start": 79,
+                "url": "https://t.co/mrc5cP0R0J"
+              },
+              {
+                "display_url": "patreon.com/nicojian/",
+                "end": 135,
+                "expanded_url": "http://patreon.com/nicojian/",
+                "start": 112,
+                "url": "https://t.co/EiIFDY7h46"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nicojian",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/nicojian",
+                "start": 0,
+                "url": "https://t.co/NTZnva1NxQ"
+              }
+            ]
+          }
+        },
+        "id": "772511835710902273",
+        "location": "Toronto, Canada",
+        "name": "Nico Jiang ニコ江",
+        "pinned_tweet_id": "1901630015810257399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963465888889188352/oA6BsoqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18378,
+          "following_count": 932,
+          "like_count": 3415,
+          "listed_count": 72,
+          "media_count": 292,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/NTZnva1NxQ",
+        "username": "nicojian",
+        "verified": false
+      }
+    ]
+  }
+}

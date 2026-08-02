@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057302930538353051",
+    "created_at": "2026-05-21T03:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057302930538353051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2057275458472083778",
+          "start": 10,
+          "url": "https://t.co/kxtGugGrSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057302930538353051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057275458472083778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次面基就这样 https://t.co/kxtGugGrSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2057275446207852544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzpHlBaMAAoP59.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057302930538353051",
+        "created_at": "2026-05-21T03:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057302930538353051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2057275458472083778",
+              "start": 10,
+              "url": "https://t.co/kxtGugGrSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057302930538353051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057275458472083778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次面基就这样 https://t.co/kxtGugGrSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057275446207852544"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057275458472083778",
+        "created_at": "2026-05-21T01:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057275458472083778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUkneSiTZz",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2057275458472083778/photo/1",
+              "media_key": "3_2057275446207852544",
+              "start": 0,
+              "url": "https://t.co/xUkneSiTZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057275458472083778",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xUkneSiTZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 406,
+          "like_count": 14372,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6655
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2054493321616375888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7146,
+          "following_count": 2966,
+          "like_count": 1556,
+          "listed_count": 13,
+          "media_count": 1381,
+          "tweet_count": 9554
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

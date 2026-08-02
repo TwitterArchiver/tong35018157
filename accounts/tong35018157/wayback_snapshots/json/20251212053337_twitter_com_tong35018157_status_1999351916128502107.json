@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491568130480508928",
+          "name": "Gaming industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491568352442998784",
+          "name": "Game companies"
+        }
+      }
+    ],
+    "conversation_id": "1999351916128502107",
+    "created_at": "2025-12-12T05:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999351916128502107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/universalnewsx…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/universalnewsx/status/1998043179585810479",
+          "start": 17,
+          "url": "https://t.co/nyqHUnGXox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999351916128502107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998043179585810479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望做出来是cod5而非日军总部 https://t.co/nyqHUnGXox"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179470,
+        "height": 720,
+        "media_key": "13_1998005843330277376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998005843330277376/img/jMVS4jH_IzAWqveo.jpg",
+        "public_metrics": {
+          "view_count": 4255677
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998005843330277376/vid/avc1/480x270/BaJVoiCmIX3SMTBW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998005843330277376/vid/avc1/640x360/C_pe7R2L2uBhaPO0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998005843330277376/vid/avc1/1280x720/DKW-9CzYL_PrZ53F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998005843330277376/pl/R1WZzog7kWdca0eg.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568130480508928",
+              "name": "Gaming industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          }
+        ],
+        "conversation_id": "1999351916128502107",
+        "created_at": "2025-12-12T05:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999351916128502107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/universalnewsx…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/universalnewsx/status/1998043179585810479",
+              "start": 17,
+              "url": "https://t.co/nyqHUnGXox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999351916128502107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998043179585810479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望做出来是cod5而非日军总部 https://t.co/nyqHUnGXox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998005843330277376"
+          ],
+          "media_source_tweet_id": [
+            "1998006034124927295"
+          ]
+        },
+        "author_id": "1436353484576727045",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568130480508928",
+              "name": "Gaming industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          }
+        ],
+        "conversation_id": "1998043179585810479",
+        "created_at": "2025-12-08T14:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998043179585810479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBfsIhi8uD",
+              "end": 105,
+              "expanded_url": "https://x.com/i/status/1998006034124927295/video/1",
+              "media_key": "13_1998005843330277376",
+              "start": 82,
+              "url": "https://t.co/hBfsIhi8uD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998043179585810479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6001,
+          "impression_count": 11215134,
+          "like_count": 16774,
+          "quote_count": 1959,
+          "reply_count": 1326,
+          "retweet_count": 1430
+        },
+        "reply_settings": "everyone",
+        "text": "🔴 A Chinese game studio released a trailer for their new anti-Japanese war game.\n\nhttps://t.co/hBfsIhi8uD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 270,
+          "like_count": 10525,
+          "listed_count": 3,
+          "media_count": 865,
+          "tweet_count": 5479
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T15:39:12.000Z",
+        "description": "World Agenda | Entertainment | Sports | History | News",
+        "id": "1436353484576727045",
+        "name": "Universal News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902738120258568193/5uwTnI9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204378,
+          "following_count": 1,
+          "like_count": 497,
+          "listed_count": 213,
+          "media_count": 2585,
+          "tweet_count": 2642
+        },
+        "username": "universalnewsx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2027789869117018339",
+    "created_at": "2026-02-28T16:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027789869117018339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu70996005/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/liu70996005/status/2027571704353128498",
+          "start": 13,
+          "url": "https://t.co/tVSzGyxiZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027789869117018339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027571704353128498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还差两年才能过这生活…… https://t.co/tVSzGyxiZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "18🈲",
+        "height": 1242,
+        "media_key": "3_2027571696761507845",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNhtzYbEAU_huG.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2027789869117018339",
+        "created_at": "2026-02-28T16:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027789869117018339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu70996005/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/liu70996005/status/2027571704353128498",
+              "start": 13,
+              "url": "https://t.co/tVSzGyxiZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027789869117018339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027571704353128498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还差两年才能过这生活…… https://t.co/tVSzGyxiZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027571696761507845"
+          ]
+        },
+        "author_id": "1625377150940614656",
+        "conversation_id": "2027571704353128498",
+        "created_at": "2026-02-28T02:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027571704353128498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wp8ieg0Myx",
+              "end": 42,
+              "expanded_url": "https://x.com/Liu70996005/status/2027571704353128498/photo/1",
+              "media_key": "3_2027571696761507845",
+              "start": 19,
+              "url": "https://t.co/wp8ieg0Myx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027571704353128498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9297,
+          "impression_count": 2385243,
+          "like_count": 49185,
+          "quote_count": 112,
+          "reply_count": 485,
+          "retweet_count": 2287
+        },
+        "reply_settings": "everyone",
+        "text": "曾经无数少年前往大城市奋斗的人，蜗居 https://t.co/wp8ieg0Myx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 303,
+          "like_count": 11456,
+          "listed_count": 3,
+          "media_count": 893,
+          "tweet_count": 5739
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T06:11:40.000Z",
+        "description": "总有人会是赢家，那为什么不是我呢？",
+        "id": "1625377150940614656",
+        "location": "United States",
+        "name": "Nice奈斯",
+        "pinned_tweet_id": "2027571704353128498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985335302312132608/5CAB0q66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11992,
+          "following_count": 847,
+          "like_count": 4307,
+          "listed_count": 34,
+          "media_count": 658,
+          "tweet_count": 3768
+        },
+        "username": "Liu70996005",
+        "verified": true
+      }
+    ]
+  }
+}

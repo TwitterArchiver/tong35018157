@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2050630989253353619",
+    "created_at": "2026-05-02T17:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050630989253353619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liusheng_art/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/liusheng_art/status/1931480161398227393",
+          "start": 15,
+          "url": "https://t.co/F0k9PTY8Ds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050630989253353619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931480161398227393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢cod9策略模式那种的 https://t.co/F0k9PTY8Ds"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61602,
+        "height": 960,
+        "media_key": "13_1931479917642047488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931479917642047488/img/6QDXTMe7_S_foVaP.jpg",
+        "public_metrics": {
+          "view_count": 17886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931479917642047488/vid/avc1/320x426/J7Fww_RxlrE9WQ_h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931479917642047488/vid/avc1/480x640/QCbSPI0yOQ9uZwQX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931479917642047488/vid/avc1/720x960/ANxg1N-7C2w6L2aS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931479917642047488/pl/GiqL1mzDzZg-xSYl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2050630989253353619",
+        "created_at": "2026-05-02T17:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050630989253353619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liusheng_art/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/liusheng_art/status/1931480161398227393",
+              "start": 15,
+              "url": "https://t.co/F0k9PTY8Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050630989253353619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931480161398227393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢cod9策略模式那种的 https://t.co/F0k9PTY8Ds"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931479917642047488"
+          ]
+        },
+        "author_id": "3036542024",
+        "conversation_id": "1931480161398227393",
+        "created_at": "2025-06-07T22:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931480161398227393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ix6206ibm1",
+              "end": 44,
+              "expanded_url": "https://x.com/LiuSheng_Art/status/1931480161398227393/video/1",
+              "media_key": "13_1931479917642047488",
+              "start": 21,
+              "url": "https://t.co/ix6206ibm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931480161398227393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 42397,
+          "like_count": 1602,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "這個影片滿足了我對少前世界觀的所有幻想🎈 https://t.co/ix6206ibm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 372,
+          "like_count": 13491,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 6409
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-22T14:11:42.000Z",
+        "description": "こんにちは！萌妹子前線の柳生です！ skeb募集中:skeb:https://t.co/YCyqckFLa7 pixiv:https://t.co/KlBrqsk0e6 FANBOX開設しました:https://t.co/TeKlAz9L4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@LiuSheng_Art",
+                "end": 54,
+                "expanded_url": "http://skeb.jp/@LiuSheng_Art",
+                "start": 31,
+                "url": "https://t.co/YCyqckFLa7"
+              },
+              {
+                "display_url": "pixiv.net/users/4237973",
+                "end": 84,
+                "expanded_url": "http://pixiv.net/users/4237973",
+                "start": 61,
+                "url": "https://t.co/KlBrqsk0e6"
+              },
+              {
+                "display_url": "liushengart.fanbox.cc",
+                "end": 121,
+                "expanded_url": "https://liushengart.fanbox.cc/",
+                "start": 98,
+                "url": "https://t.co/TeKlAz9L4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4237973",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4237973",
+                "start": 0,
+                "url": "https://t.co/khZTJLaS0u"
+              }
+            ]
+          }
+        },
+        "id": "3036542024",
+        "location": "東京都練馬区",
+        "name": "柳生_萌妹子前線@skeb募集中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1264566182813634565/jORQtJuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 1221,
+          "like_count": 37622,
+          "listed_count": 49,
+          "media_count": 965,
+          "tweet_count": 5589
+        },
+        "url": "https://t.co/khZTJLaS0u",
+        "username": "LiuSheng_Art",
+        "verified": false
+      }
+    ]
+  }
+}

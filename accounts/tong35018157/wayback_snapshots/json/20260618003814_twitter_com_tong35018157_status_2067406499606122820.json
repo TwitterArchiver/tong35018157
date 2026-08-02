@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2067319096765763935",
+    "created_at": "2026-06-18T00:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067406499606122820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1170107964834926592",
+          "start": 0,
+          "username": "Freedom_Lian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067406499606122820",
+    "in_reply_to_user_id": "1170107964834926592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067337742028025893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freedom_Lian 这样画cg会不会比较麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2067319096765763935",
+        "created_at": "2026-06-18T00:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067406499606122820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1170107964834926592",
+              "start": 0,
+              "username": "Freedom_Lian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067406499606122820",
+        "in_reply_to_user_id": "1170107964834926592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067337742028025893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freedom_Lian 这样画cg会不会比较麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170107964834926592",
+        "conversation_id": "2067319096765763935",
+        "created_at": "2026-06-17T20:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067337742028025893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067337742028025893",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067319096765763935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 有没有女主不露脸的乙游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 485,
+          "like_count": 16090,
+          "listed_count": 3,
+          "media_count": 987,
+          "tweet_count": 7174
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T22:54:21.000Z",
+        "description": "欢迎在下面的steam商店把《鸟吃虫子》加入愿望单。Discord不定期和好厚米聊游戏：https://t.co/OWvUVz2Ju2 我亲自实名上网 @chemgeeklian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "chemgeeklian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Edj7gc3jMR",
+                "end": 67,
+                "expanded_url": "https://discord.gg/Edj7gc3jMR",
+                "start": 44,
+                "url": "https://t.co/OWvUVz2Ju2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4612530/",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/4612530/",
+                "start": 0,
+                "url": "https://t.co/e0J7b8O2tG"
+              }
+            ]
+          }
+        },
+        "id": "1170107964834926592",
+        "location": "Chicago",
+        "name": "Freedom_Lian",
+        "pinned_tweet_id": "2050048708830540151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027058795063508992/wJSGcSlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 438,
+          "like_count": 16537,
+          "listed_count": 20,
+          "media_count": 2396,
+          "tweet_count": 16706
+        },
+        "url": "https://t.co/e0J7b8O2tG",
+        "username": "Freedom_Lian",
+        "verified": false
+      }
+    ]
+  }
+}

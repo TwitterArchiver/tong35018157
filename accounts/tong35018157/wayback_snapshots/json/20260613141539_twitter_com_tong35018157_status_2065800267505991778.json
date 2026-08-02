@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2065009331574296937",
+    "created_at": "2026-06-13T14:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065800267505991778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165139550089424898",
+          "start": 0,
+          "username": "Mr_Cool0531"
+        },
+        {
+          "end": 26,
+          "id": "1282210076145496065",
+          "start": 13,
+          "username": "hanrenxiahou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065800267505991778",
+    "in_reply_to_user_id": "1165139550089424898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065790399223091429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_Cool0531 @hanrenxiahou 依旧色鬼参军"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2065790392692559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKspasja0AAeLNY.jpg",
+        "width": 761
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2065790392667422720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKspasdbQAAFLz0.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2065009331574296937",
+        "created_at": "2026-06-13T14:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065800267505991778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165139550089424898",
+              "start": 0,
+              "username": "Mr_Cool0531"
+            },
+            {
+              "end": 26,
+              "id": "1282210076145496065",
+              "start": 13,
+              "username": "hanrenxiahou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065800267505991778",
+        "in_reply_to_user_id": "1165139550089424898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065790399223091429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_Cool0531 @hanrenxiahou 依旧色鬼参军"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065790392692559872",
+            "3_2065790392667422720"
+          ]
+        },
+        "author_id": "1165139550089424898",
+        "conversation_id": "2065009331574296937",
+        "created_at": "2026-06-13T13:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065790399223091429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282210076145496065",
+              "start": 0,
+              "username": "hanrenxiahou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8DAfTIslH",
+              "end": 89,
+              "expanded_url": "https://x.com/Mr_Cool0531/status/2065790399223091429/photo/1",
+              "media_key": "3_2065790392692559872",
+              "start": 66,
+              "url": "https://t.co/v8DAfTIslH"
+            },
+            {
+              "display_url": "pic.x.com/v8DAfTIslH",
+              "end": 89,
+              "expanded_url": "https://x.com/Mr_Cool0531/status/2065790399223091429/photo/1",
+              "media_key": "3_2065790392667422720",
+              "start": 66,
+              "url": "https://t.co/v8DAfTIslH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065790399223091429",
+        "in_reply_to_user_id": "1282210076145496065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065753977128407380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanrenxiahou 喜欢我柯尼格做到一半的时候尿到Y/N的瓦寨那里吗😱😱😱还有殴打孕妇😱😱😱还有把自己做成飞机杯😱😱😱吓鼠 https://t.co/v8DAfTIslH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 474,
+          "like_count": 15714,
+          "listed_count": 3,
+          "media_count": 982,
+          "tweet_count": 7078
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-24T05:51:37.000Z",
+        "description": "一定不好，而且有可能还不会复活",
+        "id": "1165139550089424898",
+        "location": "Albuquerque, NM",
+        "name": "Mr.Cool",
+        "pinned_tweet_id": "2020786661374746780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258916262146048/xAr_rRC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1546,
+          "like_count": 125388,
+          "listed_count": 20,
+          "media_count": 3156,
+          "tweet_count": 22983
+        },
+        "username": "Mr_Cool0531",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T07:08:07.000Z",
+        "description": "I'm Xiahou\n/Artist/\n汉语/English/战地玩家/Battlefield1/2042/4/6\n喜欢机枪/射手步枪(战地1半自动步枪)\n⚠️sometimes NSFW\n⚠️有时候会发🔞建模人男同内容，不能接受别点开我发的敏感内容直接绕道。该账号只关注感兴趣的画师们主页建政的不回关。",
+        "id": "1282210076145496065",
+        "location": "trench ",
+        "name": "🔨带艺术家摸你穷🔧",
+        "pinned_tweet_id": "1790205748896801029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044059964633702400/GZZALUoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1885,
+          "like_count": 24584,
+          "listed_count": 12,
+          "media_count": 1799,
+          "tweet_count": 4822
+        },
+        "username": "hanrenxiahou",
+        "verified": false
+      }
+    ]
+  }
+}

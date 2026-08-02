@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2033734461620425217",
+    "created_at": "2026-03-17T02:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033734461620425217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033734461620425217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033463042978288127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: 好想不管不顾学历和毕业证急头白脸把课全翘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2033734461620425217",
+        "created_at": "2026-03-17T02:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033734461620425217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033734461620425217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033463042978288127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: 好想不管不顾学历和毕业证急头白脸把课全翘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2033463042978288127",
+        "created_at": "2026-03-16T08:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033463042978288127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033463042978288127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14250,
+          "like_count": 481,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "好想不管不顾学历和毕业证急头白脸把课全翘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 311,
+          "like_count": 11919,
+          "listed_count": 3,
+          "media_count": 908,
+          "tweet_count": 5867
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "🚪288/388/520纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 239,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

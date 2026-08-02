@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048051233743912960"
+      ],
+      "media_source_tweet_id": [
+        "2048051245404057935"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10000284262",
+          "name": "The Penguins of Madagascar"
+        }
+      }
+    ],
+    "conversation_id": "2048317010870997281",
+    "created_at": "2026-04-26T08:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048317010870997281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "Madagascar"
+        },
+        {
+          "end": 52,
+          "start": 28,
+          "tag": "ThePenguinsOfMadagascar"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "972108282507673600",
+          "start": 3,
+          "username": "hejidingye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WWUqsC5cnk",
+          "end": 97,
+          "expanded_url": "https://x.com/hejidingye/status/2048051245404057935/photo/1",
+          "media_key": "3_2048051233743912960",
+          "start": 74,
+          "url": "https://t.co/WWUqsC5cnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048317010870997281",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048051245404057935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hejidingye: #Madagascar #ThePenguinsOfMadagascar\n\n🐧World Penguin Day🐧 https://t.co/WWUqsC5cnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048051233743912960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwjvv0bQAAmTK2.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048051233743912960"
+          ],
+          "media_source_tweet_id": [
+            "2048051245404057935"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10000284262",
+              "name": "The Penguins of Madagascar"
+            }
+          }
+        ],
+        "conversation_id": "2048317010870997281",
+        "created_at": "2026-04-26T08:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048317010870997281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "Madagascar"
+            },
+            {
+              "end": 52,
+              "start": 28,
+              "tag": "ThePenguinsOfMadagascar"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "972108282507673600",
+              "start": 3,
+              "username": "hejidingye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWUqsC5cnk",
+              "end": 97,
+              "expanded_url": "https://x.com/hejidingye/status/2048051245404057935/photo/1",
+              "media_key": "3_2048051233743912960",
+              "start": 74,
+              "url": "https://t.co/WWUqsC5cnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048317010870997281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048051245404057935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hejidingye: #Madagascar #ThePenguinsOfMadagascar\n\n🐧World Penguin Day🐧 https://t.co/WWUqsC5cnk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048051233743912960"
+          ]
+        },
+        "author_id": "972108282507673600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10000284262",
+              "name": "The Penguins of Madagascar"
+            }
+          }
+        ],
+        "conversation_id": "2048051245404057935",
+        "created_at": "2026-04-25T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048051245404057935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Madagascar"
+            },
+            {
+              "end": 36,
+              "start": 12,
+              "tag": "ThePenguinsOfMadagascar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWUqsC5cnk",
+              "end": 81,
+              "expanded_url": "https://x.com/hejidingye/status/2048051245404057935/photo/1",
+              "media_key": "3_2048051233743912960",
+              "start": 58,
+              "url": "https://t.co/WWUqsC5cnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048051245404057935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 35491,
+          "like_count": 2752,
+          "quote_count": 37,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "#Madagascar #ThePenguinsOfMadagascar\n\n🐧World Penguin Day🐧 https://t.co/WWUqsC5cnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 368,
+          "like_count": 13022,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6297
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T13:54:10.000Z",
+        "description": "🚀⭐｜🐧🐧🐧🐧｜🚫AI｜可能会有🔞｜0国语言持有者，翻译器使用者",
+        "id": "972108282507673600",
+        "name": "禾几丁页",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025595473277624320/ixhw3YKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 780,
+          "like_count": 2687,
+          "listed_count": 13,
+          "media_count": 131,
+          "tweet_count": 466
+        },
+        "username": "hejidingye",
+        "verified": false
+      }
+    ]
+  }
+}

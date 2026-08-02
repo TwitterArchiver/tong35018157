@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047710570468769825",
+    "created_at": "2026-04-25T03:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047887859072536912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        },
+        {
+          "end": 28,
+          "id": "1489468526826082312",
+          "start": 13,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047887859072536912",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047881038156943576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 @Diamond_Kokoro 不接受男证未术长得不pass的跟跨子吵怎么办呢，一刀切直接避免冲突了，当然那个店没说清楚也是问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047710570468769825",
+        "created_at": "2026-04-25T03:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047887859072536912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            },
+            {
+              "end": 28,
+              "id": "1489468526826082312",
+              "start": 13,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047887859072536912",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047881038156943576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 @Diamond_Kokoro 不接受男证未术长得不pass的跟跨子吵怎么办呢，一刀切直接避免冲突了，当然那个店没说清楚也是问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953528457339834368",
+        "conversation_id": "2047710570468769825",
+        "created_at": "2026-04-25T03:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047881038156943576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            },
+            {
+              "end": 29,
+              "id": "1489468526826082312",
+              "start": 14,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047881038156943576",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047726158222065744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 @Diamond_Kokoro 不支持多元的女士可以不入住多元友好的旅店吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 363,
+          "like_count": 12940,
+          "listed_count": 4,
+          "media_count": 931,
+          "tweet_count": 6266
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 102,
+          "like_count": 4799,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1915
+        },
+        "username": "redraft2000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. Any pronouns except he/him，但中文的“他”也ok。激进女权叫我it/“牠”我也不介意。\n谁让我爱的人流下不幸福的眼泪，谁就是我的敌人。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 134,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 111,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047563727785062401/Jzs0daN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 74,
+          "like_count": 3441,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2253
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

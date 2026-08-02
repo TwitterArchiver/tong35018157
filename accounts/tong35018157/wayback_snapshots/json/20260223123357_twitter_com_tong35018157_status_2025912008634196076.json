@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2025912008634196076",
+    "created_at": "2026-02-23T12:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025912008634196076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiohunggu25101…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xiohunggu251015/status/2025579648638489040",
+          "start": 8,
+          "url": "https://t.co/zV0N5YBN3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025912008634196076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025579648638489040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "80能卖出去吗 https://t.co/zV0N5YBN3z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_2025579641478823936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxN87KbwAAgnNe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025579642028228609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxN89NbAAEDjuY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2025912008634196076",
+        "created_at": "2026-02-23T12:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025912008634196076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiohunggu25101…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiohunggu251015/status/2025579648638489040",
+              "start": 8,
+              "url": "https://t.co/zV0N5YBN3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025912008634196076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025579648638489040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "80能卖出去吗 https://t.co/zV0N5YBN3z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025579641478823936",
+            "3_2025579642028228609"
+          ]
+        },
+        "author_id": "1752640236138684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025579648638489040",
+        "created_at": "2026-02-22T14:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025579648638489040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011805883937013766",
+              "start": 2,
+              "username": "N552AAN552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQS92Pihoz",
+              "end": 47,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2025579648638489040/photo/1",
+              "media_key": "3_2025579641478823936",
+              "start": 24,
+              "url": "https://t.co/vQS92Pihoz"
+            },
+            {
+              "display_url": "pic.x.com/vQS92Pihoz",
+              "end": 47,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2025579648638489040/photo/1",
+              "media_key": "3_2025579642028228609",
+              "start": 24,
+              "url": "https://t.co/vQS92Pihoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025579648638489040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 100159,
+          "like_count": 131,
+          "quote_count": 13,
+          "reply_count": 41,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "来帮@N552AAN552AA 宣传下（（\n🥹 https://t.co/vQS92Pihoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 297,
+          "like_count": 11351,
+          "listed_count": 3,
+          "media_count": 890,
+          "tweet_count": 5705
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025023382308487514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 795,
+          "like_count": 6424,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1235
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

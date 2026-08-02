@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "1865934954447995119",
+    "created_at": "2024-12-09T01:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T02:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865934954447995119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mragile_/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/mragile_/status/1865774466979999930",
+          "start": 40,
+          "url": "https://t.co/C5uABlSRJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865934954447995119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865774466979999930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "00年内会西南山区吧，不过我老家农村四层的别墅小院温泉池都有，反正不是全部这样 https://t.co/C5uABlSRJx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1865934954447995119",
+        "created_at": "2024-12-09T01:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T02:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865934954447995119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mragile_/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/mragile_/status/1865774466979999930",
+              "start": 40,
+              "url": "https://t.co/C5uABlSRJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865934954447995119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865774466979999930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "00年内会西南山区吧，不过我老家农村四层的别墅小院温泉池都有，反正不是全部这样 https://t.co/C5uABlSRJx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865774463524261888",
+            "3_1865774464220446721"
+          ]
+        },
+        "author_id": "1663434982524874753",
+        "conversation_id": "1865601727183122910",
+        "created_at": "2024-12-08T15:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T16:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865774466979999930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCakzp26Zc",
+              "end": 50,
+              "expanded_url": "https://x.com/MrAgile_/status/1865774466979999930/photo/1",
+              "media_key": "3_1865774463524261888",
+              "start": 27,
+              "url": "https://t.co/NCakzp26Zc"
+            },
+            {
+              "display_url": "pic.x.com/NCakzp26Zc",
+              "end": 50,
+              "expanded_url": "https://x.com/MrAgile_/status/1865774466979999930/photo/1",
+              "media_key": "3_1865774464220446721",
+              "start": 27,
+              "url": "https://t.co/NCakzp26Zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865774466979999930",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5611,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865601727183122910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY Socialist ❤️de https://t.co/NCakzp26Zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865813924832219136/ss0kAIWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 207,
+          "like_count": 8173,
+          "listed_count": 1,
+          "media_count": 645,
+          "tweet_count": 3973
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T06:39:57.000Z",
+        "description": "Techie, Investor, Sports Enthusiast, Screening Politics, Nationalist.\n\nInvesting is my personal interest, I don't recommend any stock.\n\nNot a Sebi registered 🚩",
+        "id": "1663434982524874753",
+        "location": "Bharat",
+        "name": "Mr.Agile ✨🤘🏻🇮🇳",
+        "pinned_tweet_id": "1843847521078301127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803419752280498177/Yy9SkSMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 29,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 4172
+        },
+        "username": "MrAgile_",
+        "verified": false
+      }
+    ]
+  }
+}

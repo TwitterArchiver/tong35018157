@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029690442569203712"
+      ],
+      "media_source_tweet_id": [
+        "2029878407039762941"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2030292808918294999",
+    "created_at": "2026-03-07T14:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030292808918294999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3579621921",
+          "start": 3,
+          "username": "CarlBovisNature"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8dOrEFJeV",
+          "end": 64,
+          "expanded_url": "https://x.com/CarlBovisNature/status/2029878407039762941/photo/1",
+          "media_key": "3_2029690442569203712",
+          "start": 41,
+          "url": "https://t.co/W8dOrEFJeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030292808918294999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029878407039762941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarlBovisNature: Captions please! 🦆😁 https://t.co/W8dOrEFJeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2790,
+        "media_key": "3_2029690442569203712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrotClXwAAbdbZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029690442569203712"
+          ],
+          "media_source_tweet_id": [
+            "2029878407039762941"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2030292808918294999",
+        "created_at": "2026-03-07T14:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030292808918294999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3579621921",
+              "start": 3,
+              "username": "CarlBovisNature"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8dOrEFJeV",
+              "end": 64,
+              "expanded_url": "https://x.com/CarlBovisNature/status/2029878407039762941/photo/1",
+              "media_key": "3_2029690442569203712",
+              "start": 41,
+              "url": "https://t.co/W8dOrEFJeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030292808918294999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029878407039762941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CarlBovisNature: Captions please! 🦆😁 https://t.co/W8dOrEFJeV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029690442569203712"
+          ]
+        },
+        "author_id": "3579621921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "2029878407039762941",
+        "created_at": "2026-03-06T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029878407039762941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8dOrEFJeV",
+              "end": 43,
+              "expanded_url": "https://x.com/CarlBovisNature/status/2029878407039762941/photo/1",
+              "media_key": "3_2029690442569203712",
+              "start": 20,
+              "url": "https://t.co/W8dOrEFJeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029878407039762941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15289,
+          "like_count": 1114,
+          "quote_count": 14,
+          "reply_count": 187,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "Captions please! 🦆😁 https://t.co/W8dOrEFJeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 306,
+          "like_count": 11608,
+          "listed_count": 3,
+          "media_count": 898,
+          "tweet_count": 5782
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-07T18:48:44.000Z",
+        "description": "On a mission to make the world love birds! 😍\nAuthor and photographer of the books '100 Birds' & '100 More Birds', which you can buy via the link below; ⬇️🐦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carlbovis.com/shop-3",
+                "end": 23,
+                "expanded_url": "https://www.carlbovis.com/shop-3",
+                "start": 0,
+                "url": "https://t.co/PhlLC5Xl9f"
+              }
+            ]
+          }
+        },
+        "id": "3579621921",
+        "location": "Somerset",
+        "name": "Carl Bovis",
+        "pinned_tweet_id": "2029642542833111261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516051337649307654/Mlwnltm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207631,
+          "following_count": 103104,
+          "like_count": 251725,
+          "listed_count": 1534,
+          "media_count": 18108,
+          "tweet_count": 108335
+        },
+        "url": "https://t.co/PhlLC5Xl9f",
+        "username": "CarlBovisNature",
+        "verified": true
+      }
+    ]
+  }
+}

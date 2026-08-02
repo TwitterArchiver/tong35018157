@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041172857070489600"
+      ],
+      "media_source_tweet_id": [
+        "2041172862263005578"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2061408787366543599",
+    "created_at": "2026-06-01T11:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061408787366543599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "adbell"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3152548537",
+          "start": 3,
+          "username": "neetnyan101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a08EFelaOW",
+          "end": 68,
+          "expanded_url": "https://x.com/neetnyan101/status/2041172862263005578/photo/1",
+          "media_key": "3_2041172857070489600",
+          "start": 45,
+          "url": "https://t.co/a08EFelaOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061408787366543599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041172862263005578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neetnyan101: Bellに立場を分からせ中のAdler\n#adbell https://t.co/a08EFelaOW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2041172857070489600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOz5h7bEAAACaP.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041172857070489600"
+          ],
+          "media_source_tweet_id": [
+            "2041172862263005578"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2061408787366543599",
+        "created_at": "2026-06-01T11:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061408787366543599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "adbell"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3152548537",
+              "start": 3,
+              "username": "neetnyan101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a08EFelaOW",
+              "end": 68,
+              "expanded_url": "https://x.com/neetnyan101/status/2041172862263005578/photo/1",
+              "media_key": "3_2041172857070489600",
+              "start": 45,
+              "url": "https://t.co/a08EFelaOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061408787366543599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041172862263005578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neetnyan101: Bellに立場を分からせ中のAdler\n#adbell https://t.co/a08EFelaOW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041172857070489600"
+          ]
+        },
+        "author_id": "3152548537",
+        "conversation_id": "2041172862263005578",
+        "created_at": "2026-04-06T15:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041172862263005578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "adbell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a08EFelaOW",
+              "end": 51,
+              "expanded_url": "https://x.com/neetnyan101/status/2041172862263005578/photo/1",
+              "media_key": "3_2041172857070489600",
+              "start": 28,
+              "url": "https://t.co/a08EFelaOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041172862263005578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 7583,
+          "like_count": 463,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "Bellに立場を分からせ中のAdler\n#adbell https://t.co/a08EFelaOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 452,
+          "like_count": 15171,
+          "listed_count": 3,
+          "media_count": 974,
+          "tweet_count": 6913
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-13T08:54:16.000Z",
+        "description": "🇯🇵SIREN/Star wars/Game of Thrones/Silent hillが主に好き。今はCoDにハマってる。キャラ崩壊妄想が好きなのでフォロー非推奨です。保護猫を2匹飼ってる。",
+        "id": "3152548537",
+        "name": "mao",
+        "pinned_tweet_id": "2059633388911571253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953072767131410432/Fg-lMvuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5202,
+          "following_count": 352,
+          "like_count": 40399,
+          "listed_count": 56,
+          "media_count": 4784,
+          "tweet_count": 86402
+        },
+        "username": "neetnyan101",
+        "verified": false
+      }
+    ]
+  }
+}

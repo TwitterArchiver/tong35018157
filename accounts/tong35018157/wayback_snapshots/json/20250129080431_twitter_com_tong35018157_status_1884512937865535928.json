@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884512925869826048"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1884512937865535928",
+    "created_at": "2025-01-29T08:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T09:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884512937865535928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eaDem5kHQw",
+          "end": 95,
+          "expanded_url": "https://x.com/tong35018157/status/1884512937865535928/photo/1",
+          "media_key": "3_1884512925869826048",
+          "start": 72,
+          "url": "https://t.co/eaDem5kHQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884512937865535928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……回坑云了下剧情，卡特真是个神人，投机行为拉所有鹰派下水自己部下还被罗联排挤到黄区😁基尔努索夫一觉醒来天塌了，总算可以给陆军义正言顺地换血了 https://t.co/eaDem5kHQw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_1884512925869826048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GicihYEaYAAaJbA.jpg",
+        "width": 1708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884512925869826048"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884512937865535928",
+        "created_at": "2025-01-29T08:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884512937865535928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaDem5kHQw",
+              "end": 95,
+              "expanded_url": "https://x.com/tong35018157/status/1884512937865535928/photo/1",
+              "media_key": "3_1884512925869826048",
+              "start": 72,
+              "url": "https://t.co/eaDem5kHQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884512937865535928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……回坑云了下剧情，卡特真是个神人，投机行为拉所有鹰派下水自己部下还被罗联排挤到黄区😁基尔努索夫一觉醒来天塌了，总算可以给陆军义正言顺地换血了 https://t.co/eaDem5kHQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 224,
+          "like_count": 8394,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 4168
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

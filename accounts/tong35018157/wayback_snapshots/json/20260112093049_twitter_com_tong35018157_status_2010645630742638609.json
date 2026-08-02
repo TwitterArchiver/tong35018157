@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1579472369105502209",
+          "name": "Atomic Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1579472369105502209",
+          "name": "Atomic Heart"
+        }
+      }
+    ],
+    "conversation_id": "2010645630742638609",
+    "created_at": "2026-01-12T09:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010645630742638609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reverse1999_gl…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/reverse1999_gl/status/2009989409584943374",
+          "start": 35,
+          "url": "https://t.co/1tBWPLHh7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010645630742638609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009989409584943374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没记错的话这二游本来就带精苏成分，所以你们为什么不一开始就不玩（） https://t.co/1tBWPLHh7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2009989079954599936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TqazkbsAAHXfu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1579472369105502209",
+              "name": "Atomic Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579472369105502209",
+              "name": "Atomic Heart"
+            }
+          }
+        ],
+        "conversation_id": "2010645630742638609",
+        "created_at": "2026-01-12T09:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010645630742638609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reverse1999_gl…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/reverse1999_gl/status/2009989409584943374",
+              "start": 35,
+              "url": "https://t.co/1tBWPLHh7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010645630742638609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009989409584943374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没记错的话这二游本来就带精苏成分，所以你们为什么不一开始就不玩（） https://t.co/1tBWPLHh7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009989079954599936"
+          ]
+        },
+        "author_id": "1571744649638989824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1579472369105502209",
+              "name": "Atomic Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579472369105502209",
+              "name": "Atomic Heart"
+            }
+          }
+        ],
+        "conversation_id": "2009989409584943374",
+        "created_at": "2026-01-10T14:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009989409584943374"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Atomic Heart Collaboration",
+              "probability": 0.8716,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Reverse1999",
+              "probability": 0.6549,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "AtomicHeart",
+              "probability": 0.9287,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Reverse1999AtomicHeartCollab",
+              "probability": 0.6835,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "Reverse1999"
+            },
+            {
+              "end": 82,
+              "start": 70,
+              "tag": "AtomicHeart"
+            },
+            {
+              "end": 112,
+              "start": 83,
+              "tag": "Reverse1999AtomicHeartCollab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBlEbQhCxH",
+              "end": 136,
+              "expanded_url": "https://x.com/Reverse1999_GL/status/2009989409584943374/photo/1",
+              "media_key": "3_2009989079954599936",
+              "start": 113,
+              "url": "https://t.co/SBlEbQhCxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009989409584943374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 675,
+          "impression_count": 1247480,
+          "like_count": 7161,
+          "quote_count": 848,
+          "reply_count": 400,
+          "retweet_count": 891
+        },
+        "reply_settings": "everyone",
+        "text": "Reverse: 1999 x Atomic Heart Collaboration\n\nComing 2026\n\n#Reverse1999 #AtomicHeart #Reverse1999AtomicHeartCollab https://t.co/SBlEbQhCxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 278,
+          "like_count": 10573,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5514
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T06:15:55.000Z",
+        "description": "Reverse: 1999 Version 3.2—A Flowing Feast will be available on Mobile and PC on Jan. 20th\nDL: https://t.co/nPlY9SPY0u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2026MysteryBox…",
+                "end": 117,
+                "expanded_url": "https://bit.ly/2026MysteryBoxCarnival",
+                "start": 94,
+                "url": "https://t.co/nPlY9SPY0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "re1999.bluepoch.com/en",
+                "end": 23,
+                "expanded_url": "https://re1999.bluepoch.com/en",
+                "start": 0,
+                "url": "https://t.co/5s7V6Y8484"
+              }
+            ]
+          }
+        },
+        "id": "1571744649638989824",
+        "name": "Reverse: 1999 | Version 3.2 Available Jan.20th",
+        "pinned_tweet_id": "2009978531791659311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983890041710768130/gMsQ274o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221110,
+          "following_count": 3,
+          "like_count": 100,
+          "listed_count": 245,
+          "media_count": 2087,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/5s7V6Y8484",
+        "username": "Reverse1999_GL",
+        "verified": true
+      }
+    ]
+  }
+}

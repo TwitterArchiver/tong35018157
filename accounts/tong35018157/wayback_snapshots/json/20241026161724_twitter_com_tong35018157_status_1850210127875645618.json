@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1850210127875645618",
+    "created_at": "2024-10-26T16:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T17:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850210127875645618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1850186421988135206",
+          "start": 12,
+          "url": "https://t.co/zXX795zogq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850210127875645618",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850186421988135206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能表演个教培我想看 https://t.co/zXX795zogq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1850210127875645618",
+        "created_at": "2024-10-26T16:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T17:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850210127875645618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1850186421988135206",
+              "start": 12,
+              "url": "https://t.co/zXX795zogq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850210127875645618",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850186421988135206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能表演个教培我想看 https://t.co/zXX795zogq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850186248268525568",
+            "7_1850186304891588608"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1850186421988135206",
+        "created_at": "2024-10-26T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850186421988135206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QffRk2pY0k",
+              "end": 43,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1850186421988135206/video/1",
+              "media_key": "3_1850186248268525568",
+              "start": 20,
+              "url": "https://t.co/QffRk2pY0k"
+            },
+            {
+              "display_url": "pic.x.com/QffRk2pY0k",
+              "end": 43,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1850186421988135206/video/1",
+              "media_key": "7_1850186304891588608",
+              "start": 20,
+              "url": "https://t.co/QffRk2pY0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850186421988135206",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 95297,
+          "like_count": 828,
+          "quote_count": 12,
+          "reply_count": 82,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "上海中山公园\n有人cos列宁和斯大林。 https://t.co/QffRk2pY0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850209063852019712/zY-h5a0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 209,
+          "like_count": 8159,
+          "listed_count": 1,
+          "tweet_count": 3936
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767665,
+          "following_count": 924,
+          "like_count": 5385,
+          "listed_count": 7841,
+          "tweet_count": 24254
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

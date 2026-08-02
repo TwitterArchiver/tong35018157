@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997701106797817856"
+      ],
+      "media_source_tweet_id": [
+        "1997701110656852314"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1997943045455773704",
+    "created_at": "2025-12-08T08:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T09:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997943045455773704"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "BORDER TROOPS IN",
+          "probability": 0.5737,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "CLOSE",
+          "probability": 0.7433,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900208355899301891",
+          "start": 3,
+          "username": "brutalny84"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLQcHVK48b",
+          "end": 92,
+          "expanded_url": "https://x.com/brutalny84/status/1997701110656852314/photo/1",
+          "media_key": "3_1997701106797817856",
+          "start": 69,
+          "url": "https://t.co/kLQcHVK48b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997943045455773704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997701110656852314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brutalny84: BORDER TROOPS IN CLOSE COMBAT, SUSTAINING CASUALTIES https://t.co/kLQcHVK48b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_1997701106797817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7lCkoYWsAA0Zn1.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997701106797817856"
+          ],
+          "media_source_tweet_id": [
+            "1997701110656852314"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1997943045455773704",
+        "created_at": "2025-12-08T08:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997943045455773704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "BORDER TROOPS IN",
+              "probability": 0.5737,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "CLOSE",
+              "probability": 0.7433,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900208355899301891",
+              "start": 3,
+              "username": "brutalny84"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLQcHVK48b",
+              "end": 92,
+              "expanded_url": "https://x.com/brutalny84/status/1997701110656852314/photo/1",
+              "media_key": "3_1997701106797817856",
+              "start": 69,
+              "url": "https://t.co/kLQcHVK48b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997943045455773704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997701110656852314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brutalny84: BORDER TROOPS IN CLOSE COMBAT, SUSTAINING CASUALTIES https://t.co/kLQcHVK48b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997701106797817856"
+          ]
+        },
+        "author_id": "1900208355899301891",
+        "conversation_id": "1997701110656852314",
+        "created_at": "2025-12-07T16:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997701110656852314"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "BORDER TROOPS",
+              "probability": 0.5121,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "CLOSE",
+              "probability": 0.6985,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLQcHVK48b",
+              "end": 76,
+              "expanded_url": "https://x.com/brutalny84/status/1997701110656852314/photo/1",
+              "media_key": "3_1997701106797817856",
+              "start": 53,
+              "url": "https://t.co/kLQcHVK48b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997701110656852314",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5389,
+          "like_count": 537,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "BORDER TROOPS IN CLOSE COMBAT, SUSTAINING CASUALTIES https://t.co/kLQcHVK48b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 269,
+          "like_count": 10496,
+          "listed_count": 3,
+          "media_count": 863,
+          "tweet_count": 5462
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:32:37.000Z",
+        "description": "Curator of historical visuals. \nArtist. Thinker. Innovator. Warlord. \nEdits in highlights.\n\nhttps://t.co/QFCqOiyIis",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@brutalny84",
+                "end": 115,
+                "expanded_url": "https://www.youtube.com/@brutalny84",
+                "start": 92,
+                "url": "https://t.co/QFCqOiyIis"
+              }
+            ]
+          }
+        },
+        "id": "1900208355899301891",
+        "name": "brutalny",
+        "pinned_tweet_id": "1970668563397779836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994413398612680704/MmIvU4fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 134,
+          "like_count": 16586,
+          "listed_count": 7,
+          "media_count": 318,
+          "tweet_count": 672
+        },
+        "username": "brutalny84",
+        "verified": true
+      }
+    ]
+  }
+}

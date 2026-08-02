@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1953163339518922877",
+    "created_at": "2025-08-08T05:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T06:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953684204631277690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953684204631277690",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953163339518922877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming0707 被暴打然后唐哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1953163339518922877",
+        "created_at": "2025-08-08T05:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953684204631277690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953684204631277690",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953163339518922877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 被暴打然后唐哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "1953163339518922877",
+        "created_at": "2025-08-06T18:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T19:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953163339518922877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953163339518922877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 85845,
+          "like_count": 577,
+          "quote_count": 26,
+          "reply_count": 381,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你的头像可以在江油自由搏击赛里坚持多久？可以和警察一较高下吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 218,
+          "like_count": 9244,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 4851
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu | 抖音:29289785213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1948552894451777645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 1016,
+          "like_count": 12624,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 3953
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

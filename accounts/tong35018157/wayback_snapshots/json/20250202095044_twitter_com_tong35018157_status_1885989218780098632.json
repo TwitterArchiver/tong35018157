@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1885988438241067461",
+    "created_at": "2025-02-02T09:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885989218780098632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885989218780098632",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885988438241067461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 布豪玩，除非是去吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885988438241067461].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885988438241067461",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885988438241067461"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1885988438241067461",
+        "created_at": "2025-02-02T09:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885989218780098632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885989218780098632",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885988438241067461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 布豪玩，除非是去吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 211,
+          "like_count": 8490,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 4225
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "专业赶尸人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zanbuzhidao555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zanbuzhidao555",
+                "start": 0,
+                "url": "https://t.co/aGLmp4FloB"
+              }
+            ]
+          }
+        },
+        "id": "1647217584117280771",
+        "location": "？nowhere",
+        "name": "山᳐海懒得平᳐੭",
+        "pinned_tweet_id": "1878114384859238670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876957126725357568/-cdcW8Y7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1224,
+          "like_count": 132475,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 23513
+        },
+        "url": "https://t.co/aGLmp4FloB",
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

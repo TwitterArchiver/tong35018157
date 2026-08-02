@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935087573233192960"
+      ],
+      "media_source_tweet_id": [
+        "1935087575980466439"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1935134124232351942",
+    "created_at": "2025-06-18T00:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T01:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935134124232351942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1895598041152835584",
+          "start": 3,
+          "username": "Uranium_kle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRQzRAR93d",
+          "end": 115,
+          "expanded_url": "https://x.com/Uranium_kle/status/1935087575980466439/photo/1",
+          "media_key": "3_1935087573233192960",
+          "start": 92,
+          "url": "https://t.co/BRQzRAR93d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935134124232351942",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935087575980466439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uranium_kle: глупые кривые скетчи с колей потому что я вообще не знаю что рисовать!!!!! https://t.co/BRQzRAR93d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935087573233192960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtrP5TPWUAAqla8.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935087573233192960"
+          ],
+          "media_source_tweet_id": [
+            "1935087575980466439"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1935134124232351942",
+        "created_at": "2025-06-18T00:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T01:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935134124232351942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1895598041152835584",
+              "start": 3,
+              "username": "Uranium_kle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRQzRAR93d",
+              "end": 115,
+              "expanded_url": "https://x.com/Uranium_kle/status/1935087575980466439/photo/1",
+              "media_key": "3_1935087573233192960",
+              "start": 92,
+              "url": "https://t.co/BRQzRAR93d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935134124232351942",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935087575980466439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uranium_kle: глупые кривые скетчи с колей потому что я вообще не знаю что рисовать!!!!! https://t.co/BRQzRAR93d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935087573233192960"
+          ]
+        },
+        "author_id": "1895598041152835584",
+        "conversation_id": "1935087575980466439",
+        "created_at": "2025-06-17T21:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T22:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935087575980466439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRQzRAR93d",
+              "end": 98,
+              "expanded_url": "https://x.com/Uranium_kle/status/1935087575980466439/photo/1",
+              "media_key": "3_1935087573233192960",
+              "start": 75,
+              "url": "https://t.co/BRQzRAR93d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935087575980466439",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "глупые кривые скетчи с колей потому что я вообще не знаю что рисовать!!!!! https://t.co/BRQzRAR93d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 224,
+          "like_count": 8856,
+          "listed_count": 2,
+          "media_count": 728,
+          "tweet_count": 4530
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T22:12:53.000Z",
+        "description": "рисую. немного интересуюсь историей. играю в основном в хойку, но ещё иногда в террарию, факторио, айзека, хср",
+        "id": "1895598041152835584",
+        "location": "Uranus",
+        "name": "Uranium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922376880499384320/wFdP00Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 2882,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 362
+        },
+        "username": "Uranium_kle",
+        "verified": false
+      }
+    ]
+  }
+}

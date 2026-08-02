@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075170370743848960"
+      ],
+      "media_source_tweet_id": [
+        "2075170378792767816"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075402997333725330",
+    "created_at": "2026-07-10T02:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075402997333725330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2879579054",
+          "start": 3,
+          "username": "kotori_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EAzQvtCi1A",
+          "end": 42,
+          "expanded_url": "https://x.com/kotori_jp/status/2075170378792767816/photo/1",
+          "media_key": "3_2075170370743848960",
+          "start": 19,
+          "url": "https://t.co/EAzQvtCi1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075402997333725330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075170378792767816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotori_jp: いい足 https://t.co/EAzQvtCi1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2075170370743848960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx8dRyaUAAd6aq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075170370743848960"
+          ],
+          "media_source_tweet_id": [
+            "2075170378792767816"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075402997333725330",
+        "created_at": "2026-07-10T02:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075402997333725330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2879579054",
+              "start": 3,
+              "username": "kotori_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAzQvtCi1A",
+              "end": 42,
+              "expanded_url": "https://x.com/kotori_jp/status/2075170378792767816/photo/1",
+              "media_key": "3_2075170370743848960",
+              "start": 19,
+              "url": "https://t.co/EAzQvtCi1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075402997333725330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075170378792767816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotori_jp: いい足 https://t.co/EAzQvtCi1A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075170370743848960"
+          ]
+        },
+        "author_id": "2879579054",
+        "conversation_id": "2075170378792767816",
+        "created_at": "2026-07-09T10:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075170378792767816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAzQvtCi1A",
+              "end": 27,
+              "expanded_url": "https://x.com/kotori_jp/status/2075170378792767816/photo/1",
+              "media_key": "3_2075170370743848960",
+              "start": 4,
+              "url": "https://t.co/EAzQvtCi1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075170378792767816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 15930,
+          "like_count": 1499,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "いい足 https://t.co/EAzQvtCi1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 511,
+          "like_count": 17294,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7655
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-27T13:45:50.000Z",
+        "description": "鳥が大好きな独身30代週末バーダー/ジュズカケバトの娘/Nikon Z9 500mm PF",
+        "id": "2879579054",
+        "location": "埼玉湾とその周辺",
+        "name": "jp",
+        "pinned_tweet_id": "912261431705329664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871187648561438720/rySA6hIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14723,
+          "following_count": 511,
+          "like_count": 24492,
+          "listed_count": 257,
+          "media_count": 20942,
+          "tweet_count": 95468
+        },
+        "url": "",
+        "username": "kotori_jp",
+        "verified": false
+      }
+    ]
+  }
+}

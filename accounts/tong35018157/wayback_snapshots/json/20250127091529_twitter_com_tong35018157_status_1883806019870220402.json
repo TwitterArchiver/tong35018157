@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879142253974913025",
+        "3_1879142253974937600"
+      ],
+      "media_source_tweet_id": [
+        "1879142261692469666",
+        "1879142261692469666"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1883806019870220402",
+    "created_at": "2025-01-27T09:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883806019870220402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "GirlsFrontline",
+          "probability": 0.5364,
+          "start": 42,
+          "type": "Organization"
+        },
+        {
+          "end": 72,
+          "normalized_text": "GirlsFrontline",
+          "probability": 0.478,
+          "start": 59,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 58,
+          "tag": "GirlsFrontline"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "ドルフロ"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "소녀전선"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "AK15"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877777195923603456",
+          "start": 3,
+          "username": "frspiemyblue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I8aCIsAdQD",
+          "end": 115,
+          "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+          "media_key": "3_1879142253974913025",
+          "start": 92,
+          "url": "https://t.co/I8aCIsAdQD"
+        },
+        {
+          "display_url": "pic.x.com/I8aCIsAdQD",
+          "end": 115,
+          "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+          "media_key": "3_1879142253974937600",
+          "start": 92,
+          "url": "https://t.co/I8aCIsAdQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883806019870220402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879142261692469666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @frspiemyblue: oc x canon  (AK-15 from GirlsFrontline) #GirlsFrontline #ドルフロ #소녀전선 #AK15 https://t.co/I8aCIsAdQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_1879142253974913025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhQN7IKaAAErUvT.jpg",
+        "width": 1111
+      },
+      {
+        "height": 1481,
+        "media_key": "3_1879142253974937600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhQN7IKaYAAFu6Y.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879142253974913025",
+            "3_1879142253974937600"
+          ],
+          "media_source_tweet_id": [
+            "1879142261692469666",
+            "1879142261692469666"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1883806019870220402",
+        "created_at": "2025-01-27T09:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883806019870220402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "GirlsFrontline",
+              "probability": 0.5364,
+              "start": 42,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "GirlsFrontline",
+              "probability": 0.478,
+              "start": 59,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 58,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "소녀전선"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "AK15"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877777195923603456",
+              "start": 3,
+              "username": "frspiemyblue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8aCIsAdQD",
+              "end": 115,
+              "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+              "media_key": "3_1879142253974913025",
+              "start": 92,
+              "url": "https://t.co/I8aCIsAdQD"
+            },
+            {
+              "display_url": "pic.x.com/I8aCIsAdQD",
+              "end": 115,
+              "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+              "media_key": "3_1879142253974937600",
+              "start": 92,
+              "url": "https://t.co/I8aCIsAdQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883806019870220402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879142261692469666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @frspiemyblue: oc x canon  (AK-15 from GirlsFrontline) #GirlsFrontline #ドルフロ #소녀전선 #AK15 https://t.co/I8aCIsAdQD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879142253974913025",
+            "3_1879142253974937600"
+          ]
+        },
+        "author_id": "1877777195923603456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1879142261692469666",
+        "created_at": "2025-01-14T12:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T13:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879142261692469666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "GirlsFrontline",
+              "probability": 0.4464,
+              "start": 24,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 40,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "소녀전선"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "AK15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8aCIsAdQD",
+              "end": 97,
+              "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+              "media_key": "3_1879142253974913025",
+              "start": 74,
+              "url": "https://t.co/I8aCIsAdQD"
+            },
+            {
+              "display_url": "pic.x.com/I8aCIsAdQD",
+              "end": 97,
+              "expanded_url": "https://x.com/frspiemyblue/status/1879142261692469666/photo/1",
+              "media_key": "3_1879142253974937600",
+              "start": 74,
+              "url": "https://t.co/I8aCIsAdQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879142261692469666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 207,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "oc x canon  (AK-15 from GirlsFrontline) #GirlsFrontline #ドルフロ #소녀전선 #AK15 https://t.co/I8aCIsAdQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 220,
+          "like_count": 8329,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 4142
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T17:59:17.000Z",
+        "description": "fresapie@naver.com 🔕   https://t.co/Ec2EUAP65G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "postype.com/profile/@3ydehv",
+                "end": 46,
+                "expanded_url": "https://www.postype.com/profile/@3ydehv",
+                "start": 23,
+                "url": "https://t.co/Ec2EUAP65G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/82261253",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/82261253",
+                "start": 0,
+                "url": "https://t.co/eCjjVdtiic"
+              }
+            ]
+          }
+        },
+        "id": "1877777195923603456",
+        "location": "ai🚫",
+        "name": "frspie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877778534405701632/XcurlLg0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/eCjjVdtiic",
+        "username": "frspiemyblue",
+        "verified": false
+      }
+    ]
+  }
+}

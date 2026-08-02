@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2044633616769221045",
+    "created_at": "2026-04-16T11:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044745193610440726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934497971489431552",
+          "start": 0,
+          "username": "Rei90420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044745193610440726",
+    "in_reply_to_user_id": "1934497971489431552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044633616769221045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei90420 舍不得14plus，不喜欢air也不喜欢pro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2044633616769221045",
+        "created_at": "2026-04-16T11:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044745193610440726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934497971489431552",
+              "start": 0,
+              "username": "Rei90420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044745193610440726",
+        "in_reply_to_user_id": "1934497971489431552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044633616769221045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei90420 舍不得14plus，不喜欢air也不喜欢pro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934497971489431552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2044633616769221045",
+        "created_at": "2026-04-16T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044633616769221045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044633616769221045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24782,
+          "like_count": 150,
+          "quote_count": 4,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真得换个手机了 致敬每一个26年还在用iPhone13的勇士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 332,
+          "like_count": 12479,
+          "listed_count": 3,
+          "media_count": 924,
+          "tweet_count": 6121
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T06:27:25.000Z",
+        "description": "纯清水推 infp 水瓶座 双相情感障碍 恐人 我脾气很差 间歇性发疯 魔丸形态谁都看不顺眼 不扩列 不回私信 非要加好友请给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rei38286",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rei38286",
+                "start": 0,
+                "url": "https://t.co/u3FBGJOpgw"
+              }
+            ]
+          }
+        },
+        "id": "1934497971489431552",
+        "name": "Rei",
+        "pinned_tweet_id": "2029631548438552944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032355916000215042/Cu35exk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/u3FBGJOpgw",
+        "username": "Rei90420",
+        "verified": false
+      }
+    ]
+  }
+}

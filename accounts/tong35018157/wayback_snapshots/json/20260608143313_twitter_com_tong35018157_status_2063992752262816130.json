@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2063992752262816130",
+    "created_at": "2026-06-08T14:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063992752262816130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seisaku_tyosak…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/seisaku_tyosaku/status/2063777847035248679",
+          "start": 4,
+          "url": "https://t.co/lSeCIqyUvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063992752262816130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063777847035248679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "武装色 https://t.co/lSeCIqyUvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13815,
+        "height": 1280,
+        "media_key": "13_2063777793725640704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063777793725640704/img/POaSH976Ob4B8fIU.jpg",
+        "public_metrics": {
+          "view_count": 3817504
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063777793725640704/vid/avc1/320x568/7EtaC_xQ_p063Rg4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063777793725640704/vid/avc1/480x852/t56-yz2IDx-aoSI-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063777793725640704/vid/avc1/720x1280/5nUrr6YUtbdRR2qj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063777793725640704/pl/dtMR3DjZhPbCesO5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2063992752262816130",
+        "created_at": "2026-06-08T14:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063992752262816130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seisaku_tyosak…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/seisaku_tyosaku/status/2063777847035248679",
+              "start": 4,
+              "url": "https://t.co/lSeCIqyUvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063992752262816130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063777847035248679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "武装色 https://t.co/lSeCIqyUvQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063777793725640704"
+          ]
+        },
+        "author_id": "801654520396681216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2063777847035248679",
+        "created_at": "2026-06-08T00:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063777847035248679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRtGlyq0Vq",
+              "end": 63,
+              "expanded_url": "https://x.com/seisaku_tyosaku/status/2063777847035248679/video/1",
+              "media_key": "13_2063777793725640704",
+              "start": 40,
+              "url": "https://t.co/CRtGlyq0Vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063777847035248679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 8126495,
+          "like_count": 1016,
+          "quote_count": 69,
+          "reply_count": 457,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "女性が腕全体を真っ黒タトゥーで夢叶えた！ SNSで「めっちゃ綺麗！」と話題沸騰 https://t.co/CRtGlyq0Vq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 458,
+          "like_count": 15404,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6978
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-24T05:11:46.000Z",
+        "description": "もっとヤバいツイートは→ @asijri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "asijri"
+              }
+            ]
+          }
+        },
+        "id": "801654520396681216",
+        "name": "それエグいてぇ！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054801218300678144/8HxQPBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37928,
+          "following_count": 2097,
+          "like_count": 327,
+          "listed_count": 87,
+          "media_count": 500,
+          "tweet_count": 1458
+        },
+        "username": "seisaku_tyosaku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2012773491322327464",
+    "created_at": "2026-01-18T06:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012773491322327464"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "John",
+          "probability": 0.5432,
+          "start": 49,
+          "type": "Person"
+        },
+        {
+          "end": 116,
+          "normalized_text": "Jack",
+          "probability": 0.4784,
+          "start": 113,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "16575118",
+          "start": 3,
+          "username": "thesnakesoup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012773491322327464",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012600514375000241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thesnakesoup: “It was my Great Honor to meet John today. He is a wonderful man who has been through so much. Jack presented me with his…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2012600512076451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4xgKUWEAAv7hn.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2012773491322327464",
+        "created_at": "2026-01-18T06:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012773491322327464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "John",
+              "probability": 0.5432,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Jack",
+              "probability": 0.4784,
+              "start": 113,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "16575118",
+              "start": 3,
+              "username": "thesnakesoup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012773491322327464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012600514375000241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thesnakesoup: “It was my Great Honor to meet John today. He is a wonderful man who has been through so much. Jack presented me with his…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012600512076451840"
+          ]
+        },
+        "author_id": "16575118",
+        "conversation_id": "2012600514375000241",
+        "created_at": "2026-01-17T18:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012600514375000241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "John",
+              "probability": 0.5525,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "Jack",
+              "probability": 0.5447,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Snake",
+              "probability": 0.5732,
+              "start": 235,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycdDZdn1fq",
+              "end": 266,
+              "expanded_url": "https://x.com/thesnakesoup/status/2012600514375000241/photo/1",
+              "media_key": "3_2012600512076451840",
+              "start": 243,
+              "url": "https://t.co/ycdDZdn1fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012600514375000241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 64301,
+          "like_count": 2591,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "“It was my Great Honor to meet John today. He is a wonderful man who has been through so much. Jack presented me with his title “Big Boss” for the work I have done. Such a wonderful gesture of mutual respect between BIG men. Thank you Snake!” https://t.co/ycdDZdn1fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 284,
+          "like_count": 10628,
+          "listed_count": 3,
+          "media_count": 871,
+          "tweet_count": 5540
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-03T06:47:35.000Z",
+        "description": "One of the oldest fansites covering Hideo Kojima's works such as METAL GEAR and POLICENAUTS. Fortified with Hideo Kojima goodness since 2003!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesnakesoup.org",
+                "end": 23,
+                "expanded_url": "https://thesnakesoup.org/",
+                "start": 0,
+                "url": "https://t.co/DuA0MoBvSG"
+              }
+            ]
+          }
+        },
+        "id": "16575118",
+        "location": "United States",
+        "name": "The Snake Soup",
+        "pinned_tweet_id": "1907053537277727219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510105265093451778/1lgGu3hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255,
+          "following_count": 411,
+          "like_count": 1236,
+          "listed_count": 34,
+          "media_count": 899,
+          "tweet_count": 8143
+        },
+        "url": "https://t.co/DuA0MoBvSG",
+        "username": "thesnakesoup",
+        "verified": false
+      }
+    ]
+  }
+}

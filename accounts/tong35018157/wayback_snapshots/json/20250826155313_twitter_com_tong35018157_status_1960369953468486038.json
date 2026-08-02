@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960369933105127424"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Animal Crossing Switch",
+          "id": "1004749002078748672",
+          "name": "Animal Crossing New Horizons"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "1960369953468486038",
+    "created_at": "2025-08-26T15:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960369953468486038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dHi8R6ZuXD",
+          "end": 34,
+          "expanded_url": "https://x.com/tong35018157/status/1960369953468486038/photo/1",
+          "media_key": "3_1960369933105127424",
+          "start": 11,
+          "url": "https://t.co/dHi8R6ZuXD"
+        },
+        {
+          "display_url": "x.com/kingfisher0803…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/kingfisher0803/status/1960332827716964798",
+          "start": 35,
+          "url": "https://t.co/IsNFp78Ex7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960369953468486038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960332827716964798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪好想要这个设计码 https://t.co/dHi8R6ZuXD https://t.co/IsNFp78Ex7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_1960369933105127424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSiEVMWYAATQKq.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 16253,
+        "height": 720,
+        "media_key": "13_1960332802270060544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960332802270060544/img/1RhqnZUOccns571t.jpg",
+        "public_metrics": {
+          "view_count": 927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960332802270060544/vid/avc1/480x270/9GnyvPROPYmAWljI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960332802270060544/vid/avc1/640x360/3SwThU3AWY9RExeC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960332802270060544/vid/avc1/1280x720/Pn-iuBxID6DnA3fh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960332802270060544/pl/_D8JdBxF4hy-cDvg.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960369933105127424"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Animal Crossing Switch",
+              "id": "1004749002078748672",
+              "name": "Animal Crossing New Horizons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1960369953468486038",
+        "created_at": "2025-08-26T15:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960369953468486038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHi8R6ZuXD",
+              "end": 34,
+              "expanded_url": "https://x.com/tong35018157/status/1960369953468486038/photo/1",
+              "media_key": "3_1960369933105127424",
+              "start": 11,
+              "url": "https://t.co/dHi8R6ZuXD"
+            },
+            {
+              "display_url": "x.com/kingfisher0803…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kingfisher0803/status/1960332827716964798",
+              "start": 35,
+              "url": "https://t.co/IsNFp78Ex7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960369953468486038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960332827716964798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪好想要这个设计码 https://t.co/dHi8R6ZuXD https://t.co/IsNFp78Ex7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960332802270060544"
+          ]
+        },
+        "author_id": "1422567048832446464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Animal Crossing Switch",
+              "id": "1004749002078748672",
+              "name": "Animal Crossing New Horizons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1960332827716964798",
+        "created_at": "2025-08-26T13:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960332827716964798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Xlw0Y4PLj",
+              "end": 36,
+              "expanded_url": "https://x.com/kingfisher0803/status/1960332827716964798/video/1",
+              "media_key": "13_1960332802270060544",
+              "start": 13,
+              "url": "https://t.co/3Xlw0Y4PLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960332827716964798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2275,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりにあつ森開いた🐦 https://t.co/3Xlw0Y4PLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 222,
+          "like_count": 9379,
+          "listed_count": 3,
+          "media_count": 792,
+          "tweet_count": 4955
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:37:19.000Z",
+        "description": "カワセミという鳥に人生狂わされています🩵🧡 A kingfisher has made my life crazy. / カワセミのイラスト描いてます🪽 / 無断使用・AI学習NG / サークル：カワセミストリート / ご連絡はメールかDMまで kingfisher08030@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/sonidori0803",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/sonidori0803",
+                "start": 0,
+                "url": "https://t.co/178yipZxjf"
+              }
+            ]
+          }
+        },
+        "id": "1422567048832446464",
+        "location": "ブッポウソウ目カワセミ科",
+        "name": "ソニードリ 【ｶﾜｾﾐｽﾄﾘｰﾄ】",
+        "pinned_tweet_id": "1948958895264989264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797181361247436800/9POsVg8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 453,
+          "like_count": 28262,
+          "listed_count": 42,
+          "media_count": 306,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/178yipZxjf",
+        "username": "kingfisher0803",
+        "verified": false
+      }
+    ]
+  }
+}

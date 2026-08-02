@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053273431236599808"
+      ],
+      "media_source_tweet_id": [
+        "2053273433727987784"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2053478681763529066",
+    "created_at": "2026-05-10T14:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053478681763529066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937330355524313088",
+          "start": 3,
+          "username": "DerCamper185"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9Qb14kwbL",
+          "end": 129,
+          "expanded_url": "https://x.com/DerCamper185/status/2053273433727987784/photo/1",
+          "media_key": "3_2053273431236599808",
+          "start": 106,
+          "url": "https://t.co/G9Qb14kwbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053478681763529066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053273433727987784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DerCamper185: Tfw you don't have someone waiting for you at home. (None of you is coming back anyway) https://t.co/G9Qb14kwbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 333,
+        "media_key": "3_2053273431236599808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6xTpea4AAm74_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053273431236599808"
+          ],
+          "media_source_tweet_id": [
+            "2053273433727987784"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2053478681763529066",
+        "created_at": "2026-05-10T14:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053478681763529066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937330355524313088",
+              "start": 3,
+              "username": "DerCamper185"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9Qb14kwbL",
+              "end": 129,
+              "expanded_url": "https://x.com/DerCamper185/status/2053273433727987784/photo/1",
+              "media_key": "3_2053273431236599808",
+              "start": 106,
+              "url": "https://t.co/G9Qb14kwbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053478681763529066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053273433727987784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DerCamper185: Tfw you don't have someone waiting for you at home. (None of you is coming back anyway) https://t.co/G9Qb14kwbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053273431236599808"
+          ]
+        },
+        "author_id": "1937330355524313088",
+        "conversation_id": "2053273433727987784",
+        "created_at": "2026-05-10T00:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053273433727987784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9Qb14kwbL",
+              "end": 111,
+              "expanded_url": "https://x.com/DerCamper185/status/2053273433727987784/photo/1",
+              "media_key": "3_2053273431236599808",
+              "start": 88,
+              "url": "https://t.co/G9Qb14kwbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053273433727987784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 461,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Tfw you don't have someone waiting for you at home. (None of you is coming back anyway) https://t.co/G9Qb14kwbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 391,
+          "like_count": 13825,
+          "listed_count": 3,
+          "media_count": 944,
+          "tweet_count": 6497
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:02:28.000Z",
+        "description": "Unserious yapping, learning art, you can see what im into by it. Enter strawpage for questions! Pfp by @sigmochka228l\nDc: https://t.co/HOCFQBboKF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "sigmochka228l"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/ek4xsJYdcd",
+                "end": 145,
+                "expanded_url": "https://discord.gg/ek4xsJYdcd",
+                "start": 122,
+                "url": "https://t.co/HOCFQBboKF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaffort.straw.page",
+                "end": 23,
+                "expanded_url": "https://kaffort.straw.page",
+                "start": 0,
+                "url": "https://t.co/hTVTUPdOLc"
+              }
+            ]
+          }
+        },
+        "id": "1937330355524313088",
+        "location": "Would you like to know more?",
+        "name": "Kaffort",
+        "pinned_tweet_id": "2034771264846328177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028487131405107200/1WzzCWQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 140,
+          "like_count": 8279,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 3582
+        },
+        "url": "https://t.co/hTVTUPdOLc",
+        "username": "DerCamper185",
+        "verified": false
+      }
+    ]
+  }
+}

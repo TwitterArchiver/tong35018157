@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1949247410707878326",
+    "created_at": "2025-07-26T23:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T00:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949247410707878326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1255099216126509056",
+          "start": 3,
+          "username": "Marsormr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949247410707878326",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948859552549527768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Marsormr_: Being American means I am obligated to be nationalistic even when everything is also crumbling around us if its toward a bri…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_1948859345501831168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gwu9P83WQAAPR5X.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gwu9P83WQAAPR5X.mp4"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1949247410707878326",
+        "created_at": "2025-07-26T23:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T00:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949247410707878326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1255099216126509056",
+              "start": 3,
+              "username": "Marsormr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949247410707878326",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948859552549527768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Marsormr_: Being American means I am obligated to be nationalistic even when everything is also crumbling around us if its toward a bri…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1948859345501831168"
+          ]
+        },
+        "author_id": "1255099216126509056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1948859552549527768",
+        "created_at": "2025-07-25T21:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T22:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948859552549527768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOiCgO5zfj",
+              "end": 220,
+              "expanded_url": "https://x.com/Marsormr_/status/1948859552549527768/photo/1",
+              "media_key": "16_1948859345501831168",
+              "start": 197,
+              "url": "https://t.co/rOiCgO5zfj"
+            },
+            {
+              "display_url": "x.com/WhatleyLeague/…",
+              "end": 244,
+              "expanded_url": "https://twitter.com/WhatleyLeague/status/1948775818169086334",
+              "start": 221,
+              "url": "https://t.co/GIIFU2Bv6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948859552549527768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 483,
+          "impression_count": 45432,
+          "like_count": 3146,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948775818169086334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Being American means I am obligated to be nationalistic even when everything is also crumbling around us if its toward a brit so without further ado...\n\nAhem...\n\nWHAT THE FUCK IS A KILOMETER 🇺🇸🦅🎇🎆 https://t.co/rOiCgO5zfj https://t.co/GIIFU2Bv6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 230,
+          "like_count": 9112,
+          "listed_count": 0,
+          "media_count": 767,
+          "tweet_count": 4767
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T11:39:14.000Z",
+        "description": "yeah",
+        "id": "1255099216126509056",
+        "name": "Mars",
+        "pinned_tweet_id": "1773378635543585086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845355170437169162/GtEqdReC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6006,
+          "following_count": 156,
+          "like_count": 6880,
+          "listed_count": 28,
+          "media_count": 1768,
+          "tweet_count": 4905
+        },
+        "username": "Marsormr_",
+        "verified": false
+      }
+    ]
+  }
+}

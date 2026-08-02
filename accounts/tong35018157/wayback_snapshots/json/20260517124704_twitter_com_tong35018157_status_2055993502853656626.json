@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2055987233950437491",
+    "created_at": "2026-05-17T12:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055993502853656626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549985313694822400",
+          "start": 0,
+          "username": "Warden47119942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055993502853656626",
+    "in_reply_to_user_id": "1549985313694822400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055987233950437491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warden47119942 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055987224005812224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhVfLWboAALCZk.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2055987223485726720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhVfJabwAAA8tT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 806,
+        "media_key": "3_2055987225771618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhVfR7bsAA7Wmv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2055987233950437491",
+        "created_at": "2026-05-17T12:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055993502853656626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549985313694822400",
+              "start": 0,
+              "username": "Warden47119942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055993502853656626",
+        "in_reply_to_user_id": "1549985313694822400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055987233950437491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warden47119942 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055987224005812224",
+            "3_2055987223485726720",
+            "3_2055987225771618304"
+          ]
+        },
+        "author_id": "1549985313694822400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2055987233950437491",
+        "created_at": "2026-05-17T12:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055987233950437491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbKdUIhEbU",
+              "end": 144,
+              "expanded_url": "https://x.com/Warden47119942/status/2055987233950437491/photo/1",
+              "media_key": "3_2055987224005812224",
+              "start": 121,
+              "url": "https://t.co/MbKdUIhEbU"
+            },
+            {
+              "display_url": "pic.x.com/MbKdUIhEbU",
+              "end": 144,
+              "expanded_url": "https://x.com/Warden47119942/status/2055987233950437491/photo/1",
+              "media_key": "3_2055987223485726720",
+              "start": 121,
+              "url": "https://t.co/MbKdUIhEbU"
+            },
+            {
+              "display_url": "pic.x.com/MbKdUIhEbU",
+              "end": 144,
+              "expanded_url": "https://x.com/Warden47119942/status/2055987233950437491/photo/1",
+              "media_key": "3_2055987225771618304",
+              "start": 121,
+              "url": "https://t.co/MbKdUIhEbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055987233950437491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚研究了一下发现实习只要明年差不多春节左右能交材料就来得及，先放一边不管了💦还是先把我可怜的雅思刷到7再说😼上次是有6.5来着了但是还不满足（有一说一口语给我6.5挺意外的，还以为会被压分）不行了，怎么明明到大学了还有种高中做题的感觉了🥺 https://t.co/MbKdUIhEbU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 396,
+          "like_count": 14048,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 6574
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！欢迎找咱玩ovo：战雷，塔科夫，kards……（日本語を勉强しています。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱一起玩 all gender友好 对象招募ing（日常+偶尔涩涩）是乌萨奇-infp😼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 79,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 56,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 4079,
+          "like_count": 127351,
+          "listed_count": 1,
+          "media_count": 1196,
+          "tweet_count": 7367
+        },
+        "username": "Warden47119942",
+        "verified": false
+      }
+    ]
+  }
+}

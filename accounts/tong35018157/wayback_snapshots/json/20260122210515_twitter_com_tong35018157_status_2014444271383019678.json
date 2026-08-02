@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2014444271383019678",
+    "created_at": "2026-01-22T21:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T22:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014444271383019678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minamn_o/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/minamn_o/status/2013639951401861272",
+          "start": 10,
+          "url": "https://t.co/WG3X6lVasL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014444271383019678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013639951401861272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实右下是我入坑作 https://t.co/WG3X6lVasL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2013639935547310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Hi2kfWgAACNzY.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2014444271383019678",
+        "created_at": "2026-01-22T21:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T22:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014444271383019678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minamn_o/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/minamn_o/status/2013639951401861272",
+              "start": 10,
+              "url": "https://t.co/WG3X6lVasL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014444271383019678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013639951401861272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实右下是我入坑作 https://t.co/WG3X6lVasL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013639935547310080"
+          ]
+        },
+        "author_id": "1708889023513870337",
+        "conversation_id": "2013639951401861272",
+        "created_at": "2026-01-20T15:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013639951401861272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8h6Q56FPF",
+              "end": 23,
+              "expanded_url": "https://x.com/mINaMn_o/status/2013639951401861272/photo/1",
+              "media_key": "3_2013639935547310080",
+              "start": 0,
+              "url": "https://t.co/W8h6Q56FPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013639951401861272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2035,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W8h6Q56FPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 282,
+          "like_count": 10606,
+          "listed_count": 3,
+          "media_count": 872,
+          "tweet_count": 5544
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:57:57.000Z",
+        "description": "我一直在虔诚的等待那颗子弹",
+        "id": "1708889023513870337",
+        "location": "It's a long way to Tipperary",
+        "name": "統minami",
+        "pinned_tweet_id": "1992496832233251039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006534576886394884/oEs36eUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 5953,
+          "like_count": 73182,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2045
+        },
+        "username": "mINaMn_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "1877233053656891668",
+    "created_at": "2025-01-09T05:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T06:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877233053656891668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1876993416875147555",
+          "start": 13,
+          "url": "https://t.co/XMAonLpHnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877233053656891668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876993416875147555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成才哥快来我学校（bs） https://t.co/XMAonLpHnV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1877233053656891668",
+        "created_at": "2025-01-09T05:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T06:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877233053656891668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1876993416875147555",
+              "start": 13,
+              "url": "https://t.co/XMAonLpHnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877233053656891668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876993416875147555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成才哥快来我学校（bs） https://t.co/XMAonLpHnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876993205696335873",
+            "3_1876993157227020288",
+            "3_1876993075123539968"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1876993416875147555",
+        "created_at": "2025-01-08T14:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876993416875147555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzzp7G1Zna",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1876993416875147555/photo/1",
+              "media_key": "3_1876993205696335873",
+              "start": 118,
+              "url": "https://t.co/mzzp7G1Zna"
+            },
+            {
+              "display_url": "pic.x.com/mzzp7G1Zna",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1876993416875147555/photo/1",
+              "media_key": "3_1876993157227020288",
+              "start": 118,
+              "url": "https://t.co/mzzp7G1Zna"
+            },
+            {
+              "display_url": "pic.x.com/mzzp7G1Zna",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1876993416875147555/photo/1",
+              "media_key": "3_1876993075123539968",
+              "start": 118,
+              "url": "https://t.co/mzzp7G1Zna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876993416875147555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 215126,
+          "like_count": 708,
+          "quote_count": 27,
+          "reply_count": 194,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "近日，杭州市发布方案，推动优秀退役军人到中小学任教。\n  杭州退役军人事务局：吸收退伍军人到中小学任教，有助于加强中小学国防教育和爱国主义教育；\n 各地在制定中小学招聘计划时，可在年度用编计划总量内，每年计划招聘退伍军人数不少于1名。 https://t.co/mzzp7G1Zna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 209,
+          "like_count": 8182,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 4011
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1876578977013543152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898017,
+          "following_count": 926,
+          "like_count": 5572,
+          "listed_count": 8006,
+          "media_count": 21782,
+          "tweet_count": 28050
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

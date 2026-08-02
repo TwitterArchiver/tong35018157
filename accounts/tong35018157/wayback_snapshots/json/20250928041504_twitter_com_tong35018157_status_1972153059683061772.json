@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1972081767869042914",
+    "created_at": "2025-09-28T04:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972153059683061772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365184212127477767",
+          "start": 0,
+          "username": "wensan0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972153059683061772",
+    "in_reply_to_user_id": "1365184212127477767",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972124217090211982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wensan0521 1到4都中，管他呢一天饭钱他包了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1972081767869042914",
+        "created_at": "2025-09-28T04:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972153059683061772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365184212127477767",
+              "start": 0,
+              "username": "wensan0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972153059683061772",
+        "in_reply_to_user_id": "1365184212127477767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972124217090211982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wensan0521 1到4都中，管他呢一天饭钱他包了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365184212127477767",
+        "conversation_id": "1972081767869042914",
+        "created_at": "2025-09-28T02:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T03:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972124217090211982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972124217090211982",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972081767869042914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 你很特别我草草你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 245,
+          "like_count": 9826,
+          "listed_count": 3,
+          "media_count": 831,
+          "tweet_count": 5223
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T06:17:43.000Z",
+        "description": "⚠️20+/this is my spam acc you have been warned日常碎碎念账号偶尔发图❤️我喜欢看有趣的东西和有趣的人玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/republique_de_…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/republique_de_geneve?igsh=MTRvdXJ6dzZsYjZ0aQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UbALIbnNcU"
+              }
+            ]
+          }
+        },
+        "id": "1365184212127477767",
+        "name": "迪扔的大昂子",
+        "pinned_tweet_id": "1970711040942858320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971664918366547968/tPNs9U85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 188,
+          "like_count": 3085,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 3904
+        },
+        "url": "https://t.co/UbALIbnNcU",
+        "username": "wensan0521",
+        "verified": false
+      }
+    ]
+  }
+}

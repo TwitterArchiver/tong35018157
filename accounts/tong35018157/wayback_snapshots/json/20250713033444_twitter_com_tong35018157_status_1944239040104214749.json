@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1944013446091014298",
+    "created_at": "2025-07-13T03:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944239040104214749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567505290026958848",
+          "start": 0,
+          "username": "woshiami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944239040104214749",
+    "in_reply_to_user_id": "1567505290026958848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944013446091014298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiami 那两个人是不是紫砂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1944013446091014298",
+        "created_at": "2025-07-13T03:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944239040104214749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567505290026958848",
+              "start": 0,
+              "username": "woshiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944239040104214749",
+        "in_reply_to_user_id": "1567505290026958848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944013446091014298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiami 那两个人是不是紫砂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567505290026958848",
+        "conversation_id": "1944013446091014298",
+        "created_at": "2025-07-12T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944013446091014298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944013446091014298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8376,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太痛苦了。。。\n我搜了一下会员制餐厅的原视频\n第一部分我随便点了一秒我就要吐出来了\n到底什么人会花一万日元买这种dvd\n恶心死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 225,
+          "like_count": 9021,
+          "listed_count": 0,
+          "media_count": 758,
+          "tweet_count": 4683
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/gIDDzD0fPR"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "1876099002103746722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12597,
+          "following_count": 2182,
+          "like_count": 81549,
+          "listed_count": 13,
+          "media_count": 1074,
+          "tweet_count": 6101
+        },
+        "url": "https://t.co/gIDDzD0fPR",
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

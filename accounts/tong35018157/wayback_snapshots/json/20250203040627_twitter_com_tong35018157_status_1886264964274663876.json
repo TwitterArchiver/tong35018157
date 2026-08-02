@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1886100614544761119",
+    "created_at": "2025-02-03T04:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T05:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886264964274663876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "jiuxi17444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886264964274663876",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886100614544761119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuxi17444 到底有几个号，屏都屏不完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1886100614544761119",
+        "created_at": "2025-02-03T04:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886264964274663876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "jiuxi17444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886264964274663876",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886100614544761119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuxi17444 到底有几个号，屏都屏不完"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886100611898216448"
+          ]
+        },
+        "author_id": "1817115470736293889",
+        "conversation_id": "1886100614544761119",
+        "created_at": "2025-02-02T17:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886100614544761119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFnu2Vk6Ew",
+              "end": 45,
+              "expanded_url": "https://x.com/jiuxi17444/status/1886100614544761119/photo/1",
+              "media_key": "3_1886100611898216448",
+              "start": 22,
+              "url": "https://t.co/EFnu2Vk6Ew"
+            },
+            {
+              "display_url": "x.com/jiuxi17444/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/jiuxi17444/status/1886099980559024455",
+              "start": 46,
+              "url": "https://t.co/hE1OElIdb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886100614544761119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886099980559024455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才刚发评论一分钟啊 晶哥泥捞了我吧😭😭😭 https://t.co/EFnu2Vk6Ew https://t.co/hE1OElIdb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 211,
+          "like_count": 8512,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 4231
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/丰矿史同壬/二简字使用中/支持lgbt/支持🇺🇦🇵🇸/多党制无专/非毛左注意⚠️⚠️⚠️/鬼图品鉴搭子@KoNya14056 @chuangyu1917😋😋😋/最喜欢的黄推@Snowfenfei🥰🥰🥰/恩情还不完@Sww2080  😭😭😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "KoNya14056"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "chuangyu1917"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "Snowfenfei"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "Sww2080"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "布宜诺斯艾利斯",
+        "name": "艾薇塔归来，看安资米莱土崩瓦解，阿根廷正义党🇦🇷执政之际已经到来",
+        "pinned_tweet_id": "1885571414243041307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881871393249210369/2wOH8U7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1129,
+          "like_count": 33449,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 4531
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

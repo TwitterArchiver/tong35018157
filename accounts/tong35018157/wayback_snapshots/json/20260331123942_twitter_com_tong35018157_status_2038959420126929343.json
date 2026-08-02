@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2038959420126929343",
+    "created_at": "2026-03-31T12:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038959420126929343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_nb/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/wxb_nb/status/2038570410015707160",
+          "start": 16,
+          "url": "https://t.co/7xMgiQUB6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038959420126929343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038570410015707160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我挂科的时候写的比这个高级一点 https://t.co/7xMgiQUB6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2038570398997168130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp0-iHaQAILdgF.jpg",
+        "width": 1437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2038959420126929343",
+        "created_at": "2026-03-31T12:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038959420126929343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_nb/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/wxb_nb/status/2038570410015707160",
+              "start": 16,
+              "url": "https://t.co/7xMgiQUB6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038959420126929343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038570410015707160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我挂科的时候写的比这个高级一点 https://t.co/7xMgiQUB6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038570398997168130"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2038570410015707160",
+        "created_at": "2026-03-30T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038570410015707160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpDy3CXxpy",
+              "end": 33,
+              "expanded_url": "https://x.com/wxb_NB/status/2038570410015707160/photo/1",
+              "media_key": "3_2038570398997168130",
+              "start": 10,
+              "url": "https://t.co/cpDy3CXxpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038570410015707160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 538574,
+          "like_count": 2639,
+          "quote_count": 5,
+          "reply_count": 171,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "竟然敢当众拉屎？！ https://t.co/cpDy3CXxpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 321,
+          "like_count": 12037,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 5983
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 512,
+          "like_count": 7288,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2054289272732286976"
+      ],
+      "media_source_tweet_id": [
+        "2054289303463977130"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2054398482413453567",
+    "created_at": "2026-05-13T03:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054398482413453567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1078298247230193666",
+          "start": 3,
+          "username": "WarMonitorClips"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcSyOV1son",
+          "end": 104,
+          "expanded_url": "https://x.com/WarMonitorClips/status/2054289303463977130/video/1",
+          "media_key": "7_2054289272732286976",
+          "start": 81,
+          "url": "https://t.co/ZcSyOV1son"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054398482413453567",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054289303463977130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WarMonitorClips: Old footage of T-90M being hit by M2A2 \"Bradley\" in Stepove https://t.co/ZcSyOV1son"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28714,
+        "height": 720,
+        "media_key": "7_2054289272732286976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054289272732286976/pu/img/8yjbdf-cPrkjj8CQ.jpg",
+        "public_metrics": {
+          "view_count": 57914
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054289272732286976/pu/vid/avc1/320x320/SzjbPyl-TtJ8pXFK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054289272732286976/pu/vid/avc1/540x540/zoC1q_TfTXYmZAJ5.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054289272732286976/pu/vid/avc1/720x720/HIzHyKZr2UcrFyRO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054289272732286976/pu/pl/64IGTxBo_2guut0e.m3u8?v=126"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054289272732286976"
+          ],
+          "media_source_tweet_id": [
+            "2054289303463977130"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2054398482413453567",
+        "created_at": "2026-05-13T03:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054398482413453567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1078298247230193666",
+              "start": 3,
+              "username": "WarMonitorClips"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSyOV1son",
+              "end": 104,
+              "expanded_url": "https://x.com/WarMonitorClips/status/2054289303463977130/video/1",
+              "media_key": "7_2054289272732286976",
+              "start": 81,
+              "url": "https://t.co/ZcSyOV1son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054398482413453567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054289303463977130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WarMonitorClips: Old footage of T-90M being hit by M2A2 \"Bradley\" in Stepove https://t.co/ZcSyOV1son"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054289272732286976"
+          ]
+        },
+        "author_id": "1078298247230193666",
+        "conversation_id": "2054289303463977130",
+        "created_at": "2026-05-12T19:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054289303463977130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSyOV1son",
+              "end": 83,
+              "expanded_url": "https://x.com/WarMonitorClips/status/2054289303463977130/video/1",
+              "media_key": "7_2054289272732286976",
+              "start": 60,
+              "url": "https://t.co/ZcSyOV1son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054289303463977130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 114635,
+          "like_count": 1752,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "Old footage of T-90M being hit by M2A2 \"Bradley\" in Stepove https://t.co/ZcSyOV1son"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 395,
+          "like_count": 13957,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 6524
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-27T14:35:10.000Z",
+        "description": "Capturing the raw realities of war",
+        "id": "1078298247230193666",
+        "name": "War Monitor Clips",
+        "pinned_tweet_id": "2047199583902822642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808397558936719360/y1xhgcny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414257,
+          "following_count": 1,
+          "like_count": 734,
+          "listed_count": 543,
+          "media_count": 3913,
+          "tweet_count": 5607
+        },
+        "username": "WarMonitorClips",
+        "verified": true
+      }
+    ]
+  }
+}

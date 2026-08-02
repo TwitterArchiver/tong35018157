@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2000079488856789365",
+    "created_at": "2025-12-14T05:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000079488856789365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b0newalljackso…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/b0newalljackson/status/1999294747094204529",
+          "start": 17,
+          "url": "https://t.co/9t4Pac8ggA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000079488856789365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999294747094204529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么做到每个都像近亲繁殖生出来的 https://t.co/9t4Pac8ggA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62266,
+        "height": 1280,
+        "media_key": "13_1998996001470726144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998996001470726144/img/7ipe5VAjFdpctKSK.jpg",
+        "public_metrics": {
+          "view_count": 3019082
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998996001470726144/vid/avc1/320x568/FFljdjCmcjcxkoG8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998996001470726144/vid/avc1/480x852/U4U2tfVD6I0QYEQI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998996001470726144/vid/avc1/720x1280/GlZiipak2ljnOJzc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998996001470726144/pl/DSl7302rRE-Mj7SG.m3u8?v=4da"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2000079488856789365",
+        "created_at": "2025-12-14T05:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000079488856789365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b0newalljackso…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/b0newalljackson/status/1999294747094204529",
+              "start": 17,
+              "url": "https://t.co/9t4Pac8ggA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000079488856789365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999294747094204529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么做到每个都像近亲繁殖生出来的 https://t.co/9t4Pac8ggA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998996001470726144"
+          ],
+          "media_source_tweet_id": [
+            "1998996090549600667"
+          ]
+        },
+        "author_id": "1493755865219756044",
+        "conversation_id": "1999294747094204529",
+        "created_at": "2025-12-12T01:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999294747094204529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "appalachia",
+              "probability": 0.6502,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EllBCMwQK9",
+              "end": 157,
+              "expanded_url": "https://x.com/HillbillyDNA/status/1998996090549600667/video/1",
+              "media_key": "13_1998996001470726144",
+              "start": 134,
+              "url": "https://t.co/EllBCMwQK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999294747094204529",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2957,
+          "impression_count": 5063612,
+          "like_count": 12384,
+          "quote_count": 1384,
+          "reply_count": 1666,
+          "retweet_count": 795
+        },
+        "reply_settings": "everyone",
+        "text": "imagine being a chinese soldier freshly parachuted into appalachia and meeting one of these specimens for the first time\n\nterrifying  https://t.co/EllBCMwQK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 271,
+          "like_count": 10520,
+          "listed_count": 3,
+          "media_count": 865,
+          "tweet_count": 5475
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T01:15:36.000Z",
+        "description": "hi bete",
+        "id": "1493755865219756044",
+        "location": "republic of texas",
+        "name": "🅱️ete oaks",
+        "pinned_tweet_id": "1993715295551435016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635051862217900038/gdk6ofXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 1734,
+          "like_count": 55594,
+          "listed_count": 32,
+          "media_count": 3627,
+          "tweet_count": 18543
+        },
+        "username": "b0newalljackson",
+        "verified": false
+      }
+    ]
+  }
+}

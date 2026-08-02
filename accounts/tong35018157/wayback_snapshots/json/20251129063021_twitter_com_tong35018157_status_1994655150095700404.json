@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994433213012262912",
+        "3_1994433213008105472"
+      ],
+      "media_source_tweet_id": [
+        "1994433542751683029",
+        "1994433542751683029"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1994655150095700404",
+    "created_at": "2025-11-29T06:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994655150095700404"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "cosplay",
+          "probability": 0.601,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1140935230620098565",
+          "start": 3,
+          "username": "wh1tenerdy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJs1wi9PHj",
+          "end": 85,
+          "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+          "media_key": "3_1994433213012262912",
+          "start": 62,
+          "url": "https://t.co/dJs1wi9PHj"
+        },
+        {
+          "display_url": "pic.x.com/dJs1wi9PHj",
+          "end": 85,
+          "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+          "media_key": "3_1994433213008105472",
+          "start": 62,
+          "url": "https://t.co/dJs1wi9PHj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994655150095700404",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994433542751683029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wh1tenerdy: cosplay               vs                daily https://t.co/dJs1wi9PHj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994433213012262912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62mcLXWQAAlzbX.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1994433213008105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62mcLWW0AAs-jh.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994433213012262912",
+            "3_1994433213008105472"
+          ],
+          "media_source_tweet_id": [
+            "1994433542751683029",
+            "1994433542751683029"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1994655150095700404",
+        "created_at": "2025-11-29T06:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994655150095700404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "cosplay",
+              "probability": 0.601,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1140935230620098565",
+              "start": 3,
+              "username": "wh1tenerdy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJs1wi9PHj",
+              "end": 85,
+              "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+              "media_key": "3_1994433213012262912",
+              "start": 62,
+              "url": "https://t.co/dJs1wi9PHj"
+            },
+            {
+              "display_url": "pic.x.com/dJs1wi9PHj",
+              "end": 85,
+              "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+              "media_key": "3_1994433213008105472",
+              "start": 62,
+              "url": "https://t.co/dJs1wi9PHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994655150095700404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994433542751683029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wh1tenerdy: cosplay               vs                daily https://t.co/dJs1wi9PHj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994433213012262912",
+            "3_1994433213008105472"
+          ]
+        },
+        "author_id": "1140935230620098565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1994433542751683029",
+        "created_at": "2025-11-28T15:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994433542751683029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "cosplay",
+              "probability": 0.8047,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "daily",
+              "probability": 0.3929,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJs1wi9PHj",
+              "end": 69,
+              "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+              "media_key": "3_1994433213012262912",
+              "start": 46,
+              "url": "https://t.co/dJs1wi9PHj"
+            },
+            {
+              "display_url": "pic.x.com/dJs1wi9PHj",
+              "end": 69,
+              "expanded_url": "https://x.com/wh1tenerdy/status/1994433542751683029/photo/1",
+              "media_key": "3_1994433213008105472",
+              "start": 46,
+              "url": "https://t.co/dJs1wi9PHj"
+            },
+            {
+              "display_url": "x.com/CaptainKoT/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/CaptainKoT/status/1994391725666881903",
+              "start": 70,
+              "url": "https://t.co/br1OqQDmnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994433542751683029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 117247,
+          "like_count": 6094,
+          "quote_count": 27,
+          "reply_count": 46,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994391725666881903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cosplay               vs                daily https://t.co/dJs1wi9PHj https://t.co/br1OqQDmnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 259,
+          "like_count": 10452,
+          "listed_count": 3,
+          "media_count": 859,
+          "tweet_count": 5431
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-18T10:52:11.000Z",
+        "description": "Ukrainian cosplayer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "send.monobank.ua/jar/5qoYVzpM7Z",
+                "end": 23,
+                "expanded_url": "http://send.monobank.ua/jar/5qoYVzpM7Z",
+                "start": 0,
+                "url": "https://t.co/GRcBloHvNr"
+              }
+            ]
+          }
+        },
+        "id": "1140935230620098565",
+        "location": "Ukraine",
+        "name": "🇺🇦Косплейно-визвольний DIO",
+        "pinned_tweet_id": "1919721016575561789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931820354306973696/WNQb44ob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 484,
+          "like_count": 112057,
+          "listed_count": 40,
+          "media_count": 3036,
+          "tweet_count": 22399
+        },
+        "url": "https://t.co/GRcBloHvNr",
+        "username": "wh1tenerdy",
+        "verified": false
+      }
+    ]
+  }
+}

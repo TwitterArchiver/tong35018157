@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2070948941198401681",
+    "created_at": "2026-06-27T19:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T20:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070948941198401681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kobax27/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kobax27/status/2070855741536432239",
+          "start": 5,
+          "url": "https://t.co/LrDE0wThen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070948941198401681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070855741536432239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不死老妹 https://t.co/LrDE0wThen"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2070855738034200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0oUmaboAAaAFK.jpg",
+        "width": 1031
+      },
+      {
+        "height": 810,
+        "media_key": "3_2070855737992179712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0oUmQacAAIt-8.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2070948941198401681",
+        "created_at": "2026-06-27T19:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070948941198401681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kobax27/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kobax27/status/2070855741536432239",
+              "start": 5,
+              "url": "https://t.co/LrDE0wThen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070948941198401681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070855741536432239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不死老妹 https://t.co/LrDE0wThen"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070855738034200576",
+            "3_2070855737992179712"
+          ]
+        },
+        "author_id": "74400385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070855741536432239",
+        "created_at": "2026-06-27T13:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070855741536432239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzEK53cbcp",
+              "end": 23,
+              "expanded_url": "https://x.com/kobax27/status/2070855741536432239/photo/1",
+              "media_key": "3_2070855738034200576",
+              "start": 0,
+              "url": "https://t.co/PzEK53cbcp"
+            },
+            {
+              "display_url": "pic.x.com/PzEK53cbcp",
+              "end": 23,
+              "expanded_url": "https://x.com/kobax27/status/2070855741536432239/photo/1",
+              "media_key": "3_2070855737992179712",
+              "start": 0,
+              "url": "https://t.co/PzEK53cbcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070855741536432239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 222204,
+          "like_count": 4135,
+          "quote_count": 19,
+          "reply_count": 11,
+          "retweet_count": 816
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PzEK53cbcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 488,
+          "like_count": 16665,
+          "listed_count": 3,
+          "media_count": 995,
+          "tweet_count": 7359
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-15T08:30:12.000Z",
+        "description": "オリジナル企画「メカトロ中部」展開中。色々ロボットデザインしています。 https://t.co/6Tz6zBfdVr LINEスタンプ https://t.co/Ik5vHRVPu8 #メカトロウィーゴ #mechatrowego",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "メカトロウィーゴ"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "tag": "mechatrowego"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "moderhythm.hatenablog.com",
+                "end": 59,
+                "expanded_url": "http://moderhythm.hatenablog.com",
+                "start": 36,
+                "url": "https://t.co/6Tz6zBfdVr"
+              },
+              {
+                "display_url": "bit.ly/1R6YNP",
+                "end": 92,
+                "expanded_url": "http://bit.ly/1R6YNP",
+                "start": 69,
+                "url": "https://t.co/Ik5vHRVPu8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moderhythm.blog26.fc2.com",
+                "end": 23,
+                "expanded_url": "http://moderhythm.blog26.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/Mh8t72Gvn7"
+              }
+            ]
+          }
+        },
+        "id": "74400385",
+        "location": "かなり都下",
+        "name": "モデリズム 小林和史",
+        "pinned_tweet_id": "2069573058780963142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/416088128/chubuhead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20543,
+          "following_count": 3486,
+          "like_count": 1408,
+          "listed_count": 390,
+          "media_count": 23480,
+          "tweet_count": 273837
+        },
+        "url": "https://t.co/Mh8t72Gvn7",
+        "username": "kobax27",
+        "verified": false
+      }
+    ]
+  }
+}

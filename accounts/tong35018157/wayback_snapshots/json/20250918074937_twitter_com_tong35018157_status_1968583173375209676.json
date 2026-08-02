@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1968583173375209676",
+    "created_at": "2025-09-18T07:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968583173375209676"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Operation Bagration",
+          "probability": 0.8092,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Ger",
+          "probability": 0.6251,
+          "start": 136,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1391783875681021957",
+          "start": 3,
+          "username": "ShoahUkraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968583173375209676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968559673117913386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShoahUkraine: Operation Bagration began on 22 June 1944; the date was deliberately chosen to coincide with the third anniversary of Ger…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40681,
+        "height": 720,
+        "media_key": "7_1968559646870048768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968559646870048768/pu/img/eqmsIiLHmJcmRnZv.jpg",
+        "public_metrics": {
+          "view_count": 1435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968559646870048768/pu/vid/avc1/360x270/JyFPbQzzPOX3QGeL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968559646870048768/pu/vid/avc1/480x360/D6AsbWT2LCkalSig.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968559646870048768/pu/vid/avc1/960x720/LU4M819iQdoQGeHQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968559646870048768/pu/pl/a3aKIi2z9-sCldmZ.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1968583173375209676",
+        "created_at": "2025-09-18T07:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968583173375209676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Operation Bagration",
+              "probability": 0.8092,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Ger",
+              "probability": 0.6251,
+              "start": 136,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1391783875681021957",
+              "start": 3,
+              "username": "ShoahUkraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968583173375209676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968559673117913386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShoahUkraine: Operation Bagration began on 22 June 1944; the date was deliberately chosen to coincide with the third anniversary of Ger…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968559646870048768"
+          ]
+        },
+        "author_id": "1391783875681021957",
+        "conversation_id": "1968559673117913386",
+        "created_at": "2025-09-18T06:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968559673117913386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Operation Bagration",
+              "probability": 0.6611,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Germany",
+              "probability": 0.9497,
+              "start": 118,
+              "type": "Place"
+            },
+            {
+              "end": 155,
+              "normalized_text": "Soviet Union",
+              "probability": 0.8878,
+              "start": 144,
+              "type": "Place"
+            },
+            {
+              "end": 207,
+              "normalized_text": "Joseph Stalin",
+              "probability": 0.9428,
+              "start": 195,
+              "type": "Person"
+            },
+            {
+              "end": 260,
+              "normalized_text": "Soviet Union",
+              "probability": 0.7655,
+              "start": 249,
+              "type": "Place"
+            },
+            {
+              "end": 270,
+              "normalized_text": "Aleksandr",
+              "probability": 0.5875,
+              "start": 262,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSe0Uq6U6j",
+              "end": 295,
+              "expanded_url": "https://x.com/ShoahUkraine/status/1968559673117913386/video/1",
+              "media_key": "7_1968559646870048768",
+              "start": 272,
+              "url": "https://t.co/RSe0Uq6U6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968559673117913386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Operation Bagration began on 22 June 1944; the date was deliberately chosen to coincide with the third anniversary of Germany’s invasion of the Soviet Union in 1941. The final go-ahead came from Joseph Stalin himself and was given to Marshal of the Soviet Union Aleksandr Vasilevsky, Chief of the General Staff.\n\nThe order couldn’t have been clearer: completely annihilate the Army Group Centre of the German beast and liberate our people in Belarus!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2820,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Operation Bagration began on 22 June 1944; the date was deliberately chosen to coincide with the third anniversary of Germany’s invasion of the Soviet Union in 1941. The final go-ahead came from Joseph Stalin himself and was given to Marshal of the Soviet Union Aleksandr https://t.co/RSe0Uq6U6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 234,
+          "like_count": 9686,
+          "listed_count": 3,
+          "media_count": 819,
+          "tweet_count": 5144
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T15:55:18.000Z",
+        "description": "You will learn about the history of the Eastern Front at WW2 on this page .  Subscribe to the channel!",
+        "id": "1391783875681021957",
+        "location": "Jerusalem Oblast ",
+        "name": "WW2 The Eastern Front",
+        "pinned_tweet_id": "1967027953684144557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862383623145697280/3MSHSJZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50677,
+          "following_count": 140,
+          "like_count": 4546,
+          "listed_count": 296,
+          "media_count": 4732,
+          "tweet_count": 17756
+        },
+        "username": "ShoahUkraine",
+        "verified": true
+      }
+    ]
+  }
+}

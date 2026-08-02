@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050635467314610176"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2050539548992475543",
+    "created_at": "2026-05-02T17:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050635473996153210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756512429377294336",
+          "start": 0,
+          "username": "ChiefofIsaac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tr4h7aVhtR",
+          "end": 64,
+          "expanded_url": "https://x.com/tong35018157/status/2050635473996153210/photo/1",
+          "media_key": "3_2050635467314610176",
+          "start": 41,
+          "url": "https://t.co/Tr4h7aVhtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050635473996153210",
+    "in_reply_to_user_id": "1756512429377294336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050539548992475543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiefofIsaac Call a bee-eater for robin https://t.co/Tr4h7aVhtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2050635467314610176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVSF8EawAAqMWh.jpg",
+        "width": 1284
+      },
+      {
+        "duration_ms": 14200,
+        "height": 1080,
+        "media_key": "13_2050281640513974272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050281640513974272/img/6Eg6LPb6dDm41qeE.jpg",
+        "public_metrics": {
+          "view_count": 13151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050281640513974272/vid/avc1/320x568/CSoZRNZHwqQJZ5Jo.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050281640513974272/vid/avc1/480x852/JkV5IE2tY2XuT8M1.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050281640513974272/vid/avc1/608x1080/XT66ZQFSMSGhwgxU.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050281640513974272/pl/W6u0z7Pt9yM8SvVu.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050635467314610176"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2050539548992475543",
+        "created_at": "2026-05-02T17:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050635473996153210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756512429377294336",
+              "start": 0,
+              "username": "ChiefofIsaac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr4h7aVhtR",
+              "end": 64,
+              "expanded_url": "https://x.com/tong35018157/status/2050635473996153210/photo/1",
+              "media_key": "3_2050635467314610176",
+              "start": 41,
+              "url": "https://t.co/Tr4h7aVhtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050635473996153210",
+        "in_reply_to_user_id": "1756512429377294336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050539548992475543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiefofIsaac Call a bee-eater for robin https://t.co/Tr4h7aVhtR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050281640513974272"
+          ]
+        },
+        "author_id": "1756512429377294336",
+        "conversation_id": "2050539548992475543",
+        "created_at": "2026-05-02T11:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050539548992475543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYfkPV65Cc",
+              "end": 23,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/2050539548992475543/video/1",
+              "media_key": "13_2050281640513974272",
+              "start": 0,
+              "url": "https://t.co/iYfkPV65Cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050539548992475543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 28916,
+          "like_count": 1337,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iYfkPV65Cc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 372,
+          "like_count": 13491,
+          "listed_count": 4,
+          "media_count": 938,
+          "tweet_count": 6411
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:56:19.000Z",
+        "description": "Chief of the funnies on twt 👉BACKUPS: @CeoAvenged @isaac3523 👈 (if yall ever made anything for me, dm me it I’ll 100% see it and rt it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "CeoAvenged"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "isaac3523"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JetwQECqSA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JetwQECqSA",
+                "start": 0,
+                "url": "https://t.co/atm8e35kis"
+              }
+            ]
+          }
+        },
+        "id": "1756512429377294336",
+        "location": "PFP by @Real_Animal",
+        "name": "Chief ⚔️ ‼️ (Dinosaurs Are Real)",
+        "pinned_tweet_id": "1937850415028027765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927170265005301760/sJPx2l3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116956,
+          "following_count": 1870,
+          "like_count": 31277,
+          "listed_count": 155,
+          "media_count": 13423,
+          "tweet_count": 22812
+        },
+        "url": "https://t.co/atm8e35kis",
+        "username": "ChiefofIsaac",
+        "verified": true
+      }
+    ]
+  }
+}

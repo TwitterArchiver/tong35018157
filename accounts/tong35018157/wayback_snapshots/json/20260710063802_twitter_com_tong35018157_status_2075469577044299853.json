@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075457568852627730",
+    "created_at": "2026-07-10T06:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075469577044299853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901299158669180931",
+          "start": 0,
+          "username": "ShoBeiYong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075469577044299853",
+    "in_reply_to_user_id": "901299158669180931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075466638569484549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoBeiYong 革命完第一个检查你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075457568852627730",
+        "created_at": "2026-07-10T06:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075469577044299853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075469577044299853",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075466638569484549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong 革命完第一个检查你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901299158669180931",
+        "conversation_id": "2075457568852627730",
+        "created_at": "2026-07-10T06:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075466638569484549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075466638569484549",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075457568852627730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 何意味👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 513,
+          "like_count": 17311,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7668
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "一般路过00后中登，半脱宅躺平中",
+        "id": "901299158669180931",
+        "location": "央土 有中華地 閩海",
+        "name": "魈✟ ❂☭ 電波系奇男子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 382,
+          "like_count": 21719,
+          "listed_count": 16,
+          "media_count": 1293,
+          "tweet_count": 12925
+        },
+        "url": "",
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

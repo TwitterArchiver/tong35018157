@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077089468214075392"
+      ],
+      "media_source_tweet_id": [
+        "2077089474279043102"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2077264592078811587",
+    "created_at": "2026-07-15T05:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077264592078811587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1143585587456176129",
+          "start": 3,
+          "username": "kujo_riora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9XN6EdBik",
+          "end": 54,
+          "expanded_url": "https://x.com/kujo_riora/status/2077089474279043102/photo/1",
+          "media_key": "3_2077089468214075392",
+          "start": 31,
+          "url": "https://t.co/M9XN6EdBik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077264592078811587",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077089474279043102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujo_riora: Koleda (AK-12) https://t.co/M9XN6EdBik"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2077089468214075392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNN3c-a4AAtuyC.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077089468214075392"
+          ],
+          "media_source_tweet_id": [
+            "2077089474279043102"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2077264592078811587",
+        "created_at": "2026-07-15T05:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077264592078811587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1143585587456176129",
+              "start": 3,
+              "username": "kujo_riora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9XN6EdBik",
+              "end": 54,
+              "expanded_url": "https://x.com/kujo_riora/status/2077089474279043102/photo/1",
+              "media_key": "3_2077089468214075392",
+              "start": 31,
+              "url": "https://t.co/M9XN6EdBik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077264592078811587",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077089474279043102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujo_riora: Koleda (AK-12) https://t.co/M9XN6EdBik"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077089468214075392"
+          ]
+        },
+        "author_id": "1143585587456176129",
+        "conversation_id": "2077089474279043102",
+        "created_at": "2026-07-14T17:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077089474279043102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9XN6EdBik",
+              "end": 38,
+              "expanded_url": "https://x.com/kujo_riora/status/2077089474279043102/photo/1",
+              "media_key": "3_2077089468214075392",
+              "start": 15,
+              "url": "https://t.co/M9XN6EdBik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077089474279043102",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 18063,
+          "like_count": 2351,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "Koleda (AK-12) https://t.co/M9XN6EdBik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 520,
+          "like_count": 17524,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 7748
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-25T18:23:45.000Z",
+        "description": "EN/ID/JP Ok 市川雛菜P https://t.co/WvBsLPQxpQ & https://t.co/fk596YKuQj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nampaknya.my",
+                "end": 41,
+                "expanded_url": "http://nampaknya.my",
+                "start": 18,
+                "url": "https://t.co/WvBsLPQxpQ"
+              },
+              {
+                "display_url": "nampaknya.my/wife",
+                "end": 67,
+                "expanded_url": "http://nampaknya.my/wife",
+                "start": 44,
+                "url": "https://t.co/fk596YKuQj"
+              }
+            ]
+          }
+        },
+        "id": "1143585587456176129",
+        "name": "Riora",
+        "pinned_tweet_id": "1854404281178443794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071291258862276608/CMsz6Aof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 771,
+          "like_count": 714,
+          "listed_count": 19,
+          "media_count": 158,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "kujo_riora",
+        "verified": false
+      }
+    ]
+  }
+}

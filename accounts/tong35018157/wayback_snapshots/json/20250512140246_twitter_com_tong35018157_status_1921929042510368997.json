@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1469336282635530241",
+          "name": "The V-day (Russia)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1469336282635530241",
+          "name": "The V-day (Russia)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469336282635530241",
+          "name": "The V-day (Russia)"
+        }
+      }
+    ],
+    "conversation_id": "1921929042510368997",
+    "created_at": "2025-05-12T14:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921929042510368997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798024708308299776",
+          "start": 3,
+          "username": "J_ADSEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921929042510368997",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 423
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920753314993512628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J_ADSEN: AK-47 WITH DAUGHTERS ON VICTORY DAY\n\nRUS: С Днём Победы, товарищи!\nПосмотреть парад в Москве в этом году приехала семья из Иже…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1920753100513562624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfixLFXUAAZQPN.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          }
+        ],
+        "conversation_id": "1921929042510368997",
+        "created_at": "2025-05-12T14:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921929042510368997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798024708308299776",
+              "start": 3,
+              "username": "J_ADSEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921929042510368997",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920753314993512628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J_ADSEN: AK-47 WITH DAUGHTERS ON VICTORY DAY\n\nRUS: С Днём Победы, товарищи!\nПосмотреть парад в Москве в этом году приехала семья из Иже…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920753100513562624"
+          ]
+        },
+        "author_id": "1798024708308299776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469336282635530241",
+              "name": "The V-day (Russia)"
+            }
+          }
+        ],
+        "conversation_id": "1920753314993512628",
+        "created_at": "2025-05-09T08:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T09:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920753314993512628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 238,
+              "start": 235,
+              "tag": "JA"
+            },
+            {
+              "end": 254,
+              "start": 239,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 259,
+              "start": 255,
+              "tag": "GFL"
+            },
+            {
+              "end": 265,
+              "start": 260,
+              "tag": "AK47"
+            },
+            {
+              "end": 271,
+              "start": 266,
+              "tag": "AK15"
+            },
+            {
+              "end": 277,
+              "start": 272,
+              "tag": "AK12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cy26s45ZbI",
+              "end": 301,
+              "expanded_url": "https://x.com/J_ADSEN/status/1920753314993512628/photo/1",
+              "media_key": "3_1920753100513562624",
+              "start": 278,
+              "url": "https://t.co/cy26s45ZbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920753314993512628",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 612,
+          "impression_count": 40432,
+          "like_count": 2878,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "AK-47 WITH DAUGHTERS ON VICTORY DAY\n\nRUS: С Днём Победы, товарищи!\nПосмотреть парад в Москве в этом году приехала семья из Ижевска 👀\nENG: Happy Victory Day, comrades!\nA family from Izhevsk came to watch the parade in Moscow this year👀\n#JA #GirlsFrontline #GFL #AK47 #AK15 #AK12 https://t.co/cy26s45ZbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 219,
+          "like_count": 8721,
+          "listed_count": 2,
+          "media_count": 710,
+          "tweet_count": 4397
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T16:13:21.000Z",
+        "description": "Average DEFY girls enjoyer | Artist |\nMy Hipolink page: https://t.co/LfI2VpVC5O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hipolink.me/ja.stuff",
+                "end": 79,
+                "expanded_url": "http://hipolink.me/ja.stuff",
+                "start": 56,
+                "url": "https://t.co/LfI2VpVC5O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boosty.to/ja.stuff",
+                "end": 23,
+                "expanded_url": "https://boosty.to/ja.stuff",
+                "start": 0,
+                "url": "https://t.co/PbobQUCPYW"
+              }
+            ]
+          }
+        },
+        "id": "1798024708308299776",
+        "location": "Россия",
+        "name": "J ADSEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803342159996665856/BEcuYTD2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12259,
+          "following_count": 6,
+          "like_count": 930,
+          "listed_count": 62,
+          "media_count": 68,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/PbobQUCPYW",
+        "username": "J_ADSEN",
+        "verified": false
+      }
+    ]
+  }
+}

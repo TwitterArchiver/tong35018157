@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017786890590515200"
+      ],
+      "media_source_tweet_id": [
+        "2017786893040017684"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020326551632671045",
+    "created_at": "2026-02-08T02:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T03:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020326551632671045"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "BMPT",
+          "probability": 0.5186,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "Epstein",
+          "probability": 0.8832,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1691304630993481728",
+          "start": 3,
+          "username": "CherryBomb_Kiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/28iMGq9gny",
+          "end": 76,
+          "expanded_url": "https://x.com/CherryBomb_Kiko/status/2017786893040017684/photo/1",
+          "media_key": "3_2017786890590515200",
+          "start": 53,
+          "url": "https://t.co/28iMGq9gny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020326551632671045",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017786893040017684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CherryBomb_Kiko: The BMPT is on the Epstein list https://t.co/28iMGq9gny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2017786890590515200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACefH4WcAADHJj.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017786890590515200"
+          ],
+          "media_source_tweet_id": [
+            "2017786893040017684"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020326551632671045",
+        "created_at": "2026-02-08T02:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T03:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020326551632671045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "BMPT",
+              "probability": 0.5186,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Epstein",
+              "probability": 0.8832,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1691304630993481728",
+              "start": 3,
+              "username": "CherryBomb_Kiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28iMGq9gny",
+              "end": 76,
+              "expanded_url": "https://x.com/CherryBomb_Kiko/status/2017786893040017684/photo/1",
+              "media_key": "3_2017786890590515200",
+              "start": 53,
+              "url": "https://t.co/28iMGq9gny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020326551632671045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017786893040017684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CherryBomb_Kiko: The BMPT is on the Epstein list https://t.co/28iMGq9gny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017786890590515200"
+          ]
+        },
+        "author_id": "1691304630993481728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017786893040017684",
+        "created_at": "2026-02-01T02:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017786893040017684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "BMPT",
+              "probability": 0.5975,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Epstein",
+              "probability": 0.8893,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28iMGq9gny",
+              "end": 55,
+              "expanded_url": "https://x.com/CherryBomb_Kiko/status/2017786893040017684/photo/1",
+              "media_key": "3_2017786890590515200",
+              "start": 32,
+              "url": "https://t.co/28iMGq9gny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017786893040017684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 26981,
+          "like_count": 1988,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "The BMPT is on the Epstein list https://t.co/28iMGq9gny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 289,
+          "like_count": 10848,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 5593
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T04:24:11.000Z",
+        "description": "Free Abrams",
+        "id": "1691304630993481728",
+        "name": "Cherry",
+        "pinned_tweet_id": "1863023047298404851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910415966950895616/96D1ntuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2651,
+          "following_count": 103,
+          "like_count": 47136,
+          "listed_count": 9,
+          "media_count": 2965,
+          "tweet_count": 13174
+        },
+        "username": "CherryBomb_Kiko",
+        "verified": false
+      }
+    ]
+  }
+}

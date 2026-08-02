@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948759462212501506"
+      ],
+      "media_source_tweet_id": [
+        "1948759475068043304"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949241857336078724",
+    "created_at": "2025-07-26T22:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T23:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949241857336078724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "917608619109105664",
+          "start": 3,
+          "username": "SECTER__7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7X5OqEZ5bN",
+          "end": 40,
+          "expanded_url": "https://x.com/SECTER__7/status/1948759475068043304/photo/1",
+          "media_key": "3_1948759462212501506",
+          "start": 17,
+          "url": "https://t.co/7X5OqEZ5bN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949241857336078724",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948759475068043304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SECTER__7: 🍑 https://t.co/7X5OqEZ5bN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1948759462212501506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtiZ-nbgAI8GcJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948759462212501506"
+          ],
+          "media_source_tweet_id": [
+            "1948759475068043304"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949241857336078724",
+        "created_at": "2025-07-26T22:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949241857336078724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "917608619109105664",
+              "start": 3,
+              "username": "SECTER__7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X5OqEZ5bN",
+              "end": 40,
+              "expanded_url": "https://x.com/SECTER__7/status/1948759475068043304/photo/1",
+              "media_key": "3_1948759462212501506",
+              "start": 17,
+              "url": "https://t.co/7X5OqEZ5bN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949241857336078724",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948759475068043304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SECTER__7: 🍑 https://t.co/7X5OqEZ5bN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948759462212501506"
+          ]
+        },
+        "author_id": "917608619109105664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948759475068043304",
+        "created_at": "2025-07-25T14:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948759475068043304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X5OqEZ5bN",
+              "end": 25,
+              "expanded_url": "https://x.com/SECTER__7/status/1948759475068043304/photo/1",
+              "media_key": "3_1948759462212501506",
+              "start": 2,
+              "url": "https://t.co/7X5OqEZ5bN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948759475068043304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 16333,
+          "like_count": 1404,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "🍑 https://t.co/7X5OqEZ5bN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 230,
+          "like_count": 9111,
+          "listed_count": 0,
+          "media_count": 767,
+          "tweet_count": 4765
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-10T04:31:57.000Z",
+        "description": "Я рисую,NSFW18+,Слегка сексуальный контент,Обычное искусство(без🔞),Военное,Тактическое,История,Войны,Кровь,Фильмы,Игры,GFL https://t.co/7MBszI5Kvl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/51450287",
+                "end": 146,
+                "expanded_url": "https://www.pixiv.net/users/51450287",
+                "start": 123,
+                "url": "https://t.co/7MBszI5Kvl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/playlist?list=PL5rud4Z4DMy6cJ_IdF73VYRXcLocNueBd&si=abKWcZuYKLfEZmSM",
+                "start": 0,
+                "url": "https://t.co/6T7Fa4QrB6"
+              }
+            ]
+          }
+        },
+        "id": "917608619109105664",
+        "location": "Leningrad - Berlin ",
+        "name": "SLAVSEGGER",
+        "pinned_tweet_id": "1750881618083139905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946973363131281409/vkXoE_-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11738,
+          "following_count": 514,
+          "like_count": 19751,
+          "listed_count": 66,
+          "media_count": 1429,
+          "tweet_count": 15245
+        },
+        "url": "https://t.co/6T7Fa4QrB6",
+        "username": "SECTER__7",
+        "verified": false
+      }
+    ]
+  }
+}

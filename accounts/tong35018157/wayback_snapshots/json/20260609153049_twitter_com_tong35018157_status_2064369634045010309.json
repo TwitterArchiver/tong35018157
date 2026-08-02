@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064330832471539712"
+      ],
+      "media_source_tweet_id": [
+        "2064330978420805977"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "2064369634045010309",
+    "created_at": "2026-06-09T15:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064369634045010309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752528314273820672",
+          "start": 3,
+          "username": "ax10zx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BmSapqtsDz",
+          "end": 76,
+          "expanded_url": "https://x.com/ax10zx/status/2064330978420805977/photo/1",
+          "media_key": "3_2064330832471539712",
+          "start": 53,
+          "url": "https://t.co/BmSapqtsDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064369634045010309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064330978420805977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax10zx: toxic danmei part 2 (bj is a thirdwheel) https://t.co/BmSapqtsDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2064330832471539712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKX59HBaQAAwKri.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064330832471539712"
+          ],
+          "media_source_tweet_id": [
+            "2064330978420805977"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2064369634045010309",
+        "created_at": "2026-06-09T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064369634045010309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752528314273820672",
+              "start": 3,
+              "username": "ax10zx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmSapqtsDz",
+              "end": 76,
+              "expanded_url": "https://x.com/ax10zx/status/2064330978420805977/photo/1",
+              "media_key": "3_2064330832471539712",
+              "start": 53,
+              "url": "https://t.co/BmSapqtsDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064369634045010309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064330978420805977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax10zx: toxic danmei part 2 (bj is a thirdwheel) https://t.co/BmSapqtsDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064330832471539712"
+          ]
+        },
+        "author_id": "1752528314273820672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2064330978420805977",
+        "created_at": "2026-06-09T12:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064330978420805977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmSapqtsDz",
+              "end": 64,
+              "expanded_url": "https://x.com/ax10zx/status/2064330978420805977/photo/1",
+              "media_key": "3_2064330832471539712",
+              "start": 41,
+              "url": "https://t.co/BmSapqtsDz"
+            },
+            {
+              "display_url": "x.com/ax10zx/status/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ax10zx/status/2062217849465377238",
+              "start": 65,
+              "url": "https://t.co/ukQKnRvkJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064330978420805977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1713,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062217849465377238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "toxic danmei part 2 (bj is a thirdwheel) https://t.co/BmSapqtsDz https://t.co/ukQKnRvkJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 466,
+          "like_count": 15497,
+          "listed_count": 3,
+          "media_count": 980,
+          "tweet_count": 7003
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:05:09.000Z",
+        "description": "⚠️ Questionable ｜Fantasy 🐉 🪷🦎EA+ SEA + SA Enthusiast 🎨 东南亚华人！ID/EN + 📚中文/日本語/NL \n\n❌ Chauvinists/Sinophobia/Indophobia\n❌ Not a historian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ax10xz__boba",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ax10xz__boba",
+                "start": 0,
+                "url": "https://t.co/92vweK8OMP"
+              }
+            ]
+          }
+        },
+        "id": "1752528314273820672",
+        "location": "Bunnings 📍🦘",
+        "name": "Bobaklep's 客家MAXXING",
+        "pinned_tweet_id": "1994079775124803810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063291806390030336/wx7mK-gJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6380,
+          "following_count": 829,
+          "like_count": 100742,
+          "listed_count": 21,
+          "media_count": 847,
+          "tweet_count": 18609
+        },
+        "url": "https://t.co/92vweK8OMP",
+        "username": "ax10zx",
+        "verified": false
+      }
+    ]
+  }
+}

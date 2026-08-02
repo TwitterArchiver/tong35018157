@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078802705988952064"
+      ],
+      "media_source_tweet_id": [
+        "2078802765438931192"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2079092803712467283",
+    "created_at": "2026-07-20T06:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079092803712467283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1145620474120036357",
+          "start": 3,
+          "username": "Drsoppo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBiKHCDgeM",
+          "end": 55,
+          "expanded_url": "https://x.com/Drsoppo/status/2078802765438931192/photo/1",
+          "media_key": "3_2078802705988952064",
+          "start": 32,
+          "url": "https://t.co/SBiKHCDgeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079092803712467283",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078802765438931192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drsoppo: who is more crazy? https://t.co/SBiKHCDgeM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2078802705988952064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlkDBCXoAApeat.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078802705988952064"
+          ]
+        },
+        "author_id": "1145620474120036357",
+        "conversation_id": "2078802765438931192",
+        "created_at": "2026-07-19T11:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078802765438931192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBiKHCDgeM",
+              "end": 42,
+              "expanded_url": "https://x.com/Drsoppo/status/2078802765438931192/photo/1",
+              "media_key": "3_2078802705988952064",
+              "start": 19,
+              "url": "https://t.co/SBiKHCDgeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078802765438931192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 13995,
+          "like_count": 1921,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "who is more crazy? https://t.co/SBiKHCDgeM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078802705988952064"
+          ],
+          "media_source_tweet_id": [
+            "2078802765438931192"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2079092803712467283",
+        "created_at": "2026-07-20T06:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079092803712467283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1145620474120036357",
+              "start": 3,
+              "username": "Drsoppo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBiKHCDgeM",
+              "end": 55,
+              "expanded_url": "https://x.com/Drsoppo/status/2078802765438931192/photo/1",
+              "media_key": "3_2078802705988952064",
+              "start": 32,
+              "url": "https://t.co/SBiKHCDgeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079092803712467283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078802765438931192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drsoppo: who is more crazy? https://t.co/SBiKHCDgeM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 522,
+          "like_count": 17655,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7806
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-01T09:09:40.000Z",
+        "description": "with hard work nothing is impossible.\nif you Smile more! the world you live in won't be so dark.\n\nlike's:\nguns, fast cars,soda.\nwhat i do not like:\ncringe ships",
+        "id": "1145620474120036357",
+        "location": "Twentynine Palms Base, CA",
+        "name": "Soppo",
+        "pinned_tweet_id": "2073424335524520058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060924388917096452/iRdffJ59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 1226,
+          "like_count": 26575,
+          "listed_count": 19,
+          "media_count": 4924,
+          "tweet_count": 19545
+        },
+        "url": "",
+        "username": "Drsoppo",
+        "verified": true
+      }
+    ]
+  }
+}

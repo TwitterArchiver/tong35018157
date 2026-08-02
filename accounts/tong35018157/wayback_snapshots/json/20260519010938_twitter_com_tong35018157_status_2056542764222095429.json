@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056418329930149888"
+      ],
+      "media_source_tweet_id": [
+        "2056418386490331250"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056542764222095429",
+    "created_at": "2026-05-19T01:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056542764222095429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "940627207399067648",
+          "start": 3,
+          "username": "RageOfBerserk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZdOXVxkhE",
+          "end": 42,
+          "expanded_url": "https://x.com/RageOfBerserk/status/2056418386490331250/video/1",
+          "media_key": "13_2056418329930149888",
+          "start": 19,
+          "url": "https://t.co/cZdOXVxkhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056542764222095429",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 360
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056418386490331250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RageOfBerserk: https://t.co/cZdOXVxkhE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16490,
+        "height": 576,
+        "media_key": "13_2056418329930149888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056418329930149888/img/rDCwuDCWPDOzQr95.jpg",
+        "public_metrics": {
+          "view_count": 172840
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056418329930149888/vid/avc1/320x320/ivu8Kl5pzb3340KU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056418329930149888/vid/avc1/576x576/VYVY0xyfaeG8QVVK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056418329930149888/pl/Axnu9G6z5HTCovOW.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056418329930149888"
+          ],
+          "media_source_tweet_id": [
+            "2056418386490331250"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056542764222095429",
+        "created_at": "2026-05-19T01:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056542764222095429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "940627207399067648",
+              "start": 3,
+              "username": "RageOfBerserk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZdOXVxkhE",
+              "end": 42,
+              "expanded_url": "https://x.com/RageOfBerserk/status/2056418386490331250/video/1",
+              "media_key": "13_2056418329930149888",
+              "start": 19,
+              "url": "https://t.co/cZdOXVxkhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056542764222095429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 360
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056418386490331250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RageOfBerserk: https://t.co/cZdOXVxkhE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056418329930149888"
+          ]
+        },
+        "author_id": "940627207399067648",
+        "conversation_id": "2056418386490331250",
+        "created_at": "2026-05-18T16:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056418386490331250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZdOXVxkhE",
+              "end": 23,
+              "expanded_url": "https://x.com/RageOfBerserk/status/2056418386490331250/video/1",
+              "media_key": "13_2056418329930149888",
+              "start": 0,
+              "url": "https://t.co/cZdOXVxkhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056418386490331250",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 778,
+          "impression_count": 373106,
+          "like_count": 5752,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 360
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cZdOXVxkhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 401,
+          "like_count": 14161,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 6607
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-12T16:59:37.000Z",
+        "description": "Your Daily Dose Of Berserk Content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "berserkchains.com",
+                "end": 23,
+                "expanded_url": "http://berserkchains.com",
+                "start": 0,
+                "url": "https://t.co/cB9WqXpUiO"
+              }
+            ]
+          }
+        },
+        "id": "940627207399067648",
+        "name": "Rage Of Berserk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720108329794490368/b4GDkxAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184550,
+          "following_count": 5,
+          "like_count": 12884,
+          "listed_count": 168,
+          "media_count": 3346,
+          "tweet_count": 5980
+        },
+        "url": "https://t.co/cB9WqXpUiO",
+        "username": "RageOfBerserk",
+        "verified": true
+      }
+    ]
+  }
+}

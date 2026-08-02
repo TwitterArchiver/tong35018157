@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1931719664914022858",
+    "created_at": "2025-06-08T14:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T15:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931719664914022858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jianlvup/status/1931514228013248942",
+          "start": 10,
+          "url": "https://t.co/ZvLEXzxQ31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931719664914022858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931514228013248942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喝冰露的是不是奴隶 https://t.co/ZvLEXzxQ31"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_1931514222019596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4d84oX0AANXhb.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1931719664914022858",
+        "created_at": "2025-06-08T14:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931719664914022858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jianlvup/status/1931514228013248942",
+              "start": 10,
+              "url": "https://t.co/ZvLEXzxQ31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931719664914022858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931514228013248942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝冰露的是不是奴隶 https://t.co/ZvLEXzxQ31"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931514222019596288"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1931514228013248942",
+        "created_at": "2025-06-08T00:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T01:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931514228013248942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izVG3Wp4f6",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvup/status/1931514228013248942/photo/1",
+              "media_key": "3_1931514222019596288",
+              "start": 8,
+              "url": "https://t.co/izVG3Wp4f6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931514228013248942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 46318,
+          "like_count": 389,
+          "quote_count": 19,
+          "reply_count": 181,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这说的准确吗？ https://t.co/izVG3Wp4f6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 221,
+          "like_count": 8794,
+          "listed_count": 2,
+          "media_count": 716,
+          "tweet_count": 4457
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1931072420708065415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 595,
+          "like_count": 10399,
+          "listed_count": 10,
+          "media_count": 554,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

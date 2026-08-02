@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017715258853371904",
+        "3_2017715268496076800"
+      ],
+      "media_source_tweet_id": [
+        "2017976232051175796",
+        "2017976232051175796"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018063852370563516",
+    "created_at": "2026-02-01T20:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018063852370563516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UbO13ztN5A",
+          "end": 40,
+          "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+          "media_key": "3_2017715258853371904",
+          "start": 17,
+          "url": "https://t.co/UbO13ztN5A"
+        },
+        {
+          "display_url": "pic.x.com/UbO13ztN5A",
+          "end": 40,
+          "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+          "media_key": "3_2017715268496076800",
+          "start": 17,
+          "url": "https://t.co/UbO13ztN5A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018063852370563516",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017976232051175796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: https://t.co/UbO13ztN5A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2017715258853371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABdVm3XMAADdUC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1316,
+        "media_key": "3_2017715268496076800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABdWKyXMAAdJPC.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017715258853371904",
+            "3_2017715268496076800"
+          ],
+          "media_source_tweet_id": [
+            "2017976232051175796",
+            "2017976232051175796"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018063852370563516",
+        "created_at": "2026-02-01T20:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018063852370563516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbO13ztN5A",
+              "end": 40,
+              "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+              "media_key": "3_2017715258853371904",
+              "start": 17,
+              "url": "https://t.co/UbO13ztN5A"
+            },
+            {
+              "display_url": "pic.x.com/UbO13ztN5A",
+              "end": 40,
+              "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+              "media_key": "3_2017715268496076800",
+              "start": 17,
+              "url": "https://t.co/UbO13ztN5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018063852370563516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017976232051175796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: https://t.co/UbO13ztN5A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017715258853371904",
+            "3_2017715268496076800"
+          ]
+        },
+        "author_id": "4166425527",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017976232051175796",
+        "created_at": "2026-02-01T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017976232051175796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbO13ztN5A",
+              "end": 23,
+              "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+              "media_key": "3_2017715258853371904",
+              "start": 0,
+              "url": "https://t.co/UbO13ztN5A"
+            },
+            {
+              "display_url": "pic.x.com/UbO13ztN5A",
+              "end": 23,
+              "expanded_url": "https://x.com/solisolsoli/status/2017976232051175796/photo/1",
+              "media_key": "3_2017715268496076800",
+              "start": 0,
+              "url": "https://t.co/UbO13ztN5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017976232051175796",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 405,
+          "impression_count": 67507,
+          "like_count": 3551,
+          "quote_count": 26,
+          "reply_count": 12,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UbO13ztN5A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 283,
+          "like_count": 10670,
+          "listed_count": 3,
+          "media_count": 875,
+          "tweet_count": 5560
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCEOUD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCEOUD"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201174,
+          "following_count": 490,
+          "like_count": 13409,
+          "listed_count": 4197,
+          "media_count": 12450,
+          "tweet_count": 13913
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

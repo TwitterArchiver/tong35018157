@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2023459566864793854",
+    "created_at": "2026-02-16T18:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023459566864793854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/demonesschara/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/demonesschara/status/2022860557637095564",
+          "start": 12,
+          "url": "https://t.co/REE0qhTMJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023459566864793854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022860557637095564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简中压抑男大还真就这样 https://t.co/REE0qhTMJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2022860554554269696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKk9PBbYAAlDcS.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2023459566864793854",
+        "created_at": "2026-02-16T18:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023459566864793854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/demonesschara/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/demonesschara/status/2022860557637095564",
+              "start": 12,
+              "url": "https://t.co/REE0qhTMJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023459566864793854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022860557637095564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简中压抑男大还真就这样 https://t.co/REE0qhTMJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022860554554269696"
+          ]
+        },
+        "author_id": "2012795410822451200",
+        "conversation_id": "2022860557637095564",
+        "created_at": "2026-02-15T02:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022860557637095564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RXX2gDDUM",
+              "end": 23,
+              "expanded_url": "https://x.com/DemonessChara/status/2022860557637095564/photo/1",
+              "media_key": "3_2022860554554269696",
+              "start": 0,
+              "url": "https://t.co/9RXX2gDDUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022860557637095564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1311,
+          "impression_count": 561274,
+          "like_count": 30102,
+          "quote_count": 120,
+          "reply_count": 289,
+          "retweet_count": 2509
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9RXX2gDDUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 292,
+          "like_count": 11151,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 5654
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T07:54:15.000Z",
+        "description": "🏳️‍⚧️ she/her/hers\nstray kittygirl",
+        "id": "2012795410822451200",
+        "name": "Gay Frog 🏳️‍⚧️",
+        "pinned_tweet_id": "2021455451875889160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021467270669795329/QxNxL6Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 682,
+          "like_count": 5193,
+          "listed_count": 8,
+          "media_count": 237,
+          "tweet_count": 890
+        },
+        "username": "DemonessChara",
+        "verified": true
+      }
+    ]
+  }
+}

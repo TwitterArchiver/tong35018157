@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961232001190805504"
+      ],
+      "media_source_tweet_id": [
+        "1961232069985800374"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1961566753860862290",
+    "created_at": "2025-08-29T23:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T00:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961566753860862290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1169079337481457664",
+          "start": 3,
+          "username": "KABUTO22433"
+        },
+        {
+          "end": 26,
+          "id": "1471640417519030275",
+          "start": 17,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BOnq09BN6",
+          "end": 50,
+          "expanded_url": "https://x.com/KABUTO22433/status/1961232069985800374/video/1",
+          "media_key": "13_1961232001190805504",
+          "start": 27,
+          "url": "https://t.co/8BOnq09BN6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961566753860862290",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961232069985800374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KABUTO22433: @TopGyaru https://t.co/8BOnq09BN6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24704,
+        "height": 480,
+        "media_key": "13_1961232001190805504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961232001190805504/img/IPcsiO-HtiGY-zIt.jpg",
+        "public_metrics": {
+          "view_count": 77724
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961232001190805504/vid/avc1/286x270/tk5QbcOhdmO1B8M9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961232001190805504/vid/avc1/382x360/djJqsLggMt0y8MJj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961232001190805504/vid/avc1/510x480/zPgDHvNF_b5CVq4G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961232001190805504/pl/G8QLKGWAhJCB6U0C.m3u8?v=cfc"
+          }
+        ],
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961232001190805504"
+          ],
+          "media_source_tweet_id": [
+            "1961232069985800374"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1961566753860862290",
+        "created_at": "2025-08-29T23:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T00:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961566753860862290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1169079337481457664",
+              "start": 3,
+              "username": "KABUTO22433"
+            },
+            {
+              "end": 26,
+              "id": "1471640417519030275",
+              "start": 17,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BOnq09BN6",
+              "end": 50,
+              "expanded_url": "https://x.com/KABUTO22433/status/1961232069985800374/video/1",
+              "media_key": "13_1961232001190805504",
+              "start": 27,
+              "url": "https://t.co/8BOnq09BN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961566753860862290",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961232069985800374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KABUTO22433: @TopGyaru https://t.co/8BOnq09BN6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961232001190805504"
+          ]
+        },
+        "author_id": "1169079337481457664",
+        "conversation_id": "1960923694798082066",
+        "created_at": "2025-08-29T00:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T01:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961232069985800374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471640417519030275",
+              "start": 0,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BOnq09BN6",
+              "end": 33,
+              "expanded_url": "https://x.com/KABUTO22433/status/1961232069985800374/video/1",
+              "media_key": "13_1961232001190805504",
+              "start": 10,
+              "url": "https://t.co/8BOnq09BN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961232069985800374",
+        "in_reply_to_user_id": "1471640417519030275",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 132079,
+          "like_count": 1877,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960923694798082066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TopGyaru https://t.co/8BOnq09BN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 227,
+          "like_count": 9439,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 4997
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T02:47:16.000Z",
+        "description": "岡山eスポーツ指定強化選手 小学生ドンカツ王決定戦2021 準優勝 20超人21超人22達人 23達人24金達人 マリカVR25000",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kabutomushi60…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kabutomushi605?si=bJsrAk7gdgWJdqUQ",
+                "start": 0,
+                "url": "https://t.co/w4KV4x4TtV"
+              }
+            ]
+          }
+        },
+        "id": "1169079337481457664",
+        "location": "おやかま",
+        "name": "かぶとむし",
+        "pinned_tweet_id": "1873913039730385098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947855099986120706/4czRmQGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 1606,
+          "like_count": 3283,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/w4KV4x4TtV",
+        "username": "KABUTO22433",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262268,
+          "following_count": 1381,
+          "like_count": 134357,
+          "listed_count": 441,
+          "media_count": 8355,
+          "tweet_count": 24203
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

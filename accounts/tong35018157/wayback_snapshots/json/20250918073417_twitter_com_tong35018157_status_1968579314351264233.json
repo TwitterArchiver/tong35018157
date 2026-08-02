@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968579297494327296"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1968579314351264233",
+    "created_at": "2025-09-18T07:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968579314351264233"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 4,
+          "tag": "ドールズフロントライン"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "少女前線"
+        },
+        {
+          "end": 38,
+          "start": 23,
+          "tag": "GirlsFrontline"
+        },
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "PPSH41"
+        },
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "PPS43"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tRmSfOskMd",
+          "end": 77,
+          "expanded_url": "https://x.com/tong35018157/status/1968579314351264233/photo/1",
+          "media_key": "3_1968579297494327296",
+          "start": 54,
+          "url": "https://t.co/tRmSfOskMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968579314351264233",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sis #ドールズフロントライン #少女前線 #GirlsFrontline #PPSH41 #PPS43 https://t.co/tRmSfOskMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1968579297494327296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HMcOtWYAAqtfF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968579297494327296"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1968579314351264233",
+        "created_at": "2025-09-18T07:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968579314351264233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 4,
+              "tag": "ドールズフロントライン"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "少女前線"
+            },
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "PPSH41"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "PPS43"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRmSfOskMd",
+              "end": 77,
+              "expanded_url": "https://x.com/tong35018157/status/1968579314351264233/photo/1",
+              "media_key": "3_1968579297494327296",
+              "start": 54,
+              "url": "https://t.co/tRmSfOskMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968579314351264233",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sis #ドールズフロントライン #少女前線 #GirlsFrontline #PPSH41 #PPS43 https://t.co/tRmSfOskMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 234,
+          "like_count": 9683,
+          "listed_count": 3,
+          "media_count": 819,
+          "tweet_count": 5142
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

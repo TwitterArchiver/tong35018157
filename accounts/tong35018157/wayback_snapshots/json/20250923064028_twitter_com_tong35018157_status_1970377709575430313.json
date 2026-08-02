@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970123884746743808"
+      ],
+      "media_source_tweet_id": [
+        "1970123887720726549"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1970377709575430313",
+    "created_at": "2025-09-23T06:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T07:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970377709575430313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "96890336",
+          "start": 3,
+          "username": "Powergannon"
+        },
+        {
+          "end": 33,
+          "id": "745436766375534593",
+          "start": 17,
+          "username": "kiryussideburns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZCg3mQreM",
+          "end": 57,
+          "expanded_url": "https://x.com/Powergannon/status/1970123887720726549/photo/1",
+          "media_key": "3_1970123884746743808",
+          "start": 34,
+          "url": "https://t.co/mZCg3mQreM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970377709575430313",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970123887720726549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Powergannon: @kiryussideburns https://t.co/mZCg3mQreM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1970123884746743808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dJPCnXoAAMmNv.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970123884746743808"
+          ],
+          "media_source_tweet_id": [
+            "1970123887720726549"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1970377709575430313",
+        "created_at": "2025-09-23T06:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970377709575430313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "96890336",
+              "start": 3,
+              "username": "Powergannon"
+            },
+            {
+              "end": 33,
+              "id": "745436766375534593",
+              "start": 17,
+              "username": "kiryussideburns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZCg3mQreM",
+              "end": 57,
+              "expanded_url": "https://x.com/Powergannon/status/1970123887720726549/photo/1",
+              "media_key": "3_1970123884746743808",
+              "start": 34,
+              "url": "https://t.co/mZCg3mQreM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970377709575430313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970123887720726549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Powergannon: @kiryussideburns https://t.co/mZCg3mQreM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970123884746743808"
+          ]
+        },
+        "author_id": "96890336",
+        "conversation_id": "1970011490444042452",
+        "created_at": "2025-09-22T13:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970123887720726549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745436766375534593",
+              "start": 0,
+              "username": "kiryussideburns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZCg3mQreM",
+              "end": 40,
+              "expanded_url": "https://x.com/Powergannon/status/1970123887720726549/photo/1",
+              "media_key": "3_1970123884746743808",
+              "start": 17,
+              "url": "https://t.co/mZCg3mQreM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970123887720726549",
+        "in_reply_to_user_id": "745436766375534593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 33397,
+          "like_count": 828,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970011490444042452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiryussideburns https://t.co/mZCg3mQreM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 245,
+          "like_count": 9767,
+          "listed_count": 3,
+          "media_count": 826,
+          "tweet_count": 5191
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-15T02:02:35.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timothyyasi.com",
+                "end": 23,
+                "expanded_url": "http://www.timothyyasi.com",
+                "start": 0,
+                "url": "https://t.co/4F4zSJCAfm"
+              }
+            ]
+          }
+        },
+        "id": "96890336",
+        "name": "Timothy 🦧",
+        "pinned_tweet_id": "1691056205211316225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776436999630491648/TSju8Jyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 1961,
+          "like_count": 34655,
+          "listed_count": 2,
+          "media_count": 1567,
+          "tweet_count": 21073
+        },
+        "url": "https://t.co/4F4zSJCAfm",
+        "username": "Powergannon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T02:02:29.000Z",
+        "description": "Alexis, they/she, 25 | Kiryu Lover est. 2017 ❤️‍🔥🐉 | @TINYRYUU | https://t.co/BPD5pupZtx | https://t.co/KKoezwpSUi | DM for business/collab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "TINYRYUU"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/kiryussideburns",
+                "end": 88,
+                "expanded_url": "http://patreon.com/kiryussideburns",
+                "start": 65,
+                "url": "https://t.co/BPD5pupZtx"
+              },
+              {
+                "display_url": "twitch.tv/kiryussideburns",
+                "end": 114,
+                "expanded_url": "http://twitch.tv/kiryussideburns",
+                "start": 91,
+                "url": "https://t.co/KKoezwpSUi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiryussideburns.com",
+                "end": 23,
+                "expanded_url": "http://kiryussideburns.com",
+                "start": 0,
+                "url": "https://t.co/iEgiAvJzqx"
+              }
+            ]
+          }
+        },
+        "id": "745436766375534593",
+        "location": "New Orleans, Louisiana",
+        "name": "KSB",
+        "pinned_tweet_id": "1798185413938704756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951034952084078594/u5m1_Vha_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13935,
+          "following_count": 231,
+          "like_count": 111755,
+          "listed_count": 46,
+          "media_count": 5395,
+          "tweet_count": 26497
+        },
+        "url": "https://t.co/iEgiAvJzqx",
+        "username": "kiryussideburns",
+        "verified": false
+      }
+    ]
+  }
+}

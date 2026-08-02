@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1803773809390162308",
+    "created_at": "2024-06-22T04:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T05:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804376692477301008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804376692477301008",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803773809390162308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 磨铁的简直是另一本小说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1803773809390162308",
+        "created_at": "2024-06-22T04:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T05:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804376692477301008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804376692477301008",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803773809390162308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 磨铁的简直是另一本小说"
+      },
+      {
+        "attachments": {},
+        "author_id": "1647217584117280771",
+        "conversation_id": "1803773809390162308",
+        "created_at": "2024-06-20T12:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T13:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803773809390162308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803773809390162308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同桌给我塞了几本实体的耽美小说\n拿来研究他们经过删减后无比纯洁的兄弟情😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 207,
+          "like_count": 7939,
+          "listed_count": 1,
+          "tweet_count": 3752
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "看人出殡不嫌事儿大🤗🤗🤗🤗🤗🤗\n曾在大润发杀过十年鱼🤨🤨🤨🤨🤨",
+        "id": "1647217584117280771",
+        "name": "山海懒得平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722587840729731072/SePIdXaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 853,
+          "like_count": 78314,
+          "listed_count": 0,
+          "tweet_count": 9733
+        },
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057187326048997376"
+      ],
+      "media_source_tweet_id": [
+        "2057187777951744476"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Miami",
+          "id": "855447833045946370",
+          "name": "Miami"
+        }
+      }
+    ],
+    "conversation_id": "2057295220572864804",
+    "created_at": "2026-05-21T02:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057295220572864804"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 62,
+          "tag": "hotlinemiami"
+        },
+        {
+          "end": 90,
+          "start": 76,
+          "tag": "hotlinemiami2"
+        },
+        {
+          "end": 110,
+          "start": 91,
+          "tag": "hotlinemiamifanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1393326753809043459",
+          "start": 3,
+          "username": "Yerk1r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YP5sHhtLzB",
+          "end": 134,
+          "expanded_url": "https://x.com/Yerk1r/status/2057187777951744476/photo/1",
+          "media_key": "3_2057187326048997376",
+          "start": 111,
+          "url": "https://t.co/YP5sHhtLzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057295220572864804",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057187777951744476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yerk1r: Le hice Remake a mi primer dibujo de corey piñes.\n#hotlinemiami #hotlinemiami2 #hotlinemiamifanart https://t.co/YP5sHhtLzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057187326048997376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyY-T2WEAAyzIC.jpg",
+        "width": 3687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057187326048997376"
+          ],
+          "media_source_tweet_id": [
+            "2057187777951744476"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Miami",
+              "id": "855447833045946370",
+              "name": "Miami"
+            }
+          }
+        ],
+        "conversation_id": "2057295220572864804",
+        "created_at": "2026-05-21T02:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057295220572864804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 62,
+              "tag": "hotlinemiami"
+            },
+            {
+              "end": 90,
+              "start": 76,
+              "tag": "hotlinemiami2"
+            },
+            {
+              "end": 110,
+              "start": 91,
+              "tag": "hotlinemiamifanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1393326753809043459",
+              "start": 3,
+              "username": "Yerk1r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YP5sHhtLzB",
+              "end": 134,
+              "expanded_url": "https://x.com/Yerk1r/status/2057187777951744476/photo/1",
+              "media_key": "3_2057187326048997376",
+              "start": 111,
+              "url": "https://t.co/YP5sHhtLzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057295220572864804",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057187777951744476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yerk1r: Le hice Remake a mi primer dibujo de corey piñes.\n#hotlinemiami #hotlinemiami2 #hotlinemiamifanart https://t.co/YP5sHhtLzB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057187326048997376"
+          ]
+        },
+        "author_id": "1393326753809043459",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Miami",
+              "id": "855447833045946370",
+              "name": "Miami"
+            }
+          }
+        ],
+        "conversation_id": "2057187777951744476",
+        "created_at": "2026-05-20T19:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057187777951744476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 50,
+              "tag": "hotlinemiami"
+            },
+            {
+              "end": 78,
+              "start": 64,
+              "tag": "hotlinemiami2"
+            },
+            {
+              "end": 98,
+              "start": 79,
+              "tag": "hotlinemiamifanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YP5sHhtLzB",
+              "end": 122,
+              "expanded_url": "https://x.com/Yerk1r/status/2057187777951744476/photo/1",
+              "media_key": "3_2057187326048997376",
+              "start": 99,
+              "url": "https://t.co/YP5sHhtLzB"
+            },
+            {
+              "display_url": "x.com/Yerk1r/status/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/Yerk1r/status/1726815885149819342",
+              "start": 123,
+              "url": "https://t.co/Je1ATWjv1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057187777951744476",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2104,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1726815885149819342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Le hice Remake a mi primer dibujo de corey piñes.\n#hotlinemiami #hotlinemiami2 #hotlinemiamifanart https://t.co/YP5sHhtLzB https://t.co/Je1ATWjv1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 406,
+          "like_count": 14369,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6653
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T22:06:28.000Z",
+        "description": "Puta cuenta de cagadero dónde subo dibujos y rolas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC9EYc…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC9EYcao-9EEvNri8upUzbSQ",
+                "start": 0,
+                "url": "https://t.co/arWBdkial4"
+              }
+            ]
+          }
+        },
+        "id": "1393326753809043459",
+        "location": "El SalvaYork",
+        "name": "Llerg",
+        "pinned_tweet_id": "2022485085983838316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960519787466854401/HJWTrRf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 195,
+          "like_count": 19063,
+          "listed_count": 0,
+          "media_count": 1258,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/arWBdkial4",
+        "username": "Yerk1r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1392851027494309889"
+      ],
+      "media_source_tweet_id": [
+        "1392851111984443392"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2035031015107006799",
+    "created_at": "2026-03-20T16:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035031015107006799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559069150785732608",
+          "start": 3,
+          "username": "Bakutan_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaizwKetI0",
+          "end": 53,
+          "expanded_url": "https://x.com/ElveroW/status/1392851111984443392/video/1",
+          "media_key": "7_1392851027494309889",
+          "start": 30,
+          "url": "https://t.co/DaizwKetI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035031015107006799",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034868944520323438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bakutan_bot1: 最高級ベッドに御満悦\n https://t.co/DaizwKetI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29334,
+        "height": 720,
+        "media_key": "7_1392851027494309889",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1392851027494309889/pu/img/o_lcP5JUflNAYIBY.jpg",
+        "public_metrics": {
+          "view_count": 820111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1392851027494309889/pu/vid/320x400/0RNVsPB98gyUo2L8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1392851027494309889/pu/vid/480x600/buUuLO14-oeC2Eqf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1392851027494309889/pu/vid/576x720/FVhE39TSvVJnSGTt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1392851027494309889/pu/pl/GCu-JuhQygnBMLl_.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1392851027494309889"
+          ],
+          "media_source_tweet_id": [
+            "1392851111984443392"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2035031015107006799",
+        "created_at": "2026-03-20T16:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035031015107006799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559069150785732608",
+              "start": 3,
+              "username": "Bakutan_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaizwKetI0",
+              "end": 53,
+              "expanded_url": "https://x.com/ElveroW/status/1392851111984443392/video/1",
+              "media_key": "7_1392851027494309889",
+              "start": 30,
+              "url": "https://t.co/DaizwKetI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035031015107006799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034868944520323438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bakutan_bot1: 最高級ベッドに御満悦\n https://t.co/DaizwKetI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1392851027494309889"
+          ],
+          "media_source_tweet_id": [
+            "1392851111984443392"
+          ]
+        },
+        "author_id": "1559069150785732608",
+        "conversation_id": "2034868944520323438",
+        "created_at": "2026-03-20T05:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034868944520323438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaizwKetI0",
+              "end": 35,
+              "expanded_url": "https://x.com/ElveroW/status/1392851111984443392/video/1",
+              "media_key": "7_1392851027494309889",
+              "start": 12,
+              "url": "https://t.co/DaizwKetI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034868944520323438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 59932,
+          "like_count": 3465,
+          "quote_count": 21,
+          "reply_count": 27,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "最高級ベッドに御満悦\n https://t.co/DaizwKetI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 312,
+          "like_count": 12023,
+          "listed_count": 3,
+          "media_count": 910,
+          "tweet_count": 5904
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:47:19.000Z",
+        "description": "癒やされる動物をツイートにて皆様にお届けします📦",
+        "id": "1559069150785732608",
+        "name": "癒しのお届け便 📦【動物】",
+        "pinned_tweet_id": "2033684989548880238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628720490398511105/RGzC-DTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363747,
+          "following_count": 0,
+          "like_count": 1957,
+          "listed_count": 799,
+          "media_count": 9525,
+          "tweet_count": 9599
+        },
+        "username": "Bakutan_bot1",
+        "verified": true
+      }
+    ]
+  }
+}

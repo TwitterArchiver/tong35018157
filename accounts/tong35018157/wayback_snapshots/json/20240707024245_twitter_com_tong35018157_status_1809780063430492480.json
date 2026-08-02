@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1809780063430492480",
+    "created_at": "2024-07-07T02:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T03:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809780063430492480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/papurikagakusy…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/papurikagakusyu/status/1809264789191008315",
+          "start": 6,
+          "url": "https://t.co/9Fk2Djv05x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809780063430492480",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809264789191008315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老登🤤🤤🤤 https://t.co/9Fk2Djv05x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1809780063430492480",
+        "created_at": "2024-07-07T02:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T03:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809780063430492480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/papurikagakusy…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/papurikagakusyu/status/1809264789191008315",
+              "start": 6,
+              "url": "https://t.co/9Fk2Djv05x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809780063430492480",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809264789191008315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老登🤤🤤🤤 https://t.co/9Fk2Djv05x"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809264365042106368"
+          ]
+        },
+        "author_id": "945131589977042945",
+        "conversation_id": "1809264789191008315",
+        "created_at": "2024-07-05T16:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T17:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809264789191008315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/18VcnfsotG",
+              "end": 23,
+              "expanded_url": "https://twitter.com/papurikagakusyu/status/1809264789191008315/photo/1",
+              "media_key": "3_1809264365042106368",
+              "start": 0,
+              "url": "https://t.co/18VcnfsotG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809264789191008315",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 79010,
+          "like_count": 4236,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 775
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/18VcnfsotG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 205,
+          "like_count": 8007,
+          "listed_count": 1,
+          "tweet_count": 3780
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-25T03:18:25.000Z",
+        "description": "パプリカ学習帳です｜お絵かき｜ビバ！国際警察沼！｜ 腐（雑食）｜ 20⤴︎ ｜\n妄想垢→@papurikablank",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "papurikablank"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/papurikagakusyu",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/papurikagakusyu",
+                "start": 0,
+                "url": "https://t.co/SLl7hvuCqL"
+              }
+            ]
+          }
+        },
+        "id": "945131589977042945",
+        "location": "暖かい日が多くなった",
+        "name": "パプリカ学習帳",
+        "pinned_tweet_id": "1658482842538749953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1141359208496893953/PB_QEXMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 93,
+          "like_count": 26478,
+          "listed_count": 12,
+          "tweet_count": 30144
+        },
+        "url": "https://t.co/SLl7hvuCqL",
+        "username": "papurikagakusyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2022609427355045916",
+    "created_at": "2026-02-16T01:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023203902062035184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916755437535604736",
+          "start": 0,
+          "username": "dongbeibisima89"
+        },
+        {
+          "end": 28,
+          "id": "1554688107651350530",
+          "start": 17,
+          "username": "li12826221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023203902062035184",
+    "in_reply_to_user_id": "1916755437535604736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022640218411798616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbeibisima89 @li12826221 胜哥是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2022609427355045916",
+        "created_at": "2026-02-16T01:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023203902062035184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916755437535604736",
+              "start": 0,
+              "username": "dongbeibisima89"
+            },
+            {
+              "end": 28,
+              "id": "1554688107651350530",
+              "start": 17,
+              "username": "li12826221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023203902062035184",
+        "in_reply_to_user_id": "1916755437535604736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022640218411798616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbeibisima89 @li12826221 胜哥是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916755437535604736",
+        "conversation_id": "2022609427355045916",
+        "created_at": "2026-02-14T11:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022640218411798616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554688107651350530",
+              "start": 0,
+              "username": "li12826221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022640218411798616",
+        "in_reply_to_user_id": "1554688107651350530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1119,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022609427355045916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li12826221 东北狗天生就爱乱伦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 291,
+          "like_count": 11099,
+          "listed_count": 3,
+          "media_count": 884,
+          "tweet_count": 5645
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T07:24:50.000Z",
+        "description": "管东百逼叫满洲人等于祝福它们死🐴",
+        "id": "1916755437535604736",
+        "location": "哈尔滨，中华人民共和国",
+        "name": "曲婉婷",
+        "pinned_tweet_id": "2016709926689919006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983106609485393920/VFM474AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 46,
+          "like_count": 314,
+          "listed_count": 19,
+          "media_count": 69,
+          "tweet_count": 1455
+        },
+        "username": "dongbeibisima89",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:38:39.000Z",
+        "description": "一个敏锐的观察者 —— 工作方向是AI 内容流程设计与诊断 | 前新闻记者｜影视制作人｜创业赚到第一个 100 万 | 现互联网内容公司，从事 AI × 创作者工作",
+        "id": "1554688107651350530",
+        "location": "香港",
+        "name": "Coco",
+        "pinned_tweet_id": "2021554384807821784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981851012345307136/IZpJAr-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 857,
+          "like_count": 5470,
+          "listed_count": 37,
+          "media_count": 362,
+          "tweet_count": 3765
+        },
+        "username": "li12826221",
+        "verified": true
+      }
+    ]
+  }
+}

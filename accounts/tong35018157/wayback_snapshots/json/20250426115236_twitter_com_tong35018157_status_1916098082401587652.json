@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1916013748474745257",
+    "created_at": "2025-04-26T11:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T12:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916098082401587652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692874517150896128",
+          "start": 0,
+          "username": "yingjiangovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916098082401587652",
+    "in_reply_to_user_id": "1692874517150896128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916013748474745257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingjiangovo ……能这样上街的我觉得他们已经不会在意被拍了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916013736458129411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcMV4JbEAM0sXK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1916013748474745257",
+        "created_at": "2025-04-26T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916098082401587652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692874517150896128",
+              "start": 0,
+              "username": "yingjiangovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916098082401587652",
+        "in_reply_to_user_id": "1692874517150896128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916013748474745257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingjiangovo ……能这样上街的我觉得他们已经不会在意被拍了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916013736458129411"
+          ]
+        },
+        "author_id": "1692874517150896128",
+        "conversation_id": "1916013748474745257",
+        "created_at": "2025-04-26T06:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916013748474745257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1qy2Q6Sw8",
+              "end": 76,
+              "expanded_url": "https://x.com/yingjiangovo/status/1916013748474745257/photo/1",
+              "media_key": "3_1916013736458129411",
+              "start": 53,
+              "url": "https://t.co/k1qy2Q6Sw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916013748474745257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 30249,
+          "like_count": 604,
+          "quote_count": 14,
+          "reply_count": 57,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "不是。男的脖子上面还有项圈的，那个女主人给男m拉出来溜了，我还带着我12岁的妹妹，我俩大眼瞪小眼，真吓人 https://t.co/k1qy2Q6Sw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 223,
+          "like_count": 8687,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 4368
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T12:22:07.000Z",
+        "description": "因为女神是同所以只能变女孩子和女神搞4i",
+        "id": "1692874517150896128",
+        "name": "聆江醉别月",
+        "pinned_tweet_id": "1741701788934508613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915242917461098496/azeszw2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 86,
+          "like_count": 1870,
+          "listed_count": 8,
+          "media_count": 28,
+          "tweet_count": 480
+        },
+        "username": "yingjiangovo",
+        "verified": false
+      }
+    ]
+  }
+}

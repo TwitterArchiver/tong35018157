@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Billie Eilish",
+          "id": "1105106018659328002",
+          "name": "Billie Eilish"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Billie Eilish",
+          "id": "1105106018659328002",
+          "name": "Billie Eilish"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Billie Eilish",
+          "id": "1105106018659328002",
+          "name": "Billie Eilish"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293247559670968320",
+          "name": "Alternative pop"
+        }
+      }
+    ],
+    "conversation_id": "2022232955905806799",
+    "created_at": "2026-02-13T08:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022232955905806799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1_celebs/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/1_celebs/status/2021863034118189494",
+          "start": 14,
+          "url": "https://t.co/lCnqVDwJuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022232955905806799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021863034118189494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比地才淋更牛逼的妆造出现了 https://t.co/lCnqVDwJuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2152,
+        "media_key": "3_2021862953986011139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8ZpPTbsAMqmD2.jpg",
+        "width": 1568
+      },
+      {
+        "height": 1054,
+        "media_key": "3_2021862951674908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8ZpGsbEAATtJg.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293247559670968320",
+              "name": "Alternative pop"
+            }
+          }
+        ],
+        "conversation_id": "2022232955905806799",
+        "created_at": "2026-02-13T08:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022232955905806799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1_celebs/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1_celebs/status/2021863034118189494",
+              "start": 14,
+              "url": "https://t.co/lCnqVDwJuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022232955905806799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021863034118189494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比地才淋更牛逼的妆造出现了 https://t.co/lCnqVDwJuv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021862953986011139",
+            "3_2021862951674908672"
+          ]
+        },
+        "author_id": "1765277090021085185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Billie Eilish",
+              "id": "1105106018659328002",
+              "name": "Billie Eilish"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293247559670968320",
+              "name": "Alternative pop"
+            }
+          }
+        ],
+        "conversation_id": "2021863034118189494",
+        "created_at": "2026-02-12T08:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021863034118189494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUjia2GhFu",
+              "end": 39,
+              "expanded_url": "https://x.com/1_celebs/status/2021863034118189494/photo/1",
+              "media_key": "3_2021862953986011139",
+              "start": 16,
+              "url": "https://t.co/GUjia2GhFu"
+            },
+            {
+              "display_url": "pic.x.com/GUjia2GhFu",
+              "end": 39,
+              "expanded_url": "https://x.com/1_celebs/status/2021863034118189494/photo/1",
+              "media_key": "3_2021862951674908672",
+              "start": 16,
+              "url": "https://t.co/GUjia2GhFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021863034118189494",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51649,
+          "impression_count": 24011636,
+          "like_count": 102505,
+          "quote_count": 2294,
+          "reply_count": 3687,
+          "retweet_count": 5272
+        },
+        "reply_settings": "everyone",
+        "text": "Billie Eilish 😍 https://t.co/GUjia2GhFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 290,
+          "like_count": 10974,
+          "listed_count": 3,
+          "media_count": 880,
+          "tweet_count": 5613
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T07:24:04.000Z",
+        "description": "Celebrity Update",
+        "id": "1765277090021085185",
+        "name": "1 Celebs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976279554739331072/M93sbGrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26805,
+          "following_count": 8,
+          "like_count": 35,
+          "listed_count": 26,
+          "media_count": 1411,
+          "tweet_count": 1606
+        },
+        "username": "1_celebs",
+        "verified": true
+      }
+    ]
+  }
+}

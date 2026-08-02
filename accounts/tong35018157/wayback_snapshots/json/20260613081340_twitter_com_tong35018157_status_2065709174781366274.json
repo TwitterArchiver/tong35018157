@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065324001837416448"
+      ],
+      "media_source_tweet_id": [
+        "2065324601438281860"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2065709174781366274",
+    "created_at": "2026-06-13T08:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065709174781366274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786544033090850816",
+          "start": 3,
+          "username": "capuriwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fkcK4p0ktZ",
+          "end": 47,
+          "expanded_url": "https://x.com/capuriwa/status/2065324601438281860/photo/1",
+          "media_key": "3_2065324001837416448",
+          "start": 24,
+          "url": "https://t.co/fkcK4p0ktZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065709174781366274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065324601438281860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @capuriwa: もこけーねですです https://t.co/fkcK4p0ktZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3252,
+        "media_key": "3_2065324001837416448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmBPLObgAAvYQI.jpg",
+        "width": 2315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065324001837416448"
+          ],
+          "media_source_tweet_id": [
+            "2065324601438281860"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2065709174781366274",
+        "created_at": "2026-06-13T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065709174781366274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786544033090850816",
+              "start": 3,
+              "username": "capuriwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkcK4p0ktZ",
+              "end": 47,
+              "expanded_url": "https://x.com/capuriwa/status/2065324601438281860/photo/1",
+              "media_key": "3_2065324001837416448",
+              "start": 24,
+              "url": "https://t.co/fkcK4p0ktZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065709174781366274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065324601438281860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @capuriwa: もこけーねですです https://t.co/fkcK4p0ktZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065324001837416448"
+          ]
+        },
+        "author_id": "786544033090850816",
+        "conversation_id": "2065324601438281860",
+        "created_at": "2026-06-12T06:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065324601438281860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkcK4p0ktZ",
+              "end": 33,
+              "expanded_url": "https://x.com/capuriwa/status/2065324601438281860/photo/1",
+              "media_key": "3_2065324001837416448",
+              "start": 10,
+              "url": "https://t.co/fkcK4p0ktZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065324601438281860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6973,
+          "impression_count": 877436,
+          "like_count": 55080,
+          "quote_count": 109,
+          "reply_count": 39,
+          "retweet_count": 4255
+        },
+        "reply_settings": "everyone",
+        "text": "もこけーねですです https://t.co/fkcK4p0ktZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 474,
+          "like_count": 15705,
+          "listed_count": 3,
+          "media_count": 982,
+          "tweet_count": 7075
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T12:28:05.000Z",
+        "description": "サークル「カプリ箱」\n東方描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/capuriwa",
+                "end": 23,
+                "expanded_url": "https://lit.link/capuriwa",
+                "start": 0,
+                "url": "https://t.co/1fDN7JZ845"
+              }
+            ]
+          }
+        },
+        "id": "786544033090850816",
+        "location": "白玉楼",
+        "name": "カプリ",
+        "pinned_tweet_id": "2061462338394607691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039319137965776896/ItWN8jnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13020,
+          "following_count": 450,
+          "like_count": 12761,
+          "listed_count": 53,
+          "media_count": 209,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/1fDN7JZ845",
+        "username": "capuriwa",
+        "verified": true
+      }
+    ]
+  }
+}

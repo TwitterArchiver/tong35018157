@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "2053830533646631084",
+    "created_at": "2026-05-11T14:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053845502307991674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993662293302038528",
+          "start": 0,
+          "username": "photon010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053845502307991674",
+    "in_reply_to_user_id": "1993662293302038528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053830533646631084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@photon010 现在所有野鸟在中国都是保护动物，我的学校有很多麻雀，别再宣传上个世纪的事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2053830533646631084",
+        "created_at": "2026-05-11T14:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053845502307991674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993662293302038528",
+              "start": 0,
+              "username": "photon010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053845502307991674",
+        "in_reply_to_user_id": "1993662293302038528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053830533646631084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@photon010 现在所有野鸟在中国都是保护动物，我的学校有很多麻雀，别再宣传上个世纪的事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993662293302038528",
+        "conversation_id": "2053830533646631084",
+        "created_at": "2026-05-11T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053830533646631084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zackdfilms1/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zackdfilms1/status/2053823289076703257",
+              "start": 15,
+              "url": "https://t.co/NHwDkA9aTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830533646631084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053823289076703257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck you china https://t.co/NHwDkA9aTK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 395,
+          "like_count": 13884,
+          "listed_count": 3,
+          "media_count": 947,
+          "tweet_count": 6515
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:45:26.000Z",
+        "description": "cheep-cheep-cheep🐦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesparrow.straw.page",
+                "end": 23,
+                "expanded_url": "https://thesparrow.straw.page",
+                "start": 0,
+                "url": "https://t.co/m89Vrz5DtU"
+              }
+            ]
+          }
+        },
+        "id": "1993662293302038528",
+        "location": "nest",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2035723161594147129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019270494755909632/aAtLQpY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 640,
+          "like_count": 19376,
+          "listed_count": 26,
+          "media_count": 916,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/m89Vrz5DtU",
+        "username": "photon010",
+        "verified": true
+      }
+    ]
+  }
+}

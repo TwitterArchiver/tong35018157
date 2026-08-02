@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1994236262090219656",
+    "created_at": "2025-11-28T02:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994236262090219656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sofigaming/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sofigaming/status/1993749653502980498",
+          "start": 4,
+          "url": "https://t.co/FcKbVuVPNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994236262090219656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993749653502980498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱呀 https://t.co/FcKbVuVPNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_1993749649686204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6s4vjibEAABMAi.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1994236262090219656",
+        "created_at": "2025-11-28T02:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994236262090219656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sofigaming/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sofigaming/status/1993749653502980498",
+              "start": 4,
+              "url": "https://t.co/FcKbVuVPNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994236262090219656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993749653502980498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱呀 https://t.co/FcKbVuVPNm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993749649686204416"
+          ]
+        },
+        "author_id": "2305688298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993749653502980498",
+        "created_at": "2025-11-26T18:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993749653502980498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWCLOCuOtb",
+              "end": 25,
+              "expanded_url": "https://x.com/SofiGaming/status/1993749653502980498/photo/1",
+              "media_key": "3_1993749649686204416",
+              "start": 2,
+              "url": "https://t.co/NWCLOCuOtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993749653502980498",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 710,
+          "impression_count": 108988,
+          "like_count": 8043,
+          "quote_count": 42,
+          "reply_count": 27,
+          "retweet_count": 1163
+        },
+        "reply_settings": "everyone",
+        "text": "😂 https://t.co/NWCLOCuOtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 258,
+          "like_count": 10435,
+          "listed_count": 3,
+          "media_count": 858,
+          "tweet_count": 5425
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-23T00:44:08.000Z",
+        "description": "Youtuber, @twitch partnered livestreamer, industrial/alt music fan and reptile keeper. Tank Dork. Gamer.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "twitch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sofilein",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sofilein",
+                "start": 0,
+                "url": "https://t.co/iAZQIcKNwF"
+              }
+            ]
+          }
+        },
+        "id": "2305688298",
+        "location": "Where the tanks are",
+        "name": "Sofilein",
+        "pinned_tweet_id": "1579819731481419778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714690505924292608/2D7br2bD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24783,
+          "following_count": 1177,
+          "like_count": 69777,
+          "listed_count": 105,
+          "media_count": 5295,
+          "tweet_count": 19371
+        },
+        "url": "https://t.co/iAZQIcKNwF",
+        "username": "SofiGaming",
+        "verified": false
+      }
+    ]
+  }
+}

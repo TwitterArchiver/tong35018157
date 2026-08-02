@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078587307884700081",
+    "created_at": "2026-07-18T21:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078587307884700081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ke_mi/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ke_mi/status/2077972597623660576",
+          "start": 5,
+          "url": "https://t.co/qRqRckIz2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078587307884700081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077972597623660576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全部配了 https://t.co/qRqRckIz2d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2471,
+        "media_key": "3_2077972125361782784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZwo3FaQAAUImP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078587307884700081",
+        "created_at": "2026-07-18T21:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078587307884700081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ke_mi/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ke_mi/status/2077972597623660576",
+              "start": 5,
+              "url": "https://t.co/qRqRckIz2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078587307884700081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077972597623660576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全部配了 https://t.co/qRqRckIz2d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077972125361782784"
+          ]
+        },
+        "author_id": "68879790",
+        "conversation_id": "2077972597623660576",
+        "created_at": "2026-07-17T04:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077972597623660576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oetINt4cDE",
+              "end": 37,
+              "expanded_url": "https://x.com/KE_mi/status/2077972597623660576/photo/1",
+              "media_key": "3_2077972125361782784",
+              "start": 14,
+              "url": "https://t.co/oetINt4cDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077972597623660576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 45972,
+          "like_count": 1830,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "暑中見舞い申し上げ上げます https://t.co/oetINt4cDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 522,
+          "like_count": 17629,
+          "listed_count": 3,
+          "media_count": 1025,
+          "tweet_count": 7797
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T02:35:25.000Z",
+        "description": "野鳥写真家でPhotoshopオペ。\nコミスタ/クリスタとハードウェア全般のデジアシ。\n「絵を描くための鳥の写真集(マール社)」などに写真提供。\nBOOTHにて鳥のポーズ集を販売中(https://t.co/giIPDe7WoE)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyamoto-studio.booth.pm",
+                "end": 114,
+                "expanded_url": "http://miyamoto-studio.booth.pm",
+                "start": 91,
+                "url": "https://t.co/giIPDe7WoE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.to/48ycqa9",
+                "end": 23,
+                "expanded_url": "https://amzn.to/48ycqa9",
+                "start": 0,
+                "url": "https://t.co/TuFhQqz4aZ"
+              }
+            ]
+          }
+        },
+        "id": "68879790",
+        "location": "メジロ県",
+        "name": "宮本 桂",
+        "pinned_tweet_id": "2077033744750514365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/787616512550903808/4C3nXfmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33666,
+          "following_count": 20293,
+          "like_count": 1389,
+          "listed_count": 716,
+          "media_count": 10582,
+          "tweet_count": 24152
+        },
+        "url": "https://t.co/TuFhQqz4aZ",
+        "username": "KE_mi",
+        "verified": false
+      }
+    ]
+  }
+}

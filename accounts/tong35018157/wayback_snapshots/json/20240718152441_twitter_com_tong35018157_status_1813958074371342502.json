@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1813755777301262438",
+    "created_at": "2024-07-18T15:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T16:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813958074371342502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813958074371342502",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813755777301262438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 我真在商场厕所拍过，光线真的好🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1813755777301262438",
+        "created_at": "2024-07-18T15:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T16:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813958074371342502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813958074371342502",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813755777301262438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 我真在商场厕所拍过，光线真的好🙃"
+      },
+      {
+        "attachments": {},
+        "author_id": "1647217584117280771",
+        "conversation_id": "1813755777301262438",
+        "created_at": "2024-07-18T02:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813755777301262438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jidu00488470/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jidu00488470/status/1813487607294370085",
+              "start": 7,
+              "url": "https://t.co/IjHpZNNCOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813755777301262438",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813487607294370085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我拍这种 https://t.co/IjHpZNNCOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8091,
+          "listed_count": 1,
+          "tweet_count": 3827
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "看人出殡不嫌事儿大🤗🤗🤗🤗🤗🤗\n曾在大润发杀过十年鱼🤨🤨🤨🤨🤨",
+        "id": "1647217584117280771",
+        "name": "山海懒得平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722587840729731072/SePIdXaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 953,
+          "like_count": 86994,
+          "listed_count": 0,
+          "tweet_count": 10869
+        },
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

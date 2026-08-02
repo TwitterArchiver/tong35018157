@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065162421178658817"
+      ],
+      "media_source_tweet_id": [
+        "2065162566754508906"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2065436039595053455",
+    "created_at": "2026-06-12T14:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065436039595053455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1283619451771006976",
+          "start": 3,
+          "username": "DocStrangelove2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hx86F853e9",
+          "end": 44,
+          "expanded_url": "https://x.com/DocStrangelove2/status/2065162566754508906/video/1",
+          "media_key": "13_2065162421178658817",
+          "start": 21,
+          "url": "https://t.co/Hx86F853e9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065436039595053455",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1885
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065162566754508906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DocStrangelove2: https://t.co/Hx86F853e9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50626,
+        "height": 720,
+        "media_key": "13_2065162421178658817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065162421178658817/img/7HU_1AM6Bq2mCbdP.jpg",
+        "public_metrics": {
+          "view_count": 161786
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065162421178658817/vid/avc1/480x270/UCvsuUvoqgWStOCR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065162421178658817/vid/avc1/640x360/k-wj9Yqip4ZfHMtE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065162421178658817/vid/avc1/1280x720/OaHSqdjb_7Dk6AJh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065162421178658817/pl/jNYMViyqQTNoSpeL.m3u8?v=f0b"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065162421178658817"
+          ],
+          "media_source_tweet_id": [
+            "2065162566754508906"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2065436039595053455",
+        "created_at": "2026-06-12T14:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065436039595053455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1283619451771006976",
+              "start": 3,
+              "username": "DocStrangelove2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hx86F853e9",
+              "end": 44,
+              "expanded_url": "https://x.com/DocStrangelove2/status/2065162566754508906/video/1",
+              "media_key": "13_2065162421178658817",
+              "start": 21,
+              "url": "https://t.co/Hx86F853e9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065436039595053455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1885
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065162566754508906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DocStrangelove2: https://t.co/Hx86F853e9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065162421178658817"
+          ]
+        },
+        "author_id": "1283619451771006976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2065162566754508906",
+        "created_at": "2026-06-11T20:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065162566754508906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hx86F853e9",
+              "end": 23,
+              "expanded_url": "https://x.com/DocStrangelove2/status/2065162566754508906/video/1",
+              "media_key": "13_2065162421178658817",
+              "start": 0,
+              "url": "https://t.co/Hx86F853e9"
+            },
+            {
+              "display_url": "x.com/NewsWire_US/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/NewsWire_US/status/2065087763469242446",
+              "start": 24,
+              "url": "https://t.co/Kl7xnMK3wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065162566754508906",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2622,
+          "impression_count": 618419,
+          "like_count": 18416,
+          "quote_count": 17,
+          "reply_count": 42,
+          "retweet_count": 1885
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065087763469242446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hx86F853e9 https://t.co/Kl7xnMK3wE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 472,
+          "like_count": 15657,
+          "listed_count": 3,
+          "media_count": 982,
+          "tweet_count": 7058
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T04:29:02.000Z",
+        "description": "I love guns. Writer at TFB. I post firearms through history and different forms of media. Grizzly/AK Stan. Gun Posts Daily!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kruschiki.com/docstrangelove2",
+                "end": 23,
+                "expanded_url": "http://kruschiki.com/docstrangelove2",
+                "start": 0,
+                "url": "https://t.co/cz6oA4tFee"
+              }
+            ]
+          }
+        },
+        "id": "1283619451771006976",
+        "name": "Doc Strangelove",
+        "pinned_tweet_id": "1840249309389869240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475115201791995910/A6wKtyJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197999,
+          "following_count": 1401,
+          "like_count": 468571,
+          "listed_count": 339,
+          "media_count": 28575,
+          "tweet_count": 82685
+        },
+        "url": "https://t.co/cz6oA4tFee",
+        "username": "DocStrangelove2",
+        "verified": true
+      }
+    ]
+  }
+}

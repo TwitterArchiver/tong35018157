@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2049384410697666783",
+    "created_at": "2026-04-29T07:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049384410697666783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freesky46/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/freesky46/status/2049262299500921271",
+          "start": 5,
+          "url": "https://t.co/j6aioZuG7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049384410697666783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049262299500921271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是在？ https://t.co/j6aioZuG7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25278,
+        "height": 736,
+        "media_key": "13_2049262224611614720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049262224611614720/img/mOtFWAN2jcAJDyMQ.jpg",
+        "public_metrics": {
+          "view_count": 1795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049262224611614720/vid/avc1/320x326/zQwkPEzt7QpHsCGq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049262224611614720/vid/avc1/480x490/KkPIxTiSkD2TWHB3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049262224611614720/vid/avc1/720x736/EiT2XQgCkG9q079d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049262224611614720/pl/vadLOdr64kRzNH7c.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2049384410697666783",
+        "created_at": "2026-04-29T07:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049384410697666783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freesky46/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/freesky46/status/2049262299500921271",
+              "start": 5,
+              "url": "https://t.co/j6aioZuG7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049384410697666783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049262299500921271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是在？ https://t.co/j6aioZuG7a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049262224611614720"
+          ]
+        },
+        "author_id": "1305117266745241601",
+        "conversation_id": "2049262299500921271",
+        "created_at": "2026-04-28T22:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049262299500921271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUuj1jFlRI",
+              "end": 40,
+              "expanded_url": "https://x.com/freesky46/status/2049262299500921271/video/1",
+              "media_key": "13_2049262224611614720",
+              "start": 17,
+              "url": "https://t.co/RUuj1jFlRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049262299500921271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 5115,
+          "like_count": 252,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "ノリノリなソップと無反応なロベラ https://t.co/RUuj1jFlRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 372,
+          "like_count": 13281,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6373
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T12:13:07.000Z",
+        "description": "【推しMOD】@jerry880904 \n【NSFW】@omnick74 【サブNSFW】@pomoloz\nドルフロ2 ＃少女前线2 #GirlsFrontline2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "少女前线2"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "tag": "GirlsFrontline2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "jerry880904"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "omnick74"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "pomoloz"
+              }
+            ]
+          }
+        },
+        "id": "1305117266745241601",
+        "name": "そらドルフロ2",
+        "pinned_tweet_id": "2029659835336380925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024775754551377920/QN9m_22C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 5334,
+          "like_count": 3365,
+          "listed_count": 33,
+          "media_count": 328,
+          "tweet_count": 1901
+        },
+        "username": "freesky46",
+        "verified": false
+      }
+    ]
+  }
+}

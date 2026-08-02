@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075496603448934767",
+    "created_at": "2026-07-10T08:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075496603448934767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yonasawa/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yonasawa/status/2075180916973154596",
+          "start": 5,
+          "url": "https://t.co/y5bFd8KDnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075496603448934767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075180916973154596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这你们谁 https://t.co/y5bFd8KDnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21658,
+        "height": 1080,
+        "media_key": "13_2074981495006187520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074981495006187520/img/VNZbtzkStLzq2Mds.jpg",
+        "public_metrics": {
+          "view_count": 124321
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074981495006187520/vid/avc1/640x360/f49QQDG7VcJhpvA0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074981495006187520/vid/avc1/480x270/Pl6CfGEWv44AJXu5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074981495006187520/pl/Rbh9YwTuy32vhFHx.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074981495006187520/vid/avc1/1280x720/NmXUjQVwlVGBFPda.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074981495006187520/vid/avc1/1920x1080/I37ItWT_yG2es_Pt.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075496603448934767",
+        "created_at": "2026-07-10T08:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075496603448934767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yonasawa/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yonasawa/status/2075180916973154596",
+              "start": 5,
+              "url": "https://t.co/y5bFd8KDnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075496603448934767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075180916973154596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这你们谁 https://t.co/y5bFd8KDnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074981495006187520"
+          ]
+        },
+        "author_id": "14486793",
+        "conversation_id": "2075180916973154596",
+        "created_at": "2026-07-09T11:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075180916973154596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qda7TC9OeO",
+              "end": 47,
+              "expanded_url": "https://x.com/yonasawa/status/2075180916973154596/video/1",
+              "media_key": "13_2074981495006187520",
+              "start": 24,
+              "url": "https://t.co/qda7TC9OeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075180916973154596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 617,
+          "impression_count": 374983,
+          "like_count": 13171,
+          "quote_count": 42,
+          "reply_count": 33,
+          "retweet_count": 1259
+        },
+        "reply_settings": "everyone",
+        "text": "これはｻﾒﾁｬﾝひっくり返してこねるﾈｺﾁｬﾝ https://t.co/qda7TC9OeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 513,
+          "like_count": 17314,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7672
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-23T06:56:01.000Z",
+        "description": "◽️株式会社ゲームフリーク様  ポケモンアルセウス、スカーレットバイオレットにフィールドマップデザインの一部で参加\n◽️ねんどろ艦これ特製スリーブ担当\n◽️ケムリクサ背景作成\n◽️ﾆｺﾆｺ履歴 https://t.co/p6LGwP2UQ0\n◽️お仕事のご依頼はこちら↓まで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/12715161",
+                "end": 120,
+                "expanded_url": "http://nicovideo.jp/mylist/12715161",
+                "start": 97,
+                "url": "https://t.co/p6LGwP2UQ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yonasawa.com",
+                "end": 23,
+                "expanded_url": "https://www.yonasawa.com",
+                "start": 0,
+                "url": "https://t.co/oaChvI9trh"
+              }
+            ]
+          }
+        },
+        "id": "14486793",
+        "name": "マクー",
+        "pinned_tweet_id": "1593535257889734657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616331971160084480/_qSzXHav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33960,
+          "following_count": 1872,
+          "like_count": 6168,
+          "listed_count": 940,
+          "media_count": 11047,
+          "tweet_count": 392603
+        },
+        "url": "https://t.co/oaChvI9trh",
+        "username": "yonasawa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1840764445158727847",
+    "created_at": "2024-09-30T15:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T16:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840782972003434586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840782972003434586",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840764445158727847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 我记得edge有个自带的股票游戏，可以玩两把再实战哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840764445158727847].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840764445158727847",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840764445158727847"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1840764445158727847",
+        "created_at": "2024-09-30T15:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T16:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840782972003434586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840782972003434586",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840764445158727847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 我记得edge有个自带的股票游戏，可以玩两把再实战哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836020406995849218/TXcY86G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8105,
+          "listed_count": 1,
+          "tweet_count": 3903
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "From PRC/睡大觉/抽象/可爱😻/猫🐈/恶俗🙀/社交生活推",
+        "id": "1679686176083685376",
+        "location": "he/they/afab/关注大概率不过抱歉",
+        "name": "🐈‍⬛💡💡😺🐈",
+        "pinned_tweet_id": "1814515015480975824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836732757722144768/kdXDigwG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 514,
+          "like_count": 6326,
+          "listed_count": 1,
+          "tweet_count": 8974
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941066855478595584"
+      ],
+      "media_source_tweet_id": [
+        "1941066859589370269"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1941183672360837598",
+    "created_at": "2025-07-04T17:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T18:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941183672360837598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 47,
+          "tag": "ドールズフロントライン"
+        },
+        {
+          "end": 84,
+          "start": 61,
+          "tag": "GirlsFrontline2Exilium"
+        },
+        {
+          "end": 100,
+          "start": 85,
+          "tag": "GirlsFrontline"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1286544112443748353",
+          "start": 3,
+          "username": "gkamikaze_d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgrKm1r2Ez",
+          "end": 124,
+          "expanded_url": "https://x.com/gkamikaze_d/status/1941066859589370269/photo/1",
+          "media_key": "3_1941066855478595584",
+          "start": 101,
+          "url": "https://t.co/pgrKm1r2Ez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941183672360837598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941066859589370269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gkamikaze_d: Oh, how times change...\n.\n.\n.\n#ドールズフロントライン  #GirlsFrontline2Exilium #GirlsFrontline https://t.co/pgrKm1r2Ez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941066855478595584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAOBVYWEAAESzX.jpg",
+        "width": 1868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941066855478595584"
+          ],
+          "media_source_tweet_id": [
+            "1941066859589370269"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1941183672360837598",
+        "created_at": "2025-07-04T17:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T18:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941183672360837598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "ドールズフロントライン"
+            },
+            {
+              "end": 84,
+              "start": 61,
+              "tag": "GirlsFrontline2Exilium"
+            },
+            {
+              "end": 100,
+              "start": 85,
+              "tag": "GirlsFrontline"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1286544112443748353",
+              "start": 3,
+              "username": "gkamikaze_d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgrKm1r2Ez",
+              "end": 124,
+              "expanded_url": "https://x.com/gkamikaze_d/status/1941066859589370269/photo/1",
+              "media_key": "3_1941066855478595584",
+              "start": 101,
+              "url": "https://t.co/pgrKm1r2Ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941183672360837598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941066859589370269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gkamikaze_d: Oh, how times change...\n.\n.\n.\n#ドールズフロントライン  #GirlsFrontline2Exilium #GirlsFrontline https://t.co/pgrKm1r2Ez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941066855478595584"
+          ]
+        },
+        "author_id": "1286544112443748353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1941066859589370269",
+        "created_at": "2025-07-04T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941066859589370269"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "GirlsFrontline2Exilium",
+              "probability": 0.4613,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "ドールズフロントライン"
+            },
+            {
+              "end": 67,
+              "start": 44,
+              "tag": "GirlsFrontline2Exilium"
+            },
+            {
+              "end": 83,
+              "start": 68,
+              "tag": "GirlsFrontline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgrKm1r2Ez",
+              "end": 107,
+              "expanded_url": "https://x.com/gkamikaze_d/status/1941066859589370269/photo/1",
+              "media_key": "3_1941066855478595584",
+              "start": 84,
+              "url": "https://t.co/pgrKm1r2Ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941066859589370269",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 810,
+          "impression_count": 36086,
+          "like_count": 4228,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "Oh, how times change...\n.\n.\n.\n#ドールズフロントライン  #GirlsFrontline2Exilium #GirlsFrontline https://t.co/pgrKm1r2Ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 225,
+          "like_count": 8975,
+          "listed_count": 2,
+          "media_count": 753,
+          "tweet_count": 4639
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T06:10:06.000Z",
+        "description": "Art | Tactical Girls | Guns & Military / 𝐌𝟒𝐀𝟏, My Wife (𝗠𝗢𝗦𝗧 𝗗𝗘𝗩𝗢𝗧𝗘𝗗) 🩷 / 💵 Professional or Promotional Work  📩 dgkamikaze16@gmail.com",
+        "id": "1286544112443748353",
+        "name": "DGkamikaze",
+        "pinned_tweet_id": "1932534681490305411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702784712106967040/Hv29Y7Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56876,
+          "following_count": 10,
+          "like_count": 1206,
+          "listed_count": 190,
+          "media_count": 318,
+          "tweet_count": 699
+        },
+        "username": "gkamikaze_d",
+        "verified": true
+      }
+    ]
+  }
+}

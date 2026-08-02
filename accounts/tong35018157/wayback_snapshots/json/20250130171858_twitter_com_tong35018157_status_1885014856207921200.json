@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1885014856207921200",
+    "created_at": "2025-01-30T17:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T18:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885014856207921200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seilindekos/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/seilindekos/status/1885003220285845718",
+          "start": 4,
+          "url": "https://t.co/Bgw588mKsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885014856207921200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885003220285845718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主人🙏 https://t.co/Bgw588mKsp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1885014856207921200",
+        "created_at": "2025-01-30T17:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T18:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885014856207921200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seilindekos/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/seilindekos/status/1885003220285845718",
+              "start": 4,
+              "url": "https://t.co/Bgw588mKsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885014856207921200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885003220285845718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主人🙏 https://t.co/Bgw588mKsp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885003209678454784"
+          ]
+        },
+        "author_id": "1344794060771401730",
+        "conversation_id": "1885003220285845718",
+        "created_at": "2025-01-30T16:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885003220285845718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXdCznrgwe",
+              "end": 34,
+              "expanded_url": "https://x.com/Seilindekos/status/1885003220285845718/photo/1",
+              "media_key": "3_1885003209678454784",
+              "start": 11,
+              "url": "https://t.co/zXdCznrgwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885003220285845718",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 1982,
+          "like_count": 412,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "ddl nemnem https://t.co/zXdCznrgwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 226,
+          "like_count": 8439,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 4191
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T23:54:32.000Z",
+        "description": "i am mas-mas and love drawing | Commission : 2/2 Discord: seilindekos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/66167…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/66167535",
+                "start": 0,
+                "url": "https://t.co/VT1dS2PzzX"
+              }
+            ]
+          }
+        },
+        "id": "1344794060771401730",
+        "location": "kuvukiland",
+        "name": "Dosa | Commission Open",
+        "pinned_tweet_id": "1584728212302856193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746148754867257344/krsaBCTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14954,
+          "following_count": 1258,
+          "like_count": 5819,
+          "listed_count": 90,
+          "media_count": 215,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/VT1dS2PzzX",
+        "username": "Seilindekos",
+        "verified": false
+      }
+    ]
+  }
+}

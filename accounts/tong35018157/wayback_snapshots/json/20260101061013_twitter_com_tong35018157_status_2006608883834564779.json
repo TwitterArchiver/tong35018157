@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2006608883834564779",
+    "created_at": "2026-01-01T06:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006608883834564779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shitpostgate/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shitpostgate/status/2006412534585373138",
+          "start": 7,
+          "url": "https://t.co/nZjy7hipOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006608883834564779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006412534585373138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tcc大手子 https://t.co/nZjy7hipOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2006162534177361920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9dSMhtW0AAlw70.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2006608883834564779",
+        "created_at": "2026-01-01T06:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006608883834564779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shitpostgate/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shitpostgate/status/2006412534585373138",
+              "start": 7,
+              "url": "https://t.co/nZjy7hipOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006608883834564779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006412534585373138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tcc大手子 https://t.co/nZjy7hipOe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006162534177361920"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "conversation_id": "2006412534585373138",
+        "created_at": "2025-12-31T17:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006412534585373138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCuHwIGlfS",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostGate/status/2006412534585373138/photo/1",
+              "media_key": "3_2006162534177361920",
+              "start": 0,
+              "url": "https://t.co/tCuHwIGlfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006412534585373138",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 59220,
+          "like_count": 5412,
+          "quote_count": 10,
+          "reply_count": 25,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tCuHwIGlfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 276,
+          "like_count": 10566,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5501
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 16,
+                "start": 5,
+                "tag": "hitposting"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1989805597244756334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588154,
+          "following_count": 2477,
+          "like_count": 3247,
+          "listed_count": 3204,
+          "media_count": 37265,
+          "tweet_count": 51994
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

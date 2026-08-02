@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072140162180829185"
+      ],
+      "media_source_tweet_id": [
+        "2072140165833978241"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072885141698179380",
+    "created_at": "2026-07-03T03:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072885141698179380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090781193467916289",
+          "start": 3,
+          "username": "666KNSM999"
+        },
+        {
+          "end": 31,
+          "id": "720016440900919296",
+          "start": 16,
+          "username": "henry_Pringles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3stc55gFLo",
+          "end": 55,
+          "expanded_url": "https://x.com/666KNSM999/status/2072140165833978241/photo/1",
+          "media_key": "3_2072140162180829185",
+          "start": 32,
+          "url": "https://t.co/3stc55gFLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072885141698179380",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072140165833978241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666KNSM999: @henry_Pringles https://t.co/3stc55gFLo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2072140162180829185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG4f7Ob0AEdYgr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072140162180829185"
+          ],
+          "media_source_tweet_id": [
+            "2072140165833978241"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072885141698179380",
+        "created_at": "2026-07-03T03:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072885141698179380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090781193467916289",
+              "start": 3,
+              "username": "666KNSM999"
+            },
+            {
+              "end": 31,
+              "id": "720016440900919296",
+              "start": 16,
+              "username": "henry_Pringles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3stc55gFLo",
+              "end": 55,
+              "expanded_url": "https://x.com/666KNSM999/status/2072140165833978241/photo/1",
+              "media_key": "3_2072140162180829185",
+              "start": 32,
+              "url": "https://t.co/3stc55gFLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072885141698179380",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072140165833978241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666KNSM999: @henry_Pringles https://t.co/3stc55gFLo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072140162180829185"
+          ]
+        },
+        "author_id": "1090781193467916289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071953587458953393",
+        "created_at": "2026-07-01T02:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072140165833978241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "720016440900919296",
+              "start": 0,
+              "username": "henry_Pringles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3stc55gFLo",
+              "end": 39,
+              "expanded_url": "https://x.com/666KNSM999/status/2072140165833978241/photo/1",
+              "media_key": "3_2072140162180829185",
+              "start": 16,
+              "url": "https://t.co/3stc55gFLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072140165833978241",
+        "in_reply_to_user_id": "720016440900919296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 26263,
+          "like_count": 459,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071953587458953393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henry_Pringles https://t.co/3stc55gFLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 495,
+          "like_count": 16906,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 7460
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T01:17:57.000Z",
+        "description": "阿巴阿巴~",
+        "id": "1090781193467916289",
+        "location": "Tianjin",
+        "name": "唐之初",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342767115464392706/ZWN-J4S6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 296,
+          "like_count": 776,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "666KNSM999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-12T22:31:11.000Z",
+        "description": "Sour Cream Pringles enjoyer 🇺🇸",
+        "id": "720016440900919296",
+        "location": "Pennsylvania, USA",
+        "name": "Henry 🇺🇸",
+        "pinned_tweet_id": "1668274663850491905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313263471738880/RbogkzOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11479,
+          "following_count": 516,
+          "like_count": 309515,
+          "listed_count": 42,
+          "media_count": 4810,
+          "tweet_count": 17997
+        },
+        "url": "",
+        "username": "henry_Pringles",
+        "verified": false
+      }
+    ]
+  }
+}

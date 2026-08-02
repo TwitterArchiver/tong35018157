@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1917575387703566436",
+    "created_at": "2025-04-30T13:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T14:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917577908501008847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620318501360791553",
+          "start": 0,
+          "username": "Ar_huoya1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917577908501008847",
+    "in_reply_to_user_id": "1620318501360791553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917575387703566436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ar_huoya1145 线下听的那些自残未成年出来月抛的传说，终于在推特逐一遇见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1917575387703566436",
+        "created_at": "2025-04-30T13:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917577908501008847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620318501360791553",
+              "start": 0,
+              "username": "Ar_huoya1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917577908501008847",
+        "in_reply_to_user_id": "1620318501360791553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917575387703566436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ar_huoya1145 线下听的那些自残未成年出来月抛的传说，终于在推特逐一遇见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620318501360791553",
+        "conversation_id": "1917575387703566436",
+        "created_at": "2025-04-30T13:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917575387703566436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917575387703566436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实在推特遇到sb比正常人多得多，但是我疑似还是太博爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 223,
+          "like_count": 8702,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 4378
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:10:31.000Z",
+        "description": "“I leave no trace of wings in the air,but I am glad I have had my flight.”\n“天空没有留下翅膀的痕迹，但我已飞过。”\n           ——泰戈尔《流萤集​Fireflie​s》",
+        "id": "1620318501360791553",
+        "location": "Kantō, Tochigi",
+        "name": "灬氩（Ar）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839106489052708864/xu4pxipr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 622,
+          "like_count": 1911,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 4083
+        },
+        "username": "Ar_huoya1145",
+        "verified": false
+      }
+    ]
+  }
+}

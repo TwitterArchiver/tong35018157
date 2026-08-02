@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2074356856404038021",
+    "created_at": "2026-07-07T04:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074356856404038021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1841306675674075136",
+          "start": 3,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074356856404038021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074353212703027454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suishoucrystal: 蛇厂？李颖真的魔了，蛇他妈的是这么游泳的？这水多深不知道吗？是个人类都看的出是鸵鸟吧？李颖你他妈的，我他马的，他妈的，我是真的被气笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2074356856404038021",
+        "created_at": "2026-07-07T04:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074356856404038021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1841306675674075136",
+              "start": 3,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074356856404038021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074353212703027454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suishoucrystal: 蛇厂？李颖真的魔了，蛇他妈的是这么游泳的？这水多深不知道吗？是个人类都看的出是鸵鸟吧？李颖你他妈的，我他马的，他妈的，我是真的被气笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841306675674075136",
+        "conversation_id": "2074353212703027454",
+        "created_at": "2026-07-07T04:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074353212703027454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074346052040499262",
+              "start": 68,
+              "url": "https://t.co/fqdO001R1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074353212703027454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074346052040499262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蛇厂？李颖真的魔了，蛇他妈的是这么游泳的？这水多深不知道吗？是个人类都看的出是鸵鸟吧？李颖你他妈的，我他马的，他妈的，我是真的被气笑了 https://t.co/fqdO001R1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 499,
+          "like_count": 17158,
+          "listed_count": 3,
+          "media_count": 1013,
+          "tweet_count": 7580
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1582,
+          "like_count": 3162,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 5250
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

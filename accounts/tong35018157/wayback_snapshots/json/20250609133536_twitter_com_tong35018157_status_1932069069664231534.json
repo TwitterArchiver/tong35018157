@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1932069069664231534",
+    "created_at": "2025-06-09T13:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932069069664231534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fightwithmemes…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fightwithmemes/status/1931772966230016403",
+          "start": 5,
+          "url": "https://t.co/oMqAWNTrFY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932069069664231534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931772966230016403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅AR帅 https://t.co/oMqAWNTrFY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1931771491739152385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8H79BWsAE70BP.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1932069069664231534",
+        "created_at": "2025-06-09T13:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932069069664231534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fightwithmemes…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fightwithmemes/status/1931772966230016403",
+              "start": 5,
+              "url": "https://t.co/oMqAWNTrFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932069069664231534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931772966230016403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅AR帅 https://t.co/oMqAWNTrFY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931771491739152385"
+          ]
+        },
+        "author_id": "1580510925739679745",
+        "conversation_id": "1931772966230016403",
+        "created_at": "2025-06-08T17:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931772966230016403"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "LA",
+              "probability": 0.9332,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYZYUUjvBB",
+              "end": 53,
+              "expanded_url": "https://x.com/FightWithMemes/status/1931772966230016403/photo/1",
+              "media_key": "3_1931771491739152385",
+              "start": 30,
+              "url": "https://t.co/LYZYUUjvBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931772966230016403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 729,
+          "impression_count": 303465,
+          "like_count": 17361,
+          "quote_count": 99,
+          "reply_count": 180,
+          "retweet_count": 1795
+        },
+        "reply_settings": "everyone",
+        "text": "I know exactly what LA needs. https://t.co/LYZYUUjvBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 221,
+          "like_count": 8806,
+          "listed_count": 2,
+          "media_count": 717,
+          "tweet_count": 4470
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:49:16.000Z",
+        "description": "PRO: God, Individualism, Liberty, Life, Memes, Homesteading, Family, Arms 🖤💛 ANTI: War, Government, Globalism, Collectivism, Taxation, Drug War, Violence",
+        "id": "1580510925739679745",
+        "name": "Fight With Memes",
+        "pinned_tweet_id": "1931694973730107876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762507615269961728/AdnLUQ_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190134,
+          "following_count": 795,
+          "like_count": 19402,
+          "listed_count": 612,
+          "media_count": 3672,
+          "tweet_count": 4011
+        },
+        "username": "FightWithMemes",
+        "verified": true
+      }
+    ]
+  }
+}

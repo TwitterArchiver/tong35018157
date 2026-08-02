@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1958401239215198446",
+    "created_at": "2025-08-21T10:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T11:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958471740868174035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1367716671704752128",
+          "start": 0,
+          "username": "OmicronJinPing0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958471740868174035",
+    "in_reply_to_user_id": "1367716671704752128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958401239215198446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OmicronJinPing0 她跟那个牛仔裤半斤八两吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_1958401217840939008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2jiBUaAAAkwIY.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1958401239215198446",
+        "created_at": "2025-08-21T10:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T11:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958471740868174035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367716671704752128",
+              "start": 0,
+              "username": "OmicronJinPing0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958471740868174035",
+        "in_reply_to_user_id": "1367716671704752128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958401239215198446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OmicronJinPing0 她跟那个牛仔裤半斤八两吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958401217840939008"
+          ]
+        },
+        "author_id": "1367716671704752128",
+        "conversation_id": "1958401239215198446",
+        "created_at": "2025-08-21T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958401239215198446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gr9p0BOi0R",
+              "end": 27,
+              "expanded_url": "https://x.com/OmicronJinPing0/status/1958401239215198446/photo/1",
+              "media_key": "3_1958401217840939008",
+              "start": 4,
+              "url": "https://t.co/gr9p0BOi0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958401239215198446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9716,
+          "like_count": 199,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈 https://t.co/gr9p0BOi0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 219,
+          "like_count": 9353,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 4934
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T06:00:47.000Z",
+        "description": "讨厌你党，理解你党，爱上我党",
+        "id": "1367716671704752128",
+        "name": "川和 咳咳 🐨",
+        "pinned_tweet_id": "1848214920435056933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608702801345146880/Rw1BcauN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20593,
+          "following_count": 1137,
+          "like_count": 142702,
+          "listed_count": 54,
+          "media_count": 855,
+          "tweet_count": 18350
+        },
+        "username": "OmicronJinPing0",
+        "verified": false
+      }
+    ]
+  }
+}

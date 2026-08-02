@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2060343861915029659",
+    "created_at": "2026-05-29T12:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060343861915029659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xersy37737/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/xersy37737/status/2060233323029614679",
+          "start": 18,
+          "url": "https://t.co/hhONlRN92T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060343861915029659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060233323029614679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而我是妥协没选林学选了计算机（） https://t.co/hhONlRN92T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2060343861915029659",
+        "created_at": "2026-05-29T12:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060343861915029659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xersy37737/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/xersy37737/status/2060233323029614679",
+              "start": 18,
+              "url": "https://t.co/hhONlRN92T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060343861915029659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060233323029614679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而我是妥协没选林学选了计算机（） https://t.co/hhONlRN92T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2060233323029614679",
+        "created_at": "2026-05-29T05:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060233323029614679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060233323029614679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1880,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说真的，我要真是女生的话，我肯定不学计算机了。\n学计算机好累。\nmtf学计算机本质上就是为了通过干一个最男人的工作，来换取在外表和生活方式上能像女生一样的权利。\n好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 449,
+          "like_count": 15015,
+          "listed_count": 3,
+          "media_count": 967,
+          "tweet_count": 6871
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Radical Communist,Programer,ML Engineer,MTX.",
+        "id": "2004949131450867712",
+        "location": "黑墙外",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 23,
+          "like_count": 1091,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 602
+        },
+        "username": "xersy37737",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1885762694168674304"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1885690701985579427",
+    "created_at": "2025-02-01T18:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T19:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885762822174605592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mlzAtxgWBS",
+          "end": 41,
+          "expanded_url": "https://x.com/tong35018157/status/1885762822174605592/photo/1",
+          "media_key": "16_1885762694168674304",
+          "start": 18,
+          "url": "https://t.co/mlzAtxgWBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885762822174605592",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885690701985579427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 生快捏😋 https://t.co/mlzAtxgWBS"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885690701985579427].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885690701985579427",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885690701985579427"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "16_1885762694168674304",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GiuTLdybgAAjE-Y.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GiuTLdybgAAjE-Y.mp4"
+          }
+        ],
+        "width": 266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1885762694168674304"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1885690701985579427",
+        "created_at": "2025-02-01T18:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T19:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885762822174605592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlzAtxgWBS",
+              "end": 41,
+              "expanded_url": "https://x.com/tong35018157/status/1885762822174605592/photo/1",
+              "media_key": "16_1885762694168674304",
+              "start": 18,
+              "url": "https://t.co/mlzAtxgWBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885762822174605592",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885690701985579427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 生快捏😋 https://t.co/mlzAtxgWBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 210,
+          "like_count": 8469,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 4214
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "收购苏共中央自由派原味脚气袜子/КПСС XXVIII会场银帕记录者/不学无术大废物/下三路思想-卢关主义接班人/招募雄性改革伴侣（不要男娘）/社交生活推",
+        "id": "1679686176083685376",
+        "location": "he/they/赛博社恐，申请关注查成分过",
+        "name": "利加乔夫归来，号召国家杜马全体议员强扒叶利钦内裤",
+        "pinned_tweet_id": "1814515015480975824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879145878835150848/RiE8kJT1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 629,
+          "like_count": 7877,
+          "listed_count": 1,
+          "media_count": 1764,
+          "tweet_count": 11053
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      }
+    ]
+  }
+}

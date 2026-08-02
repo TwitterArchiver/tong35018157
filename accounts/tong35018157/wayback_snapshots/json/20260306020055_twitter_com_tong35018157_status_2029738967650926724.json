@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2029738967650926724",
+    "created_at": "2026-03-06T02:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029738967650926724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whitehouse/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whitehouse/status/2029566106650767581",
+          "start": 10,
+          "url": "https://t.co/SgDzP1qPX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029738967650926724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029566106650767581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "任天堂可以起诉你吗 https://t.co/SgDzP1qPX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2029566084383145984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCp3mcPWgAAKi9u.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2029738967650926724",
+        "created_at": "2026-03-06T02:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029738967650926724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitehouse/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whitehouse/status/2029566106650767581",
+              "start": 10,
+              "url": "https://t.co/SgDzP1qPX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029738967650926724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029566106650767581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "任天堂可以起诉你吗 https://t.co/SgDzP1qPX0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029566084383145984"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2029566106650767581",
+        "created_at": "2026-03-05T14:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029566106650767581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QRVP23zGu",
+              "end": 33,
+              "expanded_url": "https://x.com/WhiteHouse/status/2029566106650767581/photo/1",
+              "media_key": "3_2029566084383145984",
+              "start": 10,
+              "url": "https://t.co/8QRVP23zGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029566106650767581",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3741,
+          "impression_count": 13465645,
+          "like_count": 34021,
+          "quote_count": 5371,
+          "reply_count": 4574,
+          "retweet_count": 3545
+        },
+        "reply_settings": "everyone",
+        "text": "MAGA 🇺🇸⚡️ https://t.co/8QRVP23zGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 306,
+          "like_count": 11577,
+          "listed_count": 3,
+          "media_count": 897,
+          "tweet_count": 5773
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3978379,
+          "following_count": 6,
+          "like_count": 261,
+          "listed_count": 7679,
+          "media_count": 4617,
+          "tweet_count": 13247
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

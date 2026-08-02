@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046698843719229440"
+      ],
+      "media_source_tweet_id": [
+        "2046698867345805485"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046784628900667878",
+    "created_at": "2026-04-22T02:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046784628900667878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1953882396820176896",
+          "start": 3,
+          "username": "birdscolour56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9h3PrtS1Dn",
+          "end": 62,
+          "expanded_url": "https://x.com/birdscolour56/status/2046698867345805485/video/1",
+          "media_key": "7_2046698843719229440",
+          "start": 39,
+          "url": "https://t.co/9h3PrtS1Dn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046784628900667878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046698867345805485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdscolour56: Let's play together https://t.co/9h3PrtS1Dn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8917,
+        "height": 1280,
+        "media_key": "7_2046698843719229440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046698843719229440/pu/img/lEiaNbJ-jgN7VD8c.jpg",
+        "public_metrics": {
+          "view_count": 243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046698843719229440/pu/vid/avc1/320x568/T7LXMdyScEpdUpe_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046698843719229440/pu/vid/avc1/480x852/r-kHBcc42GP8j6CE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046698843719229440/pu/vid/avc1/720x1280/-hTkIUDCMWdv8iED.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046698843719229440/pu/pl/kYqwFdAswnai_l8n.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046698843719229440"
+          ],
+          "media_source_tweet_id": [
+            "2046698867345805485"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046784628900667878",
+        "created_at": "2026-04-22T02:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046784628900667878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1953882396820176896",
+              "start": 3,
+              "username": "birdscolour56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h3PrtS1Dn",
+              "end": 62,
+              "expanded_url": "https://x.com/birdscolour56/status/2046698867345805485/video/1",
+              "media_key": "7_2046698843719229440",
+              "start": 39,
+              "url": "https://t.co/9h3PrtS1Dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046784628900667878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046698867345805485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdscolour56: Let's play together https://t.co/9h3PrtS1Dn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046698843719229440"
+          ]
+        },
+        "author_id": "1953882396820176896",
+        "conversation_id": "2046698867345805485",
+        "created_at": "2026-04-21T21:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046698867345805485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h3PrtS1Dn",
+              "end": 43,
+              "expanded_url": "https://x.com/birdscolour56/status/2046698867345805485/video/1",
+              "media_key": "7_2046698843719229440",
+              "start": 20,
+              "url": "https://t.co/9h3PrtS1Dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046698867345805485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 772,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Let's play together https://t.co/9h3PrtS1Dn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 358,
+          "like_count": 12704,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6198
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T18:14:22.000Z",
+        "description": "The official Positive Side Of @X ! I'm Sender from Netherland.All copyright belong to their owners!Exploring the world through a bird's eye view 🐦🕊️🌿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 30,
+                "username": "X"
+              }
+            ]
+          }
+        },
+        "id": "1953882396820176896",
+        "name": "Birds Colour 🕊️",
+        "pinned_tweet_id": "2046141283333529613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030581484159926272/u1GPgJ0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11067,
+          "following_count": 3763,
+          "like_count": 694,
+          "listed_count": 36,
+          "media_count": 3413,
+          "tweet_count": 3743
+        },
+        "username": "birdscolour56",
+        "verified": true
+      }
+    ]
+  }
+}

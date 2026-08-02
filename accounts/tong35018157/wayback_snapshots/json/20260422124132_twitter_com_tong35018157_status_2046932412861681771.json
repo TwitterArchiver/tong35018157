@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046898053257535488"
+      ],
+      "media_source_tweet_id": [
+        "2046898249089548299"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2046932412861681771",
+    "created_at": "2026-04-22T12:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046932412861681771"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "ドルフロ"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "소녀전선"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370809862209249281",
+          "start": 3,
+          "username": "J5Tko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w7aAeINGPo",
+          "end": 52,
+          "expanded_url": "https://x.com/J5Tko/status/2046898249089548299/photo/1",
+          "media_key": "3_2046898053257535488",
+          "start": 29,
+          "url": "https://t.co/w7aAeINGPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046932412861681771",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046898249089548299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J5Tko: #ドルフロ #소녀전선\nAN-94 https://t.co/w7aAeINGPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2046898053257535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgK7zvaoAALtvM.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046898053257535488"
+          ],
+          "media_source_tweet_id": [
+            "2046898249089548299"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2046932412861681771",
+        "created_at": "2026-04-22T12:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046932412861681771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "소녀전선"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370809862209249281",
+              "start": 3,
+              "username": "J5Tko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7aAeINGPo",
+              "end": 52,
+              "expanded_url": "https://x.com/J5Tko/status/2046898249089548299/photo/1",
+              "media_key": "3_2046898053257535488",
+              "start": 29,
+              "url": "https://t.co/w7aAeINGPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046932412861681771",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046898249089548299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J5Tko: #ドルフロ #소녀전선\nAN-94 https://t.co/w7aAeINGPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046898053257535488"
+          ]
+        },
+        "author_id": "1370809862209249281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2046898249089548299",
+        "created_at": "2026-04-22T10:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046898249089548299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "소녀전선"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7aAeINGPo",
+              "end": 41,
+              "expanded_url": "https://x.com/J5Tko/status/2046898249089548299/photo/1",
+              "media_key": "3_2046898053257535488",
+              "start": 18,
+              "url": "https://t.co/w7aAeINGPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046898249089548299",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 1217,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "#ドルフロ #소녀전선\nAN-94 https://t.co/w7aAeINGPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 359,
+          "like_count": 12729,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6208
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T18:52:04.000Z",
+        "description": "https://t.co/e3EPopZF9v",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/cl0Appa",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/cl0Appa",
+                "start": 0,
+                "url": "https://t.co/e3EPopZF9v"
+              }
+            ]
+          }
+        },
+        "id": "1370809862209249281",
+        "name": "아빠",
+        "pinned_tweet_id": "2046429818728952283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882094753065656320/k0aQxFpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 41,
+          "like_count": 967,
+          "listed_count": 13,
+          "media_count": 56,
+          "tweet_count": 359
+        },
+        "username": "J5Tko",
+        "verified": false
+      }
+    ]
+  }
+}

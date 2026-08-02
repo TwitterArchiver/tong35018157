@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2071197143189070006",
+    "created_at": "2026-06-28T12:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071203306085769627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025067456499515394",
+          "start": 0,
+          "username": "vellichor2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071203306085769627",
+    "in_reply_to_user_id": "2025067456499515394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071197143189070006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vellichor2233 看是什么样的女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2071197143189070006",
+        "created_at": "2026-06-28T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071203306085769627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2025067456499515394",
+              "start": 0,
+              "username": "vellichor2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071203306085769627",
+        "in_reply_to_user_id": "2025067456499515394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071197143189070006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vellichor2233 看是什么样的女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025067456499515394",
+        "conversation_id": "2071197143189070006",
+        "created_at": "2026-06-28T11:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071197143189070006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071197143189070006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁教教我怎么跟女生交朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 489,
+          "like_count": 16689,
+          "listed_count": 3,
+          "media_count": 995,
+          "tweet_count": 7367
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T04:38:07.000Z",
+        "description": "男|YouTuber|作家|诗人|音乐家|femboy|🏳️‍🌈|喜欢极端金属|不网恋不月不键",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/LxrnvMHpm1"
+              }
+            ]
+          }
+        },
+        "id": "2025067456499515394",
+        "location": "Laniakea/MilkyWay/Sun/Earth",
+        "name": "🌸花花🌸",
+        "pinned_tweet_id": "2066285557588828283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066009208055881728/PB5aCoFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 628,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/LxrnvMHpm1",
+        "username": "vellichor2233",
+        "verified": false
+      }
+    ]
+  }
+}

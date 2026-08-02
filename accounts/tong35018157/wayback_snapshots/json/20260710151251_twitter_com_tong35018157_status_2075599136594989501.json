@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075599136594989501",
+    "created_at": "2026-07-10T15:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075599136594989501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gonziver/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/gonziver/status/2075284778958430429",
+          "start": 7,
+          "url": "https://t.co/vd8L4dzYsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075599136594989501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075284778958430429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我老了就这样 https://t.co/vd8L4dzYsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15071,
+        "height": 860,
+        "media_key": "13_2075284699010727936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075284699010727936/img/7V36JrV2RpjJomRE.jpg",
+        "public_metrics": {
+          "view_count": 662326
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075284699010727936/vid/avc1/320x568/aCDYLylSRKKfhsrc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075284699010727936/vid/avc1/484x860/j_abuvrGyfROFzCb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075284699010727936/pl/4dB3iFYwcD5q2kcJ.m3u8"
+          }
+        ],
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075599136594989501",
+        "created_at": "2026-07-10T15:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075599136594989501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gonziver/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/gonziver/status/2075284778958430429",
+              "start": 7,
+              "url": "https://t.co/vd8L4dzYsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075599136594989501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075284778958430429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老了就这样 https://t.co/vd8L4dzYsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075284699010727936"
+          ]
+        },
+        "author_id": "90469110",
+        "conversation_id": "2075284778958430429",
+        "created_at": "2026-07-09T18:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075284778958430429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aG5S5pYk2v",
+              "end": 60,
+              "expanded_url": "https://x.com/gonziver/status/2075284778958430429/video/1",
+              "media_key": "13_2075284699010727936",
+              "start": 37,
+              "url": "https://t.co/aG5S5pYk2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075284778958430429",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 1532698,
+          "like_count": 4856,
+          "quote_count": 64,
+          "reply_count": 186,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "Ahora sabemos el ingrediente secreto https://t.co/aG5S5pYk2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 513,
+          "like_count": 17335,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7683
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T19:52:06.000Z",
+        "description": "Periodista - Lic. en Comunicación.",
+        "id": "90469110",
+        "location": "San Martín, Argentina",
+        "name": "Gonzalo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806060208210198528/SQjTviV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92750,
+          "following_count": 5071,
+          "like_count": 47626,
+          "listed_count": 148,
+          "media_count": 9259,
+          "tweet_count": 102901
+        },
+        "url": "",
+        "username": "gonziver",
+        "verified": true
+      }
+    ]
+  }
+}

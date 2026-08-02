@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1944758090466767095",
+    "created_at": "2025-07-14T14:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944760850390069730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620318501360791553",
+          "start": 0,
+          "username": "Ar_huoya1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944760850390069730",
+    "in_reply_to_user_id": "1620318501360791553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944759802107945253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ar_huoya1145 昨天找零食店兼职差一小时不回复痛失工作🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1944758090466767095",
+        "created_at": "2025-07-14T14:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944760850390069730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620318501360791553",
+              "start": 0,
+              "username": "Ar_huoya1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944760850390069730",
+        "in_reply_to_user_id": "1620318501360791553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944759802107945253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ar_huoya1145 昨天找零食店兼职差一小时不回复痛失工作🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620318501360791553",
+        "conversation_id": "1944758090466767095",
+        "created_at": "2025-07-14T14:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944759802107945253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944759802107945253",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944758090466767095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 豆蒸开始了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 9039,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 4693
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:10:31.000Z",
+        "description": "“I leave no trace of wings in the air,but I am glad I have had my flight.”\n“天空没有留下翅膀的痕迹，但我已飞过。”\n           ——泰戈尔《流萤集​Fireflie​s》",
+        "id": "1620318501360791553",
+        "location": "Kantō, Tochigi",
+        "name": "灬氩（Ar）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839106489052708864/xu4pxipr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 625,
+          "like_count": 1920,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4146
+        },
+        "username": "Ar_huoya1145",
+        "verified": false
+      }
+    ]
+  }
+}

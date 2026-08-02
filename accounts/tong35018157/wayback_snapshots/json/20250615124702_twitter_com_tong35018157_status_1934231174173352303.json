@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1934202409447752114",
+    "created_at": "2025-06-15T12:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T13:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934231174173352303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644453758183538689",
+          "start": 0,
+          "username": "KoNya14056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934231174173352303",
+    "in_reply_to_user_id": "1644453758183538689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934202409447752114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoNya14056 磕了明"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934202409447752114].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934202409447752114",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934202409447752114"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1934202409447752114",
+        "created_at": "2025-06-15T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934231174173352303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644453758183538689",
+              "start": 0,
+              "username": "KoNya14056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934231174173352303",
+        "in_reply_to_user_id": "1644453758183538689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934202409447752114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoNya14056 磕了明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 223,
+          "like_count": 8838,
+          "listed_count": 2,
+          "media_count": 723,
+          "tweet_count": 4509
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T21:35:18.000Z",
+        "description": "同人女，左逼，卢关主义先驱，爱人：@LuxSpark1919 亲密战友卢关搭子：@zanbuzhidao555 @FuckStalin2250 @cra_ku55262 卢关主义副旗手：@loisaker @tuiteMortis @chong4shi4鬼图品鉴搭子：@yu14441821 @EricaGPT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "LuxSpark1919"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "zanbuzhidao555"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "FuckStalin2250"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "cra_ku55262"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "loisaker"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "tuiteMortis"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "chong4shi4"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "yu14441821"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "EricaGPT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konya14056",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konya14056",
+                "start": 0,
+                "url": "https://t.co/BH3Rft5hyr"
+              }
+            ]
+          }
+        },
+        "id": "1644453758183538689",
+        "name": "卢关王🏁🏳️",
+        "pinned_tweet_id": "1829456010660221185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930231559820308480/RSRXdTO6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 728,
+          "like_count": 41925,
+          "listed_count": 3,
+          "media_count": 1184,
+          "tweet_count": 12132
+        },
+        "url": "https://t.co/BH3Rft5hyr",
+        "username": "KoNya14056",
+        "verified": false
+      }
+    ]
+  }
+}

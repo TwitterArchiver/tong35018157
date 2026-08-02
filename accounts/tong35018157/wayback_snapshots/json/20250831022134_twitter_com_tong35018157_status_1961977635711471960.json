@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Swimwear",
+          "id": "846725037595869185",
+          "name": "Swimwear"
+        }
+      }
+    ],
+    "conversation_id": "1961977635711471960",
+    "created_at": "2025-08-31T02:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T03:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961977635711471960"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "GF2",
+          "probability": 0.8897,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "General Liu",
+          "probability": 0.6332,
+          "start": 78,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1288619611236294671",
+          "start": 3,
+          "username": "YZsFerrari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961977635711471960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961486249098657930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YZsFerrari: GF2 is over for me, and its only saving grace would be to add General Liu in a bikini climbing out the pool - those droplet…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_1961485703327449088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GziY2tLXAAA7DYS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "1961977635711471960",
+        "created_at": "2025-08-31T02:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961977635711471960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "GF2",
+              "probability": 0.8897,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "General Liu",
+              "probability": 0.6332,
+              "start": 78,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1288619611236294671",
+              "start": 3,
+              "username": "YZsFerrari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961977635711471960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961486249098657930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YZsFerrari: GF2 is over for me, and its only saving grace would be to add General Liu in a bikini climbing out the pool - those droplet…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961485703327449088"
+          ]
+        },
+        "author_id": "1288619611236294671",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "1961486249098657930",
+        "created_at": "2025-08-29T17:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961486249098657930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "GF2",
+              "probability": 0.9402,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "General Liu",
+              "probability": 0.615,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 263,
+              "normalized_text": "Earth8",
+              "probability": 0.7847,
+              "start": 258,
+              "type": "Other"
+            },
+            {
+              "end": 278,
+              "normalized_text": "Liu Concepts",
+              "probability": 0.6438,
+              "start": 267,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8o6ukV9sO",
+              "end": 304,
+              "expanded_url": "https://x.com/YZsFerrari/status/1961486249098657930/photo/1",
+              "media_key": "3_1961485703327449088",
+              "start": 281,
+              "url": "https://t.co/T8o6ukV9sO"
+            },
+            {
+              "display_url": "x.com/KansaiDorito/s…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/KansaiDorito/status/1960745887933649036",
+              "start": 305,
+              "url": "https://t.co/eu4TzzRKwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961486249098657930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 12399,
+          "like_count": 497,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960745887933649036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GF2 is over for me, and its only saving grace would be to add General Liu in a bikini climbing out the pool - those droplets of sweat, infused with the torrent washing off her nape, refracting the simulation godrays to highlight that indecent, august form.\n\nEarth8's Liu Concepts: https://t.co/T8o6ukV9sO https://t.co/eu4TzzRKwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 226,
+          "like_count": 9478,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 5013
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T23:38:05.000Z",
+        "description": "Hello everyone\nGF-RC Lore Archivist & Writer\n\nLore Works: https://t.co/UI0TNkKgRv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 81,
+                "expanded_url": "https://drive.google.com/drive/folders/1M3b_OBNtwd7S8OAXchBNCVxBkPDSe1mc?usp=sharing",
+                "start": 58,
+                "url": "https://t.co/UI0TNkKgRv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ferrari7950",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ferrari7950",
+                "start": 0,
+                "url": "https://t.co/O8xj27taJw"
+              }
+            ]
+          }
+        },
+        "id": "1288619611236294671",
+        "name": "Ferrari",
+        "pinned_tweet_id": "1770823705423130837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874141406807068672/Q-aXvliW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16000,
+          "following_count": 867,
+          "like_count": 119198,
+          "listed_count": 60,
+          "media_count": 5832,
+          "tweet_count": 24802
+        },
+        "url": "https://t.co/O8xj27taJw",
+        "username": "YZsFerrari",
+        "verified": false
+      }
+    ]
+  }
+}

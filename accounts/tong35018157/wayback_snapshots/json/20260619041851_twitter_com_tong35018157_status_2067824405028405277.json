@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067629813985378304"
+      ],
+      "media_source_tweet_id": [
+        "2067629841411899666"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067824405028405277",
+    "created_at": "2026-06-19T04:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067824405028405277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592843053135691777",
+          "start": 3,
+          "username": "cupidxqx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzBMbxuTQq",
+          "end": 42,
+          "expanded_url": "https://x.com/cupidxqx/status/2067629841411899666/photo/1",
+          "media_key": "3_2067629813985378304",
+          "start": 19,
+          "url": "https://t.co/vzBMbxuTQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067824405028405277",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067629841411899666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupidxqx: Kali https://t.co/vzBMbxuTQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067629813985378304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyXG2bAAAXRfx.jpg",
+        "width": 3008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629813985378304"
+          ],
+          "media_source_tweet_id": [
+            "2067629841411899666"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067824405028405277",
+        "created_at": "2026-06-19T04:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067824405028405277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592843053135691777",
+              "start": 3,
+              "username": "cupidxqx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzBMbxuTQq",
+              "end": 42,
+              "expanded_url": "https://x.com/cupidxqx/status/2067629841411899666/photo/1",
+              "media_key": "3_2067629813985378304",
+              "start": 19,
+              "url": "https://t.co/vzBMbxuTQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067824405028405277",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629841411899666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupidxqx: Kali https://t.co/vzBMbxuTQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629813985378304"
+          ]
+        },
+        "author_id": "1592843053135691777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067629841411899666",
+        "created_at": "2026-06-18T15:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067629841411899666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzBMbxuTQq",
+              "end": 28,
+              "expanded_url": "https://x.com/cupidxqx/status/2067629841411899666/photo/1",
+              "media_key": "3_2067629813985378304",
+              "start": 5,
+              "url": "https://t.co/vzBMbxuTQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629841411899666",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1602,
+          "impression_count": 51754,
+          "like_count": 6634,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "Kali https://t.co/vzBMbxuTQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 485,
+          "like_count": 16165,
+          "listed_count": 3,
+          "media_count": 989,
+          "tweet_count": 7198
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T11:40:31.000Z",
+        "description": "2004/หมี/CMS DM mee/illustration/TH,EN/เล่นเฟสมากกว่า",
+        "id": "1592843053135691777",
+        "name": "ʚ𝖈𝖚𝖕𝖎𝖉𝖝𝖖𝖝ɞlCMS.Openl",
+        "pinned_tweet_id": "1666707680944349184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053142150683254784/1gJUUNfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 2791,
+          "like_count": 5893,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 3108
+        },
+        "url": "",
+        "username": "cupidxqx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053864140746174464"
+      ],
+      "media_source_tweet_id": [
+        "2053864157288575008"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2054145838700732826",
+    "created_at": "2026-05-12T10:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054145838700732826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1978596836727549952",
+          "start": 3,
+          "username": "JosephFox_088"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ShnCgB2Dft",
+          "end": 42,
+          "expanded_url": "https://x.com/JosephFox_088/status/2053864157288575008/video/1",
+          "media_key": "7_2053864140746174464",
+          "start": 19,
+          "url": "https://t.co/ShnCgB2Dft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054145838700732826",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053864157288575008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosephFox_088: https://t.co/ShnCgB2Dft"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4388,
+        "height": 720,
+        "media_key": "7_2053864140746174464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053864140746174464/pu/img/VWD7yunLbygV9qxk.jpg",
+        "public_metrics": {
+          "view_count": 7607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053864140746174464/pu/vid/avc1/384x270/OYttUiM4s_RaelrE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053864140746174464/pu/vid/avc1/512x360/TWkF0ZSXp3Y4Xjnk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053864140746174464/pu/vid/avc1/1024x720/kbv5ByM8dNhto6xR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053864140746174464/pu/pl/1MJD0Ca-iJZVyhZr.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053864140746174464"
+          ],
+          "media_source_tweet_id": [
+            "2053864157288575008"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2054145838700732826",
+        "created_at": "2026-05-12T10:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054145838700732826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1978596836727549952",
+              "start": 3,
+              "username": "JosephFox_088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShnCgB2Dft",
+              "end": 42,
+              "expanded_url": "https://x.com/JosephFox_088/status/2053864157288575008/video/1",
+              "media_key": "7_2053864140746174464",
+              "start": 19,
+              "url": "https://t.co/ShnCgB2Dft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054145838700732826",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053864157288575008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JosephFox_088: https://t.co/ShnCgB2Dft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053864140746174464"
+          ]
+        },
+        "author_id": "1978596836727549952",
+        "conversation_id": "2053864157288575008",
+        "created_at": "2026-05-11T15:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053864157288575008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShnCgB2Dft",
+              "end": 23,
+              "expanded_url": "https://x.com/JosephFox_088/status/2053864157288575008/video/1",
+              "media_key": "7_2053864140746174464",
+              "start": 0,
+              "url": "https://t.co/ShnCgB2Dft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053864157288575008",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 16528,
+          "like_count": 1242,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ShnCgB2Dft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 395,
+          "like_count": 13923,
+          "listed_count": 3,
+          "media_count": 947,
+          "tweet_count": 6521
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T23:00:31.000Z",
+        "description": "I'm a fan of Halo, SCI FI, Fantasy,Games, Science,Technology,Films,Books,Archiology,Art, I love animals of all kinds and I wish a better world with equal love.",
+        "id": "1978596836727549952",
+        "location": "Brasil, Rio de Janeiro ",
+        "name": "JosephFox2",
+        "pinned_tweet_id": "1980493075605569827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978597062502481920/t6pDx925_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6066,
+          "following_count": 190,
+          "like_count": 19681,
+          "listed_count": 4,
+          "media_count": 1833,
+          "tweet_count": 3313
+        },
+        "username": "JosephFox_088",
+        "verified": false
+      }
+    ]
+  }
+}

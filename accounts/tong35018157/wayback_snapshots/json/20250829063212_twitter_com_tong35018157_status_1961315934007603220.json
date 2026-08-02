@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1961315934007603220",
+    "created_at": "2025-08-29T06:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961315934007603220"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Mikhail Kalashnikov",
+          "probability": 0.9353,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 134,
+          "normalized_text": "St. Petersburg",
+          "probability": 0.9257,
+          "start": 121,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1567180675404414977",
+          "start": 3,
+          "username": "VokiRulovic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961315934007603220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901669258712539434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VokiRulovic: Mikhail Kalashnikov visiting the Military Historical Museum of Artillery, Engineers and Signal Corps in St. Petersburg in…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1901669252790435840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmQWHCTbQAA5V9S.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1961315934007603220",
+        "created_at": "2025-08-29T06:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961315934007603220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Mikhail Kalashnikov",
+              "probability": 0.9353,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "St. Petersburg",
+              "probability": 0.9257,
+              "start": 121,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1567180675404414977",
+              "start": 3,
+              "username": "VokiRulovic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961315934007603220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901669258712539434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VokiRulovic: Mikhail Kalashnikov visiting the Military Historical Museum of Artillery, Engineers and Signal Corps in St. Petersburg in…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901669252790435840"
+          ]
+        },
+        "author_id": "1567180675404414977",
+        "conversation_id": "1901669258712539434",
+        "created_at": "2025-03-17T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901669258712539434"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Mikhail Kalashnikov",
+              "probability": 0.9546,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 117,
+              "normalized_text": "St. Petersburg",
+              "probability": 0.9444,
+              "start": 104,
+              "type": "Place"
+            },
+            {
+              "end": 189,
+              "normalized_text": "Podlesok Man",
+              "probability": 0.7128,
+              "start": 178,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B958NpPDU6",
+              "end": 214,
+              "expanded_url": "https://x.com/VokiRulovic/status/1901669258712539434/photo/1",
+              "media_key": "3_1901669252790435840",
+              "start": 191,
+              "url": "https://t.co/B958NpPDU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901669258712539434",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 14236,
+          "like_count": 975,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Mikhail Kalashnikov visiting the Military Historical Museum of Artillery, Engineers and Signal Corps in St. Petersburg in 2000, making the \"absolute cinema\" pose upon seeing The Podlesok Man https://t.co/B958NpPDU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 226,
+          "like_count": 9429,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 4993
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T15:59:40.000Z",
+        "description": "Milposter, biggest Black October, T-80UD and TTsKO fan you can find.  \nSometimes puts effort into this account and writes a thread.",
+        "id": "1567180675404414977",
+        "location": "Krasnostav, Chernarus ",
+        "name": "Voki Rulovic",
+        "pinned_tweet_id": "1959954612280058250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959235893836816384/vpOBMMeh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 79,
+          "like_count": 33672,
+          "listed_count": 17,
+          "media_count": 2792,
+          "tweet_count": 5188
+        },
+        "username": "VokiRulovic",
+        "verified": true
+      }
+    ]
+  }
+}

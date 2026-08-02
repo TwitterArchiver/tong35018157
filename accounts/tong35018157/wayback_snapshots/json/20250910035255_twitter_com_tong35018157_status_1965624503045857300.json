@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1965380784308847067",
+    "created_at": "2025-09-10T03:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T04:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965624503045857300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1109795605658763264",
+          "start": 0,
+          "username": "N_nycticorax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965624503045857300",
+    "in_reply_to_user_id": "1109795605658763264",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965380784308847067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_nycticorax night duck"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34944,
+        "height": 1080,
+        "media_key": "13_1965380112083480577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965380112083480577/img/Leyegz3ZH7bzvtV0.jpg",
+        "public_metrics": {
+          "view_count": 1085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965380112083480577/vid/avc1/480x270/1z4pgpCUIx5WBccz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965380112083480577/vid/avc1/640x360/HC9EWsV32kCdkMss.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965380112083480577/vid/avc1/1280x720/DJCvlBZE7ECMPfk_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965380112083480577/pl/yHaUTNnHED6eAdDt.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1965380784308847067",
+        "created_at": "2025-09-10T03:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965624503045857300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1109795605658763264",
+              "start": 0,
+              "username": "N_nycticorax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965624503045857300",
+        "in_reply_to_user_id": "1109795605658763264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965380784308847067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_nycticorax night duck"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965380112083480577"
+          ]
+        },
+        "author_id": "1109795605658763264",
+        "conversation_id": "1965380784308847067",
+        "created_at": "2025-09-09T11:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965380784308847067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ゴイちゃん",
+              "probability": 0.5648,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "天王寺動物園"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ゴイサギ"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "カッコいいゴイサギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctetSRpvQG",
+              "end": 67,
+              "expanded_url": "https://x.com/N_nycticorax/status/1965380784308847067/video/1",
+              "media_key": "13_1965380112083480577",
+              "start": 44,
+              "url": "https://t.co/ctetSRpvQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965380784308847067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3458,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "なかなか前に進まないゴイちゃん\n\n#天王寺動物園 \n#ゴイサギ \n#カッコいいゴイサギ https://t.co/ctetSRpvQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 232,
+          "like_count": 9618,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 5092
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-24T12:34:26.000Z",
+        "description": "日本ゴイサギの会会長 季節関係無くポストしています プロフィール画像のゴイサギは @goi_can_flyさんに作って頂きました ゴイサギ推し もふもふもふもふもふ RX10M4 小鳥レスキュー会 天王寺動物園ファンクラブ          https://t.co/7GYY7fMWcr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "goi_can_fly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/goisagi",
+                "end": 144,
+                "expanded_url": "https://linktr.ee/goisagi",
+                "start": 121,
+                "url": "https://t.co/7GYY7fMWcr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goisaginokai.wixsite.com/goisagi",
+                "end": 23,
+                "expanded_url": "https://goisaginokai.wixsite.com/goisagi",
+                "start": 0,
+                "url": "https://t.co/fyeV77OGBn"
+              }
+            ]
+          }
+        },
+        "id": "1109795605658763264",
+        "location": "大阪",
+        "name": "よしあき",
+        "pinned_tweet_id": "1918460162165416134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607002644689866752/qJQn4xse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 459,
+          "like_count": 117159,
+          "listed_count": 31,
+          "media_count": 3804,
+          "tweet_count": 8362
+        },
+        "url": "https://t.co/fyeV77OGBn",
+        "username": "N_nycticorax",
+        "verified": false
+      }
+    ]
+  }
+}

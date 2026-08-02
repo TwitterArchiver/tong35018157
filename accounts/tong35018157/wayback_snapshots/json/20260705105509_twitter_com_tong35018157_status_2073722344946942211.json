@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062633759258669057"
+      ],
+      "media_source_tweet_id": [
+        "2062633779982663899"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073722344946942211",
+    "created_at": "2026-07-05T10:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073722344946942211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808971782512332800",
+          "start": 3,
+          "username": "Loc4al1"
+        },
+        {
+          "end": 23,
+          "id": "1711440322109018112",
+          "start": 13,
+          "username": "MK_Foxbat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TzgreIXFzE",
+          "end": 47,
+          "expanded_url": "https://x.com/Loc4al1/status/2062633779982663899/video/1",
+          "media_key": "7_2062633759258669057",
+          "start": 24,
+          "url": "https://t.co/TzgreIXFzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073722344946942211",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062633779982663899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Loc4al1: @MK_Foxbat https://t.co/TzgreIXFzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40843,
+        "height": 640,
+        "media_key": "7_2062633759258669057",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062633759258669057/pu/img/TbYZXAJtdq6eV1dB.jpg",
+        "public_metrics": {
+          "view_count": 977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062633759258669057/pu/vid/avc1/320x426/bvjywcFm5Zh58rwY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062633759258669057/pu/vid/avc1/480x640/Nz1HpAgw8ImENcXz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062633759258669057/pu/pl/8u-SsixOQ5jVmPqn.m3u8?tag=12&v=af8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062633759258669057"
+          ],
+          "media_source_tweet_id": [
+            "2062633779982663899"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073722344946942211",
+        "created_at": "2026-07-05T10:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073722344946942211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808971782512332800",
+              "start": 3,
+              "username": "Loc4al1"
+            },
+            {
+              "end": 23,
+              "id": "1711440322109018112",
+              "start": 13,
+              "username": "MK_Foxbat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzgreIXFzE",
+              "end": 47,
+              "expanded_url": "https://x.com/Loc4al1/status/2062633779982663899/video/1",
+              "media_key": "7_2062633759258669057",
+              "start": 24,
+              "url": "https://t.co/TzgreIXFzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073722344946942211",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062633779982663899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Loc4al1: @MK_Foxbat https://t.co/TzgreIXFzE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062633759258669057"
+          ]
+        },
+        "author_id": "1808971782512332800",
+        "conversation_id": "2062528125192290678",
+        "created_at": "2026-06-04T20:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062633779982663899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1711440322109018112",
+              "start": 0,
+              "username": "MK_Foxbat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzgreIXFzE",
+              "end": 34,
+              "expanded_url": "https://x.com/Loc4al1/status/2062633779982663899/video/1",
+              "media_key": "7_2062633759258669057",
+              "start": 11,
+              "url": "https://t.co/TzgreIXFzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062633779982663899",
+        "in_reply_to_user_id": "1711440322109018112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2174,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062528125192290678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MK_Foxbat https://t.co/TzgreIXFzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 501,
+          "like_count": 17049,
+          "listed_count": 3,
+          "media_count": 1010,
+          "tweet_count": 7534
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T21:11:26.000Z",
+        "description": "I rape and kill ziggas on xitter",
+        "id": "1808971782512332800",
+        "name": "Kroejšawarrior",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058818494381088768/zVKGuhR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 146,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "Loc4al1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T17:55:55.000Z",
+        "description": "29♂️|🇷🇺🇺🇸",
+        "id": "1711440322109018112",
+        "name": "Дож",
+        "pinned_tweet_id": "1776220850854740455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071549728513228800/rdG7beIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 193,
+          "like_count": 113997,
+          "listed_count": 123,
+          "media_count": 19807,
+          "tweet_count": 102264
+        },
+        "url": "",
+        "username": "MK_Foxbat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2051605890642620782",
+    "created_at": "2026-05-05T10:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051605890642620782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1922027226503274496",
+          "start": 3,
+          "username": "myths_and_stori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051605890642620782",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051432142895264251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myths_and_stori: i apologize in advance for ducknar's profanity-laced outburst. don't take it personally, he just gets these \"tics\" fro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19200,
+        "height": 1920,
+        "media_key": "7_2051432115758129152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051432115758129152/pu/img/lTcJlyj4IbVmwYi_.jpg",
+        "public_metrics": {
+          "view_count": 3381
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051432115758129152/pu/vid/avc1/320x568/CXPnNxtQVz-6E5QT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051432115758129152/pu/vid/avc1/480x852/MxevS7fE2NnwPn__.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051432115758129152/pu/vid/avc1/720x1280/v9CiRt7os1sBWalq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051432115758129152/pu/pl/A5iRT2AD0-PXnNk3.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2051605890642620782",
+        "created_at": "2026-05-05T10:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051605890642620782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1922027226503274496",
+              "start": 3,
+              "username": "myths_and_stori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051605890642620782",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051432142895264251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myths_and_stori: i apologize in advance for ducknar's profanity-laced outburst. don't take it personally, he just gets these \"tics\" fro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051432115758129152"
+          ]
+        },
+        "author_id": "1922027226503274496",
+        "conversation_id": "2051432142895264251",
+        "created_at": "2026-05-04T22:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051432142895264251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbnMV4bGLT",
+              "end": 195,
+              "expanded_url": "https://x.com/myths_and_stori/status/2051432142895264251/video/1",
+              "media_key": "7_2051432115758129152",
+              "start": 172,
+              "url": "https://t.co/rbnMV4bGLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051432142895264251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 7106,
+          "like_count": 420,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "i apologize in advance for ducknar's profanity-laced outburst. don't take it personally, he just gets these \"tics\" from time to time.\n\n(from ig @ just_the_things_i_love__) https://t.co/rbnMV4bGLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 371,
+          "like_count": 13577,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 6435
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T20:33:00.000Z",
+        "description": "interesting facts about our special planet",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mythsandstories.online",
+                "end": 23,
+                "expanded_url": "https://mythsandstories.online",
+                "start": 0,
+                "url": "https://t.co/Jg9WDqeSVE"
+              }
+            ]
+          }
+        },
+        "id": "1922027226503274496",
+        "location": "27",
+        "name": "Myths and Stories",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922027297848360961/OvDp0ERP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 209,
+          "like_count": 4134,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/Jg9WDqeSVE",
+        "username": "myths_and_stori",
+        "verified": true
+      }
+    ]
+  }
+}

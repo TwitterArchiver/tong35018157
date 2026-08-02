@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2053524690854097342",
+    "created_at": "2026-05-10T17:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053524690854097342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seanwei001/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/seanwei001/status/2053238708011515981",
+          "start": 7,
+          "url": "https://t.co/IwR7T5yH38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053524690854097342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053238708011515981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "举伪军旗干嘛 https://t.co/IwR7T5yH38"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15348,
+        "height": 1080,
+        "media_key": "13_2053238586099781632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053238586099781632/img/Mo7uuZi0tKPM_jYW.jpg",
+        "public_metrics": {
+          "view_count": 26482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053238586099781632/vid/avc1/1168x720/5oVQVG7P6_swOawF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053238586099781632/vid/avc1/1754x1080/Pre2w8VcZzhxcaD-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053238586099781632/vid/avc1/584x360/85XupAv_l5H9JFFd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053238586099781632/pl/UFM1byLxXDGJ-p1W.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053238586099781632/vid/avc1/438x270/yXj70IIbmghConIL.mp4"
+          }
+        ],
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2053524690854097342",
+        "created_at": "2026-05-10T17:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053524690854097342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seanwei001/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/seanwei001/status/2053238708011515981",
+              "start": 7,
+              "url": "https://t.co/IwR7T5yH38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053524690854097342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053238708011515981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "举伪军旗干嘛 https://t.co/IwR7T5yH38"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053238586099781632"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "conversation_id": "2053238708011515981",
+        "created_at": "2026-05-09T22:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053238708011515981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXNaohySGE",
+              "end": 68,
+              "expanded_url": "https://x.com/seanwei001/status/2053238708011515981/video/1",
+              "media_key": "13_2053238586099781632",
+              "start": 45,
+              "url": "https://t.co/VXNaohySGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053238708011515981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 44965,
+          "like_count": 150,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚： 一名挥舞俄罗斯国旗的男子在德国庆祝胜利日时被捕，当时苏联人在柏林击败了纳粹德国。 https://t.co/VXNaohySGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 391,
+          "like_count": 13836,
+          "listed_count": 3,
+          "media_count": 945,
+          "tweet_count": 6501
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147297,
+          "following_count": 784,
+          "like_count": 27242,
+          "listed_count": 448,
+          "media_count": 28556,
+          "tweet_count": 34664
+        },
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

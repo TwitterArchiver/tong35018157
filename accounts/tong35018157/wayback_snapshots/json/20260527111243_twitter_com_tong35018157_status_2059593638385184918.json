@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059579959417659392"
+      ],
+      "media_source_tweet_id": [
+        "2059579968590578138"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2059593638385184918",
+    "created_at": "2026-05-27T11:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059593638385184918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048729800379174912",
+          "start": 3,
+          "username": "cuo4jvm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I2qAPzpzkz",
+          "end": 40,
+          "expanded_url": "https://x.com/cuo4jvm/status/2059579968590578138/photo/1",
+          "media_key": "3_2059579959417659392",
+          "start": 17,
+          "url": "https://t.co/I2qAPzpzkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059593638385184918",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059579968590578138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @cuo4jvm: wip https://t.co/I2qAPzpzkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059579959417659392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUZD5uaYAAMBRL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059579959417659392"
+          ],
+          "media_source_tweet_id": [
+            "2059579968590578138"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2059593638385184918",
+        "created_at": "2026-05-27T11:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059593638385184918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048729800379174912",
+              "start": 3,
+              "username": "cuo4jvm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2qAPzpzkz",
+              "end": 40,
+              "expanded_url": "https://x.com/cuo4jvm/status/2059579968590578138/photo/1",
+              "media_key": "3_2059579959417659392",
+              "start": 17,
+              "url": "https://t.co/I2qAPzpzkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059593638385184918",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059579968590578138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @cuo4jvm: wip https://t.co/I2qAPzpzkz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059579959417659392"
+          ]
+        },
+        "author_id": "2048729800379174912",
+        "conversation_id": "2059579968590578138",
+        "created_at": "2026-05-27T10:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059579968590578138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2qAPzpzkz",
+              "end": 27,
+              "expanded_url": "https://x.com/cuo4jvm/status/2059579968590578138/photo/1",
+              "media_key": "3_2059579959417659392",
+              "start": 4,
+              "url": "https://t.co/I2qAPzpzkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579968590578138",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 201,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "wip https://t.co/I2qAPzpzkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 434,
+          "like_count": 14884,
+          "listed_count": 3,
+          "media_count": 963,
+          "tweet_count": 6830
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T11:44:47.000Z",
+        "description": "🇨🇳🇯🇵│OC│我不是军迷/专家 ❌ミリオタ",
+        "id": "2048729800379174912",
+        "location": "上海",
+        "name": "错",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 18,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "cuo4jvm",
+        "verified": false
+      }
+    ]
+  }
+}

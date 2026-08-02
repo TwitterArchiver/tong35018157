@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2008460564679532746",
+    "created_at": "2026-01-08T01:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T02:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009072136183574888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006329891218972672",
+          "start": 0,
+          "username": "EstherLu38466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009072136183574888",
+    "in_reply_to_user_id": "2006329891218972672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008460564679532746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EstherLu38466 还真是下载即送，没毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2008460564679532746",
+        "created_at": "2026-01-08T01:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009072136183574888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006329891218972672",
+              "start": 0,
+              "username": "EstherLu38466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009072136183574888",
+        "in_reply_to_user_id": "2006329891218972672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008460564679532746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EstherLu38466 还真是下载即送，没毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006329891218972672",
+        "conversation_id": "2008460564679532746",
+        "created_at": "2026-01-06T08:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008460564679532746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008460564679532746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 180988,
+          "like_count": 1417,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "让乙女游戏制作公司发布公告严正声明男主是异性恋的惊悚程度不亚于男艺人已经官宣有了孩子但是粉丝坚称他还是处男。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 276,
+          "like_count": 10565,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5512
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T11:41:53.000Z",
+        "description": "犯我丐帮者，虽远必诛。",
+        "id": "2006329891218972672",
+        "name": "丐帮帮主乔峰前来捉拿流窜丐毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006330830608797696/8xaHCNCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 35,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "username": "EstherLu38466",
+        "verified": false
+      }
+    ]
+  }
+}

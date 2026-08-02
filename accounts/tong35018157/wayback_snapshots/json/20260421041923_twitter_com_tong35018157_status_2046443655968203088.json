@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046443655968203088",
+    "created_at": "2026-04-21T04:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046443655968203088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a2013bc/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/a2013bc/status/2046362988446429523",
+          "start": 14,
+          "url": "https://t.co/K5zl9SaOYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046443655968203088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046362988446429523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老实说小红书没贴吧推特恐怖 https://t.co/K5zl9SaOYk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2046362979789410305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYkSbvbkAELxqc.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046443655968203088",
+        "created_at": "2026-04-21T04:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046443655968203088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a2013bc/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/a2013bc/status/2046362988446429523",
+              "start": 14,
+              "url": "https://t.co/K5zl9SaOYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046443655968203088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046362988446429523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老实说小红书没贴吧推特恐怖 https://t.co/K5zl9SaOYk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046362979789410305"
+          ]
+        },
+        "author_id": "1491568506898649088",
+        "conversation_id": "2046362988446429523",
+        "created_at": "2026-04-20T22:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046362988446429523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYE8zXTICO",
+              "end": 44,
+              "expanded_url": "https://x.com/a2013bc/status/2046362988446429523/photo/1",
+              "media_key": "3_2046362979789410305",
+              "start": 21,
+              "url": "https://t.co/vYE8zXTICO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046362988446429523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7695,
+          "like_count": 148,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以说这些东西的圆头是在哪里?\n耄耋吗? https://t.co/vYE8zXTICO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 339,
+          "like_count": 12631,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6172
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "“以物配主的人群及其崇拜的偶像，都是火狱的燃料，他们将永居其中。”（21:98-99）\n“惟有……拜偶像的……他们的份就在烧着硫磺的火湖里。”启示录 21:8",
+        "id": "1491568506898649088",
+        "location": "😋",
+        "name": "波斯沙阿卢比奥🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020410978526187520/2Ih7mxPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1541,
+          "like_count": 20805,
+          "listed_count": 6,
+          "media_count": 1957,
+          "tweet_count": 27990
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

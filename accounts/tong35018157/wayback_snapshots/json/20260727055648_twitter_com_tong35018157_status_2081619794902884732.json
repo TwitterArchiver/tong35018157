@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2081619794902884732",
+    "created_at": "2026-07-27T05:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081619794902884732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "342668651",
+          "start": 3,
+          "username": "SteelySeabirder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081619794902884732",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081267206009053678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SteelySeabirder: Welcome to Super Seabird Sunday where we ask you to share photos, videos &amp; artwork of seabirds. Here is my contributio…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14768,
+        "height": 720,
+        "media_key": "13_2081267177454211073",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081267177454211073/img/QlaOjLoWJNLikKF-.jpg",
+        "public_metrics": {
+          "view_count": 20175
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081267177454211073/vid/avc1/272x270/CUKrDQNNSj9gmm1-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081267177454211073/vid/avc1/364x360/AIrERWfyTeqtsReS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081267177454211073/vid/avc1/728x720/nBVq5nkP0PZATuab.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081267177454211073/pl/ZxCLlLStNNi7bDgi.m3u8?v=cfc"
+          }
+        ],
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2081619794902884732",
+        "created_at": "2026-07-27T05:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081619794902884732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "342668651",
+              "start": 3,
+              "username": "SteelySeabirder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081619794902884732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081267206009053678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SteelySeabirder: Welcome to Super Seabird Sunday where we ask you to share photos, videos &amp; artwork of seabirds. Here is my contributio…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081267177454211073"
+          ]
+        },
+        "author_id": "342668651",
+        "conversation_id": "2081267206009053678",
+        "created_at": "2026-07-26T06:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081267206009053678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 221,
+              "start": 202,
+              "tag": "SuperSeabirdSunday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8O44lyxIe",
+              "end": 245,
+              "expanded_url": "https://x.com/SteelySeabirder/status/2081267206009053678/video/1",
+              "media_key": "13_2081267177454211073",
+              "start": 222,
+              "url": "https://t.co/R8O44lyxIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081267206009053678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 55891,
+          "like_count": 2129,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "Welcome to Super Seabird Sunday where we ask you to share photos, videos &amp; artwork of seabirds. Here is my contribution of a Puffin holdings a bill full of Sandeels ready to feed a hungry youngster #SuperSeabirdSunday https://t.co/R8O44lyxIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 521,
+          "like_count": 17756,
+          "listed_count": 3,
+          "media_count": 1042,
+          "tweet_count": 7853
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-26T11:44:27.000Z",
+        "description": "Manager for Isle of May home to 52,100 pairs of Puffins & 200,000 seabirds! (Spent 14 years managing Farne Islands 2001-2014). Also on Instagram Steelyseabirder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isleofmaynnr.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://isleofmaynnr.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/DVIcp3GFwr"
+              }
+            ]
+          }
+        },
+        "id": "342668651",
+        "location": "Isle of May",
+        "name": "David Steel",
+        "pinned_tweet_id": "1801201229843894519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730320854439911424/OhFYFTb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22060,
+          "following_count": 912,
+          "like_count": 79497,
+          "listed_count": 256,
+          "media_count": 7727,
+          "tweet_count": 66003
+        },
+        "url": "https://t.co/DVIcp3GFwr",
+        "username": "SteelySeabirder",
+        "verified": false
+      }
+    ]
+  }
+}

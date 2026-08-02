@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070124156180709378"
+      ],
+      "media_source_tweet_id": [
+        "2070124161062806013"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2070195431787884704",
+    "created_at": "2026-06-25T17:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070195431787884704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879907986728210433",
+          "start": 3,
+          "username": "EMchaK09"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wk11hUqvv6",
+          "end": 71,
+          "expanded_url": "https://x.com/EMchaK09/status/2070124161062806013/photo/1",
+          "media_key": "3_2070124156180709378",
+          "start": 48,
+          "url": "https://t.co/Wk11hUqvv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070195431787884704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070124161062806013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EMchaK09: お題 『芋神様と見つめ合ってください』\n※目を逸らした方が負けです https://t.co/Wk11hUqvv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1861,
+        "media_key": "3_2070124156180709378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqO87obQAIbetN.jpg",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070124156180709378"
+          ],
+          "media_source_tweet_id": [
+            "2070124161062806013"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2070195431787884704",
+        "created_at": "2026-06-25T17:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070195431787884704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879907986728210433",
+              "start": 3,
+              "username": "EMchaK09"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk11hUqvv6",
+              "end": 71,
+              "expanded_url": "https://x.com/EMchaK09/status/2070124161062806013/photo/1",
+              "media_key": "3_2070124156180709378",
+              "start": 48,
+              "url": "https://t.co/Wk11hUqvv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070195431787884704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070124161062806013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EMchaK09: お題 『芋神様と見つめ合ってください』\n※目を逸らした方が負けです https://t.co/Wk11hUqvv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070124156180709378"
+          ]
+        },
+        "author_id": "1879907986728210433",
+        "conversation_id": "2070124161062806013",
+        "created_at": "2026-06-25T12:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070124161062806013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk11hUqvv6",
+              "end": 57,
+              "expanded_url": "https://x.com/EMchaK09/status/2070124161062806013/photo/1",
+              "media_key": "3_2070124156180709378",
+              "start": 34,
+              "url": "https://t.co/Wk11hUqvv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070124161062806013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 5779,
+          "like_count": 420,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "お題 『芋神様と見つめ合ってください』\n※目を逸らした方が負けです https://t.co/Wk11hUqvv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 487,
+          "like_count": 16587,
+          "listed_count": 3,
+          "media_count": 993,
+          "tweet_count": 7324
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T15:06:21.000Z",
+        "description": "クレス☞🦎🦎🦎🦎🦎レオパ☞🦎🦎🦎🦎🦎🦎トッケイ☞🦎ニホンヤモリ☞🦎/爬虫類垢/ﾎﾟｹﾓﾝ◓⃙⁣/ﾃﾞｨｽﾞﾆｰ/基本的にDMはしません🙅🏻‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mochak09",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mochak09",
+                "start": 0,
+                "url": "https://t.co/eN4bvW3TTH"
+              }
+            ]
+          }
+        },
+        "id": "1879907986728210433",
+        "location": "千葉",
+        "name": "もゆ子🥔",
+        "pinned_tweet_id": "2044610405507781012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990406134570844161/lmqmL2JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 685,
+          "like_count": 38708,
+          "listed_count": 9,
+          "media_count": 2505,
+          "tweet_count": 9460
+        },
+        "url": "https://t.co/eN4bvW3TTH",
+        "username": "EMchaK09",
+        "verified": true
+      }
+    ]
+  }
+}

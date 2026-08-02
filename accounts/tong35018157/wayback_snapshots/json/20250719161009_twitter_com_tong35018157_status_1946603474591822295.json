@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946603455197446144"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1946582076792197395",
+    "created_at": "2025-07-19T16:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T17:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946603474591822295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HA6PxfC0ef",
+          "end": 39,
+          "expanded_url": "https://x.com/tong35018157/status/1946603474591822295/photo/1",
+          "media_key": "3_1946603455197446144",
+          "start": 16,
+          "url": "https://t.co/HA6PxfC0ef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946603474591822295",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946582076792197395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 好吧 https://t.co/HA6PxfC0ef"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946582076792197395].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946582076792197395",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946582076792197395"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1946603455197446144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwO5h2mXgAAKaGX.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946603455197446144"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1946582076792197395",
+        "created_at": "2025-07-19T16:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946603474591822295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HA6PxfC0ef",
+              "end": 39,
+              "expanded_url": "https://x.com/tong35018157/status/1946603474591822295/photo/1",
+              "media_key": "3_1946603455197446144",
+              "start": 16,
+              "url": "https://t.co/HA6PxfC0ef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946603474591822295",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946582076792197395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 好吧 https://t.co/HA6PxfC0ef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 227,
+          "like_count": 9082,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 4731
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "中国的朋友们💋请警惕中国版雅科夫列夫🌹",
+        "id": "1679686176083685376",
+        "location": "托木斯克州🔥",
+        "name": "苏共中央⭐️⭐️⭐️组织部女王💄💄💄离家巧妇💅💅💅🏁🏳️",
+        "pinned_tweet_id": "1908862145384816790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915036282243411968/spt12H2i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 700,
+          "like_count": 10075,
+          "listed_count": 1,
+          "media_count": 2451,
+          "tweet_count": 16319
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      }
+    ]
+  }
+}

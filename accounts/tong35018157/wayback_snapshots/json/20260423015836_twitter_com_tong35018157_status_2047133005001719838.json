@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046796445207158784"
+      ],
+      "media_source_tweet_id": [
+        "2046796451540590939"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047133005001719838",
+    "created_at": "2026-04-23T01:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047133005001719838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809795362535927812",
+          "start": 3,
+          "username": "blackstarops"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UfIVg3xIhV",
+          "end": 83,
+          "expanded_url": "https://x.com/blackstarops/status/2046796451540590939/photo/1",
+          "media_key": "3_2046796445207158784",
+          "start": 60,
+          "url": "https://t.co/UfIVg3xIhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047133005001719838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046796451540590939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackstarops: a BOPE (brazils elite police unit) sniper https://t.co/UfIVg3xIhV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2046796445207158784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeuhcQa4AAAUYW.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046796445207158784"
+          ],
+          "media_source_tweet_id": [
+            "2046796451540590939"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047133005001719838",
+        "created_at": "2026-04-23T01:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047133005001719838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809795362535927812",
+              "start": 3,
+              "username": "blackstarops"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfIVg3xIhV",
+              "end": 83,
+              "expanded_url": "https://x.com/blackstarops/status/2046796451540590939/photo/1",
+              "media_key": "3_2046796445207158784",
+              "start": 60,
+              "url": "https://t.co/UfIVg3xIhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047133005001719838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046796451540590939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackstarops: a BOPE (brazils elite police unit) sniper https://t.co/UfIVg3xIhV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046796445207158784"
+          ]
+        },
+        "author_id": "1809795362535927812",
+        "conversation_id": "2046796451540590939",
+        "created_at": "2026-04-22T03:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046796451540590939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfIVg3xIhV",
+              "end": 65,
+              "expanded_url": "https://x.com/blackstarops/status/2046796451540590939/photo/1",
+              "media_key": "3_2046796445207158784",
+              "start": 42,
+              "url": "https://t.co/UfIVg3xIhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046796451540590939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 832,
+          "impression_count": 143501,
+          "like_count": 6950,
+          "quote_count": 46,
+          "reply_count": 73,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "a BOPE (brazils elite police unit) sniper https://t.co/UfIVg3xIhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 360,
+          "like_count": 12763,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6215
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T03:43:42.000Z",
+        "description": "identifying the unidentifiable",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackstarsystems.com",
+                "end": 23,
+                "expanded_url": "http://blackstarsystems.com",
+                "start": 0,
+                "url": "https://t.co/lWkKnGkvqc"
+              }
+            ]
+          }
+        },
+        "id": "1809795362535927812",
+        "name": "blackstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831213435369218048/3P8UPNTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48502,
+          "following_count": 69,
+          "like_count": 207,
+          "listed_count": 125,
+          "media_count": 966,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/lWkKnGkvqc",
+        "username": "blackstarops",
+        "verified": true
+      }
+    ]
+  }
+}

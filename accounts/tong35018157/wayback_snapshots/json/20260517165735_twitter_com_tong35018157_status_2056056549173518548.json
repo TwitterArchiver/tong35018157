@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2056016531017113678",
+    "created_at": "2026-05-17T16:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056056549173518548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929536282004443136",
+          "start": 0,
+          "username": "misaka_14377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056056549173518548",
+    "in_reply_to_user_id": "1929536282004443136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056055910246826434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka_14377 我看到的几乎都是买小一码的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2056016531017113678",
+        "created_at": "2026-05-17T16:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056056549173518548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929536282004443136",
+              "start": 0,
+              "username": "misaka_14377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056056549173518548",
+        "in_reply_to_user_id": "1929536282004443136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056055910246826434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka_14377 我看到的几乎都是买小一码的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929536282004443136",
+        "conversation_id": "2056016531017113678",
+        "created_at": "2026-05-17T16:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056055910246826434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056055910246826434",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056016531017113678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 啊？那我怎么得往大买两码（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 397,
+          "like_count": 14079,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6582
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T13:51:37.000Z",
+        "description": "kiger 刻晴/荧/可能的neuro手搓中\n学地理吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/B2iCjipLE9"
+              }
+            ]
+          }
+        },
+        "id": "1929536282004443136",
+        "location": "虚假之天",
+        "name": "丹霞²",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037513224191639552/0HKmCLik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 423,
+          "like_count": 2667,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/B2iCjipLE9",
+        "username": "misaka_14377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057576255806181633",
+    "created_at": "2026-05-22T04:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057687394879779038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041688564547870720",
+          "start": 0,
+          "username": "PPPsleepp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057687394879779038",
+    "in_reply_to_user_id": "2041688564547870720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057576255806181633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PPPsleepp 跟爱人操和跟跑友操心态是不一样的，出去玩也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057576255806181633",
+        "created_at": "2026-05-22T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057687394879779038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041688564547870720",
+              "start": 0,
+              "username": "PPPsleepp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057687394879779038",
+        "in_reply_to_user_id": "2041688564547870720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057576255806181633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PPPsleepp 跟爱人操和跟跑友操心态是不一样的，出去玩也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041688564547870720",
+        "conversation_id": "2057576255806181633",
+        "created_at": "2026-05-21T21:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057576255806181633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057576255806181633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 64616,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "异地恋一见面就是爆操…说实话、如果是女生，应该也想doi，但是时间一长了，每次见面都是doi，没有其他活动，就和炮友差不多，没有精神寄托，没有陪伴，所以我不懂异地恋有啥鸡吧可谈的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 410,
+          "like_count": 14479,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6685
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T01:25:07.000Z",
+        "description": "没🚪，但是爱聊，我想聊就聊了，你要是喜欢我，给我🧧我也会开心\n\n不约，我的b坏了，维修中",
+        "id": "2041688564547870720",
+        "location": "木亢",
+        "name": "PPPsleepp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043541127945736192/WYGKwqdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 37,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 592
+        },
+        "username": "PPPsleepp",
+        "verified": false
+      }
+    ]
+  }
+}

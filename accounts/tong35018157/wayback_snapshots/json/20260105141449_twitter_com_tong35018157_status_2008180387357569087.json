@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2008147276359975070",
+    "created_at": "2026-01-05T14:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T15:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008180387357569087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1502921249433223172",
+          "start": 0,
+          "username": "renzaifeizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008180387357569087",
+    "in_reply_to_user_id": "1502921249433223172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008147276359975070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renzaifeizhou 经典霸凌性少数，多大人了知道啥事不该干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2008147276359975070",
+        "created_at": "2026-01-05T14:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008180387357569087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1502921249433223172",
+              "start": 0,
+              "username": "renzaifeizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008180387357569087",
+        "in_reply_to_user_id": "1502921249433223172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008147276359975070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renzaifeizhou 经典霸凌性少数，多大人了知道啥事不该干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502921249433223172",
+        "conversation_id": "2008147276359975070",
+        "created_at": "2026-01-05T12:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008147276359975070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/shigure07288/status/2008141844455330211",
+              "start": 130,
+              "url": "https://t.co/t23JFSNB0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008147276359975070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008141844455330211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经病，漫展和别的公共场合能一样吗，这圈子里全装上街/公开场合露械就算顺直男一样挨喷，况且这规矩也不是为了别的，是为了保护包括当事人和其他爱好者不用经受没必要的财产损失和公安问询，他的破塑料玩具可是二百块一个不心疼，老子好几千的玩具枪被晶哥收走了可是我自己哭 https://t.co/t23JFSNB0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 276,
+          "like_count": 10578,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5510
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T08:15:33.000Z",
+        "description": "金色的太阳第一次高高升起，照耀着年轻的布尔什维克土地",
+        "id": "1502921249433223172",
+        "name": "高加索terek",
+        "pinned_tweet_id": "1850824475643912258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722653719379202048/bOe2uSwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 2685,
+          "like_count": 49280,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 7751
+        },
+        "username": "renzaifeizhou",
+        "verified": false
+      }
+    ]
+  }
+}

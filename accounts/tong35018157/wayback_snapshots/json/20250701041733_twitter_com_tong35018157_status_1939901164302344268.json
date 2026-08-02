@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1939901164302344268",
+    "created_at": "2025-07-01T04:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T05:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939901164302344268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/timetravelanon…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/timetravelanon/status/1939709248159588680",
+          "start": 3,
+          "url": "https://t.co/qRE43nLMOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939901164302344268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939709248159588680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喷了 https://t.co/qRE43nLMOf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1939709245194182657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gus7SA9XIAE9f36.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1939901164302344268",
+        "created_at": "2025-07-01T04:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939901164302344268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/timetravelanon…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/timetravelanon/status/1939709248159588680",
+              "start": 3,
+              "url": "https://t.co/qRE43nLMOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939901164302344268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939709248159588680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喷了 https://t.co/qRE43nLMOf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939709245194182657"
+          ]
+        },
+        "author_id": "1241884295247134725",
+        "conversation_id": "1939539871195959792",
+        "created_at": "2025-06-30T15:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939709248159588680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "826261914",
+              "start": 0,
+              "username": "ConceptualJames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5X6p4ZPfN",
+              "end": 76,
+              "expanded_url": "https://x.com/TimeTravelAnon/status/1939709248159588680/photo/1",
+              "media_key": "3_1939709245194182657",
+              "start": 53,
+              "url": "https://t.co/S5X6p4ZPfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939709248159588680",
+        "in_reply_to_user_id": "826261914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4874,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939539871195959792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ConceptualJames It’s just never been done correctly https://t.co/S5X6p4ZPfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 8958,
+          "listed_count": 2,
+          "media_count": 744,
+          "tweet_count": 4614
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T00:28:14.000Z",
+        "description": "Time is a flat circle",
+        "id": "1241884295247134725",
+        "location": "United States",
+        "name": "Time Traveler Anonymous",
+        "pinned_tweet_id": "1817335702519992798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316433372781125632/PbCaXpC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48945,
+          "following_count": 1822,
+          "like_count": 61978,
+          "listed_count": 137,
+          "media_count": 11420,
+          "tweet_count": 28215
+        },
+        "username": "TimeTravelAnon",
+        "verified": true
+      }
+    ]
+  }
+}

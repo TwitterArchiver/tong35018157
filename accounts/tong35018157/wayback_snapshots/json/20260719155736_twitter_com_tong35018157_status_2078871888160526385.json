@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078868209994989664",
+    "created_at": "2026-07-19T15:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078871888160526385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514956074549448712",
+          "start": 0,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078871888160526385",
+    "in_reply_to_user_id": "1514956074549448712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078868209994989664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlunekiKCA 这个我也爱吃，调个酸甜酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2078868207180681216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmfnr_bkAAQdNk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078868209994989664",
+        "created_at": "2026-07-19T15:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078871888160526385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514956074549448712",
+              "start": 0,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078871888160526385",
+        "in_reply_to_user_id": "1514956074549448712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078868209994989664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlunekiKCA 这个我也爱吃，调个酸甜酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078868207180681216"
+          ]
+        },
+        "author_id": "1514956074549448712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078868209994989664",
+        "created_at": "2026-07-19T15:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078868209994989664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj6zU2uoSx",
+              "end": 33,
+              "expanded_url": "https://x.com/GlunekiKCA/status/2078868209994989664/photo/1",
+              "media_key": "3_2078868207180681216",
+              "start": 10,
+              "url": "https://t.co/sj6zU2uoSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078868209994989664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好美味！！！！ https://t.co/sj6zU2uoSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 523,
+          "like_count": 17645,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7803
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️   老登@KiminTW_Offical | 小账@sumeng_kelami |绿咪@lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "sumeng_kelami"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "2074097305465356785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063618248851456/VdnNmWC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 1543,
+          "like_count": 95639,
+          "listed_count": 29,
+          "media_count": 4854,
+          "tweet_count": 41392
+        },
+        "url": "",
+        "username": "GlunekiKCA",
+        "verified": false
+      }
+    ]
+  }
+}

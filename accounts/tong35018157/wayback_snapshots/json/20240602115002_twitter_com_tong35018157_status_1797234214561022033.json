@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "1797204270523331011",
+    "created_at": "2024-06-02T11:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T12:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797234214561022033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1287446671257767938",
+          "start": 0,
+          "username": "sergey_r6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797234214561022033",
+    "in_reply_to_user_id": "1287446671257767938",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797204270523331011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@sergey_r6s ？？这个是那个🦭的电视剧吗😟…………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1797204270523331011",
+        "created_at": "2024-06-02T11:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T12:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797234214561022033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1287446671257767938",
+              "start": 0,
+              "username": "sergey_r6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797234214561022033",
+        "in_reply_to_user_id": "1287446671257767938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797204270523331011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@sergey_r6s ？？这个是那个🦭的电视剧吗😟…………"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1797203373944676352"
+          ]
+        },
+        "author_id": "1287446671257767938",
+        "conversation_id": "1797204270523331011",
+        "created_at": "2024-06-02T09:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797204270523331011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/M1blTuH8AG",
+              "end": 71,
+              "expanded_url": "https://twitter.com/sergey_r6s/status/1797204270523331011/video/1",
+              "media_key": "7_1797203373944676352",
+              "start": 48,
+              "url": "https://t.co/M1blTuH8AG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797204270523331011",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "북방함대 상남자 특: 친구 마누라한테 반해서 친구집에 꽃들고 찾아감 ; ;;; ; ; https://t.co/M1blTuH8AG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 206,
+          "like_count": 7744,
+          "listed_count": 1,
+          "tweet_count": 3667
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T17:56:29.000Z",
+        "description": "하바롭스크 역페스 운영자 / Icon:sure_thing_boss💗 Head:hamzraider💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCj8Og…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCj8OgPLbSr9GY6jhc_kbKGw",
+                "start": 0,
+                "url": "https://t.co/E0IFNLjSrb"
+              }
+            ]
+          }
+        },
+        "id": "1287446671257767938",
+        "name": "낫망이🦭(라진7호기)",
+        "pinned_tweet_id": "1313774021922545669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775328328704299008/Cu5Six-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 316,
+          "like_count": 58218,
+          "listed_count": 17,
+          "tweet_count": 57389
+        },
+        "url": "https://t.co/E0IFNLjSrb",
+        "username": "sergey_r6s",
+        "verified": false
+      }
+    ]
+  }
+}

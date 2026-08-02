@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051778035473616896"
+      ],
+      "media_source_tweet_id": [
+        "2051778044898255134"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2051907332951683255",
+    "created_at": "2026-05-06T06:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051907332951683255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759297935525937152",
+          "start": 3,
+          "username": "frankidacre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UrSun3b4oR",
+          "end": 65,
+          "expanded_url": "https://x.com/frankidacre/status/2051778044898255134/photo/1",
+          "media_key": "3_2051778035473616896",
+          "start": 42,
+          "url": "https://t.co/UrSun3b4oR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051907332951683255",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051778044898255134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frankidacre: FDR, the American Caesar https://t.co/UrSun3b4oR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051778035473616896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlhQKJakAA6k1U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051778035473616896"
+          ],
+          "media_source_tweet_id": [
+            "2051778044898255134"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2051907332951683255",
+        "created_at": "2026-05-06T06:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051907332951683255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759297935525937152",
+              "start": 3,
+              "username": "frankidacre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrSun3b4oR",
+              "end": 65,
+              "expanded_url": "https://x.com/frankidacre/status/2051778044898255134/photo/1",
+              "media_key": "3_2051778035473616896",
+              "start": 42,
+              "url": "https://t.co/UrSun3b4oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051907332951683255",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051778044898255134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frankidacre: FDR, the American Caesar https://t.co/UrSun3b4oR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051778035473616896"
+          ]
+        },
+        "author_id": "1759297935525937152",
+        "conversation_id": "2051778044898255134",
+        "created_at": "2026-05-05T21:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051778044898255134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrSun3b4oR",
+              "end": 48,
+              "expanded_url": "https://x.com/frankidacre/status/2051778044898255134/photo/1",
+              "media_key": "3_2051778035473616896",
+              "start": 25,
+              "url": "https://t.co/UrSun3b4oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051778044898255134",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 4705,
+          "like_count": 425,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "FDR, the American Caesar https://t.co/UrSun3b4oR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 376,
+          "like_count": 13612,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 6446
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T19:24:59.000Z",
+        "description": "18 | 🇺🇸🇻🇦illustrator / multimedia artist\npresidents & original characters :)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "frankidacre.com",
+                "end": 23,
+                "expanded_url": "http://frankidacre.com",
+                "start": 0,
+                "url": "https://t.co/kd2foLx3fi"
+              }
+            ]
+          }
+        },
+        "id": "1759297935525937152",
+        "location": "Warren Harding’s Front Porch",
+        "name": "Franki V. D.",
+        "pinned_tweet_id": "2032114699026956601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022604634863669248/aqCYLcJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 772,
+          "like_count": 26035,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 4856
+        },
+        "url": "https://t.co/kd2foLx3fi",
+        "username": "frankidacre",
+        "verified": false
+      }
+    ]
+  }
+}

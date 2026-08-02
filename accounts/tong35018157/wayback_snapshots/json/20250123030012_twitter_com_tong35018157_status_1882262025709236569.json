@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1882262025709236569",
+    "created_at": "2025-01-23T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882262025709236569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jailnull/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jailnull/status/1881988920021516492",
+          "start": 5,
+          "url": "https://t.co/K9y2M1JToE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882262025709236569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881988920021516492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性转豪堪 https://t.co/K9y2M1JToE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1882262025709236569",
+        "created_at": "2025-01-23T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882262025709236569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jailnull/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jailnull/status/1881988920021516492",
+              "start": 5,
+              "url": "https://t.co/K9y2M1JToE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882262025709236569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881988920021516492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性转豪堪 https://t.co/K9y2M1JToE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881988825062449152",
+            "3_1881988827738427392",
+            "3_1881988839608385536",
+            "3_1881988848659644416"
+          ]
+        },
+        "author_id": "1179437131917168640",
+        "conversation_id": "1881988920021516492",
+        "created_at": "2025-01-22T08:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881988920021516492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEchT6SHxk",
+              "end": 30,
+              "expanded_url": "https://x.com/JailNull/status/1881988920021516492/photo/1",
+              "media_key": "3_1881988825062449152",
+              "start": 7,
+              "url": "https://t.co/AEchT6SHxk"
+            },
+            {
+              "display_url": "pic.x.com/AEchT6SHxk",
+              "end": 30,
+              "expanded_url": "https://x.com/JailNull/status/1881988920021516492/photo/1",
+              "media_key": "3_1881988827738427392",
+              "start": 7,
+              "url": "https://t.co/AEchT6SHxk"
+            },
+            {
+              "display_url": "pic.x.com/AEchT6SHxk",
+              "end": 30,
+              "expanded_url": "https://x.com/JailNull/status/1881988920021516492/photo/1",
+              "media_key": "3_1881988839608385536",
+              "start": 7,
+              "url": "https://t.co/AEchT6SHxk"
+            },
+            {
+              "display_url": "pic.x.com/AEchT6SHxk",
+              "end": 30,
+              "expanded_url": "https://x.com/JailNull/status/1881988920021516492/photo/1",
+              "media_key": "3_1881988848659644416",
+              "start": 7,
+              "url": "https://t.co/AEchT6SHxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881988920021516492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "p34是伏斯 https://t.co/AEchT6SHxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 214,
+          "like_count": 8254,
+          "listed_count": 1,
+          "media_count": 661,
+          "tweet_count": 4095
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-02T16:45:10.000Z",
+        "description": "🇨🇳\n中文/eng ok/日本語 ok？",
+        "id": "1179437131917168640",
+        "location": "china",
+        "name": "囹空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871470394483384320/qUyclcH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 338,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 280
+        },
+        "username": "JailNull",
+        "verified": false
+      }
+    ]
+  }
+}

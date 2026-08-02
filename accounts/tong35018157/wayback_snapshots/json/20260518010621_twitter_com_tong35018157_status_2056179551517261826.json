@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2056179551517261826",
+    "created_at": "2026-05-18T01:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056179551517261826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937434730968023045",
+          "start": 3,
+          "username": "suslikeamogus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056179551517261826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056020365516652648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suslikeamogus: Americans can't stop thinking about gay sex"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2056179551517261826",
+        "created_at": "2026-05-18T01:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056179551517261826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937434730968023045",
+              "start": 3,
+              "username": "suslikeamogus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056179551517261826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056020365516652648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suslikeamogus: Americans can't stop thinking about gay sex"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937434730968023045",
+        "conversation_id": "2056020365516652648",
+        "created_at": "2026-05-17T14:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056020365516652648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jamesdoe1912/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/jamesdoe1912/status/2055794868849701017",
+              "start": 44,
+              "url": "https://t.co/wHvSVPGaaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056020365516652648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 35733,
+          "like_count": 2493,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055794868849701017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Americans can't stop thinking about gay sex https://t.co/wHvSVPGaaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 397,
+          "like_count": 14095,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6586
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T08:57:00.000Z",
+        "description": "only a spoonful of smegma, my favorite gun is the IDF defender if that matters\n\nfollowing ≠ endorsement",
+        "id": "1937434730968023045",
+        "location": "Ω",
+        "name": "omeg",
+        "pinned_tweet_id": "1949492680490459143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054050831935156224/RsAxPqe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 474,
+          "like_count": 62554,
+          "listed_count": 23,
+          "media_count": 4777,
+          "tweet_count": 10873
+        },
+        "username": "suslikeamogus",
+        "verified": false
+      }
+    ]
+  }
+}

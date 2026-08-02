@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1884954693459451925",
+    "created_at": "2025-01-30T13:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T14:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884954693459451925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuzhoushuijiao…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yuzhoushuijiao/status/1884466586783998134",
+          "start": 12,
+          "url": "https://t.co/8CGGSukVFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884954693459451925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884466586783998134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望大排档也出个单人餐 https://t.co/8CGGSukVFB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1884954693459451925",
+        "created_at": "2025-01-30T13:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T14:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884954693459451925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzhoushuijiao…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yuzhoushuijiao/status/1884466586783998134",
+              "start": 12,
+              "url": "https://t.co/8CGGSukVFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884954693459451925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884466586783998134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望大排档也出个单人餐 https://t.co/8CGGSukVFB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843837349449728",
+        "conversation_id": "1884466586783998134",
+        "created_at": "2025-01-29T05:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T06:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884466586783998134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884466586783998134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 52726,
+          "like_count": 174,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "致所有饭馆餐厅：多搞点单人餐好不好？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 225,
+          "like_count": 8425,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 4182
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "既然已经完蛋，那我们就一起滚来滚去好了",
+        "id": "1837843837349449728",
+        "location": "反差纯爱好文明",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1841003996645114314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5113,
+          "following_count": 101,
+          "like_count": 6298,
+          "listed_count": 9,
+          "media_count": 624,
+          "tweet_count": 4488
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

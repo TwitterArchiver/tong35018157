@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1931689203580182724",
+    "created_at": "2025-06-08T12:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931691409457000802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "jiuxi17444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931691409457000802",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931690151526482069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuxi17444 有，但是不给关门，外面36度"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931690151526482069].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931690151526482069",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931690151526482069"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1931689203580182724",
+        "created_at": "2025-06-08T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931691409457000802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "jiuxi17444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931691409457000802",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931690151526482069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuxi17444 有，但是不给关门，外面36度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 221,
+          "like_count": 8792,
+          "listed_count": 2,
+          "media_count": 716,
+          "tweet_count": 4453
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/支持lgbt/使用二简字/主搞中表🇨🇳䒙表🇷🇪/非毛左注意⚠️⚠️⚠️/对象兼革命伴侣@xiaye2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "xiaye2023"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "ps：主抪第三人称不分性别均称“他”",
+        "name": "强吃瓷爹的暴力机器反被人民民主专政🏁🏳️",
+        "pinned_tweet_id": "1873963452966043790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914209046611308544/fBTjBZyR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1322,
+          "like_count": 46390,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 5214
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

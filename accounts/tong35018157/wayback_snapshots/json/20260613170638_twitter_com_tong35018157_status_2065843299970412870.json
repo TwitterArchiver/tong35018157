@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2065840815805792607",
+    "created_at": "2026-06-13T17:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065843299970412870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "Nu1tZ333216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065843299970412870",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065842446492434746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nu1tZ333216 😇😇😇"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065842446492434746].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065842446492434746",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065842446492434746"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2065840815805792607",
+        "created_at": "2026-06-13T17:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065843299970412870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "Nu1tZ333216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843299970412870",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065842446492434746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nu1tZ333216 😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 474,
+          "like_count": 15734,
+          "listed_count": 3,
+          "media_count": 983,
+          "tweet_count": 7088
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？      航天/观鸟/音游 enby any pronoun 阴湿自闭地雷药蛆毒虫促智批 精神病弃疗者 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 137,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 114,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "AAA家是本天仓五地区总代理汐音醬",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 1758,
+          "like_count": 78466,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 4901
+        },
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

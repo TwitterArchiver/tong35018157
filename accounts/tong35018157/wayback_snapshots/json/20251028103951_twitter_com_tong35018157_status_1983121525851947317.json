@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1983121525851947317",
+    "created_at": "2025-10-28T10:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983121525851947317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inawashiroaq/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/inawashiroaq/status/1982746546719604867",
+          "start": 7,
+          "url": "https://t.co/bViWXY8K5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983121525851947317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982746546719604867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冲绳萌物来袭 https://t.co/bViWXY8K5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19046,
+        "height": 1280,
+        "media_key": "13_1982746472262070272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982746472262070272/img/z7PgAP0NsktkKsB4.jpg",
+        "public_metrics": {
+          "view_count": 62675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982746472262070272/vid/avc1/320x568/d_lum3ABl6Xizu2w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982746472262070272/vid/avc1/480x852/L70A8_ETmNdBkR6F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982746472262070272/vid/avc1/720x1280/IUyF-VERx6Z2N7ZX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982746472262070272/pl/RzxeeVcrafnsKM6B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1983121525851947317",
+        "created_at": "2025-10-28T10:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983121525851947317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inawashiroaq/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/inawashiroaq/status/1982746546719604867",
+              "start": 7,
+              "url": "https://t.co/bViWXY8K5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983121525851947317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982746546719604867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冲绳萌物来袭 https://t.co/bViWXY8K5J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982746472262070272"
+          ]
+        },
+        "author_id": "3184029560",
+        "conversation_id": "1982746546719604867",
+        "created_at": "2025-10-27T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982746546719604867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "猪苗代町",
+              "probability": 0.6196,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "福島県"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "猪苗代町"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "カワセミ水族館"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "アカショウビン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj6P0mj7KA",
+              "end": 62,
+              "expanded_url": "https://x.com/InawashiroAQ/status/1982746546719604867/video/1",
+              "media_key": "13_1982746472262070272",
+              "start": 39,
+              "url": "https://t.co/oj6P0mj7KA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982746546719604867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 911,
+          "impression_count": 184299,
+          "like_count": 11700,
+          "quote_count": 61,
+          "reply_count": 12,
+          "retweet_count": 1629
+        },
+        "reply_settings": "everyone",
+        "text": "尾羽をピョコピョコ\n#福島県　#猪苗代町　#カワセミ水族館　#アカショウビン https://t.co/oj6P0mj7KA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 248,
+          "like_count": 9980,
+          "listed_count": 3,
+          "media_count": 840,
+          "tweet_count": 5288
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-03T10:59:45.000Z",
+        "description": "雄大な磐梯山の麓に2015年４月アクアマリンふくしまの姉妹館としてオープン。水族館の生き物情報だけでなく、猪苗代周辺の生き物情報も発信していきます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aquamarine.or.jp/kawasemi/",
+                "end": 23,
+                "expanded_url": "https://www.aquamarine.or.jp/kawasemi/",
+                "start": 0,
+                "url": "https://t.co/P5mgLc13bA"
+              }
+            ]
+          }
+        },
+        "id": "3184029560",
+        "location": "福島県耶麻郡猪苗代町大字長田字東中丸3447-4",
+        "name": "【公式】アクアマリンいなわしろカワセミ水族館",
+        "pinned_tweet_id": "1857351181749936287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/594823170886017024/ERe7W_jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22824,
+          "following_count": 37,
+          "like_count": 8520,
+          "listed_count": 1072,
+          "media_count": 4305,
+          "tweet_count": 8238
+        },
+        "url": "https://t.co/P5mgLc13bA",
+        "username": "InawashiroAQ",
+        "verified": false
+      }
+    ]
+  }
+}

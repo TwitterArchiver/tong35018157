@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1880293531085901824"
+      ],
+      "media_source_tweet_id": [
+        "1880293550027649104"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1880923631506915663",
+    "created_at": "2025-01-19T10:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880923631506915663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503764880423362560",
+          "start": 3,
+          "username": "GeckosDaily_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ocst0rwa5f",
+          "end": 41,
+          "expanded_url": "https://x.com/GeckosDaily_/status/1880293550027649104/video/1",
+          "media_key": "7_1880293531085901824",
+          "start": 18,
+          "url": "https://t.co/Ocst0rwa5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880923631506915663",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880293550027649104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeckosDaily_: https://t.co/Ocst0rwa5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18831,
+        "height": 1024,
+        "media_key": "7_1880293531085901824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1880293531085901824/pu/img/paamypggcYD6wDmV.jpg",
+        "public_metrics": {
+          "view_count": 4234
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880293531085901824/pu/vid/avc1/320x568/qExv-zHR50A1WDRv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880293531085901824/pu/vid/avc1/480x852/PbK8Ca1R-PN14X9C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880293531085901824/pu/vid/avc1/576x1024/H4hu_9Elv0whM_ek.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1880293531085901824/pu/pl/krM_yyi-VyxcW5wU.m3u8?tag=12&v=202"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880293531085901824"
+          ],
+          "media_source_tweet_id": [
+            "1880293550027649104"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880923631506915663",
+        "created_at": "2025-01-19T10:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880923631506915663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503764880423362560",
+              "start": 3,
+              "username": "GeckosDaily_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocst0rwa5f",
+              "end": 41,
+              "expanded_url": "https://x.com/GeckosDaily_/status/1880293550027649104/video/1",
+              "media_key": "7_1880293531085901824",
+              "start": 18,
+              "url": "https://t.co/Ocst0rwa5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880923631506915663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880293550027649104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeckosDaily_: https://t.co/Ocst0rwa5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880293531085901824"
+          ]
+        },
+        "author_id": "1503764880423362560",
+        "conversation_id": "1880293550027649104",
+        "created_at": "2025-01-17T16:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880293550027649104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocst0rwa5f",
+              "end": 23,
+              "expanded_url": "https://x.com/GeckosDaily_/status/1880293550027649104/video/1",
+              "media_key": "7_1880293531085901824",
+              "start": 0,
+              "url": "https://t.co/Ocst0rwa5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880293550027649104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 8393,
+          "like_count": 840,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ocst0rwa5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 211,
+          "like_count": 8222,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4059
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T16:07:50.000Z",
+        "description": "This account is for gecko lovers everywhere! art: #GeckoPictus\nBanner by @SleeplessRhythm !\npfp by @FrostwallArt \nOfficial Discord: https://t.co/TlAWRxVaQr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 50,
+                "tag": "GeckoPictus"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "SleeplessRhythm"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "FrostwallArt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/aksGt2CCwY",
+                "end": 155,
+                "expanded_url": "http://discord.gg/aksGt2CCwY",
+                "start": 132,
+                "url": "https://t.co/TlAWRxVaQr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/geckosdaily_",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/geckosdaily_",
+                "start": 0,
+                "url": "https://t.co/wMij3nT5Z7"
+              }
+            ]
+          }
+        },
+        "id": "1503764880423362560",
+        "location": "GeckoLands The Pre-Geckquel",
+        "name": "Geckos Daily🦎",
+        "pinned_tweet_id": "1503837593342988305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665900394512252928/4Zweb6KV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20346,
+          "following_count": 54,
+          "like_count": 33491,
+          "listed_count": 60,
+          "media_count": 5656,
+          "tweet_count": 8059
+        },
+        "url": "https://t.co/wMij3nT5Z7",
+        "username": "GeckosDaily_",
+        "verified": false
+      }
+    ]
+  }
+}

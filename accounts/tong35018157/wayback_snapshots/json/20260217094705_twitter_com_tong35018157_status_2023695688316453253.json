@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2023682505774449007",
+    "created_at": "2026-02-17T09:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023695688316453253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "hLEO9LuDSrBqAx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023695688316453253",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023682505774449007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hLEO9LuDSrBqAx3 少前怎么不实装梅卡瓦啊，我还想送她去当车长"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023682505774449007].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023682505774449007",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023682505774449007"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2023682505774449007",
+        "created_at": "2026-02-17T09:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023695688316453253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "hLEO9LuDSrBqAx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023695688316453253",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023682505774449007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hLEO9LuDSrBqAx3 少前怎么不实装梅卡瓦啊，我还想送她去当车长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 293,
+          "like_count": 11171,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 5656
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "我不相信日本侵华是真的，除非日本人再杀3500万支给我看看｜以色列老英雄菩萨心肠，其实本来是想请加沙居民吃烤肉的，只不过一下没分清哪些是畜生哪些是穆斯林（小号传送门@Gurmeet58595299，黄推和看黄蛆关注我死妈）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "Gurmeet58595299"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "加沙烤肉区和南京大联欢",
+        "name": "Negev🇯🇵🇮🇱✡️💙（暂时穿越到异世界）",
+        "pinned_tweet_id": "2022907603572134012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022905352141017088/mzCo3PI-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 644,
+          "like_count": 21589,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 1667
+        },
+        "username": "hLEO9LuDSrBqAx3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964869501763121152"
+      ],
+      "media_source_tweet_id": [
+        "1964869542032642485"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1965000042303180822",
+    "created_at": "2025-09-08T10:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965000042303180822"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Gaddafi",
+          "probability": 0.6222,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 34,
+          "normalized_text": "Tito",
+          "probability": 0.6379,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1940536424459104256",
+          "start": 3,
+          "username": "LibyanVisuals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1XhyG82yP",
+          "end": 78,
+          "expanded_url": "https://x.com/LibyanVisuals/status/1964869542032642485/photo/1",
+          "media_key": "3_1964869501763121152",
+          "start": 55,
+          "url": "https://t.co/j1XhyG82yP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965000042303180822",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964869542032642485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LibyanVisuals: Gaddafi and Tito having a good time https://t.co/j1XhyG82yP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_1964869501763121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SeZsqW8AAWQgP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964869501763121152"
+          ],
+          "media_source_tweet_id": [
+            "1964869542032642485"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1965000042303180822",
+        "created_at": "2025-09-08T10:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965000042303180822"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Gaddafi",
+              "probability": 0.6222,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Tito",
+              "probability": 0.6379,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1940536424459104256",
+              "start": 3,
+              "username": "LibyanVisuals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1XhyG82yP",
+              "end": 78,
+              "expanded_url": "https://x.com/LibyanVisuals/status/1964869542032642485/photo/1",
+              "media_key": "3_1964869501763121152",
+              "start": 55,
+              "url": "https://t.co/j1XhyG82yP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965000042303180822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964869542032642485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LibyanVisuals: Gaddafi and Tito having a good time https://t.co/j1XhyG82yP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964869501763121152"
+          ]
+        },
+        "author_id": "1940536424459104256",
+        "conversation_id": "1964869542032642485",
+        "created_at": "2025-09-08T01:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T02:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964869542032642485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Gaddafi",
+              "probability": 0.71,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 15,
+              "normalized_text": "Tito",
+              "probability": 0.6981,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1XhyG82yP",
+              "end": 59,
+              "expanded_url": "https://x.com/LibyanVisuals/status/1964869542032642485/photo/1",
+              "media_key": "3_1964869501763121152",
+              "start": 36,
+              "url": "https://t.co/j1XhyG82yP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964869542032642485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5685,
+          "like_count": 308,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Gaddafi and Tito having a good time https://t.co/j1XhyG82yP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 232,
+          "like_count": 9594,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 5082
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T22:22:10.000Z",
+        "description": "Historical Archive dedicated to visualizing Libya under the leadership of the Brotherly Leader and Guide of the Revolution Muammar Gaddafi from 1969-2011 🟩📗💚",
+        "id": "1940536424459104256",
+        "name": "Libyan Visuals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940538018097397760/-_5Yqbvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 19,
+          "like_count": 2063,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 187
+        },
+        "username": "LibyanVisuals",
+        "verified": false
+      }
+    ]
+  }
+}

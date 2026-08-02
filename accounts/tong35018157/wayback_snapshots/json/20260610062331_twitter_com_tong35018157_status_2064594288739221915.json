@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064400974001967104",
+        "3_2064400974001971200"
+      ],
+      "media_source_tweet_id": [
+        "2064401097993953353",
+        "2064401097993953353"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064594288739221915",
+    "created_at": "2026-06-10T06:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064594288739221915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032384433840676864",
+          "start": 3,
+          "username": "Tears__7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRY4SSUZyE",
+          "end": 51,
+          "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+          "media_key": "3_2064400974001967104",
+          "start": 28,
+          "url": "https://t.co/LRY4SSUZyE"
+        },
+        {
+          "display_url": "pic.x.com/LRY4SSUZyE",
+          "end": 51,
+          "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+          "media_key": "3_2064400974001971200",
+          "start": 28,
+          "url": "https://t.co/LRY4SSUZyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064594288739221915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064401097993953353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tears__7: 婷婷你连一只蛆都要欺负吗。 https://t.co/LRY4SSUZyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2064400974001967104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY5v4lbkAAmnEX.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2064400974001971200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY5v4lboAAD4_Y.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064400974001967104",
+            "3_2064400974001971200"
+          ],
+          "media_source_tweet_id": [
+            "2064401097993953353",
+            "2064401097993953353"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064594288739221915",
+        "created_at": "2026-06-10T06:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064594288739221915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032384433840676864",
+              "start": 3,
+              "username": "Tears__7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRY4SSUZyE",
+              "end": 51,
+              "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+              "media_key": "3_2064400974001967104",
+              "start": 28,
+              "url": "https://t.co/LRY4SSUZyE"
+            },
+            {
+              "display_url": "pic.x.com/LRY4SSUZyE",
+              "end": 51,
+              "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+              "media_key": "3_2064400974001971200",
+              "start": 28,
+              "url": "https://t.co/LRY4SSUZyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064594288739221915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064401097993953353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tears__7: 婷婷你连一只蛆都要欺负吗。 https://t.co/LRY4SSUZyE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064400974001967104",
+            "3_2064400974001971200"
+          ]
+        },
+        "author_id": "2032384433840676864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064401097993953353",
+        "created_at": "2026-06-09T17:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064401097993953353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRY4SSUZyE",
+              "end": 37,
+              "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+              "media_key": "3_2064400974001967104",
+              "start": 14,
+              "url": "https://t.co/LRY4SSUZyE"
+            },
+            {
+              "display_url": "pic.x.com/LRY4SSUZyE",
+              "end": 37,
+              "expanded_url": "https://x.com/Tears__7/status/2064401097993953353/photo/1",
+              "media_key": "3_2064400974001971200",
+              "start": 14,
+              "url": "https://t.co/LRY4SSUZyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064401097993953353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 44248,
+          "like_count": 571,
+          "quote_count": 3,
+          "reply_count": 110,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "婷婷你连一只蛆都要欺负吗。 https://t.co/LRY4SSUZyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 469,
+          "like_count": 15517,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 7014
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T09:13:13.000Z",
+        "description": "du wan zhe ju hua de ren shi zhu。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tears89072",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tears89072",
+                "start": 0,
+                "url": "https://t.co/O9MR3QOzuU"
+              }
+            ]
+          }
+        },
+        "id": "2032384433840676864",
+        "location": "直男 不➕v",
+        "name": "一滴眼淚",
+        "pinned_tweet_id": "2048789172643897787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055304361648246784/0NgjjmJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 13,
+          "like_count": 2104,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/O9MR3QOzuU",
+        "username": "Tears__7",
+        "verified": false
+      }
+    ]
+  }
+}

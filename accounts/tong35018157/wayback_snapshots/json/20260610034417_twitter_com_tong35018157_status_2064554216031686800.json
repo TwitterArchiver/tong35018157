@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2064518329562214486",
+    "created_at": "2026-06-10T03:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064554216031686800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "QinYueLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064554216031686800",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064518329562214486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QinYueLe 三吱不能吃熟的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1822,
+        "media_key": "3_2064518266417004544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKakbM4XQAAzTlK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2064518329562214486",
+        "created_at": "2026-06-10T03:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064554216031686800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064554216031686800",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064518329562214486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinYueLe 三吱不能吃熟的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064518266417004544"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064518329562214486",
+        "created_at": "2026-06-10T01:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064518329562214486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDckFs1z4E",
+              "end": 37,
+              "expanded_url": "https://x.com/QinYueLe/status/2064518329562214486/photo/1",
+              "media_key": "3_2064518266417004544",
+              "start": 14,
+              "url": "https://t.co/mDckFs1z4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064518329562214486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东美食，香港人已经馋哭了 https://t.co/mDckFs1z4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 469,
+          "like_count": 15512,
+          "listed_count": 3,
+          "media_count": 980,
+          "tweet_count": 7012
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26763,
+          "following_count": 362,
+          "like_count": 2316,
+          "listed_count": 70,
+          "media_count": 1865,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

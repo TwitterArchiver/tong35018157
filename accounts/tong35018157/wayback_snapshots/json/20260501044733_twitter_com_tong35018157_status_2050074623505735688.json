@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049754226570690560"
+      ],
+      "media_source_tweet_id": [
+        "2049754237668868375"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2050074623505735688",
+    "created_at": "2026-05-01T04:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050074623505735688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "blooddebt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1411336686819155968",
+          "start": 3,
+          "username": "adrivaille"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xcJ8j5f0Z5",
+          "end": 70,
+          "expanded_url": "https://x.com/adrivaille/status/2049754237668868375/photo/1",
+          "media_key": "3_2049754226570690560",
+          "start": 47,
+          "url": "https://t.co/xcJ8j5f0Z5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050074623505735688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049754237668868375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adrivaille: Have yall ever just\n#blooddebt https://t.co/xcJ8j5f0Z5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2049754226570690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIwm-eaAAArJUx.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049754226570690560"
+          ],
+          "media_source_tweet_id": [
+            "2049754237668868375"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2050074623505735688",
+        "created_at": "2026-05-01T04:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050074623505735688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "blooddebt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1411336686819155968",
+              "start": 3,
+              "username": "adrivaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcJ8j5f0Z5",
+              "end": 70,
+              "expanded_url": "https://x.com/adrivaille/status/2049754237668868375/photo/1",
+              "media_key": "3_2049754226570690560",
+              "start": 47,
+              "url": "https://t.co/xcJ8j5f0Z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050074623505735688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049754237668868375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adrivaille: Have yall ever just\n#blooddebt https://t.co/xcJ8j5f0Z5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049754226570690560"
+          ]
+        },
+        "author_id": "1411336686819155968",
+        "conversation_id": "2049754237668868375",
+        "created_at": "2026-04-30T07:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049754237668868375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "blooddebt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcJ8j5f0Z5",
+              "end": 54,
+              "expanded_url": "https://x.com/adrivaille/status/2049754237668868375/photo/1",
+              "media_key": "3_2049754226570690560",
+              "start": 31,
+              "url": "https://t.co/xcJ8j5f0Z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049754237668868375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 3728,
+          "like_count": 349,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Have yall ever just\n#blooddebt https://t.co/xcJ8j5f0Z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 372,
+          "like_count": 13394,
+          "listed_count": 4,
+          "media_count": 935,
+          "tweet_count": 6396
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T14:51:47.000Z",
+        "description": "🇮🇩, Multifandoms and a slow artist who hate homeworks, an enthusiast TNUM fan. (TW: NSFW)",
+        "id": "1411336686819155968",
+        "name": "RUBEZAHLE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043700538353844224/GGAxt3HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 264,
+          "like_count": 10164,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 5778
+        },
+        "username": "adrivaille",
+        "verified": false
+      }
+    ]
+  }
+}

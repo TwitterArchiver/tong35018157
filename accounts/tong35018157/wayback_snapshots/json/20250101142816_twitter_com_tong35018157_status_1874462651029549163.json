@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1873989451749482995",
+    "created_at": "2025-01-01T14:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T15:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874462651029549163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "RokuNanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874462651029549163",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873989451749482995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuNanami 我问了好几个同学有没有割过包皮这暧昧吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1873989451749482995",
+        "created_at": "2025-01-01T14:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T15:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874462651029549163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "RokuNanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874462651029549163",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873989451749482995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuNanami 我问了好几个同学有没有割过包皮这暧昧吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1873989451749482995",
+        "created_at": "2024-12-31T07:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873989451749482995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873989451749482995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10408,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我同桌天天跟我说她想拉屎但是拉不出来，是不是有点暧昧了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 207,
+          "like_count": 8172,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 4003
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "✝ In the name of Jesus!",
+        "id": "1247123754158702593",
+        "name": "海うみ ✞",
+        "pinned_tweet_id": "1873671256412975380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863088436845916160/OI859fpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 803,
+          "like_count": 61272,
+          "listed_count": 8,
+          "media_count": 352,
+          "tweet_count": 6887
+        },
+        "username": "RokuNanami",
+        "verified": false
+      }
+    ]
+  }
+}

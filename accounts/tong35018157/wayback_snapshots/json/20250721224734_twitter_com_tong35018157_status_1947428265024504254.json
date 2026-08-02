@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1947428265024504254",
+    "created_at": "2025-07-21T22:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T23:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947428265024504254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gunlover001/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/gunlover001/status/1947249432686100851",
+          "start": 11,
+          "url": "https://t.co/QNqP81GQKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947428265024504254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947249432686100851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "v冲和p90比丑去吧 https://t.co/QNqP81GQKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1947249430622580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYFCklXMAAKgVz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1947428265024504254",
+        "created_at": "2025-07-21T22:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T23:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947428265024504254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gunlover001/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gunlover001/status/1947249432686100851",
+              "start": 11,
+              "url": "https://t.co/QNqP81GQKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947428265024504254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947249432686100851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "v冲和p90比丑去吧 https://t.co/QNqP81GQKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947249430622580736"
+          ]
+        },
+        "author_id": "1459290182365102088",
+        "conversation_id": "1947249432686100851",
+        "created_at": "2025-07-21T10:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947249432686100851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1I8xNVAek",
+              "end": 38,
+              "expanded_url": "https://x.com/gunlover001/status/1947249432686100851/photo/1",
+              "media_key": "3_1947249430622580736",
+              "start": 15,
+              "url": "https://t.co/d1I8xNVAek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947249432686100851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 37384,
+          "like_count": 1583,
+          "quote_count": 14,
+          "reply_count": 335,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Left or Right? https://t.co/d1I8xNVAek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 227,
+          "like_count": 9092,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 4744
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T22:41:14.000Z",
+        "description": "DM for business inquiries |\n NO GUN SALES!",
+        "id": "1459290182365102088",
+        "name": "Gun Lover",
+        "pinned_tweet_id": "1947259404547510497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944047674971299840/aKIt0mze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67530,
+          "following_count": 7631,
+          "like_count": 8775,
+          "listed_count": 57,
+          "media_count": 4575,
+          "tweet_count": 18375
+        },
+        "username": "gunlover001",
+        "verified": true
+      }
+    ]
+  }
+}

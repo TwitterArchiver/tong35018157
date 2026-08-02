@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059670372434534401",
+        "3_2059670372434452480"
+      ],
+      "media_source_tweet_id": [
+        "2059670387664031983",
+        "2059670387664031983"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2059716586701984163",
+    "created_at": "2026-05-27T19:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059716586701984163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3048721064",
+          "start": 3,
+          "username": "KKong_1p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcQCUq1HOV",
+          "end": 71,
+          "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+          "media_key": "3_2059670372434534401",
+          "start": 48,
+          "url": "https://t.co/wcQCUq1HOV"
+        },
+        {
+          "display_url": "pic.x.com/wcQCUq1HOV",
+          "end": 71,
+          "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+          "media_key": "3_2059670372434452480",
+          "start": 48,
+          "url": "https://t.co/wcQCUq1HOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059716586701984163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059670387664031983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKong_1p: 一颗炸弹在我面前爆炸，我竟然存活了下来？\n\n谢谢你，bvvd叔叔！ https://t.co/wcQCUq1HOV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2059670372434534401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVrSodbYAE7ibc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 874,
+        "media_key": "3_2059670372434452480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVrSodaIAAQLJC.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059670372434534401",
+            "3_2059670372434452480"
+          ],
+          "media_source_tweet_id": [
+            "2059670387664031983",
+            "2059670387664031983"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2059716586701984163",
+        "created_at": "2026-05-27T19:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059716586701984163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3048721064",
+              "start": 3,
+              "username": "KKong_1p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcQCUq1HOV",
+              "end": 71,
+              "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+              "media_key": "3_2059670372434534401",
+              "start": 48,
+              "url": "https://t.co/wcQCUq1HOV"
+            },
+            {
+              "display_url": "pic.x.com/wcQCUq1HOV",
+              "end": 71,
+              "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+              "media_key": "3_2059670372434452480",
+              "start": 48,
+              "url": "https://t.co/wcQCUq1HOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059716586701984163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059670387664031983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKong_1p: 一颗炸弹在我面前爆炸，我竟然存活了下来？\n\n谢谢你，bvvd叔叔！ https://t.co/wcQCUq1HOV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059670372434534401",
+            "3_2059670372434452480"
+          ]
+        },
+        "author_id": "3048721064",
+        "conversation_id": "2059670387664031983",
+        "created_at": "2026-05-27T16:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059670387664031983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcQCUq1HOV",
+              "end": 57,
+              "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+              "media_key": "3_2059670372434534401",
+              "start": 34,
+              "url": "https://t.co/wcQCUq1HOV"
+            },
+            {
+              "display_url": "pic.x.com/wcQCUq1HOV",
+              "end": 57,
+              "expanded_url": "https://x.com/KKong_1p/status/2059670387664031983/photo/1",
+              "media_key": "3_2059670372434452480",
+              "start": 34,
+              "url": "https://t.co/wcQCUq1HOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059670387664031983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2818,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一颗炸弹在我面前爆炸，我竟然存活了下来？\n\n谢谢你，bvvd叔叔！ https://t.co/wcQCUq1HOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 443,
+          "like_count": 14920,
+          "listed_count": 3,
+          "media_count": 964,
+          "tweet_count": 6844
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-28T05:12:35.000Z",
+        "description": "我是一个肤浅的人\nI am a shallow person.",
+        "id": "3048721064",
+        "location": "火焰山",
+        "name": "🈳🈳KONG KONG",
+        "pinned_tweet_id": "2043291028292252014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042267032834744320/GmClWhzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6003,
+          "following_count": 5758,
+          "like_count": 23523,
+          "listed_count": 16,
+          "media_count": 729,
+          "tweet_count": 8484
+        },
+        "username": "KKong_1p",
+        "verified": false
+      }
+    ]
+  }
+}

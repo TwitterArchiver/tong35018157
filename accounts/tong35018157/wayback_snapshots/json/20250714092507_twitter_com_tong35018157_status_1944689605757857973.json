@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944331924291670016"
+      ],
+      "media_source_tweet_id": [
+        "1944331933460361670"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1944689605757857973",
+    "created_at": "2025-07-14T09:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T10:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944689605757857973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929087988459515907",
+          "start": 3,
+          "username": "usalupa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WA4PTksOpe",
+          "end": 36,
+          "expanded_url": "https://x.com/usalupa/status/1944331933460361670/photo/1",
+          "media_key": "3_1944331924291670016",
+          "start": 13,
+          "url": "https://t.co/WA4PTksOpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944689605757857973",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14868
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944331933460361670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usalupa: https://t.co/WA4PTksOpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1944331924291670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvunlWjbUAA7NHR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944331924291670016"
+          ],
+          "media_source_tweet_id": [
+            "1944331933460361670"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1944689605757857973",
+        "created_at": "2025-07-14T09:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944689605757857973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929087988459515907",
+              "start": 3,
+              "username": "usalupa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA4PTksOpe",
+              "end": 36,
+              "expanded_url": "https://x.com/usalupa/status/1944331933460361670/photo/1",
+              "media_key": "3_1944331924291670016",
+              "start": 13,
+              "url": "https://t.co/WA4PTksOpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944689605757857973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14868
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944331933460361670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usalupa: https://t.co/WA4PTksOpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944331924291670016"
+          ]
+        },
+        "author_id": "1929087988459515907",
+        "conversation_id": "1944331933460361670",
+        "created_at": "2025-07-13T09:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944331933460361670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA4PTksOpe",
+              "end": 23,
+              "expanded_url": "https://x.com/usalupa/status/1944331933460361670/photo/1",
+              "media_key": "3_1944331924291670016",
+              "start": 0,
+              "url": "https://t.co/WA4PTksOpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944331933460361670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8629,
+          "impression_count": 2465675,
+          "like_count": 132939,
+          "quote_count": 423,
+          "reply_count": 112,
+          "retweet_count": 14868
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WA4PTksOpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 9033,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 4688
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T08:11:21.000Z",
+        "description": "うさみみのウーパールーパー",
+        "id": "1929087988459515907",
+        "name": "うーさーるーぱー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929092497156018176/_hSaiE1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13457,
+          "following_count": 1,
+          "like_count": 48,
+          "listed_count": 36,
+          "media_count": 36,
+          "tweet_count": 37
+        },
+        "username": "usalupa",
+        "verified": true
+      }
+    ]
+  }
+}

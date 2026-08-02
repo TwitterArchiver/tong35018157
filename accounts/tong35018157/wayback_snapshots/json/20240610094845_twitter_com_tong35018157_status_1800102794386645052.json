@@ -1,0 +1,339 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799878029478428672",
+        "3_1799878029478338560"
+      ],
+      "media_source_tweet_id": [
+        "1799878031529382364",
+        "1799878031529382364"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1800102794386645052",
+    "created_at": "2024-06-10T09:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T10:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800102794386645052"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "V.I",
+          "probability": 0.5422,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Chuikov",
+          "probability": 0.6203,
+          "start": 53,
+          "type": "Other"
+        },
+        {
+          "end": 100,
+          "normalized_text": "Battle of Stalingrad",
+          "probability": 0.9115,
+          "start": 81,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "Chuikov"
+        },
+        {
+          "end": 111,
+          "start": 104,
+          "tag": "Чуйков"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1453803394104274949",
+          "start": 3,
+          "username": "KithcartMaria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/l4O7ScjReb",
+          "end": 135,
+          "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+          "media_key": "3_1799878029478428672",
+          "start": 112,
+          "url": "https://t.co/l4O7ScjReb"
+        },
+        {
+          "display_url": "pic.twitter.com/l4O7ScjReb",
+          "end": 135,
+          "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+          "media_key": "3_1799878029478338560",
+          "start": 112,
+          "url": "https://t.co/l4O7ScjReb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800102794386645052",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799878031529382364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KithcartMaria: Costume sketches of General V.I. #Chuikov for the 1949 movie “Battle of Stalingrad.” #Чуйков https://t.co/l4O7ScjReb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1799878029478428672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPpziBoXgAAQwz2.jpg",
+        "width": 355
+      },
+      {
+        "height": 500,
+        "media_key": "3_1799878029478338560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPpziBoWIAA2Ozm.jpg",
+        "width": 345
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799878029478428672",
+            "3_1799878029478338560"
+          ],
+          "media_source_tweet_id": [
+            "1799878031529382364",
+            "1799878031529382364"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1800102794386645052",
+        "created_at": "2024-06-10T09:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T10:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800102794386645052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "V.I",
+              "probability": 0.5422,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Chuikov",
+              "probability": 0.6203,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Battle of Stalingrad",
+              "probability": 0.9115,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "Chuikov"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "Чуйков"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1453803394104274949",
+              "start": 3,
+              "username": "KithcartMaria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l4O7ScjReb",
+              "end": 135,
+              "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+              "media_key": "3_1799878029478428672",
+              "start": 112,
+              "url": "https://t.co/l4O7ScjReb"
+            },
+            {
+              "display_url": "pic.twitter.com/l4O7ScjReb",
+              "end": 135,
+              "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+              "media_key": "3_1799878029478338560",
+              "start": 112,
+              "url": "https://t.co/l4O7ScjReb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800102794386645052",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799878031529382364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KithcartMaria: Costume sketches of General V.I. #Chuikov for the 1949 movie “Battle of Stalingrad.” #Чуйков https://t.co/l4O7ScjReb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799878029478428672",
+            "3_1799878029478338560"
+          ]
+        },
+        "author_id": "1453803394104274949",
+        "conversation_id": "1799878031529382364",
+        "created_at": "2024-06-09T18:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T19:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799878031529382364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "Chuikov"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "Чуйков"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l4O7ScjReb",
+              "end": 116,
+              "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+              "media_key": "3_1799878029478428672",
+              "start": 93,
+              "url": "https://t.co/l4O7ScjReb"
+            },
+            {
+              "display_url": "pic.twitter.com/l4O7ScjReb",
+              "end": 116,
+              "expanded_url": "https://twitter.com/KithcartMaria/status/1799878031529382364/photo/1",
+              "media_key": "3_1799878029478338560",
+              "start": 93,
+              "url": "https://t.co/l4O7ScjReb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799878031529382364",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Costume sketches of General V.I. #Chuikov for the 1949 movie “Battle of Stalingrad.” #Чуйков https://t.co/l4O7ScjReb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 207,
+          "like_count": 7943,
+          "listed_count": 1,
+          "tweet_count": 3740
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T19:18:56.000Z",
+        "description": "Aspiring historian; researching Marshal V. I. Chuikov's life/work; Asst. Professor of Business. Tweets are own opinion.",
+        "id": "1453803394104274949",
+        "location": "USA",
+        "name": "Maria A. Kithcart, MMin, MAML, MBA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767762944643776513/ZzfpKJ1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 708,
+          "like_count": 5619,
+          "listed_count": 2,
+          "tweet_count": 1020
+        },
+        "username": "KithcartMaria",
+        "verified": false
+      }
+    ]
+  }
+}

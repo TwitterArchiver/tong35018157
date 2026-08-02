@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1880903782265180165",
+    "created_at": "2025-01-19T09:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880907524330983516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720835339026063360",
+          "start": 0,
+          "username": "bndo564587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880907524330983516",
+    "in_reply_to_user_id": "1720835339026063360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880903782265180165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bndo564587 （海冰底下传来啵啵冒气泡的声音🫧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1880903782265180165",
+        "created_at": "2025-01-19T09:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880907524330983516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720835339026063360",
+              "start": 0,
+              "username": "bndo564587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880907524330983516",
+        "in_reply_to_user_id": "1720835339026063360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880903782265180165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bndo564587 （海冰底下传来啵啵冒气泡的声音🫧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880903758085013504"
+          ]
+        },
+        "author_id": "1720835339026063360",
+        "conversation_id": "1880903782265180165",
+        "created_at": "2025-01-19T09:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880903782265180165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNi4Jdwzrg",
+              "end": 60,
+              "expanded_url": "https://x.com/bndo564587/status/1880903782265180165/video/1",
+              "media_key": "7_1880903758085013504",
+              "start": 37,
+              "url": "https://t.co/FNi4Jdwzrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880903782265180165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找到了一段戈洛夫科的声音，但没找到画面\n北冰洋水妖呜呜泱泱讲话一分钟： https://t.co/FNi4Jdwzrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 210,
+          "like_count": 8215,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4056
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T16:08:23.000Z",
+        "description": "喜欢画ww2苏联人和美国人",
+        "id": "1720835339026063360",
+        "name": "半岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827694955441397760/PHXpE14w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 183,
+          "like_count": 2371,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 876
+        },
+        "username": "bndo564587",
+        "verified": false
+      }
+    ]
+  }
+}

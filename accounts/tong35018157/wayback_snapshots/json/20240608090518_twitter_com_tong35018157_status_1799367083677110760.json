@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1799367083677110760",
+    "created_at": "2024-06-08T09:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T10:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799367083677110760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/riusukefukahor…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/riusukefukahori/status/1798673119789617600",
+          "start": 12,
+          "url": "https://t.co/IY4Cqy91km"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799367083677110760",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798673119789617600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要一张这样的凉席…… https://t.co/IY4Cqy91km"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1799367083677110760",
+        "created_at": "2024-06-08T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799367083677110760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riusukefukahor…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/riusukefukahori/status/1798673119789617600",
+              "start": 12,
+              "url": "https://t.co/IY4Cqy91km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799367083677110760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798673119789617600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要一张这样的凉席…… https://t.co/IY4Cqy91km"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798673112118317056"
+          ]
+        },
+        "author_id": "1969730618",
+        "conversation_id": "1798673119789617600",
+        "created_at": "2024-06-06T11:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T12:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798673119789617600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "福井市美術館",
+              "probability": 0.7992,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "福井市美術館"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Q0bzlKiPXZ",
+              "end": 44,
+              "expanded_url": "https://twitter.com/RiusukeFukahori/status/1798673119789617600/photo/1",
+              "media_key": "3_1798673112118317056",
+              "start": 21,
+              "url": "https://t.co/Q0bzlKiPXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798673119789617600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5619,
+          "impression_count": 4373829,
+          "like_count": 132433,
+          "quote_count": 294,
+          "reply_count": 114,
+          "retweet_count": 11528
+        },
+        "reply_settings": "everyone",
+        "text": "金魚描き足してますなう！　#福井市美術館 https://t.co/Q0bzlKiPXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 206,
+          "like_count": 7839,
+          "listed_count": 1,
+          "tweet_count": 3704
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-18T23:03:54.000Z",
+        "description": "◆1999年 部屋の１匹の金魚から金魚を描き始める『金魚救い』。02年樹脂中に描く新画法2.5Dﾍﾟｲﾝﾃｨﾝｸﾞを発表。13年NY個展（計3回）。18年平塚市美術館個展、21年上野の森美術館個展。23年 ｼﾝ•ｼﾞｬﾊﾟﾆｰｽﾞ•ﾍﾟｲﾝﾃｨﾝｸﾞ展参加：ポーラ美術館。◆第5弾作品集「金魚酒」芸術新聞社より発売中。",
+        "id": "1969730618",
+        "name": "深堀 隆介Riusuke💎",
+        "pinned_tweet_id": "1797086770959692284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240182044090437634/QJOnrwBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38592,
+          "following_count": 219,
+          "like_count": 5337,
+          "listed_count": 338,
+          "tweet_count": 2666
+        },
+        "username": "RiusukeFukahori",
+        "verified": false
+      }
+    ]
+  }
+}

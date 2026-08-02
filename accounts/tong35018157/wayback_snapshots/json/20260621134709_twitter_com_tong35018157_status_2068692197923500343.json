@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2068304833602560322",
+    "created_at": "2026-06-21T13:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068692197923500343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562375313559994368",
+          "start": 0,
+          "username": "xnyn47519716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068692197923500343",
+    "in_reply_to_user_id": "1562375313559994368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068304833602560322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn47519716 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2068304807354576896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQYQ5GaMAALpcn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2068304813742514177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQYRQ5aYAEQpIP.jpg",
+        "width": 731
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2068304820344328192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQYRpfaEAAxnu_.jpg",
+        "width": 801
+      },
+      {
+        "height": 768,
+        "media_key": "3_2068304827420200960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQYSD2bUAAZEHe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2068304833602560322",
+        "created_at": "2026-06-21T13:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068692197923500343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562375313559994368",
+              "start": 0,
+              "username": "xnyn47519716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068692197923500343",
+        "in_reply_to_user_id": "1562375313559994368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068304833602560322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn47519716 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068304807354576896",
+            "3_2068304813742514177",
+            "3_2068304820344328192",
+            "3_2068304827420200960"
+          ]
+        },
+        "author_id": "1562375313559994368",
+        "conversation_id": "2068304833602560322",
+        "created_at": "2026-06-20T12:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068304833602560322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsfW9nkABX",
+              "end": 86,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068304833602560322/photo/1",
+              "media_key": "3_2068304807354576896",
+              "start": 63,
+              "url": "https://t.co/PsfW9nkABX"
+            },
+            {
+              "display_url": "pic.x.com/PsfW9nkABX",
+              "end": 86,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068304833602560322/photo/1",
+              "media_key": "3_2068304813742514177",
+              "start": 63,
+              "url": "https://t.co/PsfW9nkABX"
+            },
+            {
+              "display_url": "pic.x.com/PsfW9nkABX",
+              "end": 86,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068304833602560322/photo/1",
+              "media_key": "3_2068304820344328192",
+              "start": 63,
+              "url": "https://t.co/PsfW9nkABX"
+            },
+            {
+              "display_url": "pic.x.com/PsfW9nkABX",
+              "end": 86,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068304833602560322/photo/1",
+              "media_key": "3_2068304827420200960",
+              "start": 63,
+              "url": "https://t.co/PsfW9nkABX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068304833602560322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 816,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我这号有流量了。我打算把过去的稿件搬运一下。我爱你们啊。\n那个我真的不会化妆，只会底妆，什么都不会。全靠美颜特效支撑。 https://t.co/PsfW9nkABX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 487,
+          "like_count": 16289,
+          "listed_count": 3,
+          "media_count": 992,
+          "tweet_count": 7234
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります=Anti-CCP=8964\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目",
+        "pinned_tweet_id": "2068305594763895127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 135,
+          "like_count": 1838,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      }
+    ]
+  }
+}

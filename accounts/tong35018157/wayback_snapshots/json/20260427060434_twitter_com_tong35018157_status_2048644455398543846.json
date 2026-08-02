@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048460260361523254",
+    "created_at": "2026-04-27T06:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048644455398543846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048644455398543846",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048460260361523254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 没三吱好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048460260361523254",
+        "created_at": "2026-04-27T06:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048644455398543846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048644455398543846",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048460260361523254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 没三吱好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2048460260361523254",
+        "created_at": "2026-04-26T17:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048460260361523254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n0hopeforus/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/n0hopeforus/status/2048400561138192874",
+              "start": 140,
+              "url": "https://t.co/W8mX8DHPLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048460260361523254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2239,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048400561138192874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白斩鸡呢个鸡屁股真系超香！劲香啊，就钟意呢一味！黐黐立立噉就塞落嘴度，脆卜卜啊，呢个屎香味真系上头！正到爆！我就系钟意食，成日都狂食唔停啊各位，鸡皮够爽脆，咬落仲有汁，劲过瘾！香到晕啊朋友！我哋呢度食白斩鸡，就最钟意拣鸡屁股呢个部位！食起上嚟真系超正！食就得啦！！你哋北方人唔明 https://t.co/W8mX8DHPLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 370,
+          "like_count": 13068,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6310
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14396,
+          "following_count": 1055,
+          "like_count": 44009,
+          "listed_count": 54,
+          "media_count": 1806,
+          "tweet_count": 25987
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

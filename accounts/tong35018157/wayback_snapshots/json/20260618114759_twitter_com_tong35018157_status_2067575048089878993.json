@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2067515206675403002",
+    "created_at": "2026-06-18T11:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067575048089878993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1718326739284439040",
+          "start": 0,
+          "username": "anatainx29996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067575048089878993",
+    "in_reply_to_user_id": "1718326739284439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067521573255574000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anatainx29996 小时候父母带去很多地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2067515206675403002",
+        "created_at": "2026-06-18T11:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067575048089878993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1718326739284439040",
+              "start": 0,
+              "username": "anatainx29996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067575048089878993",
+        "in_reply_to_user_id": "1718326739284439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067521573255574000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anatainx29996 小时候父母带去很多地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718326739284439040",
+        "conversation_id": "2067515206675403002",
+        "created_at": "2026-06-18T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067521573255574000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067521573255574000",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067515206675403002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 这么强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 485,
+          "like_count": 16117,
+          "listed_count": 3,
+          "media_count": 988,
+          "tweet_count": 7187
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T18:00:03.000Z",
+        "description": "依然清水推👆🏻\n好友位🚪50",
+        "id": "1718326739284439040",
+        "name": "Anatainx",
+        "pinned_tweet_id": "2052739106682323108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778939178627276800/qMhFkzJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 1085,
+          "like_count": 9844,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 1214
+        },
+        "username": "anatainx29996",
+        "verified": false
+      }
+    ]
+  }
+}

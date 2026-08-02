@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046961581141946368",
+        "3_2046961581133635584"
+      ],
+      "media_source_tweet_id": [
+        "2046961590893735988",
+        "2046961590893735988"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047226495081525732",
+    "created_at": "2026-04-23T08:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047226495081525732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1414128363397160961",
+          "start": 3,
+          "username": "kraplia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXfuSn4TU3",
+          "end": 61,
+          "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+          "media_key": "3_2046961581141946368",
+          "start": 38,
+          "url": "https://t.co/ZXfuSn4TU3"
+        },
+        {
+          "display_url": "pic.x.com/ZXfuSn4TU3",
+          "end": 61,
+          "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+          "media_key": "3_2046961581133635584",
+          "start": 38,
+          "url": "https://t.co/ZXfuSn4TU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047226495081525732",
+    "lang": "uk",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046961590893735988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kraplia: тарас міку хатсуненко 🥬🎶 https://t.co/ZXfuSn4TU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046961581141946368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhEtnjWcAA-SWi.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046961581133635584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhEtnhXoAA7NNr.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046961581141946368",
+            "3_2046961581133635584"
+          ],
+          "media_source_tweet_id": [
+            "2046961590893735988",
+            "2046961590893735988"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047226495081525732",
+        "created_at": "2026-04-23T08:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047226495081525732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1414128363397160961",
+              "start": 3,
+              "username": "kraplia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXfuSn4TU3",
+              "end": 61,
+              "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+              "media_key": "3_2046961581141946368",
+              "start": 38,
+              "url": "https://t.co/ZXfuSn4TU3"
+            },
+            {
+              "display_url": "pic.x.com/ZXfuSn4TU3",
+              "end": 61,
+              "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+              "media_key": "3_2046961581133635584",
+              "start": 38,
+              "url": "https://t.co/ZXfuSn4TU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047226495081525732",
+        "lang": "uk",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046961590893735988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kraplia: тарас міку хатсуненко 🥬🎶 https://t.co/ZXfuSn4TU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046961581141946368",
+            "3_2046961581133635584"
+          ]
+        },
+        "author_id": "1414128363397160961",
+        "conversation_id": "2046961590893735988",
+        "created_at": "2026-04-22T14:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046961590893735988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXfuSn4TU3",
+              "end": 48,
+              "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+              "media_key": "3_2046961581141946368",
+              "start": 25,
+              "url": "https://t.co/ZXfuSn4TU3"
+            },
+            {
+              "display_url": "pic.x.com/ZXfuSn4TU3",
+              "end": 48,
+              "expanded_url": "https://x.com/kraplia/status/2046961590893735988/photo/1",
+              "media_key": "3_2046961581133635584",
+              "start": 25,
+              "url": "https://t.co/ZXfuSn4TU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046961590893735988",
+        "lang": "uk",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 28284,
+          "like_count": 2917,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "тарас міку хатсуненко 🥬🎶 https://t.co/ZXfuSn4TU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 360,
+          "like_count": 12803,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6230
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T07:44:29.000Z",
+        "description": "хтось крапля, а хтось ціле відро 💧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/r0ogwOaJ9fA",
+                "end": 23,
+                "expanded_url": "https://youtu.be/r0ogwOaJ9fA",
+                "start": 0,
+                "url": "https://t.co/l2TcdpZrqq"
+              }
+            ]
+          }
+        },
+        "id": "1414128363397160961",
+        "location": "Україна",
+        "name": "крапля",
+        "pinned_tweet_id": "1819065592411775302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834885491746902016/1js3Tk41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27967,
+          "following_count": 95,
+          "like_count": 7097,
+          "listed_count": 37,
+          "media_count": 3186,
+          "tweet_count": 17051
+        },
+        "url": "https://t.co/l2TcdpZrqq",
+        "username": "kraplia",
+        "verified": false
+      }
+    ]
+  }
+}

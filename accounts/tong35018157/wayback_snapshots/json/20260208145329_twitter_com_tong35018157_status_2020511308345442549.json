@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2020511308345442549",
+    "created_at": "2026-02-08T14:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020511308345442549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minamn_o/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/minamn_o/status/2020360384654504294",
+          "start": 4,
+          "url": "https://t.co/yJBFaSou6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020511308345442549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020360384654504294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/yJBFaSou6D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2020511308345442549",
+        "created_at": "2026-02-08T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020511308345442549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minamn_o/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/minamn_o/status/2020360384654504294",
+              "start": 4,
+              "url": "https://t.co/yJBFaSou6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020511308345442549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020360384654504294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/yJBFaSou6D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708889023513870337",
+        "conversation_id": "2020360384654504294",
+        "created_at": "2026-02-08T04:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020360384654504294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vassural/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/vassural/status/2019768488680702086",
+              "start": 43,
+              "url": "https://t.co/9Tat5QRDX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020360384654504294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 742,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019768488680702086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你牢鹅一边挣全世界幻想苏联大爹的网左的流量，一边挣全世界极右翼对基督保守神国的幻想🤣 https://t.co/9Tat5QRDX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 289,
+          "like_count": 10868,
+          "listed_count": 3,
+          "media_count": 878,
+          "tweet_count": 5595
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:57:57.000Z",
+        "description": "我一直在虔诚的等待那颗子弹",
+        "id": "1708889023513870337",
+        "location": "It's a long way to Tipperary",
+        "name": "統minami",
+        "pinned_tweet_id": "1992496832233251039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020450119137857536/zT5eEOEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 5937,
+          "like_count": 77546,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2217
+        },
+        "username": "mINaMn_o",
+        "verified": false
+      }
+    ]
+  }
+}

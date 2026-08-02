@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990340355695513600"
+      ],
+      "media_source_tweet_id": [
+        "1990340360628023583"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2042920856536428904",
+    "created_at": "2026-04-11T11:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042920856536428904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703762928",
+          "start": 3,
+          "username": "1965chich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZBSR7elT8s",
+          "end": 38,
+          "expanded_url": "https://x.com/1965chich/status/1990340360628023583/photo/1",
+          "media_key": "3_1990340355695513600",
+          "start": 15,
+          "url": "https://t.co/ZBSR7elT8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042920856536428904",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990340360628023583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1965chich: https://t.co/ZBSR7elT8s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_1990340355695513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58cAhtbEAAUXRA.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990340355695513600"
+          ],
+          "media_source_tweet_id": [
+            "1990340360628023583"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2042920856536428904",
+        "created_at": "2026-04-11T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042920856536428904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703762928",
+              "start": 3,
+              "username": "1965chich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBSR7elT8s",
+              "end": 38,
+              "expanded_url": "https://x.com/1965chich/status/1990340360628023583/photo/1",
+              "media_key": "3_1990340355695513600",
+              "start": 15,
+              "url": "https://t.co/ZBSR7elT8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042920856536428904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990340360628023583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1965chich: https://t.co/ZBSR7elT8s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990340355695513600"
+          ]
+        },
+        "author_id": "1703762928",
+        "conversation_id": "1990340360628023583",
+        "created_at": "2025-11-17T08:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990340360628023583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBSR7elT8s",
+              "end": 23,
+              "expanded_url": "https://x.com/1965chich/status/1990340360628023583/photo/1",
+              "media_key": "3_1990340355695513600",
+              "start": 0,
+              "url": "https://t.co/ZBSR7elT8s"
+            },
+            {
+              "display_url": "x.com/interjc/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/interjc/status/1989876722804953406",
+              "start": 24,
+              "url": "https://t.co/4sdPWtReia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990340360628023583",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 28234,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989876722804953406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZBSR7elT8s https://t.co/4sdPWtReia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 325,
+          "like_count": 12291,
+          "listed_count": 3,
+          "media_count": 922,
+          "tweet_count": 6067
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "location": "Hong Kong",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "2018603726110601607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9242,
+          "following_count": 1278,
+          "like_count": 25675,
+          "listed_count": 10,
+          "media_count": 404,
+          "tweet_count": 8627
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

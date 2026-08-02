@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052863793898602501"
+      ],
+      "media_source_tweet_id": [
+        "2052863838417023136"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2052924359698940393",
+    "created_at": "2026-05-09T01:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052924359698940393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1237917880248909824",
+          "start": 3,
+          "username": "deboraculoss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Or1aVMvAe7",
+          "end": 41,
+          "expanded_url": "https://x.com/deboraculoss/status/2052863838417023136/video/1",
+          "media_key": "7_2052863793898602501",
+          "start": 18,
+          "url": "https://t.co/Or1aVMvAe7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052924359698940393",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 844
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052863838417023136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deboraculoss: https://t.co/Or1aVMvAe7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10264,
+        "height": 1280,
+        "media_key": "7_2052863793898602501",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052863793898602501/pu/img/Ddfn9r42jQyJkDKF.jpg",
+        "public_metrics": {
+          "view_count": 67682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052863793898602501/pu/vid/avc1/320x568/5238xxeWN2_LOIiV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052863793898602501/pu/vid/avc1/480x852/sg0x53IjqoebYgKE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052863793898602501/pu/vid/avc1/720x1280/lswhX0T69fIh4ol7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052863793898602501/pu/pl/VyMV2TsBgW86zQMA.m3u8?tag=12&v=86d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052863793898602501"
+          ],
+          "media_source_tweet_id": [
+            "2052863838417023136"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2052924359698940393",
+        "created_at": "2026-05-09T01:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052924359698940393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1237917880248909824",
+              "start": 3,
+              "username": "deboraculoss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Or1aVMvAe7",
+              "end": 41,
+              "expanded_url": "https://x.com/deboraculoss/status/2052863838417023136/video/1",
+              "media_key": "7_2052863793898602501",
+              "start": 18,
+              "url": "https://t.co/Or1aVMvAe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052924359698940393",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 844
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052863838417023136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deboraculoss: https://t.co/Or1aVMvAe7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052863793898602501"
+          ]
+        },
+        "author_id": "1237917880248909824",
+        "conversation_id": "2052863838417023136",
+        "created_at": "2026-05-08T21:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052863838417023136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Or1aVMvAe7",
+              "end": 23,
+              "expanded_url": "https://x.com/deboraculoss/status/2052863838417023136/video/1",
+              "media_key": "7_2052863793898602501",
+              "start": 0,
+              "url": "https://t.co/Or1aVMvAe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052863838417023136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1371,
+          "impression_count": 184512,
+          "like_count": 6459,
+          "quote_count": 54,
+          "reply_count": 67,
+          "retweet_count": 844
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Or1aVMvAe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 387,
+          "like_count": 13753,
+          "listed_count": 3,
+          "media_count": 943,
+          "tweet_count": 6480
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T01:46:46.000Z",
+        "description": "cuenta secundaria de nil ojeda y editor para Ibai llanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milfshakes.es",
+                "end": 23,
+                "expanded_url": "http://milfshakes.es",
+                "start": 0,
+                "url": "https://t.co/kOIrD2Fw8P"
+              }
+            ]
+          }
+        },
+        "id": "1237917880248909824",
+        "name": "debora culos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880557922775609344/s-cibZ1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101674,
+          "following_count": 603,
+          "like_count": 41399,
+          "listed_count": 64,
+          "media_count": 2387,
+          "tweet_count": 10183
+        },
+        "url": "https://t.co/kOIrD2Fw8P",
+        "username": "deboraculoss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790363935327293440"
+      ],
+      "media_source_tweet_id": [
+        "1790363941576778071"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1790886051126575603",
+    "created_at": "2024-05-15T23:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T00:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790886051126575603"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "ドルフロ"
+        },
+        {
+          "end": 60,
+          "start": 45,
+          "tag": "GirlsFrontline"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "160757075",
+          "start": 3,
+          "username": "naokimineta026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/BtxYj9MlmX",
+          "end": 84,
+          "expanded_url": "https://twitter.com/naokimineta026/status/1790363941576778071/photo/1",
+          "media_key": "3_1790363935327293440",
+          "start": 61,
+          "url": "https://t.co/BtxYj9MlmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790886051126575603",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790363941576778071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naokimineta026: PP-2000&amp;スチェッキン\n#ドルフロ #GirlsFrontline https://t.co/BtxYj9MlmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1790363935327293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNimg2_akAAwTch.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790363935327293440"
+          ],
+          "media_source_tweet_id": [
+            "1790363941576778071"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1790886051126575603",
+        "created_at": "2024-05-15T23:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T00:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790886051126575603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 60,
+              "start": 45,
+              "tag": "GirlsFrontline"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "160757075",
+              "start": 3,
+              "username": "naokimineta026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BtxYj9MlmX",
+              "end": 84,
+              "expanded_url": "https://twitter.com/naokimineta026/status/1790363941576778071/photo/1",
+              "media_key": "3_1790363935327293440",
+              "start": 61,
+              "url": "https://t.co/BtxYj9MlmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790886051126575603",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790363941576778071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naokimineta026: PP-2000&amp;スチェッキン\n#ドルフロ #GirlsFrontline https://t.co/BtxYj9MlmX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790363935327293440"
+          ]
+        },
+        "author_id": "160757075",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1790363941576778071",
+        "created_at": "2024-05-14T12:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T13:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790363941576778071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 40,
+              "start": 25,
+              "tag": "GirlsFrontline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BtxYj9MlmX",
+              "end": 64,
+              "expanded_url": "https://twitter.com/naokimineta026/status/1790363941576778071/photo/1",
+              "media_key": "3_1790363935327293440",
+              "start": 41,
+              "url": "https://t.co/BtxYj9MlmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790363941576778071",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 8810,
+          "like_count": 587,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "PP-2000&amp;スチェッキン\n#ドルフロ #GirlsFrontline https://t.co/BtxYj9MlmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750482046236172288/yZ4e_tlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 202,
+          "like_count": 7679,
+          "listed_count": 1,
+          "tweet_count": 3608
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-29T01:51:42.000Z",
+        "description": "絵を描いて投稿してます。ファンタジー/銃/バトルテーマのイラストが得意です。いいね＆RTしてくれると嬉しいです。 【skeb】https://t.co/SSkhxfWaCJ お仕事のご依頼は✉DMにどうぞ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@naokimineta026",
+                "end": 86,
+                "expanded_url": "http://skeb.jp/@naokimineta026",
+                "start": 63,
+                "url": "https://t.co/SSkhxfWaCJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=396031",
+                "start": 0,
+                "url": "https://t.co/V0zTYYiaC3"
+              }
+            ]
+          }
+        },
+        "id": "160757075",
+        "location": "1:10:00",
+        "name": "みねたナオキ",
+        "pinned_tweet_id": "1512823542127415304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591957689894043648/WjeqQHxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9825,
+          "following_count": 180,
+          "like_count": 5007,
+          "listed_count": 130,
+          "tweet_count": 25533
+        },
+        "url": "https://t.co/V0zTYYiaC3",
+        "username": "naokimineta026",
+        "verified": false
+      }
+    ]
+  }
+}

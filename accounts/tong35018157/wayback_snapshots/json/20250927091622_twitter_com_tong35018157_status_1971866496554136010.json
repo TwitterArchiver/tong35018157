@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1971785083565887877",
+    "created_at": "2025-09-27T09:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T10:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971866496554136010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "Yooeuh121590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971866496554136010",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971785083565887877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yooeuh121590 想嘬奶奶不想舔b的直女有人懂吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1971785083565887877",
+        "created_at": "2025-09-27T09:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971866496554136010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "Yooeuh121590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971866496554136010",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971785083565887877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yooeuh121590 想嘬奶奶不想舔b的直女有人懂吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "1971785083565887877",
+        "created_at": "2025-09-27T03:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971785083565887877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971785083565887877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9468,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在怀疑自己的性取向，看片喜欢看女生大奶，暗恋一个帅男但现实见到男的就烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 245,
+          "like_count": 9809,
+          "listed_count": 3,
+          "media_count": 828,
+          "tweet_count": 5215
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 眼熟的会回关",
+        "id": "1663516164306382852",
+        "location": "robot",
+        "name": "豆包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 85,
+          "like_count": 5146,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 2378
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

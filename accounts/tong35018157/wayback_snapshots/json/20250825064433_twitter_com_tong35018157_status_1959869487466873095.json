@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1959869487466873095",
+    "created_at": "2025-08-25T06:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T07:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959869487466873095"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "A.M. Vasilevsky",
+          "probability": 0.7776,
+          "start": 40,
+          "type": "Person"
+        },
+        {
+          "end": 84,
+          "normalized_text": "I.S. Yumashev",
+          "probability": 0.439,
+          "start": 72,
+          "type": "Person"
+        },
+        {
+          "end": 133,
+          "normalized_text": "Shumshu",
+          "probability": 0.3437,
+          "start": 127,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1405404230932967426",
+          "start": 3,
+          "username": "sovetsky_flot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959869487466873095",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959446984881996109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sovetsky_flot: On August 15 Marshal A.M. Vasilevsky ordered Admiral I.S. Yumashev to begin the operation. Troops bound for Shumshu were…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_1959446902736371712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFak5HXQAAHpCJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 463,
+        "media_key": "3_1959446909304651776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFalRlXQAAbti3.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1959869487466873095",
+        "created_at": "2025-08-25T06:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959869487466873095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "A.M. Vasilevsky",
+              "probability": 0.7776,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "I.S. Yumashev",
+              "probability": 0.439,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 133,
+              "normalized_text": "Shumshu",
+              "probability": 0.3437,
+              "start": 127,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1405404230932967426",
+              "start": 3,
+              "username": "sovetsky_flot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959869487466873095",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959446984881996109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sovetsky_flot: On August 15 Marshal A.M. Vasilevsky ordered Admiral I.S. Yumashev to begin the operation. Troops bound for Shumshu were…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959446902736371712",
+            "3_1959446909304651776"
+          ]
+        },
+        "author_id": "1405404230932967426",
+        "conversation_id": "1959446658099363860",
+        "created_at": "2025-08-24T02:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T03:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959446984881996109"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "A.M. Vasilevsky",
+              "probability": 0.6937,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "I.S. Yumashev",
+              "probability": 0.472,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Shumshu",
+              "probability": 0.7629,
+              "start": 108,
+              "type": "Place"
+            },
+            {
+              "end": 224,
+              "normalized_text": "Far East Military",
+              "probability": 0.5252,
+              "start": 208,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8edSMNlSyQ",
+              "end": 300,
+              "expanded_url": "https://x.com/sovetsky_flot/status/1959446984881996109/photo/1",
+              "media_key": "3_1959446902736371712",
+              "start": 277,
+              "url": "https://t.co/8edSMNlSyQ"
+            },
+            {
+              "display_url": "pic.x.com/8edSMNlSyQ",
+              "end": 300,
+              "expanded_url": "https://x.com/sovetsky_flot/status/1959446984881996109/photo/1",
+              "media_key": "3_1959446909304651776",
+              "start": 277,
+              "url": "https://t.co/8edSMNlSyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959446984881996109",
+        "in_reply_to_user_id": "1405404230932967426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1255,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959446798495605207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "On August 15 Marshal A.M. Vasilevsky ordered Admiral I.S. Yumashev to begin the operation. Troops bound for Shumshu were originally supposed to set off on August 16, but the suddenness of the order meant the Far East Military district needed a day to actually assemble forces. https://t.co/8edSMNlSyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 222,
+          "like_count": 9363,
+          "listed_count": 2,
+          "media_count": 791,
+          "tweet_count": 4944
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T05:57:47.000Z",
+        "description": "Vice-Admiral of the Amur Flotilla in charge of serafuku procurement\n\nGlavkom: @HoChiMeme1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "HoChiMeme1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "navsource.narod.ru",
+                "end": 23,
+                "expanded_url": "https://navsource.narod.ru/",
+                "start": 0,
+                "url": "https://t.co/3JzE4PYYiG"
+              }
+            ]
+          }
+        },
+        "id": "1405404230932967426",
+        "location": "Shumshu Island",
+        "name": "Soviet Navy",
+        "pinned_tweet_id": "1831892118358593864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831873568910524416/uHh_6LEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 0,
+          "like_count": 532,
+          "listed_count": 22,
+          "media_count": 2344,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/3JzE4PYYiG",
+        "username": "sovetsky_flot",
+        "verified": false
+      }
+    ]
+  }
+}

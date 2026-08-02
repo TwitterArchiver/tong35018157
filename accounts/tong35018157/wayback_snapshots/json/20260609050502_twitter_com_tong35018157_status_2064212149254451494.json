@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064092894156279808"
+      ],
+      "media_source_tweet_id": [
+        "2064092896412729729"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2064212149254451494",
+    "created_at": "2026-06-09T05:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064212149254451494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1591981656872738817",
+          "start": 3,
+          "username": "JuanarielAcost5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BXZDI8UKmq",
+          "end": 44,
+          "expanded_url": "https://x.com/JuanarielAcost5/status/2064092896412729729/photo/1",
+          "media_key": "3_2064092894156279808",
+          "start": 21,
+          "url": "https://t.co/BXZDI8UKmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064212149254451494",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064092896412729729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuanarielAcost5: https://t.co/BXZDI8UKmq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2064092894156279808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUhjRuX0AApljn.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064092894156279808"
+          ],
+          "media_source_tweet_id": [
+            "2064092896412729729"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2064212149254451494",
+        "created_at": "2026-06-09T05:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064212149254451494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1591981656872738817",
+              "start": 3,
+              "username": "JuanarielAcost5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXZDI8UKmq",
+              "end": 44,
+              "expanded_url": "https://x.com/JuanarielAcost5/status/2064092896412729729/photo/1",
+              "media_key": "3_2064092894156279808",
+              "start": 21,
+              "url": "https://t.co/BXZDI8UKmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064212149254451494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064092896412729729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuanarielAcost5: https://t.co/BXZDI8UKmq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064092894156279808"
+          ]
+        },
+        "author_id": "1591981656872738817",
+        "conversation_id": "2064092896412729729",
+        "created_at": "2026-06-08T21:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064092896412729729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXZDI8UKmq",
+              "end": 23,
+              "expanded_url": "https://x.com/JuanarielAcost5/status/2064092896412729729/photo/1",
+              "media_key": "3_2064092894156279808",
+              "start": 0,
+              "url": "https://t.co/BXZDI8UKmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064092896412729729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 10923,
+          "like_count": 1165,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BXZDI8UKmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 462,
+          "like_count": 15447,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6989
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T02:31:37.000Z",
+        "description": "salí del océano solo para terminar en este purgatorio llamado Twitter\nPero hay gente buena honda aquí",
+        "id": "1591981656872738817",
+        "name": "KMS BISMARCK",
+        "pinned_tweet_id": "1825216875359604784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024833827504357376/gJwTIQWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 1511,
+          "like_count": 556687,
+          "listed_count": 7,
+          "media_count": 10319,
+          "tweet_count": 41353
+        },
+        "username": "JuanarielAcost5",
+        "verified": false
+      }
+    ]
+  }
+}

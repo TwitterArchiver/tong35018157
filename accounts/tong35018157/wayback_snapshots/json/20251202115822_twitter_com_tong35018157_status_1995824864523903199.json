@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1900739897801289728"
+      ],
+      "media_source_tweet_id": [
+        "1900741271376859400"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1995824864523903199",
+    "created_at": "2025-12-02T11:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995824864523903199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "459489950",
+          "start": 3,
+          "username": "CINEMA505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTgMGtPriF",
+          "end": 38,
+          "expanded_url": "https://x.com/CINEMA505/status/1900741271376859400/photo/1",
+          "media_key": "16_1900739897801289728",
+          "start": 15,
+          "url": "https://t.co/WTgMGtPriF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995824864523903199",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3553
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981036313601040604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CINEMA505: https://t.co/WTgMGtPriF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "16_1900739897801289728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GmDI3dLbsAAvDKj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GmDI3dLbsAAvDKj.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1900739897801289728"
+          ],
+          "media_source_tweet_id": [
+            "1900741271376859400"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1995824864523903199",
+        "created_at": "2025-12-02T11:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995824864523903199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "459489950",
+              "start": 3,
+              "username": "CINEMA505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTgMGtPriF",
+              "end": 38,
+              "expanded_url": "https://x.com/CINEMA505/status/1900741271376859400/photo/1",
+              "media_key": "16_1900739897801289728",
+              "start": 15,
+              "url": "https://t.co/WTgMGtPriF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995824864523903199",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3553
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981036313601040604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CINEMA505: https://t.co/WTgMGtPriF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1900739897801289728"
+          ],
+          "media_source_tweet_id": [
+            "1900741271376859400"
+          ]
+        },
+        "author_id": "459489950",
+        "conversation_id": "1981036313601040604",
+        "created_at": "2025-10-22T16:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T17:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981036313601040604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTgMGtPriF",
+              "end": 23,
+              "expanded_url": "https://x.com/CINEMA505/status/1900741271376859400/photo/1",
+              "media_key": "16_1900739897801289728",
+              "start": 0,
+              "url": "https://t.co/WTgMGtPriF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981036313601040604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14796,
+          "impression_count": 4454759,
+          "like_count": 51542,
+          "quote_count": 985,
+          "reply_count": 74,
+          "retweet_count": 3553
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WTgMGtPriF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 262,
+          "like_count": 10478,
+          "listed_count": 3,
+          "media_count": 863,
+          "tweet_count": 5448
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T18:39:19.000Z",
+        "description": "O melhor conteúdo sobre cinema e séries.| 📩: contatocinema505@gmail.com",
+        "id": "459489950",
+        "name": "CINEMA 505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302116214056026115/lLmSl9Tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453991,
+          "following_count": 283,
+          "like_count": 18530,
+          "listed_count": 985,
+          "media_count": 21502,
+          "tweet_count": 22816
+        },
+        "username": "CINEMA505",
+        "verified": true
+      }
+    ]
+  }
+}

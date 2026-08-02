@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1962000643926761758",
+    "created_at": "2025-08-31T13:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T14:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962146027391099302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962146027391099302",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962000643926761758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 初三这种活动我都请假的，在家躺着浮木开心我也开心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_1960913476529901568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaQauPXUAAMsbM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1962000643926761758",
+        "created_at": "2025-08-31T13:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T14:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962146027391099302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962146027391099302",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962000643926761758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 初三这种活动我都请假的，在家躺着浮木开心我也开心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960913476529901568"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "1962000643926761758",
+        "created_at": "2025-08-31T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962000643926761758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzFCQyTnPh",
+              "end": 32,
+              "expanded_url": "https://x.com/mhtqwq/status/1962000643926761758/photo/1",
+              "media_key": "3_1960913476529901568",
+              "start": 9,
+              "url": "https://t.co/kzFCQyTnPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962000643926761758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22283,
+          "like_count": 288,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "孩子:请输入文本 https://t.co/kzFCQyTnPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 226,
+          "like_count": 9485,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 5016
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜处理破事｜不建政｜Minecraft｜格雷科寄｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010 @yqua_ @dancingsnow0517",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Black_Millet"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Andy1782010"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "yqua_"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "dancingsnow0517"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 434,
+          "like_count": 7932,
+          "listed_count": 6,
+          "media_count": 1145,
+          "tweet_count": 6746
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

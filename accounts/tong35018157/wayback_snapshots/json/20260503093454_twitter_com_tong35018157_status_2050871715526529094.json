@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2050852988806381837",
+    "created_at": "2026-05-03T09:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050871715526529094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244063120915660800",
+          "start": 0,
+          "username": "Eurasian1qqer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050871715526529094",
+    "in_reply_to_user_id": "1244063120915660800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050865890632310959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eurasian1qqer ky的那些"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050865890632310959].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050865890632310959",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050865890632310959"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2050852988806381837",
+        "created_at": "2026-05-03T09:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050871715526529094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244063120915660800",
+              "start": 0,
+              "username": "Eurasian1qqer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050871715526529094",
+        "in_reply_to_user_id": "1244063120915660800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050865890632310959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eurasian1qqer ky的那些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 372,
+          "like_count": 13504,
+          "listed_count": 4,
+          "media_count": 939,
+          "tweet_count": 6416
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T00:45:53.000Z",
+        "description": "本账号将改为中转站+微学术推\n@UkrAryanEmperor - 外宣，谢绝野蛮人\n被我屏蔽=你妈死了\nFDP爆裂支持",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "UkrAryanEmperor"
+              }
+            ]
+          }
+        },
+        "id": "1244063120915660800",
+        "name": "/uhg/及/k/联合王国🇺🇦-UkrAryan🐍🟥⬛️",
+        "pinned_tweet_id": "2049328036986990985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023575427961262080/OYNfMMBF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 363,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 726
+        },
+        "username": "Eurasian1qqer",
+        "verified": false
+      }
+    ]
+  }
+}

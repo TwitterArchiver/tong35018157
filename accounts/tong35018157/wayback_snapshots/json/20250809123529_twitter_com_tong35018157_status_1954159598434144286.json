@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1954003522489663884",
+    "created_at": "2025-08-09T12:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954159598434144286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954159598434144286",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954003522489663884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 我更弄不清你老师的逻辑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1954003522489663884",
+        "created_at": "2025-08-09T12:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954159598434144286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954159598434144286",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954003522489663884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 我更弄不清你老师的逻辑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "1954003522489663884",
+        "created_at": "2025-08-09T02:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954003522489663884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954003522489663884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13781,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我一直弄不清霸凌者的逻辑，六年级开学的时候我也被短暂霸凌过一个月，后来老师把我安排和他做同桌之后，他反而把我当成“自己人”了，不仅把我从霸凌名单上消除，还让班上其他几个男的不许再霸凌我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 218,
+          "like_count": 9246,
+          "listed_count": 2,
+          "media_count": 779,
+          "tweet_count": 4859
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 不接推广！上海/男娘，线下入门咨询～",
+        "id": "1443444056701370371",
+        "location": "🚪188（好友位  接线下",
+        "name": "富江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950250198271143936/-mN2fP9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78724,
+          "following_count": 572,
+          "like_count": 8709,
+          "listed_count": 224,
+          "media_count": 730,
+          "tweet_count": 6759
+        },
+        "username": "tina63991073",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047587789169127861",
+    "created_at": "2026-04-24T10:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047619991055552971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047619991055552971",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047587789169127861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 女主叫习翩翩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047587789169127861",
+        "created_at": "2026-04-24T10:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047619991055552971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047619991055552971",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047587789169127861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 女主叫习翩翩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975134504393347072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "2047587789169127861",
+        "created_at": "2026-04-24T08:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047587789169127861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YSD0118/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/YSD0118/status/2047243888604360927",
+              "start": 6,
+              "url": "https://t.co/om7WUY66rg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047587789169127861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047243888604360927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我活到头了 https://t.co/om7WUY66rg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 361,
+          "like_count": 12884,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 6251
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "纯良温和支黑，一个四大皆空的老东西，少拉我站队谈立场｜喜欢中东战争和日帝，欢迎历史同好友好交流\n小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "支那汉蛆和东北狗它妈逼里",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 1066,
+          "like_count": 41983,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 3832
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

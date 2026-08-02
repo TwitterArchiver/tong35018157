@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1835125749118017608",
+    "created_at": "2024-09-16T08:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T09:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835601639136469216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835601639136469216",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835125749118017608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 集中营"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1835125749118017608",
+        "created_at": "2024-09-16T08:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T09:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835601639136469216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835601639136469216",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835125749118017608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 集中营"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835125706315251714"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1835125749118017608",
+        "created_at": "2024-09-15T01:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T02:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835125749118017608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olvdzqubqi",
+              "end": 34,
+              "expanded_url": "https://twitter.com/baizhou_kawaii/status/1835125749118017608/photo/1",
+              "media_key": "3_1835125706315251714",
+              "start": 11,
+              "url": "https://t.co/OLvDZqUBQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835125749118017608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 44514,
+          "like_count": 414,
+          "quote_count": 2,
+          "reply_count": 99,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这学校浴室我热烈的马 https://t.co/OLvDZqUBQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815395831643537408/1mjR8wae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 206,
+          "like_count": 8072,
+          "listed_count": 1,
+          "tweet_count": 3887
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "纯真而不欠闻达  善良而不失坚强/stand with🇺🇦🇮🇱/Friendly to LGBTQ+🏳️‍🌈🏳️‍⚧️/互fo私信/可爱的@tubomi520 宝宝@KagurazakaSusie\n❤️😡：@KiraAme3\n也喜欢：@zhao_Remake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "tubomi520"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "KagurazakaSusie"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "KiraAme3"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "zhao_Remake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "www.com",
+                "end": 23,
+                "expanded_url": "http://www.com",
+                "start": 0,
+                "url": "https://t.co/RY5yMOjnNi"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "置位",
+        "name": "坂下白粥🌋📟🫲🌛🫲🍄",
+        "pinned_tweet_id": "1835180199186760105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823551460833136640/3MTzQJIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 944,
+          "like_count": 29409,
+          "listed_count": 15,
+          "tweet_count": 11911
+        },
+        "url": "https://t.co/RY5yMOjnNi",
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076672164825354241",
+        "3_2076672164825329665"
+      ],
+      "media_source_tweet_id": [
+        "2076672174744834413",
+        "2076672174744834413"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2076691392345358552",
+    "created_at": "2026-07-13T15:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076691392345358552"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "少女前線"
+        },
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "ドールズフロントライン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520400301781827584",
+          "start": 3,
+          "username": "Southern2064"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bqstdXM7vA",
+          "end": 78,
+          "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+          "media_key": "3_2076672164825354241",
+          "start": 55,
+          "url": "https://t.co/bqstdXM7vA"
+        },
+        {
+          "display_url": "pic.x.com/bqstdXM7vA",
+          "end": 78,
+          "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+          "media_key": "3_2076672164825329665",
+          "start": 55,
+          "url": "https://t.co/bqstdXM7vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076691392345358552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076672174744834413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Southern2064: Weapon Testing...\n#少女前線 #ドールズフロントライン https://t.co/bqstdXM7vA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2076672164825354241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHSVMtbUAE6b6C.jpg",
+        "width": 1788
+      },
+      {
+        "height": 1110,
+        "media_key": "3_2076672164825329665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHSVMta8AE8YcF.jpg",
+        "width": 1788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076672164825354241",
+            "3_2076672164825329665"
+          ],
+          "media_source_tweet_id": [
+            "2076672174744834413",
+            "2076672174744834413"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2076691392345358552",
+        "created_at": "2026-07-13T15:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076691392345358552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "少女前線"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "ドールズフロントライン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520400301781827584",
+              "start": 3,
+              "username": "Southern2064"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqstdXM7vA",
+              "end": 78,
+              "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+              "media_key": "3_2076672164825354241",
+              "start": 55,
+              "url": "https://t.co/bqstdXM7vA"
+            },
+            {
+              "display_url": "pic.x.com/bqstdXM7vA",
+              "end": 78,
+              "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+              "media_key": "3_2076672164825329665",
+              "start": 55,
+              "url": "https://t.co/bqstdXM7vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691392345358552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076672174744834413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Southern2064: Weapon Testing...\n#少女前線 #ドールズフロントライン https://t.co/bqstdXM7vA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076672164825354241",
+            "3_2076672164825329665"
+          ]
+        },
+        "author_id": "1520400301781827584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2076672174744834413",
+        "created_at": "2026-07-13T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076672174744834413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "少女前線"
+            },
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "ドールズフロントライン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqstdXM7vA",
+              "end": 60,
+              "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+              "media_key": "3_2076672164825354241",
+              "start": 37,
+              "url": "https://t.co/bqstdXM7vA"
+            },
+            {
+              "display_url": "pic.x.com/bqstdXM7vA",
+              "end": 60,
+              "expanded_url": "https://x.com/Southern2064/status/2076672174744834413/photo/1",
+              "media_key": "3_2076672164825329665",
+              "start": 37,
+              "url": "https://t.co/bqstdXM7vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076672174744834413",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1703,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Weapon Testing...\n#少女前線 #ドールズフロントライン https://t.co/bqstdXM7vA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 520,
+          "like_count": 17488,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 7737
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T13:51:01.000Z",
+        "description": "",
+        "id": "1520400301781827584",
+        "name": "Southern Cross",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907282020763676673/oEHF39qR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 9,
+          "media_count": 759,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "Southern2064",
+        "verified": false
+      }
+    ]
+  }
+}

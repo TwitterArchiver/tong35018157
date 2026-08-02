@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2082396015026454710",
+    "created_at": "2026-07-29T11:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082426140753629365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082426140753629365",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082396015026454710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 好大的蛋挞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3512,
+        "media_key": "3_2082395980029460480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYoHF9bgAA-eNi.jpg",
+        "width": 4080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082395999407124480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYoIOJbMAAfZmT.jpg",
+        "width": 2783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2082396015026454710",
+        "created_at": "2026-07-29T11:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082426140753629365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082426140753629365",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082396015026454710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 好大的蛋挞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082395980029460480",
+            "3_2082395999407124480"
+          ]
+        },
+        "author_id": "1911458837107732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082396015026454710",
+        "created_at": "2026-07-29T09:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082396015026454710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1aU3xZm9v",
+              "end": 31,
+              "expanded_url": "https://x.com/kanameranaswly/status/2082396015026454710/photo/1",
+              "media_key": "3_2082395980029460480",
+              "start": 8,
+              "url": "https://t.co/R1aU3xZm9v"
+            },
+            {
+              "display_url": "pic.x.com/R1aU3xZm9v",
+              "end": 31,
+              "expanded_url": "https://x.com/kanameranaswly/status/2082396015026454710/photo/1",
+              "media_key": "3_2082395999407124480",
+              "start": 8,
+              "url": "https://t.co/R1aU3xZm9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082396015026454710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自己烤的南瓜派 https://t.co/R1aU3xZm9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 526,
+          "like_count": 17824,
+          "listed_count": 3,
+          "media_count": 1045,
+          "tweet_count": 7875
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "04年过气少前指挥官，HK416厨，404小队❤️❤️❤️4I＞1I直男，Sub+Ⓜ️。少谈国事，支持🇺🇦🇮🇱和NATO的德棍🇩🇪，偏混沌善良，来我这刷黄纳肥皂梗的反法西斯德黑臭蛆你老冯被孔选仲三通一达😁zz立场是温和建制派民族社会主义者，6分保守威权4分自由，德式法团主义市场经济。CN/EN/JP=OK，GER学习中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heckler-koch.com/en/Products/Mi…",
+                "end": 23,
+                "expanded_url": "https://www.heckler-koch.com/en/Products/Military%20and%20Law%20Enforcement/Assault%20rifles/HK416",
+                "start": 0,
+                "url": "https://t.co/pm34ScC4yJ"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "I.G 法本工业集团法兰克福总部",
+        "name": "✙守望莱茵的乐奈✠ꑭ🇩🇪🇦🇹",
+        "pinned_tweet_id": "2072641230408917150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081805652360675328/bNjiHbGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1143,
+          "like_count": 17411,
+          "listed_count": 2,
+          "media_count": 658,
+          "tweet_count": 2424
+        },
+        "url": "https://t.co/pm34ScC4yJ",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

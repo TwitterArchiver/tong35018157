@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1934254684476494328",
+    "created_at": "2025-06-15T14:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934254684476494328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stack_jax/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/stack_jax/status/1933800280946323583",
+          "start": 4,
+          "url": "https://t.co/MmnuEuwlxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934254684476494328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933800280946323583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气笑了 https://t.co/MmnuEuwlxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_1933800278987284480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtY9G6eWoAA2qgo.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1934254684476494328",
+        "created_at": "2025-06-15T14:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934254684476494328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stack_jax/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/stack_jax/status/1933800280946323583",
+              "start": 4,
+              "url": "https://t.co/MmnuEuwlxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934254684476494328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933800280946323583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气笑了 https://t.co/MmnuEuwlxZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933800278987284480"
+          ]
+        },
+        "author_id": "1886677716360941568",
+        "conversation_id": "1933605580788183292",
+        "created_at": "2025-06-14T08:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T09:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933800280946323583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1155840474588037121",
+              "start": 0,
+              "username": "LookAtMyMeat1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LlZH9QOS6",
+              "end": 45,
+              "expanded_url": "https://x.com/Stack_Jax/status/1933800280946323583/photo/1",
+              "media_key": "3_1933800278987284480",
+              "start": 22,
+              "url": "https://t.co/4LlZH9QOS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933800280946323583",
+        "in_reply_to_user_id": "1155840474588037121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4390,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933605580788183292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LookAtMyMeat1 🤍💕🤍💕🤍💕 https://t.co/4LlZH9QOS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 223,
+          "like_count": 8844,
+          "listed_count": 2,
+          "media_count": 723,
+          "tweet_count": 4510
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:26:45.000Z",
+        "description": "💛🤍🖤 https://t.co/aR6JHIR6Pr Hyper Gamer/Edgy Content/ RedtillDead 🇺🇸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sh0rtstack_tx…",
+                "end": 27,
+                "expanded_url": "https://youtube.com/@sh0rtstack_tx?si=P3Nk7UzS7xwk2wkX",
+                "start": 4,
+                "url": "https://t.co/aR6JHIR6Pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/idl5cgay7g",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/idl5cgay7g",
+                "start": 0,
+                "url": "https://t.co/gOUGr8MNiI"
+              }
+            ]
+          }
+        },
+        "id": "1886677716360941568",
+        "name": "🥞Stack_Vtuber🥞",
+        "pinned_tweet_id": "1928453239642431763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910544592409186304/J5pltrPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1246,
+          "like_count": 28412,
+          "listed_count": 8,
+          "media_count": 5519,
+          "tweet_count": 17362
+        },
+        "url": "https://t.co/gOUGr8MNiI",
+        "username": "Stack_Jax",
+        "verified": true
+      }
+    ]
+  }
+}

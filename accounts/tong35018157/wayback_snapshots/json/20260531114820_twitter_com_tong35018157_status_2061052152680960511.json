@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2061032446624518437",
+    "created_at": "2026-05-31T11:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061052152680960511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658468118497472514",
+          "start": 0,
+          "username": "muskinpingvirus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061052152680960511",
+    "in_reply_to_user_id": "1658468118497472514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061048256822747636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muskinpingvirus 还能吃吗，是我我就吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2061032446624518437",
+        "created_at": "2026-05-31T11:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061052152680960511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658468118497472514",
+              "start": 0,
+              "username": "muskinpingvirus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061052152680960511",
+        "in_reply_to_user_id": "1658468118497472514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048256822747636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muskinpingvirus 还能吃吗，是我我就吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658468118497472514",
+        "conversation_id": "2061032446624518437",
+        "created_at": "2026-05-31T11:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061048256822747636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061048256822747636",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061032446624518437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 这么一说想起来还有个暴风雪在冷冻室里，前天下班太热寻思买一个回来吃→不想出配送费就决定自己去买→怕路上化了就没骑车/开车扫了个共享结果来回路费4.5比配送费还贵→回家感觉干冰好好玩→丢进了剩下一杯的可乐瓶里降温加重新充气，结果就给忘冰箱里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 452,
+          "like_count": 15126,
+          "listed_count": 3,
+          "media_count": 974,
+          "tweet_count": 6901
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "😤方滨兴全家什么时候死干净！！！",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039558914417782784/DbyHDvd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 900,
+          "like_count": 9655,
+          "listed_count": 6,
+          "media_count": 1253,
+          "tweet_count": 6088
+        },
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

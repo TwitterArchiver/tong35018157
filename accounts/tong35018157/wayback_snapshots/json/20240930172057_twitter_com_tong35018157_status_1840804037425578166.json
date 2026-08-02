@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1840758745413963940",
+    "created_at": "2024-09-30T17:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T18:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840804037425578166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "878899442744573952",
+          "start": 0,
+          "username": "MynameGhost1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840804037425578166",
+    "in_reply_to_user_id": "878899442744573952",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840791239979098205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MynameGhost1 可惜没接深圳，不然我去珠海也方便了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1840758745413963940",
+        "created_at": "2024-09-30T17:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T18:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840804037425578166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "878899442744573952",
+              "start": 0,
+              "username": "MynameGhost1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840804037425578166",
+        "in_reply_to_user_id": "878899442744573952",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840791239979098205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MynameGhost1 可惜没接深圳，不然我去珠海也方便了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878899442744573952",
+        "conversation_id": "1840758745413963940",
+        "created_at": "2024-09-30T16:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T17:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840791239979098205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840791239979098205",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840758745413963940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 有一说一，至少我去珠海方便了不少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836020406995849218/TXcY86G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8106,
+          "listed_count": 1,
+          "tweet_count": 3904
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T08:55:31.000Z",
+        "description": "funni things lover ,defined as brainrot on certain subjects , feel free to leave your comment",
+        "id": "878899442744573952",
+        "name": "MynameGhost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402559248949596162/ejT3WeD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 61,
+          "like_count": 86750,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "MynameGhost1",
+        "verified": false
+      }
+    ]
+  }
+}

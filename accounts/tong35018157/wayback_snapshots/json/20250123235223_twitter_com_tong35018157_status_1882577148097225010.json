@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1882114019680784487",
+    "created_at": "2025-01-23T23:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T00:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882577148097225010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882577148097225010",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882114019680784487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 来玩世征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1882114019680784487",
+        "created_at": "2025-01-23T23:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T00:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882577148097225010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882577148097225010",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882114019680784487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 来玩世征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366512947015520259",
+        "conversation_id": "1882114019680784487",
+        "created_at": "2025-01-22T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882114019680784487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882114019680784487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "钢四这种游戏到底是什么神人在玩，4个小时没玩懂，我去看别人玩了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 214,
+          "like_count": 8273,
+          "listed_count": 1,
+          "media_count": 665,
+          "tweet_count": 4109
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "倾心于卿，热恋予你，心系千禧，携君共继",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz/special/index",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/special/index",
+                "start": 0,
+                "url": "https://t.co/WqZdw0mBPn"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "🍀焚蒿宝宝🍵☘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879693390042017792/NJoIWImY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1395,
+          "like_count": 106708,
+          "listed_count": 6,
+          "media_count": 1445,
+          "tweet_count": 22799
+        },
+        "url": "https://t.co/WqZdw0mBPn",
+        "username": "gsjzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

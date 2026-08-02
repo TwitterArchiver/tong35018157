@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1877267063225332040",
+    "created_at": "2025-01-09T08:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T09:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877268852976841005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877268852976841005",
+    "in_reply_to_user_id": "1467315060041256963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877267063225332040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卢泰愚可能是斑鸠……青瓦台是黑社会鸟巢吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1877267063225332040",
+        "created_at": "2025-01-09T08:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T09:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877268852976841005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877268852976841005",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877267063225332040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卢泰愚可能是斑鸠……青瓦台是黑社会鸟巢吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877267035551657984"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1877267063225332040",
+        "created_at": "2025-01-09T08:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T09:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877267063225332040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCL7CJefKD",
+              "end": 28,
+              "expanded_url": "https://x.com/tong35018157/status/1877267063225332040/photo/1",
+              "media_key": "3_1877267035551657984",
+              "start": 5,
+              "url": "https://t.co/vCL7CJefKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877267063225332040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "代全小将 https://t.co/vCL7CJefKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 209,
+          "like_count": 8192,
+          "listed_count": 1,
+          "media_count": 650,
+          "tweet_count": 4019
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

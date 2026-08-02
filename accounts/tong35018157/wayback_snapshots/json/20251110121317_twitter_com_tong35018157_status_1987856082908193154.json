@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987677414298935296",
+        "3_1987677414298984448"
+      ],
+      "media_source_tweet_id": [
+        "1987677451527586012",
+        "1987677451527586012"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1987856082908193154",
+    "created_at": "2025-11-10T12:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987856082908193154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "東武動物公園"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "シロフクロウ"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "ロク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "109532430",
+          "start": 3,
+          "username": "tobuzoo7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZoOTaa6m0",
+          "end": 65,
+          "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+          "media_key": "3_1987677414298935296",
+          "start": 42,
+          "url": "https://t.co/TZoOTaa6m0"
+        },
+        {
+          "display_url": "pic.x.com/TZoOTaa6m0",
+          "end": 65,
+          "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+          "media_key": "3_1987677414298984448",
+          "start": 42,
+          "url": "https://t.co/TZoOTaa6m0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987856082908193154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16067
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987677451527586012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tobuzoo7: にっこり☺️\n\n#東武動物公園\n#シロフクロウ\n#ロク https://t.co/TZoOTaa6m0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1987677414298935296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WmE79a4AAPnNS.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1987677414298984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WmE79boAAhcyY.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987677414298935296",
+            "3_1987677414298984448"
+          ],
+          "media_source_tweet_id": [
+            "1987677451527586012",
+            "1987677451527586012"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1987856082908193154",
+        "created_at": "2025-11-10T12:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987856082908193154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "東武動物公園"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "シロフクロウ"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "ロク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "109532430",
+              "start": 3,
+              "username": "tobuzoo7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZoOTaa6m0",
+              "end": 65,
+              "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+              "media_key": "3_1987677414298935296",
+              "start": 42,
+              "url": "https://t.co/TZoOTaa6m0"
+            },
+            {
+              "display_url": "pic.x.com/TZoOTaa6m0",
+              "end": 65,
+              "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+              "media_key": "3_1987677414298984448",
+              "start": 42,
+              "url": "https://t.co/TZoOTaa6m0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987856082908193154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16067
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987677451527586012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tobuzoo7: にっこり☺️\n\n#東武動物公園\n#シロフクロウ\n#ロク https://t.co/TZoOTaa6m0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987677414298935296",
+            "3_1987677414298984448"
+          ]
+        },
+        "author_id": "109532430",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "1987677451527586012",
+        "created_at": "2025-11-10T00:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987677451527586012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "東武動物公園"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "シロフクロウ"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "ロク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZoOTaa6m0",
+              "end": 51,
+              "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+              "media_key": "3_1987677414298935296",
+              "start": 28,
+              "url": "https://t.co/TZoOTaa6m0"
+            },
+            {
+              "display_url": "pic.x.com/TZoOTaa6m0",
+              "end": 51,
+              "expanded_url": "https://x.com/tobuzoo7/status/1987677451527586012/photo/1",
+              "media_key": "3_1987677414298984448",
+              "start": 28,
+              "url": "https://t.co/TZoOTaa6m0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987677451527586012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5577,
+          "impression_count": 2476478,
+          "like_count": 114102,
+          "quote_count": 679,
+          "reply_count": 275,
+          "retweet_count": 16067
+        },
+        "reply_settings": "everyone",
+        "text": "にっこり☺️\n\n#東武動物公園\n#シロフクロウ\n#ロク https://t.co/TZoOTaa6m0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 252,
+          "like_count": 10148,
+          "listed_count": 3,
+          "media_count": 849,
+          "tweet_count": 5349
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-29T11:06:52.000Z",
+        "description": "埼玉県宮代町にある東武動物公園の動物園公式アカウントです。120種1200点の動物たちの日々の様子やイベント情報を飼育係が毎日発信中‼︎‼︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobuzoo.com",
+                "end": 23,
+                "expanded_url": "https://www.tobuzoo.com/",
+                "start": 0,
+                "url": "https://t.co/hg99xkvYiI"
+              }
+            ]
+          }
+        },
+        "id": "109532430",
+        "location": "東武動物公園",
+        "name": "東武動物公園【公式】リュウくん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/662800565/anip-47-001_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85321,
+          "following_count": 53,
+          "like_count": 493,
+          "listed_count": 2120,
+          "media_count": 5848,
+          "tweet_count": 8680
+        },
+        "url": "https://t.co/hg99xkvYiI",
+        "username": "tobuzoo7",
+        "verified": false
+      }
+    ]
+  }
+}

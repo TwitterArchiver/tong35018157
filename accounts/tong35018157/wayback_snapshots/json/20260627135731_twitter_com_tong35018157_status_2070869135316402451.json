@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Horse racing",
+          "id": "847901716024446977",
+          "name": "Horse racing & equestrian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horse racing",
+          "id": "847901716024446977",
+          "name": "Horse racing & equestrian"
+        }
+      }
+    ],
+    "conversation_id": "2070869135316402451",
+    "created_at": "2026-06-27T13:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070869135316402451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chocoleopard/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chocoleopard/status/2070713394081177885",
+          "start": 6,
+          "url": "https://t.co/B7h9fxvacb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070869135316402451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070713394081177885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大鼻孔猛吸 https://t.co/B7h9fxvacb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11566,
+        "height": 1080,
+        "media_key": "13_2070713309909995520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070713309909995520/img/wBRrcJhOxo46VzzN.jpg",
+        "public_metrics": {
+          "view_count": 781075
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070713309909995520/pl/0pvIhWcCEgxpxHga.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070713309909995520/vid/avc1/1920x1080/IvkBgZ2Dtqjis2Bl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070713309909995520/vid/avc1/1280x720/AyEG_E1Zl4EdyJtx.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070713309909995520/vid/avc1/480x270/1ASCcx47_5ZnlHvD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070713309909995520/vid/avc1/640x360/5msMym4z-dfSKLfm.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          }
+        ],
+        "conversation_id": "2070869135316402451",
+        "created_at": "2026-06-27T13:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070869135316402451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chocoleopard/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chocoleopard/status/2070713394081177885",
+              "start": 6,
+              "url": "https://t.co/B7h9fxvacb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070869135316402451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070713394081177885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大鼻孔猛吸 https://t.co/B7h9fxvacb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070713309909995520"
+          ]
+        },
+        "author_id": "102381598",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          }
+        ],
+        "conversation_id": "2070713394081177885",
+        "created_at": "2026-06-27T03:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070713394081177885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGeE0VGwWL",
+              "end": 39,
+              "expanded_url": "https://x.com/chocoleopard/status/2070713394081177885/video/1",
+              "media_key": "13_2070713309909995520",
+              "start": 16,
+              "url": "https://t.co/RGeE0VGwWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070713394081177885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1293,
+          "impression_count": 1610273,
+          "like_count": 9360,
+          "quote_count": 126,
+          "reply_count": 63,
+          "retweet_count": 1468
+        },
+        "reply_settings": "everyone",
+        "text": "競馬を見にきてないじゃん！！！ https://t.co/RGeE0VGwWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 488,
+          "like_count": 16641,
+          "listed_count": 3,
+          "media_count": 995,
+          "tweet_count": 7350
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-06T14:17:05.000Z",
+        "description": "アルクトスにたくさん嫁をください #栗活、#おはひーろー通信 (敬称略😉🙏) 田辺裕信,五十嵐雄祐,津村明秀,川田将雅,森泰斗,石川慎将/💃栗田徹厩舎🌰 障害レース🏇Blooming🌷出資馬:ステラガーネット,ソルティエタニティ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "栗活"
+              },
+              {
+                "end": 30,
+                "start": 21,
+                "tag": "おはひーろー通信"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/epsomyuma/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/epsomyuma/",
+                "start": 0,
+                "url": "https://t.co/8jJr1Z4Ip5"
+              }
+            ]
+          }
+        },
+        "id": "102381598",
+        "location": "宮崎 宮崎市",
+        "name": "エプソムゆま🏇ダート愛が重馬場🏆🥇",
+        "pinned_tweet_id": "1836616315169312892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568638031514697730/fubbr0YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 2196,
+          "like_count": 226010,
+          "listed_count": 50,
+          "media_count": 23071,
+          "tweet_count": 114191
+        },
+        "url": "https://t.co/8jJr1Z4Ip5",
+        "username": "chocoleopard",
+        "verified": true
+      }
+    ]
+  }
+}

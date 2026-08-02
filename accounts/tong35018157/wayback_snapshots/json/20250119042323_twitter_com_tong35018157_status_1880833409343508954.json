@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1880833409343508954",
+    "created_at": "2025-01-19T04:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T05:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880833409343508954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moyudtivns6419…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/moyudtivns64199/status/1880461395487330633",
+          "start": 33,
+          "url": "https://t.co/nvqnpkV2um"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880833409343508954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880461395487330633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "起初感觉单口相声看来玩也没啥，后面他粉丝到处刷是真的六百六十六😇 https://t.co/nvqnpkV2um"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1880833409343508954",
+        "created_at": "2025-01-19T04:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880833409343508954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moyudtivns6419…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/moyudtivns64199/status/1880461395487330633",
+              "start": 33,
+              "url": "https://t.co/nvqnpkV2um"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880833409343508954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880461395487330633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起初感觉单口相声看来玩也没啥，后面他粉丝到处刷是真的六百六十六😇 https://t.co/nvqnpkV2um"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880461382812069892",
+            "3_1880461383902588928",
+            "3_1880461383256752128",
+            "3_1880461384091414529"
+          ]
+        },
+        "author_id": "1847963434102747136",
+        "conversation_id": "1880461395487330633",
+        "created_at": "2025-01-18T03:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T04:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880461395487330633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkUKdrpsJ9",
+              "end": 124,
+              "expanded_url": "https://x.com/moYUDTIvNs64199/status/1880461395487330633/photo/1",
+              "media_key": "3_1880461382812069892",
+              "start": 101,
+              "url": "https://t.co/QkUKdrpsJ9"
+            },
+            {
+              "display_url": "pic.x.com/QkUKdrpsJ9",
+              "end": 124,
+              "expanded_url": "https://x.com/moYUDTIvNs64199/status/1880461395487330633/photo/1",
+              "media_key": "3_1880461383902588928",
+              "start": 101,
+              "url": "https://t.co/QkUKdrpsJ9"
+            },
+            {
+              "display_url": "pic.x.com/QkUKdrpsJ9",
+              "end": 124,
+              "expanded_url": "https://x.com/moYUDTIvNs64199/status/1880461395487330633/photo/1",
+              "media_key": "3_1880461383256752128",
+              "start": 101,
+              "url": "https://t.co/QkUKdrpsJ9"
+            },
+            {
+              "display_url": "pic.x.com/QkUKdrpsJ9",
+              "end": 124,
+              "expanded_url": "https://x.com/moYUDTIvNs64199/status/1880461395487330633/photo/1",
+              "media_key": "3_1880461384091414529",
+              "start": 101,
+              "url": "https://t.co/QkUKdrpsJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880461395487330633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 37951,
+          "like_count": 419,
+          "quote_count": 9,
+          "reply_count": 45,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "小约翰可汗一直都是电子榨菜\n最离谱的就是法国投降和霍查那俩期\n你当着乐子看没人说你\n但是你如果当真刷烂梗\n还说别人蹭热度堵嘴就有问题了\n上次有个埃及人 up 说埃及人对纳赛尔的真实看法，被他粉丝追着骂 https://t.co/QkUKdrpsJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 209,
+          "like_count": 8206,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 4040
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广西，南宁一中，广西师范大学，南宁百货大楼",
+        "name": "隆美尔的克星·氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879743441439227904/eFzQ9ePg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 348,
+          "like_count": 2187,
+          "listed_count": 9,
+          "media_count": 1396,
+          "tweet_count": 3568
+        },
+        "username": "moYUDTIvNs64199",
+        "verified": false
+      }
+    ]
+  }
+}

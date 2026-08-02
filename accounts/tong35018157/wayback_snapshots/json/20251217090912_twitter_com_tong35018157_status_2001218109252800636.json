@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2001218109252800636",
+    "created_at": "2025-12-17T09:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T10:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001218109252800636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nettspendyaoi/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nettspendyaoi/status/2000186664657051925",
+          "start": 5,
+          "url": "https://t.co/IA5hz4MrI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001218109252800636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000186664657051925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是屎吗 https://t.co/IA5hz4MrI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_2000186658449227785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IXKx1XgAkabja.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2001218109252800636",
+        "created_at": "2025-12-17T09:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001218109252800636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nettspendyaoi/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nettspendyaoi/status/2000186664657051925",
+              "start": 5,
+              "url": "https://t.co/IA5hz4MrI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001218109252800636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000186664657051925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是屎吗 https://t.co/IA5hz4MrI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000186658449227785"
+          ]
+        },
+        "author_id": "1817659246885978112",
+        "conversation_id": "2000186664657051925",
+        "created_at": "2025-12-14T12:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000186664657051925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrOVZ1qxKR",
+              "end": 42,
+              "expanded_url": "https://x.com/nettspendyaoi/status/2000186664657051925/photo/1",
+              "media_key": "3_2000186658449227785",
+              "start": 19,
+              "url": "https://t.co/NrOVZ1qxKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000186664657051925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 846,
+          "impression_count": 5706542,
+          "like_count": 2210,
+          "quote_count": 412,
+          "reply_count": 576,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "new shirt came ^.^ https://t.co/NrOVZ1qxKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 270,
+          "like_count": 10530,
+          "listed_count": 3,
+          "media_count": 866,
+          "tweet_count": 5482
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T20:32:01.000Z",
+        "description": "@jugghisnut",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "jugghisnut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/4Pa4tPVZ…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/4Pa4tPVZhlClldFXCPwAoS",
+                "start": 0,
+                "url": "https://t.co/9pPX4hlln7"
+              }
+            ]
+          }
+        },
+        "id": "1817659246885978112",
+        "location": "17 🇧🇬",
+        "name": "dirtbag",
+        "pinned_tweet_id": "2000690784304075078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995567076799397888/KpT7QHvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 217,
+          "like_count": 16038,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 5633
+        },
+        "url": "https://t.co/9pPX4hlln7",
+        "username": "nettspendyaoi",
+        "verified": false
+      }
+    ]
+  }
+}

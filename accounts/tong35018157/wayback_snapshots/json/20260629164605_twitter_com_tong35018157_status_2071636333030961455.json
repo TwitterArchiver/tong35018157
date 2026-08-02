@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2071636333030961455",
+    "created_at": "2026-06-29T16:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071636333030961455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/20140128spr/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/20140128spr/status/2071548205582766324",
+          "start": 5,
+          "url": "https://t.co/EQXr3pQA4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071636333030961455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071548205582766324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回族鸠子 https://t.co/EQXr3pQA4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12331,
+        "height": 720,
+        "media_key": "13_2071548136926134272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071548136926134272/img/BmInTVvw8uUCdOwz.jpg",
+        "public_metrics": {
+          "view_count": 4558
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071548136926134272/vid/avc1/480x270/EzB8XT0FnKGYYbhp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071548136926134272/vid/avc1/640x360/-YHJAtaFk0B9X7Ye.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071548136926134272/vid/avc1/1280x720/wuKCQwv_8_6Fj5c4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071548136926134272/pl/NrSLRf1FTDpYtPFJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2071636333030961455",
+        "created_at": "2026-06-29T16:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071636333030961455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/20140128spr/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/20140128spr/status/2071548205582766324",
+              "start": 5,
+              "url": "https://t.co/EQXr3pQA4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071636333030961455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071548205582766324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回族鸠子 https://t.co/EQXr3pQA4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071548136926134272"
+          ]
+        },
+        "author_id": "170190790",
+        "conversation_id": "2071548205582766324",
+        "created_at": "2026-06-29T10:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071548205582766324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ykhtl2fMY",
+              "end": 35,
+              "expanded_url": "https://x.com/20140128spr/status/2071548205582766324/video/1",
+              "media_key": "13_2071548136926134272",
+              "start": 12,
+              "url": "https://t.co/0ykhtl2fMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071548205582766324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 14609,
+          "like_count": 725,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "これがほんとの鳩ハット https://t.co/0ykhtl2fMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 489,
+          "like_count": 16740,
+          "listed_count": 3,
+          "media_count": 997,
+          "tweet_count": 7390
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-24T04:36:08.000Z",
+        "description": "バイク/鳩/カレー/ラーメン/肉/カメラ/お酒が好きな塩対応な人。鳩見つけた時だけ喜んでる𓅳⸒⸒𓅫⸒⸒",
+        "id": "170190790",
+        "location": "北海道ぽっぽろぅ市",
+        "name": "アキ𓅪",
+        "pinned_tweet_id": "1685479539810680832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897202656277639168/EbyFfRBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 349,
+          "like_count": 29488,
+          "listed_count": 18,
+          "media_count": 554,
+          "tweet_count": 2588
+        },
+        "url": "",
+        "username": "20140128spr",
+        "verified": false
+      }
+    ]
+  }
+}

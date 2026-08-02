@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1954925996681085275",
+    "created_at": "2025-08-13T02:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T03:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955453386301771790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955453386301771790",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954925996681085275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMS_PzEUGIN_III 随便挑个窝窝屎玩家去当也不会发生这种事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1954925996681085275",
+        "created_at": "2025-08-13T02:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955453386301771790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955453386301771790",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954925996681085275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III 随便挑个窝窝屎玩家去当也不会发生这种事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778600109154172928",
+        "conversation_id": "1954925996681085275",
+        "created_at": "2025-08-11T15:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954925996681085275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6308_anemo/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/6308_anemo/status/1954830667654869275",
+              "start": 22,
+              "url": "https://t.co/t9DCo1mrJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954925996681085275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954830667654869275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀💀WOMAN CAN’T DRIVE💀💀 https://t.co/t9DCo1mrJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 218,
+          "like_count": 9294,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4886
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "/跑路小账@lappydaisuki/\n像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 1954,
+          "like_count": 18638,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 6648
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995609215054888960"
+      ],
+      "media_source_tweet_id": [
+        "1995609218733498482"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1995822810271269050",
+    "created_at": "2025-12-02T11:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995822810271269050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "831048420",
+          "start": 3,
+          "username": "elemmiressoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3OfPfW98V",
+          "end": 68,
+          "expanded_url": "https://x.com/elemmiressoul/status/1995609218733498482/photo/1",
+          "media_key": "3_1995609215054888960",
+          "start": 45,
+          "url": "https://t.co/D3OfPfW98V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995822810271269050",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 899
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995609218733498482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elemmiressoul: 𝔗𝔥𝔢 𝔓𝔥𝔞𝔫𝔱𝔬𝔪 𝔬𝔣 𝔱𝔥𝔢 𝔒𝔭𝔢𝔯𝔞. https://t.co/D3OfPfW98V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_1995609215054888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HUAgXXwAA6ASo.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995609215054888960"
+          ],
+          "media_source_tweet_id": [
+            "1995609218733498482"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1995822810271269050",
+        "created_at": "2025-12-02T11:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995822810271269050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "831048420",
+              "start": 3,
+              "username": "elemmiressoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3OfPfW98V",
+              "end": 68,
+              "expanded_url": "https://x.com/elemmiressoul/status/1995609218733498482/photo/1",
+              "media_key": "3_1995609215054888960",
+              "start": 45,
+              "url": "https://t.co/D3OfPfW98V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995822810271269050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 899
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995609218733498482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elemmiressoul: 𝔗𝔥𝔢 𝔓𝔥𝔞𝔫𝔱𝔬𝔪 𝔬𝔣 𝔱𝔥𝔢 𝔒𝔭𝔢𝔯𝔞. https://t.co/D3OfPfW98V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995609215054888960"
+          ]
+        },
+        "author_id": "831048420",
+        "conversation_id": "1995609218733498482",
+        "created_at": "2025-12-01T21:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995609218733498482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3OfPfW98V",
+              "end": 49,
+              "expanded_url": "https://x.com/elemmiressoul/status/1995609218733498482/photo/1",
+              "media_key": "3_1995609215054888960",
+              "start": 26,
+              "url": "https://t.co/D3OfPfW98V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995609218733498482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 51348,
+          "like_count": 5525,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 899
+        },
+        "reply_settings": "everyone",
+        "text": "𝔗𝔥𝔢 𝔓𝔥𝔞𝔫𝔱𝔬𝔪 𝔬𝔣 𝔱𝔥𝔢 𝔒𝔭𝔢𝔯𝔞. https://t.co/D3OfPfW98V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 262,
+          "like_count": 10477,
+          "listed_count": 3,
+          "media_count": 863,
+          "tweet_count": 5446
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-18T13:21:57.000Z",
+        "description": "𝐿𝑒𝑡'𝑠 𝑚𝑒𝑒𝑡 𝑖𝑛 𝑚𝑦 𝑒𝑡𝑒𝑟𝑛𝑖𝑡𝑦.࣪ ִֶָ☾. ݁ ˖๋ ࣭ ⭑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/emine.krp…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/emine.krpnr?si=SCz7foNUS3q_Os02Cw02-g",
+                "start": 0,
+                "url": "https://t.co/GbJMGhTwKq"
+              }
+            ]
+          }
+        },
+        "id": "831048420",
+        "location": "☾⭒",
+        "name": "𝕰𝖑𝖊𝖒𝖒𝖎𝖗𝖊",
+        "pinned_tweet_id": "1984343444442267693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961122714090938368/jQ9mEpgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132935,
+          "following_count": 200,
+          "like_count": 104433,
+          "listed_count": 817,
+          "media_count": 8480,
+          "tweet_count": 14005
+        },
+        "url": "https://t.co/GbJMGhTwKq",
+        "username": "elemmiressoul",
+        "verified": false
+      }
+    ]
+  }
+}

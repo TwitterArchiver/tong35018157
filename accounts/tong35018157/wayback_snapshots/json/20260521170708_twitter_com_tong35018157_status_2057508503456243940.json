@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057476437196906496"
+      ],
+      "media_source_tweet_id": [
+        "2057476442359992613"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057508503456243940",
+    "created_at": "2026-05-21T17:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057508503456243940"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "Stibell"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3152548537",
+          "start": 3,
+          "username": "neetnyan101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hmk6JF4dbu",
+          "end": 55,
+          "expanded_url": "https://x.com/neetnyan101/status/2057476442359992613/photo/1",
+          "media_key": "3_2057476437196906496",
+          "start": 32,
+          "url": "https://t.co/Hmk6JF4dbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057508503456243940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057476442359992613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neetnyan101: 二人の時間\n#Stibell https://t.co/Hmk6JF4dbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2057476437196906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2f6yzboAAjYQ5.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057476437196906496"
+          ],
+          "media_source_tweet_id": [
+            "2057476442359992613"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057508503456243940",
+        "created_at": "2026-05-21T17:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057508503456243940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Stibell"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3152548537",
+              "start": 3,
+              "username": "neetnyan101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hmk6JF4dbu",
+              "end": 55,
+              "expanded_url": "https://x.com/neetnyan101/status/2057476442359992613/photo/1",
+              "media_key": "3_2057476437196906496",
+              "start": 32,
+              "url": "https://t.co/Hmk6JF4dbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057508503456243940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057476442359992613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neetnyan101: 二人の時間\n#Stibell https://t.co/Hmk6JF4dbu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057476437196906496"
+          ]
+        },
+        "author_id": "3152548537",
+        "conversation_id": "2057476442359992613",
+        "created_at": "2026-05-21T14:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057476442359992613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "Stibell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hmk6JF4dbu",
+              "end": 38,
+              "expanded_url": "https://x.com/neetnyan101/status/2057476442359992613/photo/1",
+              "media_key": "3_2057476437196906496",
+              "start": 15,
+              "url": "https://t.co/Hmk6JF4dbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057476442359992613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 794,
+          "like_count": 65,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "二人の時間\n#Stibell https://t.co/Hmk6JF4dbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 407,
+          "like_count": 14433,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6673
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-13T08:54:16.000Z",
+        "description": "🇯🇵SIREN/Star wars/Game of Thrones/Silent hillが主に好き。今はCoDにハマってる。キャラ崩壊妄想が好きなのでフォロー非推奨です。保護猫を2匹飼ってる。",
+        "id": "3152548537",
+        "name": "mao",
+        "pinned_tweet_id": "2000173650067255522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953072767131410432/Fg-lMvuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 356,
+          "like_count": 40196,
+          "listed_count": 56,
+          "media_count": 4777,
+          "tweet_count": 86215
+        },
+        "username": "neetnyan101",
+        "verified": false
+      }
+    ]
+  }
+}

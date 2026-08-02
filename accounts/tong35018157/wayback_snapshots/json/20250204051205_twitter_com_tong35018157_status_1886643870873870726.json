@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886308333423845376",
+        "3_1886308553121505280"
+      ],
+      "media_source_tweet_id": [
+        "1886308763981713881",
+        "1886308763981713881"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1886643870873870726",
+    "created_at": "2025-02-04T05:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T06:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886643870873870726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1184435921011261440",
+          "start": 3,
+          "username": "AjaTheEmpress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1gLhS9NL0h",
+          "end": 86,
+          "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+          "media_key": "3_1886308333423845376",
+          "start": 63,
+          "url": "https://t.co/1gLhS9NL0h"
+        },
+        {
+          "display_url": "pic.x.com/1gLhS9NL0h",
+          "end": 86,
+          "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+          "media_key": "3_1886308553121505280",
+          "start": 63,
+          "url": "https://t.co/1gLhS9NL0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886643870873870726",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886308763981713881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AjaTheEmpress: Same shit, different side of the coin. Imo. https://t.co/1gLhS9NL0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_1886308333423845376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi2Db2aWYAAr5ga.jpg",
+        "width": 1079
+      },
+      {
+        "height": 547,
+        "media_key": "3_1886308553121505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi2Doo2WoAA76_I.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886308333423845376",
+            "3_1886308553121505280"
+          ],
+          "media_source_tweet_id": [
+            "1886308763981713881",
+            "1886308763981713881"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1886643870873870726",
+        "created_at": "2025-02-04T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886643870873870726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1184435921011261440",
+              "start": 3,
+              "username": "AjaTheEmpress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gLhS9NL0h",
+              "end": 86,
+              "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+              "media_key": "3_1886308333423845376",
+              "start": 63,
+              "url": "https://t.co/1gLhS9NL0h"
+            },
+            {
+              "display_url": "pic.x.com/1gLhS9NL0h",
+              "end": 86,
+              "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+              "media_key": "3_1886308553121505280",
+              "start": 63,
+              "url": "https://t.co/1gLhS9NL0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886643870873870726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886308763981713881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AjaTheEmpress: Same shit, different side of the coin. Imo. https://t.co/1gLhS9NL0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886308333423845376",
+            "3_1886308553121505280"
+          ]
+        },
+        "author_id": "1184435921011261440",
+        "conversation_id": "1886308763981713881",
+        "created_at": "2025-02-03T07:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886308763981713881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gLhS9NL0h",
+              "end": 67,
+              "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+              "media_key": "3_1886308333423845376",
+              "start": 44,
+              "url": "https://t.co/1gLhS9NL0h"
+            },
+            {
+              "display_url": "pic.x.com/1gLhS9NL0h",
+              "end": 67,
+              "expanded_url": "https://x.com/AjaTheEmpress/status/1886308763981713881/photo/1",
+              "media_key": "3_1886308553121505280",
+              "start": 44,
+              "url": "https://t.co/1gLhS9NL0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886308763981713881",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5175,
+          "impression_count": 3523470,
+          "like_count": 118342,
+          "quote_count": 702,
+          "reply_count": 1210,
+          "retweet_count": 9159
+        },
+        "reply_settings": "everyone",
+        "text": "Same shit, different side of the coin. Imo. https://t.co/1gLhS9NL0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 211,
+          "like_count": 8530,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 4239
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-16T11:48:34.000Z",
+        "description": "Lesbian not queer \nFacts not feeling \nFree speech for all\nDebate is not hate\nMy mind is my own and I'm not afraid to use it.\n\nBlessings 🙏🏾",
+        "id": "1184435921011261440",
+        "location": "Terf Island ",
+        "name": "Aja the Empress ♀️🇬🇧🇯🇲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855244835575214080/m9M2Z1c4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51704,
+          "following_count": 8078,
+          "like_count": 223107,
+          "listed_count": 155,
+          "media_count": 12762,
+          "tweet_count": 106104
+        },
+        "username": "AjaTheEmpress",
+        "verified": true
+      }
+    ]
+  }
+}

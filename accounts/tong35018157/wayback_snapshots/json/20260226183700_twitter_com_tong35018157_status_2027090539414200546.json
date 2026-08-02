@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2027063379777507768",
+    "created_at": "2026-02-26T18:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T19:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027090539414200546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027090539414200546",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027063379777507768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kanameranaswly 帅，长有点像亨利卡维尔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027063376019701766",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGTZpDbwAYcA4N.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027063376224940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGTZp0XcAABqu6.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2027063379777507768",
+        "created_at": "2026-02-26T18:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027090539414200546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027090539414200546",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027063379777507768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kanameranaswly 帅，长有点像亨利卡维尔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027063376019701766",
+            "3_2027063376224940032"
+          ]
+        },
+        "author_id": "1911458837107732480",
+        "conversation_id": "2027063379777507768",
+        "created_at": "2026-02-26T16:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027063379777507768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BF2jpbL0m",
+              "end": 93,
+              "expanded_url": "https://x.com/kanameranaswly/status/2027063379777507768/photo/1",
+              "media_key": "3_2027063376019701766",
+              "start": 70,
+              "url": "https://t.co/8BF2jpbL0m"
+            },
+            {
+              "display_url": "pic.x.com/8BF2jpbL0m",
+              "end": 93,
+              "expanded_url": "https://x.com/kanameranaswly/status/2027063379777507768/photo/1",
+              "media_key": "3_2027063376224940032",
+              "start": 70,
+              "url": "https://t.co/8BF2jpbL0m"
+            },
+            {
+              "display_url": "x.com/mubeitech/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/mubeitech/status/2026981510293737700",
+              "start": 94,
+              "url": "https://t.co/Kv9UZ9Dzgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027063379777507768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026981510293737700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "虽然讨厌川普，但他在重整美国军队上确实有手段，军队本来就是属于有血性的人的，在里面宣传其他杂七杂八的玩意儿还拿不出成就的人请到其他地方去。 https://t.co/8BF2jpbL0m https://t.co/Kv9UZ9Dzgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 302,
+          "like_count": 11394,
+          "listed_count": 3,
+          "media_count": 891,
+          "tweet_count": 5724
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "过气指挥官，HK416の星怒。4I/1I直男，Sub+Ⓜ️（减肥准备出45姐ing）。支持🇺🇦🇮🇱的老右德棍🇩🇪（德二德三都粉），不洗白纳粹不反犹，但是来我这刷黄纳肥皂梗的反法西斯德黑小鬼全部亲妈暴毙。zz立场是改良型民族社会主义者，5分保守威权5分自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzh.moegirl.org.cn/%E5%B0%91%E5%A…",
+                "end": 23,
+                "expanded_url": "https://mzh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF:HK416",
+                "start": 0,
+                "url": "https://t.co/7u7GR9qdaQ"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "德意志民族的大日耳曼国-日耳曼尼亚/汉堡",
+        "name": "✙守望莱茵的乐奈✙🇩🇪🇦🇹",
+        "pinned_tweet_id": "2023382078709207281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024547690819047427/HWqw8V4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 691,
+          "like_count": 10893,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/7u7GR9qdaQ",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

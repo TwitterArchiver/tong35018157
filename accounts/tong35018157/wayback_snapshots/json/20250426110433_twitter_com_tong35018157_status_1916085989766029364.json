@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1915826246996693157",
+    "created_at": "2025-04-26T11:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T12:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916085989766029364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583711070098640896",
+          "start": 0,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916085989766029364",
+    "in_reply_to_user_id": "1583711070098640896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915826246996693157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriestleyZZZ 复方醋酸地塞米松"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1915826246996693157",
+        "created_at": "2025-04-26T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916085989766029364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583711070098640896",
+              "start": 0,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916085989766029364",
+        "in_reply_to_user_id": "1583711070098640896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915826246996693157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriestleyZZZ 复方醋酸地塞米松"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583711070098640896",
+        "conversation_id": "1915826246996693157",
+        "created_at": "2025-04-25T17:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T18:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915826246996693157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915826246996693157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出痱子了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 223,
+          "like_count": 8685,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 4367
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri/医学生",
+        "id": "1583711070098640896",
+        "location": "私の運命線",
+        "name": "Priestley🍃",
+        "pinned_tweet_id": "1899045223004606768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914666597442027520/YUxlS5hT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 957,
+          "like_count": 34305,
+          "listed_count": 6,
+          "media_count": 1310,
+          "tweet_count": 19182
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1840631939700805674",
+    "created_at": "2024-09-30T13:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T14:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840750944050667855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        },
+        {
+          "end": 23,
+          "id": "1590362413047554048",
+          "start": 13,
+          "username": "xiaye2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840750944050667855",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840641107816026443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 @xiaye2023 我被女同果泥妹和她主子讨厌了，她还跟别人说我考到大学有什么用，不过我五百分她三百，就是非常乐……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840641107816026443].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840641107816026443",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840641107816026443"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1840631939700805674",
+        "created_at": "2024-09-30T13:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T14:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840750944050667855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            },
+            {
+              "end": 23,
+              "id": "1590362413047554048",
+              "start": 13,
+              "username": "xiaye2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840750944050667855",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840641107816026443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 @xiaye2023 我被女同果泥妹和她主子讨厌了，她还跟别人说我考到大学有什么用，不过我五百分她三百，就是非常乐……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836020406995849218/TXcY86G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8095,
+          "listed_count": 1,
+          "tweet_count": 3899
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "From PRC/睡大觉/抽象/可爱😻/猫🐈/恶俗🙀/社交生活推",
+        "id": "1679686176083685376",
+        "location": "he/they/afab/关注大概率不过抱歉",
+        "name": "🐈‍⬛💡💡😺🐈",
+        "pinned_tweet_id": "1814515015480975824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836732757722144768/kdXDigwG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 514,
+          "like_count": 6319,
+          "listed_count": 1,
+          "tweet_count": 8965
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T15:15:42.000Z",
+        "description": "立场待定的投机分子",
+        "id": "1590362413047554048",
+        "location": "梦泽",
+        "name": "夏烨",
+        "pinned_tweet_id": "1716778998200750102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792744366135808000/_c1tu4Bj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 835,
+          "like_count": 110464,
+          "listed_count": 2,
+          "tweet_count": 41319
+        },
+        "username": "xiaye2023",
+        "verified": false
+      }
+    ]
+  }
+}

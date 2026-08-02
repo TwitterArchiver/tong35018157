@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1955311238818263313",
+    "created_at": "2025-08-12T17:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T18:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955317319296847921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365184212127477767",
+          "start": 0,
+          "username": "wensan0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955317319296847921",
+    "in_reply_to_user_id": "1365184212127477767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955311238818263313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wensan0521 我操我懂你，我和男生在静吧不知道聊什么知道有辆运猪车经过我叫他快看。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1955311238818263313",
+        "created_at": "2025-08-12T17:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955317319296847921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365184212127477767",
+              "start": 0,
+              "username": "wensan0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955317319296847921",
+        "in_reply_to_user_id": "1365184212127477767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955311238818263313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wensan0521 我操我懂你，我和男生在静吧不知道聊什么知道有辆运猪车经过我叫他快看。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365184212127477767",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1955311238818263313",
+        "created_at": "2025-08-12T16:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955311238818263313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955311238818263313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得我这种人不适合谈恋爱！因为我谈恋爱就像条狗一样缠着别人而且我装不了一点之前跟红卷发法国男date他问我喜欢啥我给他看了俄罗斯娜娜！所以说我单身是有原因的，我前任都不想理我因为我让她帮我买第五人格周边。然后我跟喜欢的人聊天永远把对方聊到要去洗澡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 218,
+          "like_count": 9289,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4884
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T06:17:43.000Z",
+        "description": "20+/I like old things/this is my spam acc you have been warned",
+        "id": "1365184212127477767",
+        "name": "CherR",
+        "pinned_tweet_id": "1954214794627555517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951216033932460032/6gZQoyX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 141,
+          "like_count": 1774,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 2080
+        },
+        "username": "wensan0521",
+        "verified": false
+      }
+    ]
+  }
+}

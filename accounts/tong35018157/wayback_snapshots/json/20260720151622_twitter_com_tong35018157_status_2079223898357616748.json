@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2079223898357616748",
+    "created_at": "2026-07-20T15:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079223898357616748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coririn007/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/coririn007/status/2079162760794144966",
+          "start": 11,
+          "url": "https://t.co/sp0s6UfLFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079223898357616748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079162760794144966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me and who https://t.co/sp0s6UfLFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10036,
+        "height": 540,
+        "media_key": "13_2079162697808261120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079162697808261120/img/BFo3ewtPxd-byG9o.jpg",
+        "public_metrics": {
+          "view_count": 52843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079162697808261120/vid/avc1/480x270/UfIoxk-KWhZ9r7q7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079162697808261120/vid/avc1/640x360/lc8Dt8iS1dJVoaPK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079162697808261120/vid/avc1/960x540/OVoO63DePwI9QpbQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079162697808261120/pl/f0QTB1FHKnY2y_VR.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2079223898357616748",
+        "created_at": "2026-07-20T15:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079223898357616748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coririn007/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/coririn007/status/2079162760794144966",
+              "start": 11,
+              "url": "https://t.co/sp0s6UfLFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079223898357616748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079162760794144966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me and who https://t.co/sp0s6UfLFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079162697808261120"
+          ]
+        },
+        "author_id": "1927058034",
+        "conversation_id": "2079162760794144966",
+        "created_at": "2026-07-20T11:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079162760794144966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "アオバト"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "文鳥さん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONxuhatEYZ",
+              "end": 65,
+              "expanded_url": "https://x.com/coririn007/status/2079162760794144966/video/1",
+              "media_key": "13_2079162697808261120",
+              "start": 42,
+              "url": "https://t.co/ONxuhatEYZ"
+            },
+            {
+              "display_url": "x.com/naniwakaeruhd/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/naniwakaeruhd/status/2078881544207482901",
+              "start": 66,
+              "url": "https://t.co/GsIwuOewtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079162760794144966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 871,
+          "impression_count": 206673,
+          "like_count": 6150,
+          "quote_count": 26,
+          "reply_count": 5,
+          "retweet_count": 870
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078881544207482901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こ、これは！またこの光景が見れるのかしら！？✨2024.7\n#アオバト #文鳥さん https://t.co/ONxuhatEYZ https://t.co/GsIwuOewtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 521,
+          "like_count": 17663,
+          "listed_count": 3,
+          "media_count": 1027,
+          "tweet_count": 7811
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-02T14:43:33.000Z",
+        "description": "文鳥のはるたん(’ 18.12.29お迎え♀)、ふくちゃん(’ 25.6.28♂)と暮らしています🐦はなちゃんは’24.6.14 天国へ(8歳2ヶ月♀) 🌈身近な野鳥を見るのが好き📷鳥にまつわるなんやかんやをつぶやいてます🐥\nスト6プロシーン応援💪魚民🐟",
+        "id": "1927058034",
+        "location": "広島",
+        "name": "はなちゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001649287242043393/svjDT1Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1003,
+          "like_count": 280034,
+          "listed_count": 81,
+          "media_count": 2214,
+          "tweet_count": 31111
+        },
+        "url": "",
+        "username": "coririn007",
+        "verified": false
+      }
+    ]
+  }
+}

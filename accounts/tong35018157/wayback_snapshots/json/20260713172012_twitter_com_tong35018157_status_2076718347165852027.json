@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076683403173498880",
+        "3_2076683420718276608"
+      ],
+      "media_source_tweet_id": [
+        "2076683678886011119",
+        "2076683678886011119"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2076718347165852027",
+    "created_at": "2026-07-13T17:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076718347165852027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "923132067742806021",
+          "start": 3,
+          "username": "kerbe__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLgvYe8mhN",
+          "end": 55,
+          "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+          "media_key": "3_2076683403173498880",
+          "start": 32,
+          "url": "https://t.co/DLgvYe8mhN"
+        },
+        {
+          "display_url": "pic.x.com/DLgvYe8mhN",
+          "end": 55,
+          "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+          "media_key": "3_2076683420718276608",
+          "start": 32,
+          "url": "https://t.co/DLgvYe8mhN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076718347165852027",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076683678886011119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kerbe__: 🖤마피아 범고래 X 돌고래 여친🩷 https://t.co/DLgvYe8mhN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_2076683403173498880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHcjW0bEAAISXM.jpg",
+        "width": 2800
+      },
+      {
+        "height": 2100,
+        "media_key": "3_2076683420718276608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHckYLbIAAEKIP.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076683403173498880",
+            "3_2076683420718276608"
+          ],
+          "media_source_tweet_id": [
+            "2076683678886011119",
+            "2076683678886011119"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2076718347165852027",
+        "created_at": "2026-07-13T17:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076718347165852027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "923132067742806021",
+              "start": 3,
+              "username": "kerbe__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLgvYe8mhN",
+              "end": 55,
+              "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+              "media_key": "3_2076683403173498880",
+              "start": 32,
+              "url": "https://t.co/DLgvYe8mhN"
+            },
+            {
+              "display_url": "pic.x.com/DLgvYe8mhN",
+              "end": 55,
+              "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+              "media_key": "3_2076683420718276608",
+              "start": 32,
+              "url": "https://t.co/DLgvYe8mhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076718347165852027",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076683678886011119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kerbe__: 🖤마피아 범고래 X 돌고래 여친🩷 https://t.co/DLgvYe8mhN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076683403173498880",
+            "3_2076683420718276608"
+          ]
+        },
+        "author_id": "923132067742806021",
+        "conversation_id": "2076683678886011119",
+        "created_at": "2026-07-13T15:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076683678886011119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLgvYe8mhN",
+              "end": 42,
+              "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+              "media_key": "3_2076683403173498880",
+              "start": 19,
+              "url": "https://t.co/DLgvYe8mhN"
+            },
+            {
+              "display_url": "pic.x.com/DLgvYe8mhN",
+              "end": 42,
+              "expanded_url": "https://x.com/kerbe__/status/2076683678886011119/photo/1",
+              "media_key": "3_2076683420718276608",
+              "start": 19,
+              "url": "https://t.co/DLgvYe8mhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076683678886011119",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1028,
+          "impression_count": 71268,
+          "like_count": 6203,
+          "quote_count": 97,
+          "reply_count": 5,
+          "retweet_count": 1155
+        },
+        "reply_settings": "everyone",
+        "text": "🖤마피아 범고래 X 돌고래 여친🩷 https://t.co/DLgvYe8mhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 520,
+          "like_count": 17497,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 7741
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-25T10:20:10.000Z",
+        "description": "🍰케르베로스/kerberos/kerbe\n커미션❌️ commission❌️\ncontact: dnekghd020630@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/kerbe__",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/kerbe__",
+                "start": 0,
+                "url": "https://t.co/V8FrVSqlJk"
+              }
+            ]
+          }
+        },
+        "id": "923132067742806021",
+        "name": "🍓케르베로스🍰",
+        "pinned_tweet_id": "2064251899973697578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709237990395203584/Gfmi2ZSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89187,
+          "following_count": 281,
+          "like_count": 6780,
+          "listed_count": 493,
+          "media_count": 273,
+          "tweet_count": 14765
+        },
+        "url": "https://t.co/V8FrVSqlJk",
+        "username": "kerbe__",
+        "verified": true
+      }
+    ]
+  }
+}

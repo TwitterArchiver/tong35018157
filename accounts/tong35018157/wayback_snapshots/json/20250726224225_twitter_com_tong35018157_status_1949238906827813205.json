@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1948411008101339424",
+    "created_at": "2025-07-26T22:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T23:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949238906827813205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949238906827813205",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948411008101339424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 质量配不上价格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1948411008101339424",
+        "created_at": "2025-07-26T22:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949238906827813205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949238906827813205",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948411008101339424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 质量配不上价格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "1948411008101339424",
+        "created_at": "2025-07-24T15:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948411008101339424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948411008101339424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 25284,
+          "like_count": 216,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明末渊虚之羽好玩吗，听说可以图村b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 229,
+          "like_count": 9110,
+          "listed_count": 0,
+          "media_count": 767,
+          "tweet_count": 4763
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   无米线爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1939494973206090214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8095,
+          "following_count": 866,
+          "like_count": 89633,
+          "listed_count": 48,
+          "media_count": 1450,
+          "tweet_count": 20529
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "author_id": "1467315060041256963",
+    "conversation_id": "1850410334995218834",
+    "created_at": "2024-10-27T05:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T06:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850410334995218834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827431763561287682",
+          "start": 3,
+          "username": "lmao0FF"
+        }
+      ]
+    },
+    "id": "1850410334995218834",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840383728561872916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lmao0FF: It was just supposed to be a regular sketch, with a sarcastic Schellenberg, but the sketch suddenly evolved \n#17мв #17мгновени…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1467315060041256963",
+        "conversation_id": "1850410334995218834",
+        "created_at": "2024-10-27T05:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T06:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850410334995218834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827431763561287682",
+              "start": 3,
+              "username": "lmao0FF"
+            }
+          ]
+        },
+        "id": "1850410334995218834",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840383728561872916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lmao0FF: It was just supposed to be a regular sketch, with a sarcastic Schellenberg, but the sketch suddenly evolved \n#17мв #17мгновени…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850209063852019712/zY-h5a0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 207,
+          "like_count": 8164,
+          "listed_count": 1,
+          "media_count": 645,
+          "tweet_count": 3968
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T19:44:39.000Z",
+        "description": "Eng/Rus | He/She\nArtist \nTelegram channel: @Lmao0f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "Lmao0f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lmao0f",
+                "end": 23,
+                "expanded_url": "https://t.me/lmao0f",
+                "start": 0,
+                "url": "https://t.co/UFEanvZ39I"
+              }
+            ]
+          }
+        },
+        "id": "1827431763561287682",
+        "name": "Lmao0F",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827432720105971713/m65oGf-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/UFEanvZ39I",
+        "username": "lmao0FF",
+        "verified": false
+      }
+    ]
+  }
+}

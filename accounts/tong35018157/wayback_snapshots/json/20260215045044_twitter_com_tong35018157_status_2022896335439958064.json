@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022367627310698496"
+      ],
+      "media_source_tweet_id": [
+        "2022371568538784017"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1296453350263676931",
+          "name": "Escape from Tarkov"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296453350263676931",
+          "name": "Escape from Tarkov"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      }
+    ],
+    "conversation_id": "2022896335439958064",
+    "created_at": "2026-02-15T04:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022896335439958064"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "EscapeFromTarkov",
+          "probability": 0.8866,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Tarkov",
+          "probability": 0.4607,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 74,
+          "normalized_text": "TarkovArt2026",
+          "probability": 0.6171,
+          "start": 62,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 35,
+          "tag": "EscapeFromTarkov"
+        },
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "Tarkov"
+        },
+        {
+          "end": 75,
+          "start": 61,
+          "tag": "TarkovArt2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320349616366206977",
+          "start": 3,
+          "username": "taisin01165982"
+        },
+        {
+          "end": 84,
+          "id": "759683995563094017",
+          "start": 77,
+          "username": "tarkov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWw3s1uxUH",
+          "end": 108,
+          "expanded_url": "https://x.com/taisin01165982/status/2022371568538784017/photo/1",
+          "media_key": "3_2022367627310698496",
+          "start": 85,
+          "url": "https://t.co/eWw3s1uxUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022896335439958064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022371568538784017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taisin01165982: 【Enemy Front】\n\n#EscapeFromTarkov #Tarkov #TarkovArt2026 \n@tarkov https://t.co/eWw3s1uxUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2022367627310698496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDkpF8akAAZH9d.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022367627310698496"
+          ],
+          "media_source_tweet_id": [
+            "2022371568538784017"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "2022896335439958064",
+        "created_at": "2026-02-15T04:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022896335439958064"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "EscapeFromTarkov",
+              "probability": 0.8866,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Tarkov",
+              "probability": 0.4607,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "TarkovArt2026",
+              "probability": 0.6171,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 35,
+              "tag": "EscapeFromTarkov"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "Tarkov"
+            },
+            {
+              "end": 75,
+              "start": 61,
+              "tag": "TarkovArt2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320349616366206977",
+              "start": 3,
+              "username": "taisin01165982"
+            },
+            {
+              "end": 84,
+              "id": "759683995563094017",
+              "start": 77,
+              "username": "tarkov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWw3s1uxUH",
+              "end": 108,
+              "expanded_url": "https://x.com/taisin01165982/status/2022371568538784017/photo/1",
+              "media_key": "3_2022367627310698496",
+              "start": 85,
+              "url": "https://t.co/eWw3s1uxUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022896335439958064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022371568538784017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taisin01165982: 【Enemy Front】\n\n#EscapeFromTarkov #Tarkov #TarkovArt2026 \n@tarkov https://t.co/eWw3s1uxUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022367627310698496"
+          ]
+        },
+        "author_id": "1320349616366206977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "2022371568538784017",
+        "created_at": "2026-02-13T18:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022371568538784017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "EscapeFromTarkov",
+              "probability": 0.8889,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Tarkov",
+              "probability": 0.4475,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "TarkovArt2026",
+              "probability": 0.6639,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 15,
+              "tag": "EscapeFromTarkov"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "Tarkov"
+            },
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "TarkovArt2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "759683995563094017",
+              "start": 57,
+              "username": "tarkov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWw3s1uxUH",
+              "end": 88,
+              "expanded_url": "https://x.com/taisin01165982/status/2022371568538784017/photo/1",
+              "media_key": "3_2022367627310698496",
+              "start": 65,
+              "url": "https://t.co/eWw3s1uxUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022371568538784017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 30280,
+          "like_count": 824,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "【Enemy Front】\n\n#EscapeFromTarkov #Tarkov #TarkovArt2026 \n@tarkov https://t.co/eWw3s1uxUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 291,
+          "like_count": 11068,
+          "listed_count": 3,
+          "media_count": 883,
+          "tweet_count": 5640
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:01:03.000Z",
+        "description": "Tarkov cosplay , gear crafting , TGS Tarkov official cosplayer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikahatsudentaisin.livedoor.blog",
+                "end": 23,
+                "expanded_url": "https://zikahatsudentaisin.livedoor.blog/",
+                "start": 0,
+                "url": "https://t.co/S5IRk0OSZI"
+              }
+            ]
+          }
+        },
+        "id": "1320349616366206977",
+        "location": "Tarkov",
+        "name": "大神@Таisin",
+        "pinned_tweet_id": "1888560572095955227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972495790435418112/yMzsLPN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 1443,
+          "like_count": 43494,
+          "listed_count": 21,
+          "media_count": 3394,
+          "tweet_count": 37289
+        },
+        "url": "https://t.co/S5IRk0OSZI",
+        "username": "taisin01165982",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T09:35:54.000Z",
+        "description": "Escape from Tarkov is a hardcore realistic story-driven FPS with RPG elements developed by @bstategames.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "bstategames"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "escapefromtarkov.com",
+                "end": 23,
+                "expanded_url": "https://www.escapefromtarkov.com/",
+                "start": 0,
+                "url": "https://t.co/2a61OUrFgo"
+              }
+            ]
+          }
+        },
+        "id": "759683995563094017",
+        "name": "Escape from Tarkov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989652265334923264/DS30XGCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518819,
+          "following_count": 117,
+          "like_count": 6177,
+          "listed_count": 881,
+          "media_count": 3268,
+          "tweet_count": 10304
+        },
+        "url": "https://t.co/2a61OUrFgo",
+        "username": "tarkov",
+        "verified": true
+      }
+    ]
+  }
+}

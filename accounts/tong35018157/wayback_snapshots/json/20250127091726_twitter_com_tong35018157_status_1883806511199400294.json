@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1883806511199400294",
+    "created_at": "2025-01-27T09:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883806511199400294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/j_adsen/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/j_adsen/status/1874138930591002914",
+          "start": 6,
+          "url": "https://t.co/wnTSP7iKba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883806511199400294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874138930591002914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父母爱情👀 https://t.co/wnTSP7iKba"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1883806511199400294",
+        "created_at": "2025-01-27T09:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883806511199400294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/j_adsen/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/j_adsen/status/1874138930591002914",
+              "start": 6,
+              "url": "https://t.co/wnTSP7iKba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883806511199400294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874138930591002914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父母爱情👀 https://t.co/wnTSP7iKba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874138859111321601"
+          ]
+        },
+        "author_id": "1798024708308299776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1874138930591002914",
+        "created_at": "2024-12-31T17:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T18:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874138930591002914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "JA"
+            },
+            {
+              "end": 167,
+              "start": 152,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 172,
+              "start": 168,
+              "tag": "GFL"
+            },
+            {
+              "end": 179,
+              "start": 173,
+              "tag": "RPK16"
+            },
+            {
+              "end": 185,
+              "start": 180,
+              "tag": "AK15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PH02rlsjED",
+              "end": 209,
+              "expanded_url": "https://x.com/J_ADSEN/status/1874138930591002914/photo/1",
+              "media_key": "3_1874138859111321601",
+              "start": 186,
+              "url": "https://t.co/PH02rlsjED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874138930591002914",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 30245,
+          "like_count": 2181,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "RPK-16 &amp; AK-15 ON ICE RINK\n\nА вот и парочка постарше 👀\nРПК-16: Я тоже хочу, чтоб меня так обняли\nАК-15: Ладно-ладно, сейчас, только кофе допью\n\n#JA #GirlsFrontline #GFL #RPK16 #AK15 https://t.co/PH02rlsjED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 220,
+          "like_count": 8330,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 4143
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T16:13:21.000Z",
+        "description": "Average DEFY girls enjoyer | Artist\nMy Hipolink page: https://t.co/LfI2VpVC5O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hipolink.me/ja.stuff",
+                "end": 77,
+                "expanded_url": "http://hipolink.me/ja.stuff",
+                "start": 54,
+                "url": "https://t.co/LfI2VpVC5O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boosty.to/ja.stuff",
+                "end": 23,
+                "expanded_url": "https://boosty.to/ja.stuff",
+                "start": 0,
+                "url": "https://t.co/PbobQUCPYW"
+              }
+            ]
+          }
+        },
+        "id": "1798024708308299776",
+        "location": "Россия",
+        "name": "J ADSEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803342159996665856/BEcuYTD2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 4,
+          "like_count": 585,
+          "listed_count": 31,
+          "media_count": 46,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/PbobQUCPYW",
+        "username": "J_ADSEN",
+        "verified": false
+      }
+    ]
+  }
+}

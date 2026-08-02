@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1840755493553446912"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1840755532795359329",
+    "created_at": "2024-09-30T14:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T15:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840755532795359329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xtjrbzqxv",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tong35018157/status/1840755532795359329/video/1",
+          "media_key": "7_1840755493553446912",
+          "start": 17,
+          "url": "https://t.co/4XTJRbZQXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840755532795359329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给朋友的生日礼物……希望她能喜欢 https://t.co/4XTJRbZQXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7905,
+        "height": 1280,
+        "media_key": "7_1840755493553446912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1840755493553446912/pu/img/SO9TChI6lNhcxMDE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840755493553446912/pu/vid/avc1/320x568/O1eFRy7QieUyqnWS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840755493553446912/pu/vid/avc1/480x852/Fl18lz45i0aSU68b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840755493553446912/pu/vid/avc1/720x1280/mR3Nl87uAFdCqC2g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1840755493553446912/pu/pl/4ARu5Qdts6_r9b2V.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840755493553446912"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1840755532795359329",
+        "created_at": "2024-09-30T14:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T15:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840755532795359329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xtjrbzqxv",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tong35018157/status/1840755532795359329/video/1",
+              "media_key": "7_1840755493553446912",
+              "start": 17,
+              "url": "https://t.co/4XTJRbZQXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840755532795359329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给朋友的生日礼物……希望她能喜欢 https://t.co/4XTJRbZQXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836020406995849218/TXcY86G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8100,
+          "listed_count": 1,
+          "tweet_count": 3901
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

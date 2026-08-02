@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059913011079598080"
+      ],
+      "media_source_tweet_id": [
+        "2059913015047463026"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2060248533606056226",
+    "created_at": "2026-05-29T06:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060248533606056226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1267084528620691465",
+          "start": 3,
+          "username": "ten2226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CANu6TGjPk",
+          "end": 58,
+          "expanded_url": "https://x.com/ten2226/status/2059913015047463026/photo/1",
+          "media_key": "3_2059913011079598080",
+          "start": 35,
+          "url": "https://t.co/CANu6TGjPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060248533606056226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059913015047463026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ten2226: 初めてゴイサギを見かけたんですよぉ〜(喜) https://t.co/CANu6TGjPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2059913011079598080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZH-D2a0AAmfXh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059913011079598080"
+          ],
+          "media_source_tweet_id": [
+            "2059913015047463026"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2060248533606056226",
+        "created_at": "2026-05-29T06:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060248533606056226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1267084528620691465",
+              "start": 3,
+              "username": "ten2226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CANu6TGjPk",
+              "end": 58,
+              "expanded_url": "https://x.com/ten2226/status/2059913015047463026/photo/1",
+              "media_key": "3_2059913011079598080",
+              "start": 35,
+              "url": "https://t.co/CANu6TGjPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060248533606056226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059913015047463026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ten2226: 初めてゴイサギを見かけたんですよぉ〜(喜) https://t.co/CANu6TGjPk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059913011079598080"
+          ]
+        },
+        "author_id": "1267084528620691465",
+        "conversation_id": "2059913015047463026",
+        "created_at": "2026-05-28T08:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059913015047463026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CANu6TGjPk",
+              "end": 45,
+              "expanded_url": "https://x.com/ten2226/status/2059913015047463026/photo/1",
+              "media_key": "3_2059913011079598080",
+              "start": 22,
+              "url": "https://t.co/CANu6TGjPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913015047463026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 12122,
+          "like_count": 754,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "初めてゴイサギを見かけたんですよぉ〜(喜) https://t.co/CANu6TGjPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 446,
+          "like_count": 14982,
+          "listed_count": 3,
+          "media_count": 966,
+          "tweet_count": 6858
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T13:24:53.000Z",
+        "description": "野鳥に心惹かれてしまうアカウント。暇があればイラストやグッズの妄想してます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/3rdnikus?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/3rdnikus?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/cRt5FcJ79a"
+              }
+            ]
+          }
+        },
+        "id": "1267084528620691465",
+        "name": "ten-222",
+        "pinned_tweet_id": "1727818072244035905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444079901527588866/8XIkbfZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 355,
+          "like_count": 10356,
+          "listed_count": 10,
+          "media_count": 479,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/cRt5FcJ79a",
+        "username": "ten2226",
+        "verified": false
+      }
+    ]
+  }
+}

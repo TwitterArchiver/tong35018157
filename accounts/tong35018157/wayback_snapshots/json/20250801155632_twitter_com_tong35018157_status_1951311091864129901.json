@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1950891709560197206",
+    "created_at": "2025-08-01T15:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951311091864129901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951311091864129901",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951310714380894363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMS_PzEUGIN_III 居然这么薄这个壳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_1951310711004463108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRywM_WAAQWZ1J.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1950891709560197206",
+        "created_at": "2025-08-01T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951311091864129901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951311091864129901",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951310714380894363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III 居然这么薄这个壳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951310711004463108"
+          ]
+        },
+        "author_id": "1778600109154172928",
+        "conversation_id": "1950891709560197206",
+        "created_at": "2025-08-01T15:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951310714380894363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6c0sHiLE0",
+              "end": 41,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/1951310714380894363/photo/1",
+              "media_key": "3_1951310711004463108",
+              "start": 18,
+              "url": "https://t.co/V6c0sHiLE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951310714380894363",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950891709560197206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 这种吗 https://t.co/V6c0sHiLE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 219,
+          "like_count": 9156,
+          "listed_count": 2,
+          "media_count": 773,
+          "tweet_count": 4810
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "1943389207017275820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1753,
+          "like_count": 14541,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 5463
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      }
+    ]
+  }
+}

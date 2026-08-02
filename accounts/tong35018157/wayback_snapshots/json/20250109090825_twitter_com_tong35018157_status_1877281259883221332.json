@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1877240204466995407",
+    "created_at": "2025-01-09T09:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T10:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877281259883221332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877281259883221332",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877278819754668194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 跟我在学校最好的朋友一个星座：）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1877278819754668194].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1877278819754668194",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1877278819754668194"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1877240204466995407",
+        "created_at": "2025-01-09T09:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877281259883221332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877281259883221332",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877278819754668194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 跟我在学校最好的朋友一个星座：）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 209,
+          "like_count": 8196,
+          "listed_count": 1,
+          "media_count": 651,
+          "tweet_count": 4022
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "呵呵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zanbuzhidao555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zanbuzhidao555",
+                "start": 0,
+                "url": "https://t.co/aGLmp4FloB"
+              }
+            ]
+          }
+        },
+        "id": "1647217584117280771",
+        "location": "星巴克伙伴外企员工",
+        "name": "山᳐海懒得平᳐੭",
+        "pinned_tweet_id": "1876656774566293581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876957126725357568/-cdcW8Y7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1185,
+          "like_count": 124738,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 20948
+        },
+        "url": "https://t.co/aGLmp4FloB",
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

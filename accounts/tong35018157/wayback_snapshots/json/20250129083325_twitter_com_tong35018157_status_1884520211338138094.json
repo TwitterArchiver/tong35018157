@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1884518915952500752",
+    "created_at": "2025-01-29T08:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T09:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884520211338138094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847963434102747136",
+          "start": 0,
+          "username": "moYUDTIvNs64199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884520211338138094",
+    "in_reply_to_user_id": "1847963434102747136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884519312863683071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moYUDTIvNs64199 广东二线，后几天没这么多了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1884518915952500752",
+        "created_at": "2025-01-29T08:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884520211338138094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847963434102747136",
+              "start": 0,
+              "username": "moYUDTIvNs64199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884520211338138094",
+        "in_reply_to_user_id": "1847963434102747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884519312863683071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moYUDTIvNs64199 广东二线，后几天没这么多了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847963434102747136",
+        "conversation_id": "1884518915952500752",
+        "created_at": "2025-01-29T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884519312863683071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884519312863683071",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884518915952500752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 北京人吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 224,
+          "like_count": 8396,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 4172
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广西，南宁一中，广西师范大学，南宁百货大楼",
+        "name": "沙漠之蝎·隆美尔拼尽全力都无法战胜的氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884257153361629185/B3IF86vE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 9,
+          "media_count": 1823,
+          "tweet_count": 4432
+        },
+        "username": "moYUDTIvNs64199",
+        "verified": false
+      }
+    ]
+  }
+}

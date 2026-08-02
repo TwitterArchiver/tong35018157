@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2051605741795205597",
+    "created_at": "2026-05-05T13:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051649091248284090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1502921249433223172",
+          "start": 0,
+          "username": "renzaifeizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051649091248284090",
+    "in_reply_to_user_id": "1502921249433223172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051605741795205597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renzaifeizhou 不是有锁机就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2051605741795205597",
+        "created_at": "2026-05-05T13:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051649091248284090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1502921249433223172",
+              "start": 0,
+              "username": "renzaifeizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051649091248284090",
+        "in_reply_to_user_id": "1502921249433223172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051605741795205597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renzaifeizhou 不是有锁机就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502921249433223172",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2051605741795205597",
+        "created_at": "2026-05-05T10:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051605741795205597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051605741795205597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额，我有个问题不知道有没有懂的\n如果我买一台外区的能插卡的ipad，他插国内运营商的卡能正常用流量吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 372,
+          "like_count": 13589,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 6438
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T08:15:33.000Z",
+        "description": "金色的太阳第一次高高升起，照耀着年轻的布尔什维克土地",
+        "id": "1502921249433223172",
+        "name": "高加索terek",
+        "pinned_tweet_id": "1850824475643912258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722653719379202048/bOe2uSwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 2863,
+          "like_count": 54673,
+          "listed_count": 11,
+          "media_count": 168,
+          "tweet_count": 9090
+        },
+        "username": "renzaifeizhou",
+        "verified": false
+      }
+    ]
+  }
+}

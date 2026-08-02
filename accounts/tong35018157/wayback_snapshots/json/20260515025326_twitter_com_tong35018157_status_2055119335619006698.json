@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2055106564613447835",
+    "created_at": "2026-05-15T02:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055119335619006698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244063120915660800",
+          "start": 0,
+          "username": "Eurasian1qqer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055119335619006698",
+    "in_reply_to_user_id": "1244063120915660800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055106564613447835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eurasian1qqer 波兰变尼日利亚？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055106564613447835].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055106564613447835",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055106564613447835"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2055106564613447835",
+        "created_at": "2026-05-15T02:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055119335619006698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244063120915660800",
+              "start": 0,
+              "username": "Eurasian1qqer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055119335619006698",
+        "in_reply_to_user_id": "1244063120915660800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055106564613447835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eurasian1qqer 波兰变尼日利亚？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 398,
+          "like_count": 14035,
+          "listed_count": 3,
+          "media_count": 949,
+          "tweet_count": 6549
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T00:45:53.000Z",
+        "description": "本账号将改为中转站+微学术推\n@UkrAryanEmperor - 外宣，谢绝野蛮人\n被我屏蔽=你妈死了\nFDP爆裂支持",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "UkrAryanEmperor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/4ASeRZhe…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/4ASeRZheeHg7e2F9Bc0q7q",
+                "start": 0,
+                "url": "https://t.co/OwLtVyLvd9"
+              }
+            ]
+          }
+        },
+        "id": "1244063120915660800",
+        "name": "/uhg/及/k/联合王国🇺🇦-UkrAryan🐍🟥⬛️",
+        "pinned_tweet_id": "2049328036986990985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023575427961262080/OYNfMMBF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 444,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/OwLtVyLvd9",
+        "username": "Eurasian1qqer",
+        "verified": false
+      }
+    ]
+  }
+}

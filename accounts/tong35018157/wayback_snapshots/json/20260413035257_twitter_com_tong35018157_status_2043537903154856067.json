@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2043537903154856067",
+    "created_at": "2026-04-13T03:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043537903154856067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1038640814585344000",
+          "start": 3,
+          "username": "puto_trash"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043537903154856067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043358480640397362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puto_trash: Izaveta.\n\n\"Comrade, I understand you are being surrounded by NATO forces, but I am in the middle of an important psychic ex…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4092,
+        "media_key": "3_2043329352478441472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtdOFWbQAApYQQ.jpg",
+        "width": 2893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2043537903154856067",
+        "created_at": "2026-04-13T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043537903154856067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1038640814585344000",
+              "start": 3,
+              "username": "puto_trash"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043537903154856067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043358480640397362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puto_trash: Izaveta.\n\n\"Comrade, I understand you are being surrounded by NATO forces, but I am in the middle of an important psychic ex…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043329352478441472"
+          ]
+        },
+        "author_id": "1038640814585344000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2043358480640397362",
+        "created_at": "2026-04-12T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043358480640397362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihdYb67xOs",
+              "end": 216,
+              "expanded_url": "https://x.com/puto_trash/status/2043358480640397362/photo/1",
+              "media_key": "3_2043329352478441472",
+              "start": 193,
+              "url": "https://t.co/ihdYb67xOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043358480640397362",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1114,
+          "impression_count": 33939,
+          "like_count": 3801,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "Izaveta.\n\n\"Comrade, I understand you are being surrounded by NATO forces, but I am in the middle of an important psychic experiment involving lingerie... нет, I will not explain, до свидания.\" https://t.co/ihdYb67xOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 325,
+          "like_count": 12352,
+          "listed_count": 3,
+          "media_count": 924,
+          "tweet_count": 6082
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-09T04:10:42.000Z",
+        "description": "I draw girls with guns... mostly | 🚫AI \n\nhttps://t.co/Ciyq2e2nvv\nhttps://t.co/vqZW30EaZb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "putotrashactual.fanbox.cc",
+                "end": 64,
+                "expanded_url": "http://putotrashactual.fanbox.cc/",
+                "start": 41,
+                "url": "https://t.co/Ciyq2e2nvv"
+              },
+              {
+                "display_url": "subscribestar.adult/puto_trash_act…",
+                "end": 88,
+                "expanded_url": "http://subscribestar.adult/puto_trash_actual",
+                "start": 65,
+                "url": "https://t.co/vqZW30EaZb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/puto_trash",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/puto_trash",
+                "start": 0,
+                "url": "https://t.co/CDxrRYuXHl"
+              }
+            ]
+          }
+        },
+        "id": "1038640814585344000",
+        "name": "Puto_Trash_Actual",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844946553716563968/qSjcDBgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35314,
+          "following_count": 1776,
+          "like_count": 43973,
+          "listed_count": 147,
+          "media_count": 589,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/CDxrRYuXHl",
+        "username": "puto_trash",
+        "verified": false
+      }
+    ]
+  }
+}

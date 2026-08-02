@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036280245532368898"
+      ],
+      "media_source_tweet_id": [
+        "2036280309474533478"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2036386510417830227",
+    "created_at": "2026-03-24T10:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036386510417830227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1669937251164520449",
+          "start": 3,
+          "username": "pintailduck01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FO0rVqGrDr",
+          "end": 42,
+          "expanded_url": "https://x.com/pintailduck01/status/2036280309474533478/video/1",
+          "media_key": "13_2036280245532368898",
+          "start": 19,
+          "url": "https://t.co/FO0rVqGrDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036386510417830227",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036280309474533478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pintailduck01: https://t.co/FO0rVqGrDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 640,
+        "media_key": "13_2036280245532368898",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036280245532368898/img/gxeZGSaBPG1s8KiW.jpg",
+        "public_metrics": {
+          "view_count": 288
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/vid/avc1/320x382/FhKqq8BP-kYb9cCL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/vid/avc1/534x640/WlzoXwbZpRmEguFn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/pl/mU61i_887ZQQOdi8.m3u8"
+          }
+        ],
+        "width": 534
+      },
+      {
+        "duration_ms": 7000,
+        "height": 640,
+        "media_key": "13_2036280245532368898",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036280245532368898/img/gxeZGSaBPG1s8KiW.jpg",
+        "public_metrics": {
+          "view_count": 292
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/vid/avc1/320x382/FhKqq8BP-kYb9cCL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/vid/avc1/534x640/WlzoXwbZpRmEguFn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036280245532368898/pl/mU61i_887ZQQOdi8.m3u8"
+          }
+        ],
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036280245532368898"
+          ],
+          "media_source_tweet_id": [
+            "2036280309474533478"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2036386510417830227",
+        "created_at": "2026-03-24T10:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036386510417830227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1669937251164520449",
+              "start": 3,
+              "username": "pintailduck01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FO0rVqGrDr",
+              "end": 42,
+              "expanded_url": "https://x.com/pintailduck01/status/2036280309474533478/video/1",
+              "media_key": "13_2036280245532368898",
+              "start": 19,
+              "url": "https://t.co/FO0rVqGrDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036386510417830227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036280309474533478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pintailduck01: https://t.co/FO0rVqGrDr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036280245532368898"
+          ]
+        },
+        "author_id": "1669937251164520449",
+        "conversation_id": "2036280309474533478",
+        "created_at": "2026-03-24T03:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036280309474533478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FO0rVqGrDr",
+              "end": 23,
+              "expanded_url": "https://x.com/pintailduck01/status/2036280309474533478/video/1",
+              "media_key": "13_2036280245532368898",
+              "start": 0,
+              "url": "https://t.co/FO0rVqGrDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036280309474533478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FO0rVqGrDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 316,
+          "like_count": 11745,
+          "listed_count": 3,
+          "media_count": 913,
+          "tweet_count": 5926
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T05:17:30.000Z",
+        "description": "Birder Vogelbeobachter 探鳥人 탐조인 너무 바빠서 못하고 있습니다… Eng・日本語・한국어 ・ Deutsch | 🇵🇸🏳️‍🌈 |@pintailduckart 커미션계정 comm ac / bsky: same id",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "pintailduckart"
+              }
+            ]
+          }
+        },
+        "id": "1669937251164520449",
+        "location": "🇯🇵🇰🇷🦆profilepic @jann_owo",
+        "name": "고방오리 オナガガモ 𓅰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025485329118179328/JtPmrxLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 154,
+          "like_count": 39010,
+          "listed_count": 5,
+          "media_count": 1667,
+          "tweet_count": 9225
+        },
+        "username": "pintailduck01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929196467513913344",
+        "3_1929196467568492544"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1929196590654247395",
+    "created_at": "2025-06-01T15:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T16:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929196590654247395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReEac9dfaQ",
+          "end": 43,
+          "expanded_url": "https://x.com/tong35018157/status/1929196590654247395/photo/1",
+          "media_key": "3_1929196467513913344",
+          "start": 20,
+          "url": "https://t.co/ReEac9dfaQ"
+        },
+        {
+          "display_url": "pic.x.com/ReEac9dfaQ",
+          "end": 43,
+          "expanded_url": "https://x.com/tong35018157/status/1929196590654247395/photo/1",
+          "media_key": "3_1929196467568492544",
+          "start": 20,
+          "url": "https://t.co/ReEac9dfaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929196590654247395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候我们卡姐这么好看的人形能实装啊 https://t.co/ReEac9dfaQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929196467513913344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXh90Qa8AAA4DX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929196467568492544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXh90dbwAAQgvi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929196467513913344",
+            "3_1929196467568492544"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1929196590654247395",
+        "created_at": "2025-06-01T15:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929196590654247395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReEac9dfaQ",
+              "end": 43,
+              "expanded_url": "https://x.com/tong35018157/status/1929196590654247395/photo/1",
+              "media_key": "3_1929196467513913344",
+              "start": 20,
+              "url": "https://t.co/ReEac9dfaQ"
+            },
+            {
+              "display_url": "pic.x.com/ReEac9dfaQ",
+              "end": 43,
+              "expanded_url": "https://x.com/tong35018157/status/1929196590654247395/photo/1",
+              "media_key": "3_1929196467568492544",
+              "start": 20,
+              "url": "https://t.co/ReEac9dfaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929196590654247395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我们卡姐这么好看的人形能实装啊 https://t.co/ReEac9dfaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 222,
+          "like_count": 8790,
+          "listed_count": 2,
+          "media_count": 714,
+          "tweet_count": 4440
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

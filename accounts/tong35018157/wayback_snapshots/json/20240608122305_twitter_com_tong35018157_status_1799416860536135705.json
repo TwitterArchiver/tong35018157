@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1799410182998339810",
+    "created_at": "2024-06-08T12:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T13:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799416860536135705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1287446671257767938",
+          "start": 0,
+          "username": "sergey_r6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799416860536135705",
+    "in_reply_to_user_id": "1287446671257767938",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799411823294468478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sergey_r6s The usual part ……of Russian movies……I'm used to it……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1799410182998339810",
+        "created_at": "2024-06-08T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799416860536135705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1287446671257767938",
+              "start": 0,
+              "username": "sergey_r6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799416860536135705",
+        "in_reply_to_user_id": "1287446671257767938",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799411823294468478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sergey_r6s The usual part ……of Russian movies……I'm used to it……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1287446671257767938",
+        "conversation_id": "1799410182998339810",
+        "created_at": "2024-06-08T12:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T13:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799411823294468478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799411823294468478",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799410182998339810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 This is a polyamorous movie 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797224365542547456/Xqs0q6mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 206,
+          "like_count": 7855,
+          "listed_count": 1,
+          "tweet_count": 3714
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T17:56:29.000Z",
+        "description": "하바롭스크 역페스 운영자 / Icon:sure_thing_boss💗 Head:hamzraider💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCj8Og…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCj8OgPLbSr9GY6jhc_kbKGw",
+                "start": 0,
+                "url": "https://t.co/E0IFNLjSrb"
+              }
+            ]
+          }
+        },
+        "id": "1287446671257767938",
+        "name": "낫망이🦭(라진7호기)",
+        "pinned_tweet_id": "1313774021922545669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775328328704299008/Cu5Six-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 317,
+          "like_count": 58290,
+          "listed_count": 17,
+          "tweet_count": 57560
+        },
+        "url": "https://t.co/E0IFNLjSrb",
+        "username": "sergey_r6s",
+        "verified": false
+      }
+    ]
+  }
+}

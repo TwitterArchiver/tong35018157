@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1898571977297973727",
+    "created_at": "2025-03-09T16:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T17:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898766678391157008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898766678391157008",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898571977297973727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar 亲情可以在天涯，但不能在海角（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1898571977297973727",
+        "created_at": "2025-03-09T16:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T17:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898766678391157008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898766678391157008",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898571977297973727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar 亲情可以在天涯，但不能在海角（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "1898571977297973727",
+        "created_at": "2025-03-09T03:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898571977297973727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898571977297973727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 26912,
+          "like_count": 264,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爸吐槽我吃药吃的胸都出来了\n还揉我胸来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898735587399811072/DSdzfMuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 213,
+          "like_count": 8608,
+          "listed_count": 1,
+          "media_count": 687,
+          "tweet_count": 4307
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player |\nBiliBili：_AloneStar_ |\nSister：@Jidu00488470 |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Jidu00488470"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥@QueenStudio",
+        "pinned_tweet_id": "1893544236189901220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 699,
+          "like_count": 585,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      }
+    ]
+  }
+}

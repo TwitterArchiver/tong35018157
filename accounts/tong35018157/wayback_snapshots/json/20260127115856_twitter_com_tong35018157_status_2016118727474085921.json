@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2016118727474085921",
+    "created_at": "2026-01-27T11:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016118727474085921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447499448649601025",
+          "start": 3,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016118727474085921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015079762809802986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVTGW666: 以前的军委工作群:\n\n军委和睦一家亲(7)\n没有习近平的群(6)\n张又侠不在的群(6)\n何卫东不在的群(6)\n李尚福不在的群(6)\n刘振立不在的群(6)\n苗华不在的群(6)\n没有张升民的群(6)\n\n现在的军委工作群:\n习近平私聊张升民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2016118727474085921",
+        "created_at": "2026-01-27T11:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016118727474085921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447499448649601025",
+              "start": 3,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016118727474085921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015079762809802986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVTGW666: 以前的军委工作群:\n\n军委和睦一家亲(7)\n没有习近平的群(6)\n张又侠不在的群(6)\n何卫东不在的群(6)\n李尚福不在的群(6)\n刘振立不在的群(6)\n苗华不在的群(6)\n没有张升民的群(6)\n\n现在的军委工作群:\n习近平私聊张升民"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447499448649601025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2015079762809802986",
+        "created_at": "2026-01-24T15:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015079762809802986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015079762809802986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 516181,
+          "like_count": 3170,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "以前的军委工作群:\n\n军委和睦一家亲(7)\n没有习近平的群(6)\n张又侠不在的群(6)\n何卫东不在的群(6)\n李尚福不在的群(6)\n刘振立不在的群(6)\n苗华不在的群(6)\n没有张升民的群(6)\n\n现在的军委工作群:\n习近平私聊张升民"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/女生男娘宝宝可互关/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 281,
+          "like_count": 10617,
+          "listed_count": 3,
+          "media_count": 873,
+          "tweet_count": 5546
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2009674666114461914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62617,
+          "following_count": 887,
+          "like_count": 13758,
+          "listed_count": 275,
+          "media_count": 3131,
+          "tweet_count": 10164
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

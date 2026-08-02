@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2058226020034212232",
+    "created_at": "2026-05-23T16:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058226523866603952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1566316571248787457",
+          "start": 0,
+          "username": "zao_GuGuNian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058226523866603952",
+    "in_reply_to_user_id": "1566316571248787457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058226020034212232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zao_GuGuNian 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2058226020034212232",
+        "created_at": "2026-05-23T16:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058226523866603952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1566316571248787457",
+              "start": 0,
+              "username": "zao_GuGuNian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058226523866603952",
+        "in_reply_to_user_id": "1566316571248787457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058226020034212232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zao_GuGuNian 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566316571248787457",
+        "conversation_id": "2058226020034212232",
+        "created_at": "2026-05-23T16:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058226020034212232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058226020034212232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小心翼翼的上了很多当\n斤斤计较的吃了很多亏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 414,
+          "like_count": 14681,
+          "listed_count": 3,
+          "media_count": 961,
+          "tweet_count": 6744
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T06:46:09.000Z",
+        "description": "军宅/GFL/春田太太我喜欢你啊/生活",
+        "id": "1566316571248787457",
+        "location": "法蘭克福-羅克薩特主義共和國聯盟",
+        "name": "次號休刊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053127742980493312/BEJdETW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 537,
+          "like_count": 32551,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 498
+        },
+        "username": "zao_GuGuNian",
+        "verified": false
+      }
+    ]
+  }
+}

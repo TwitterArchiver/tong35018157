@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1884865380570587631",
+    "created_at": "2025-01-30T08:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T09:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884882511102439614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547227506339524609",
+          "start": 0,
+          "username": "lipoeas1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884882511102439614",
+    "in_reply_to_user_id": "1547227506339524609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884865380570587631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipoeas1 没事的宝宝，他们不理解我们不常接触这种文化我们也没必要理解他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1884865380570587631",
+        "created_at": "2025-01-30T08:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T09:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884882511102439614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547227506339524609",
+              "start": 0,
+              "username": "lipoeas1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884882511102439614",
+        "in_reply_to_user_id": "1547227506339524609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884865380570587631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipoeas1 没事的宝宝，他们不理解我们不常接触这种文化我们也没必要理解他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547227506339524609",
+        "conversation_id": "1884865380570587631",
+        "created_at": "2025-01-30T07:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884865380570587631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884865380570587631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实翻推看到很漂亮的画作点进作者主页发现自己被屏蔽了还是有点难受的，有种热脸贴冷屁股的错觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 225,
+          "like_count": 8411,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 4173
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T14:33:14.000Z",
+        "description": "i will moving on",
+        "id": "1547227506339524609",
+        "name": "LIPOEAS",
+        "pinned_tweet_id": "1883744990188491072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754179794659401728/6ujhhlQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 120,
+          "like_count": 1713,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 1767
+        },
+        "username": "lipoeas1",
+        "verified": false
+      }
+    ]
+  }
+}

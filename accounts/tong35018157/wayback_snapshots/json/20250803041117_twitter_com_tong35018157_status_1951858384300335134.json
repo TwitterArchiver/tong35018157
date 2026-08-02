@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1951858384300335134",
+    "created_at": "2025-08-03T04:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T05:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951858384300335134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/handleitgrips/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/handleitgrips/status/1951509663469424848",
+          "start": 11,
+          "url": "https://t.co/rUjQAN3tY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951858384300335134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951509663469424848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "scar马靴闯荡江湖 https://t.co/rUjQAN3tY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22933,
+        "height": 758,
+        "media_key": "13_1951509587485487104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951509587485487104/img/rSRLDSotxdOqFRoc.jpg",
+        "public_metrics": {
+          "view_count": 25928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951509587485487104/vid/avc1/320x336/M3piREbvCXXHuS0-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951509587485487104/vid/avc1/480x504/sWC-_NMSTLpT--AK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951509587485487104/vid/avc1/720x758/EUph4r3yvHcIWqZM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951509587485487104/pl/SQozt9zr2cgn48tT.m3u8?v=2b4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1951858384300335134",
+        "created_at": "2025-08-03T04:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951858384300335134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/handleitgrips/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/handleitgrips/status/1951509663469424848",
+              "start": 11,
+              "url": "https://t.co/rUjQAN3tY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951858384300335134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951509663469424848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "scar马靴闯荡江湖 https://t.co/rUjQAN3tY1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951509587485487104"
+          ]
+        },
+        "author_id": "824104925659414529",
+        "conversation_id": "1951509663469424848",
+        "created_at": "2025-08-02T05:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951509663469424848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrJjdZ1nc4",
+              "end": 37,
+              "expanded_url": "https://x.com/handleitgrips/status/1951509663469424848/video/1",
+              "media_key": "13_1951509587485487104",
+              "start": 14,
+              "url": "https://t.co/hrJjdZ1nc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951509663469424848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 42632,
+          "like_count": 748,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "Imma step out https://t.co/hrJjdZ1nc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 219,
+          "like_count": 9183,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 4823
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-25T04:01:40.000Z",
+        "description": "Wildest Gun Page on 𝕏 - Industry leading Gun Grips",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "handleitgrips.com",
+                "end": 23,
+                "expanded_url": "http://www.handleitgrips.com",
+                "start": 0,
+                "url": "https://t.co/hBoiQFmpVX"
+              }
+            ]
+          }
+        },
+        "id": "824104925659414529",
+        "location": "Texas, USA",
+        "name": "Handleit Grips",
+        "pinned_tweet_id": "1951727725166879142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810720172379889664/5KzKOj9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183249,
+          "following_count": 146,
+          "like_count": 4862,
+          "listed_count": 171,
+          "media_count": 7356,
+          "tweet_count": 10789
+        },
+        "url": "https://t.co/hBoiQFmpVX",
+        "username": "handleitgrips",
+        "verified": true
+      }
+    ]
+  }
+}

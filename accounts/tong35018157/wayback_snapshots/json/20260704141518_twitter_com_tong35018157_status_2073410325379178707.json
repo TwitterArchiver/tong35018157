@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2073410325379178707",
+    "created_at": "2026-07-04T14:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073410325379178707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stparabellum/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/stparabellum/status/2073352351138668704",
+          "start": 7,
+          "url": "https://t.co/zbfYg4dTmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073410325379178707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073352351138668704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马靴闯荡江湖 https://t.co/zbfYg4dTmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2073352346852044800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYG-XBWsAAejF0.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2073410325379178707",
+        "created_at": "2026-07-04T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073410325379178707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stparabellum/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/stparabellum/status/2073352351138668704",
+              "start": 7,
+              "url": "https://t.co/zbfYg4dTmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073410325379178707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073352351138668704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马靴闯荡江湖 https://t.co/zbfYg4dTmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073352346852044800"
+          ]
+        },
+        "author_id": "534400451",
+        "conversation_id": "2073352351138668704",
+        "created_at": "2026-07-04T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073352351138668704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmKOcr1ubU",
+              "end": 23,
+              "expanded_url": "https://x.com/stparabellum/status/2073352351138668704/photo/1",
+              "media_key": "3_2073352346852044800",
+              "start": 0,
+              "url": "https://t.co/TmKOcr1ubU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073352351138668704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1159,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TmKOcr1ubU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 499,
+          "like_count": 16985,
+          "listed_count": 3,
+          "media_count": 1009,
+          "tweet_count": 7512
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-23T15:14:53.000Z",
+        "description": "War Aesthetics and Balaclavas",
+        "id": "534400451",
+        "location": "Sahara ☀️",
+        "name": "𝙉𝙞𝙛",
+        "pinned_tweet_id": "1766131555309654341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415687355330560/y_m31G4P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47624,
+          "following_count": 267,
+          "like_count": 100783,
+          "listed_count": 125,
+          "media_count": 7040,
+          "tweet_count": 15404
+        },
+        "url": "",
+        "username": "stparabellum",
+        "verified": true
+      }
+    ]
+  }
+}

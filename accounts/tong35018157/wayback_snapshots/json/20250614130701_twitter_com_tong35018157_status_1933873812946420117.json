@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1933743065770156370",
+    "created_at": "2025-06-14T13:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T14:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933873812946420117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933873812946420117",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933743065770156370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 别吃了吃史去吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_1933743055372496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYJED5bMAAPAWP.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1933743065770156370",
+        "created_at": "2025-06-14T13:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933873812946420117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933873812946420117",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933743065770156370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 别吃了吃史去吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933743055372496896"
+          ]
+        },
+        "author_id": "1554424317483655175",
+        "conversation_id": "1933743065770156370",
+        "created_at": "2025-06-14T04:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933743065770156370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x12cVOlskO",
+              "end": 23,
+              "expanded_url": "https://x.com/yuu00401/status/1933743065770156370/photo/1",
+              "media_key": "3_1933743055372496896",
+              "start": 0,
+              "url": "https://t.co/x12cVOlskO"
+            },
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuu00401/status/1933741742475653260",
+              "start": 24,
+              "url": "https://t.co/Xw3p2lXetJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933743065770156370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1893,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933741742475653260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/x12cVOlskO https://t.co/Xw3p2lXetJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 224,
+          "like_count": 8829,
+          "listed_count": 2,
+          "media_count": 722,
+          "tweet_count": 4502
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "碎碎念晚期",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 691,
+          "like_count": 66134,
+          "listed_count": 5,
+          "media_count": 2025,
+          "tweet_count": 29747
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

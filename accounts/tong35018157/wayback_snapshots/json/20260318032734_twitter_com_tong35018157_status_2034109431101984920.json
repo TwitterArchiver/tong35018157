@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2034109431101984920",
+    "created_at": "2026-03-18T03:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034109431101984920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/python_dv/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/python_dv/status/2033749414079004871",
+          "start": 3,
+          "url": "https://t.co/5xH7sfiwhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034109431101984920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033749414079004871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼 https://t.co/5xH7sfiwhr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2033708742634872832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDkvU41boAAU8S5.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2034109431101984920",
+        "created_at": "2026-03-18T03:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034109431101984920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/python_dv/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/python_dv/status/2033749414079004871",
+              "start": 3,
+              "url": "https://t.co/5xH7sfiwhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034109431101984920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033749414079004871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/5xH7sfiwhr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033708742634872832"
+          ]
+        },
+        "author_id": "743780794997547008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033749414079004871",
+        "created_at": "2026-03-17T03:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033749414079004871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lm8qJFLHHm",
+              "end": 31,
+              "expanded_url": "https://x.com/Python_Dv/status/2033749414079004871/photo/1",
+              "media_key": "3_2033708742634872832",
+              "start": 8,
+              "url": "https://t.co/Lm8qJFLHHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033749414079004871",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1190,
+          "impression_count": 4138280,
+          "like_count": 13581,
+          "quote_count": 1385,
+          "reply_count": 473,
+          "retweet_count": 1093
+        },
+        "reply_settings": "everyone",
+        "text": "True 😂😜 https://t.co/Lm8qJFLHHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 311,
+          "like_count": 11939,
+          "listed_count": 3,
+          "media_count": 909,
+          "tweet_count": 5873
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-17T12:22:15.000Z",
+        "description": "A place for all things related to the #python #programming #coding #webdeveloper #webdevelopment #pythonprogramming #ai #ml #machinelearning #datascience ...",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "python"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "programming"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "coding"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "tag": "webdeveloper"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "tag": "webdevelopment"
+              },
+              {
+                "end": 115,
+                "start": 97,
+                "tag": "pythonprogramming"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "ai"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "ml"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "tag": "machinelearning"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "tag": "datascience"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.to/4cDpAXy",
+                "end": 23,
+                "expanded_url": "https://amzn.to/4cDpAXy",
+                "start": 0,
+                "url": "https://t.co/fUekiLbno4"
+              }
+            ]
+          }
+        },
+        "id": "743780794997547008",
+        "location": "United States",
+        "name": "Python Developer",
+        "pinned_tweet_id": "2033749414079004871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/842358957997883392/59-UQhVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175758,
+          "following_count": 1067,
+          "like_count": 3933,
+          "listed_count": 1470,
+          "media_count": 9723,
+          "tweet_count": 13127
+        },
+        "url": "https://t.co/fUekiLbno4",
+        "username": "Python_Dv",
+        "verified": true
+      }
+    ]
+  }
+}

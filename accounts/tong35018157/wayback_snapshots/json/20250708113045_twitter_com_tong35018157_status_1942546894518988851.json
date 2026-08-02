@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942353718772473856"
+      ],
+      "media_source_tweet_id": [
+        "1942353723428094115"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1942546894518988851",
+    "created_at": "2025-07-08T11:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T12:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942546894518988851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1872078990040510464",
+          "start": 3,
+          "username": "goddammitjosef"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8dP7f1dV2",
+          "end": 73,
+          "expanded_url": "https://x.com/goddammitjosef/status/1942353723428094115/photo/1",
+          "media_key": "3_1942353718772473856",
+          "start": 50,
+          "url": "https://t.co/E8dP7f1dV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942546894518988851",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942353723428094115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goddammitjosef: ok posting this again fuck it https://t.co/E8dP7f1dV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1942353718772473856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSgaouXoAAmxvN.jpg",
+        "width": 783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942353718772473856"
+          ],
+          "media_source_tweet_id": [
+            "1942353723428094115"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1942546894518988851",
+        "created_at": "2025-07-08T11:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942546894518988851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1872078990040510464",
+              "start": 3,
+              "username": "goddammitjosef"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8dP7f1dV2",
+              "end": 73,
+              "expanded_url": "https://x.com/goddammitjosef/status/1942353723428094115/photo/1",
+              "media_key": "3_1942353718772473856",
+              "start": 50,
+              "url": "https://t.co/E8dP7f1dV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942546894518988851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942353723428094115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goddammitjosef: ok posting this again fuck it https://t.co/E8dP7f1dV2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942353718772473856"
+          ]
+        },
+        "author_id": "1872078990040510464",
+        "conversation_id": "1942353723428094115",
+        "created_at": "2025-07-07T22:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T23:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942353723428094115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8dP7f1dV2",
+              "end": 53,
+              "expanded_url": "https://x.com/goddammitjosef/status/1942353723428094115/photo/1",
+              "media_key": "3_1942353718772473856",
+              "start": 30,
+              "url": "https://t.co/E8dP7f1dV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942353723428094115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3469,
+          "like_count": 162,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "ok posting this again fuck it https://t.co/E8dP7f1dV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 226,
+          "like_count": 8998,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 4663
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T00:36:34.000Z",
+        "description": "i like tsar alexander, i like to draw and have fun and and b emo, WEIRDOS OF THE WORLD, UNITE! \n(strawpage is linked in the neocities)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sashaswife.neocities.org",
+                "end": 23,
+                "expanded_url": "https://sashaswife.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/Ec8fwPjFPm"
+              }
+            ]
+          }
+        },
+        "id": "1872078990040510464",
+        "location": "he/she // esp/eng/rus",
+        "name": "lucía / josef 🍻 || 🇨🇺🇵🇸",
+        "pinned_tweet_id": "1921276186983907701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940598499113852929/05CMJxXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 200,
+          "like_count": 18479,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 4475
+        },
+        "url": "https://t.co/Ec8fwPjFPm",
+        "username": "goddammitjosef",
+        "verified": false
+      }
+    ]
+  }
+}

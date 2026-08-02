@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2073010157056033094",
+    "created_at": "2026-07-03T11:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073012014084145407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073012014084145407",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073010157056033094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 玩少前的女生挺少的，可以发发身材照这样配点骚哄的衣服（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2073010157056033094",
+        "created_at": "2026-07-03T11:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073012014084145407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073012014084145407",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073010157056033094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 玩少前的女生挺少的，可以发发身材照这样配点骚哄的衣服（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911458837107732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2073010157056033094",
+        "created_at": "2026-07-03T11:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073010157056033094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanameranaswly…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kanameranaswly/status/2072641230408917150",
+              "start": 20,
+              "url": "https://t.co/shpD0GNxpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073010157056033094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072641230408917150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合计着这么多点赞都没有一个四爱姐姐吗😿 https://t.co/shpD0GNxpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 495,
+          "like_count": 16922,
+          "listed_count": 3,
+          "media_count": 1007,
+          "tweet_count": 7468
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "04年过气少前指挥官，HK416厨，404小队❤️❤️❤️4I＞1I直男，Sub+Ⓜ️。少谈国事，支持🇺🇦🇮🇱和NATO的纳粹德棍🇩🇪，来我这刷黄纳肥皂梗的反法西斯德黑臭蛆你老冯被孔选仲三通一达😁zz立场是温和建制派民族社会主义者，6分保守威权4分自由。CN/EN/JP=OK，GER学习中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heckler-koch.com/en/Products/Mi…",
+                "end": 23,
+                "expanded_url": "https://www.heckler-koch.com/en/Products/Military%20and%20Law%20Enforcement/Assault%20rifles/HK416",
+                "start": 0,
+                "url": "https://t.co/pm34ScC4yJ"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "I.G 法本工业集团法兰克福总部",
+        "name": "✙守望莱茵的乐奈✠ꑭ🇩🇪🇦🇹",
+        "pinned_tweet_id": "2072641230408917150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067278236602834945/7GPFdA9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 1017,
+          "like_count": 16244,
+          "listed_count": 3,
+          "media_count": 592,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/pm34ScC4yJ",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

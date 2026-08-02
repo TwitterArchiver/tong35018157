@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1854556956540928212",
+    "created_at": "2024-11-13T14:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T15:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856702311810408594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530874247354421248",
+          "start": 0,
+          "username": "KyouenPark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856702311810408594",
+    "in_reply_to_user_id": "1530874247354421248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854556956540928212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyouenPark ai画的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1854556956540928212",
+        "created_at": "2024-11-13T14:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T15:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856702311810408594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530874247354421248",
+              "start": 0,
+              "username": "KyouenPark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856702311810408594",
+        "in_reply_to_user_id": "1530874247354421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854556956540928212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyouenPark ai画的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530874247354421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1854556956540928212",
+        "created_at": "2024-11-07T16:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T17:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854556956540928212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/elonmusk/status/1854201929519247803",
+              "start": 13,
+              "url": "https://t.co/lowGiPhMVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854556956540928212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854201929519247803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "，，，居然是真的不是梗图 https://t.co/lowGiPhMVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850209063852019712/zY-h5a0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 211,
+          "like_count": 8161,
+          "listed_count": 1,
+          "tweet_count": 3947
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T11:30:48.000Z",
+        "description": "中文/日本語/English←OK\n出来玩的捏🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/72956893",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/72956893",
+                "start": 0,
+                "url": "https://t.co/1rkjwoGGga"
+              }
+            ]
+          }
+        },
+        "id": "1530874247354421248",
+        "location": "全ソ•ジャガイモ販売総局",
+        "name": "神秘🐔人",
+        "pinned_tweet_id": "1654479653921275904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774064008880111616/1_Dwftjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 438,
+          "like_count": 60300,
+          "listed_count": 2,
+          "tweet_count": 11183
+        },
+        "url": "https://t.co/1rkjwoGGga",
+        "username": "KyouenPark",
+        "verified": false
+      }
+    ]
+  }
+}

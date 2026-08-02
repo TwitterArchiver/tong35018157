@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072053874005860352"
+      ],
+      "media_source_tweet_id": [
+        "2072053885116510503"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2072166575088816517",
+    "created_at": "2026-07-01T03:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072166575088816517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065354449019629568",
+          "start": 3,
+          "username": "Balavoine123"
+        },
+        {
+          "end": 33,
+          "id": "1952494480495611904",
+          "start": 18,
+          "username": "DeathToMarxism"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsGighQuUC",
+          "end": 57,
+          "expanded_url": "https://x.com/Balavoine123/status/2072053885116510503/photo/1",
+          "media_key": "3_2072053874005860352",
+          "start": 34,
+          "url": "https://t.co/zsGighQuUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072166575088816517",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072053885116510503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Balavoine123: @DeathToMarxism https://t.co/zsGighQuUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2072053874005860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFqBSuXYAAfh9k.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072053874005860352"
+          ],
+          "media_source_tweet_id": [
+            "2072053885116510503"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2072166575088816517",
+        "created_at": "2026-07-01T03:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072166575088816517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065354449019629568",
+              "start": 3,
+              "username": "Balavoine123"
+            },
+            {
+              "end": 33,
+              "id": "1952494480495611904",
+              "start": 18,
+              "username": "DeathToMarxism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsGighQuUC",
+              "end": 57,
+              "expanded_url": "https://x.com/Balavoine123/status/2072053885116510503/photo/1",
+              "media_key": "3_2072053874005860352",
+              "start": 34,
+              "url": "https://t.co/zsGighQuUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072166575088816517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072053885116510503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Balavoine123: @DeathToMarxism https://t.co/zsGighQuUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072053874005860352"
+          ]
+        },
+        "author_id": "2065354449019629568",
+        "conversation_id": "2071992227950149887",
+        "created_at": "2026-06-30T20:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072053885116510503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952494480495611904",
+              "start": 0,
+              "username": "DeathToMarxism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsGighQuUC",
+              "end": 39,
+              "expanded_url": "https://x.com/Balavoine123/status/2072053885116510503/photo/1",
+              "media_key": "3_2072053874005860352",
+              "start": 16,
+              "url": "https://t.co/zsGighQuUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072053885116510503",
+        "in_reply_to_user_id": "1952494480495611904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071992227950149887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeathToMarxism https://t.co/zsGighQuUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 492,
+          "like_count": 16773,
+          "listed_count": 3,
+          "media_count": 999,
+          "tweet_count": 7403
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T08:45:51.000Z",
+        "description": "\"j'me présente je m'appelle Henry\"\n\nRéactionnaire à plein temps et vive la France et l'empereur",
+        "id": "2065354449019629568",
+        "location": "Tel Aviv , Algerie",
+        "name": "Usogui",
+        "pinned_tweet_id": "2065901976487911921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069904788716740609/jVltci8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 45,
+          "like_count": 3682,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 4883
+        },
+        "url": "",
+        "username": "Balavoine123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T22:19:22.000Z",
+        "description": "19 ☦︎ ✠︎",
+        "id": "1952494480495611904",
+        "name": "Death To Marxism",
+        "pinned_tweet_id": "2064819601876168716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071344264026456064/fwI501EN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 174,
+          "like_count": 5458,
+          "listed_count": 12,
+          "media_count": 248,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "DeathToMarxism",
+        "verified": false
+      }
+    ]
+  }
+}

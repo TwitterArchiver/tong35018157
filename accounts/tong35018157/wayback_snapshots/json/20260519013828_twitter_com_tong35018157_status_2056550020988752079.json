@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2056550020988752079",
+    "created_at": "2026-05-19T01:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056550020988752079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azurlane_en/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/azurlane_en/status/2056057156747636761",
+          "start": 17,
+          "url": "https://t.co/xzYnLNsv81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056550020988752079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056057156747636761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海军现在只会做这种油腻电子鸡了吗 https://t.co/xzYnLNsv81"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36733,
+        "height": 1080,
+        "media_key": "13_2055226628410867713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055226628410867713/img/IY5xmcAIqupbUTJU.jpg",
+        "public_metrics": {
+          "view_count": 8395232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055226628410867713/vid/avc1/480x270/WclGP4pEQ1OOb4uQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055226628410867713/vid/avc1/1920x1080/QM-SOfhG9AXHLiA1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055226628410867713/vid/avc1/1280x720/4Rl3Z7xVAzDJ2YfL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055226628410867713/vid/avc1/640x360/NhOJswkS5OjOiJOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055226628410867713/pl/jz5cqWVBYjHDGosi.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2056550020988752079",
+        "created_at": "2026-05-19T01:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056550020988752079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azurlane_en/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/azurlane_en/status/2056057156747636761",
+              "start": 17,
+              "url": "https://t.co/xzYnLNsv81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056550020988752079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056057156747636761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海军现在只会做这种油腻电子鸡了吗 https://t.co/xzYnLNsv81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055226628410867713"
+          ]
+        },
+        "author_id": "993682160744738816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2056057156747636761",
+        "created_at": "2026-05-17T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056057156747636761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7JW4Pq5n5",
+              "end": 298,
+              "expanded_url": "https://x.com/AzurLane_EN/status/2056057156747636761/video/1",
+              "media_key": "13_2055226628410867713",
+              "start": 275,
+              "url": "https://t.co/J7JW4Pq5n5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056057156747636761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 316,
+                "start": 307,
+                "tag": "AzurLane"
+              },
+              {
+                "end": 324,
+                "start": 317,
+                "tag": "Yostar"
+              }
+            ]
+          },
+          "text": "【Preview: Mogador's Dual-Form (L2D) skin - Diving for Desire】\n\nWe're jumping! Ahah♥ Isn't this feeling of weightlessness just the best? You and me, Commaaander, falling and pressed together... You want this to last forever too, don't you?\n\n*Content is in development and may not reflect the final version.\n\n#AzurLane #Yostar"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56138,
+          "impression_count": 25554117,
+          "like_count": 111946,
+          "quote_count": 13762,
+          "reply_count": 2742,
+          "retweet_count": 10849
+        },
+        "reply_settings": "everyone",
+        "text": "【Preview: Mogador's Dual-Form (L2D) skin - Diving for Desire】\n\nWe're jumping! Ahah♥ Isn't this feeling of weightlessness just the best? You and me, Commaaander, falling and pressed together... You want this to last forever too, don't you?\n\n*Content is in development and may https://t.co/J7JW4Pq5n5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 401,
+          "like_count": 14162,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 6608
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T02:41:03.000Z",
+        "description": "The battleship girls game Azur Lane is now available! #AzurLane This is our official twitter. If you have any questions, please email to al.cs@yo-star.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "AzurLane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azurlane.yo-star.com",
+                "end": 23,
+                "expanded_url": "http://azurlane.yo-star.com/",
+                "start": 0,
+                "url": "https://t.co/NY5TmcDzrg"
+              }
+            ]
+          }
+        },
+        "id": "993682160744738816",
+        "location": "California, USA",
+        "name": "Azur Lane Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039598764634300417/f1vjnI7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522176,
+          "following_count": 18,
+          "like_count": 73,
+          "listed_count": 1536,
+          "media_count": 7443,
+          "tweet_count": 8481
+        },
+        "url": "https://t.co/NY5TmcDzrg",
+        "username": "AzurLane_EN",
+        "verified": true
+      }
+    ]
+  }
+}

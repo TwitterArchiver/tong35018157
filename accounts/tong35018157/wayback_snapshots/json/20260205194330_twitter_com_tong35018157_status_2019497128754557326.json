@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2019497128754557326",
+    "created_at": "2026-02-05T19:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T20:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019497128754557326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/femboyloveerr/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/femboyloveerr/status/2019396956511171043",
+          "start": 20,
+          "url": "https://t.co/kidPpjMHqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019497128754557326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019396956511171043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只看到一个抛弃爱人又逃避责任的垃圾男的 https://t.co/kidPpjMHqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019396949552603136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZW046XIAApg_i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2019497128754557326",
+        "created_at": "2026-02-05T19:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019497128754557326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/femboyloveerr/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/femboyloveerr/status/2019396956511171043",
+              "start": 20,
+              "url": "https://t.co/kidPpjMHqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019497128754557326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019396956511171043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只看到一个抛弃爱人又逃避责任的垃圾男的 https://t.co/kidPpjMHqZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019396949552603136"
+          ]
+        },
+        "author_id": "1847884802516799489",
+        "conversation_id": "2019396956511171043",
+        "created_at": "2026-02-05T13:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019396956511171043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyh8lAdxD4",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2019396956511171043/photo/1",
+              "media_key": "3_2019396949552603136",
+              "start": 0,
+              "url": "https://t.co/fyh8lAdxD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019396956511171043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 15296,
+          "like_count": 885,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fyh8lAdxD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 289,
+          "like_count": 10714,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 5579
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:19:06.000Z",
+        "description": "Hai :3",
+        "id": "1847884802516799489",
+        "name": ":3",
+        "pinned_tweet_id": "1878350352791093588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861534765490524160/JWCC3Hu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61707,
+          "following_count": 25,
+          "like_count": 11938,
+          "listed_count": 48,
+          "media_count": 1637,
+          "tweet_count": 7034
+        },
+        "username": "FemboyLoveerr",
+        "verified": false
+      }
+    ]
+  }
+}

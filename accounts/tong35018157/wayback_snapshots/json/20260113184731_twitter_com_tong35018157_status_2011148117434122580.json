@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010903985147068417",
+        "3_2010903985172201475",
+        "3_2010903985180508160",
+        "3_2010903985579016192"
+      ],
+      "media_source_tweet_id": [
+        "2010904127564607673",
+        "2010904127564607673",
+        "2010904127564607673",
+        "2010904127564607673"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2011148117434122580",
+    "created_at": "2026-01-13T18:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T19:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011148117434122580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "917930398834868224",
+          "start": 3,
+          "username": "panda_copanda22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCIv84akqO",
+          "end": 52,
+          "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+          "media_key": "3_2010903985147068417",
+          "start": 29,
+          "url": "https://t.co/PCIv84akqO"
+        },
+        {
+          "display_url": "pic.x.com/PCIv84akqO",
+          "end": 52,
+          "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+          "media_key": "3_2010903985172201475",
+          "start": 29,
+          "url": "https://t.co/PCIv84akqO"
+        },
+        {
+          "display_url": "pic.x.com/PCIv84akqO",
+          "end": 52,
+          "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+          "media_key": "3_2010903985180508160",
+          "start": 29,
+          "url": "https://t.co/PCIv84akqO"
+        },
+        {
+          "display_url": "pic.x.com/PCIv84akqO",
+          "end": 52,
+          "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+          "media_key": "3_2010903985579016192",
+          "start": 29,
+          "url": "https://t.co/PCIv84akqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011148117434122580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010904127564607673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panda_copanda22: なってますか？ https://t.co/PCIv84akqO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2010903985147068417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gqhTAbwAEo1WV.jpg",
+        "width": 3026
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2010903985172201475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gqhTGbQAM0zIH.jpg",
+        "width": 3026
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2010903985180508160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gqhTIaAAABTHs.jpg",
+        "width": 3026
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2010903985579016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gqhUnawAAdBHN.jpg",
+        "width": 3026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010903985147068417",
+            "3_2010903985172201475",
+            "3_2010903985180508160",
+            "3_2010903985579016192"
+          ],
+          "media_source_tweet_id": [
+            "2010904127564607673",
+            "2010904127564607673",
+            "2010904127564607673",
+            "2010904127564607673"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011148117434122580",
+        "created_at": "2026-01-13T18:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011148117434122580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "917930398834868224",
+              "start": 3,
+              "username": "panda_copanda22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 52,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985147068417",
+              "start": 29,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 52,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985172201475",
+              "start": 29,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 52,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985180508160",
+              "start": 29,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 52,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985579016192",
+              "start": 29,
+              "url": "https://t.co/PCIv84akqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011148117434122580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010904127564607673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panda_copanda22: なってますか？ https://t.co/PCIv84akqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010903985147068417",
+            "3_2010903985172201475",
+            "3_2010903985180508160",
+            "3_2010903985579016192"
+          ]
+        },
+        "author_id": "917930398834868224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010904127564607673",
+        "created_at": "2026-01-13T02:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010904127564607673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 31,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985147068417",
+              "start": 8,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 31,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985172201475",
+              "start": 8,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 31,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985180508160",
+              "start": 8,
+              "url": "https://t.co/PCIv84akqO"
+            },
+            {
+              "display_url": "pic.x.com/PCIv84akqO",
+              "end": 31,
+              "expanded_url": "https://x.com/panda_copanda22/status/2010904127564607673/photo/1",
+              "media_key": "3_2010903985579016192",
+              "start": 8,
+              "url": "https://t.co/PCIv84akqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010904127564607673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "なってますか？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2254,
+          "impression_count": 1183350,
+          "like_count": 17198,
+          "quote_count": 32,
+          "reply_count": 54,
+          "retweet_count": 1020
+        },
+        "reply_settings": "everyone",
+        "text": "なってますか？ https://t.co/PCIv84akqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 278,
+          "like_count": 10584,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5520
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T01:50:36.000Z",
+        "description": "お絵描きとグッズ製作 MGSとパンダ大好きおじさん BOOTH https://t.co/MU1P4mFWNc パピコはDMにて。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "llpandafactoryll.booth.pm",
+                "end": 55,
+                "expanded_url": "http://llpandafactoryll.booth.pm",
+                "start": 32,
+                "url": "https://t.co/MU1P4mFWNc"
+              }
+            ]
+          }
+        },
+        "id": "917930398834868224",
+        "location": "京都",
+        "name": "llPandall 🐾",
+        "pinned_tweet_id": "1402608872498417672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578677299746308096/oe4QU2yU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 880,
+          "like_count": 87223,
+          "listed_count": 24,
+          "media_count": 1711,
+          "tweet_count": 7278
+        },
+        "username": "panda_copanda22",
+        "verified": true
+      }
+    ]
+  }
+}

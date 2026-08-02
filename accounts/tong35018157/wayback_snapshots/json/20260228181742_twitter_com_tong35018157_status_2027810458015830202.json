@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2027810458015830202",
+    "created_at": "2026-02-28T18:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027810458015830202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shitpostgate/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/shitpostgate/status/2027753153509396736",
+          "start": 6,
+          "url": "https://t.co/Dr3VfWxRks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027810458015830202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027753153509396736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做给老公吃 https://t.co/Dr3VfWxRks"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11555,
+        "height": 1280,
+        "media_key": "13_2027543767062921216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027543767062921216/img/jXrX4IdlM-kE_txz.jpg",
+        "public_metrics": {
+          "view_count": 13529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027543767062921216/vid/avc1/320x568/-wWMDjQfJ-tL-ois.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027543767062921216/vid/avc1/480x852/PpNpvQ7nWLfCju4J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027543767062921216/vid/avc1/720x1280/HGDwXV7l2MuTkQIs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027543767062921216/pl/xqK0UjupxTVX2Tlh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2027810458015830202",
+        "created_at": "2026-02-28T18:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027810458015830202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shitpostgate/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/shitpostgate/status/2027753153509396736",
+              "start": 6,
+              "url": "https://t.co/Dr3VfWxRks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027810458015830202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027753153509396736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做给老公吃 https://t.co/Dr3VfWxRks"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027543767062921216"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027753153509396736",
+        "created_at": "2026-02-28T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027753153509396736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGlCC1TpM5",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostGate/status/2027753153509396736/video/1",
+              "media_key": "13_2027543767062921216",
+              "start": 0,
+              "url": "https://t.co/IGlCC1TpM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027753153509396736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 27701,
+          "like_count": 498,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IGlCC1TpM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 302,
+          "like_count": 11460,
+          "listed_count": 3,
+          "media_count": 893,
+          "tweet_count": 5740
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 16,
+                "start": 5,
+                "tag": "hitposting"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1989805597244756334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602099,
+          "following_count": 2492,
+          "like_count": 3304,
+          "listed_count": 3227,
+          "media_count": 38968,
+          "tweet_count": 53614
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

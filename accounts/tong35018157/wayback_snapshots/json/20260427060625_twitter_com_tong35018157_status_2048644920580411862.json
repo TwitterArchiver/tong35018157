@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048327871010406400"
+      ],
+      "media_source_tweet_id": [
+        "2048327875838026231"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048644920580411862",
+    "created_at": "2026-04-27T06:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048644920580411862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1998014725712707584",
+          "start": 3,
+          "username": "dFQms3KtWf75876"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IzshJ4tjla",
+          "end": 44,
+          "expanded_url": "https://x.com/dFQms3KtWf75876/status/2048327875838026231/photo/1",
+          "media_key": "3_2048327871010406400",
+          "start": 21,
+          "url": "https://t.co/IzshJ4tjla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048644920580411862",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048327875838026231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dFQms3KtWf75876: https://t.co/IzshJ4tjla"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2048327871010406400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0fWJ8bgAAGRtj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048327871010406400"
+          ],
+          "media_source_tweet_id": [
+            "2048327875838026231"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048644920580411862",
+        "created_at": "2026-04-27T06:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048644920580411862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1998014725712707584",
+              "start": 3,
+              "username": "dFQms3KtWf75876"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzshJ4tjla",
+              "end": 44,
+              "expanded_url": "https://x.com/dFQms3KtWf75876/status/2048327875838026231/photo/1",
+              "media_key": "3_2048327871010406400",
+              "start": 21,
+              "url": "https://t.co/IzshJ4tjla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048644920580411862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048327875838026231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dFQms3KtWf75876: https://t.co/IzshJ4tjla"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048327871010406400"
+          ]
+        },
+        "author_id": "1998014725712707584",
+        "conversation_id": "2048327875838026231",
+        "created_at": "2026-04-26T09:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048327875838026231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzshJ4tjla",
+              "end": 23,
+              "expanded_url": "https://x.com/dFQms3KtWf75876/status/2048327875838026231/photo/1",
+              "media_key": "3_2048327871010406400",
+              "start": 0,
+              "url": "https://t.co/IzshJ4tjla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048327875838026231",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 30473,
+          "like_count": 3103,
+          "quote_count": 12,
+          "reply_count": 26,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IzshJ4tjla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 370,
+          "like_count": 13069,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6311
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T13:00:19.000Z",
+        "description": "軍事&動画編集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/d2yajlllb2k38bp",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/d2yajlllb2k38bp",
+                "start": 0,
+                "url": "https://t.co/xbgRdYINg6"
+              }
+            ]
+          }
+        },
+        "id": "1998014725712707584",
+        "location": "Japan",
+        "name": "𝙍𝙐𝙄𝙎 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040214143303913472/I5amJrfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 883,
+          "like_count": 23129,
+          "listed_count": 2,
+          "media_count": 830,
+          "tweet_count": 8366
+        },
+        "url": "https://t.co/xbgRdYINg6",
+        "username": "dFQms3KtWf75876",
+        "verified": false
+      }
+    ]
+  }
+}

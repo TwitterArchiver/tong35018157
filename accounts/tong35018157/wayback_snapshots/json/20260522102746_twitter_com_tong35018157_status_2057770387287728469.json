@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057676771978559766",
+    "created_at": "2026-05-22T10:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057770387287728469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057770387287728469",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057769336455262220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057676771978559766",
+        "created_at": "2026-05-22T10:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057770387287728469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057770387287728469",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057769336455262220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841429529413529600",
+        "conversation_id": "2057676771978559766",
+        "created_at": "2026-05-22T10:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057769336455262220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057769336455262220",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057676771978559766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 姐姐姐姐姐姐！\n欸我在做什么（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 411,
+          "like_count": 14513,
+          "listed_count": 3,
+          "media_count": 956,
+          "tweet_count": 6696
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm\n对\n大号G了小号接着炒作",
+        "id": "1841429529413529600",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2050612191548825768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051214180745650176/YgDV8phI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 289,
+          "like_count": 7326,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1943
+        },
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}

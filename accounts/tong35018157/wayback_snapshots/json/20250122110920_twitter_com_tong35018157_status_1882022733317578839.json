@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1882022580896641209",
+    "created_at": "2025-01-22T11:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T12:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882022733317578839"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882022733317578839",
+    "in_reply_to_user_id": "1467315060041256963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882022580896641209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来以为是老七忐忑不安地攒，结果不是就无所谓了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1882022580896641209",
+        "created_at": "2025-01-22T11:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882022733317578839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882022733317578839",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882022580896641209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来以为是老七忐忑不安地攒，结果不是就无所谓了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882022566468132864"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882022580896641209",
+        "created_at": "2025-01-22T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882022580896641209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLNAzA67tr",
+              "end": 32,
+              "expanded_url": "https://x.com/tong35018157/status/1882022580896641209/photo/1",
+              "media_key": "3_1882022566468132864",
+              "start": 9,
+              "url": "https://t.co/hLNAzA67tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882022580896641209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十五发就出了…… https://t.co/hLNAzA67tr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 213,
+          "like_count": 8244,
+          "listed_count": 1,
+          "media_count": 659,
+          "tweet_count": 4085
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

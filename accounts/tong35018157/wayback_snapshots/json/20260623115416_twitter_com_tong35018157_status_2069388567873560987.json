@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068976539035721728"
+      ],
+      "media_source_tweet_id": [
+        "2068976607360909664"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2069388567873560987",
+    "created_at": "2026-06-23T11:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069388567873560987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2020889558833848320",
+          "start": 3,
+          "username": "orphicres0nance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w6KfvM8rGV",
+          "end": 44,
+          "expanded_url": "https://x.com/orphicres0nance/status/2068976607360909664/video/1",
+          "media_key": "7_2068976539035721728",
+          "start": 21,
+          "url": "https://t.co/w6KfvM8rGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069388567873560987",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068976607360909664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orphicres0nance: https://t.co/w6KfvM8rGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30837,
+        "height": 1280,
+        "media_key": "7_2068976539035721728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068976539035721728/pu/img/7ZYJflTWK_Z7TYeN.jpg",
+        "public_metrics": {
+          "view_count": 25597
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068976539035721728/pu/vid/avc1/320x568/V7WCURk3NrFTu605.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068976539035721728/pu/vid/avc1/480x852/EkoGPxBE-g8afnnC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068976539035721728/pu/vid/avc1/720x1280/e5XBVh_twOqOp3J5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068976539035721728/pu/pl/IYfyp6Orm3tfO7yj.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068976539035721728"
+          ],
+          "media_source_tweet_id": [
+            "2068976607360909664"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2069388567873560987",
+        "created_at": "2026-06-23T11:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069388567873560987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2020889558833848320",
+              "start": 3,
+              "username": "orphicres0nance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6KfvM8rGV",
+              "end": 44,
+              "expanded_url": "https://x.com/orphicres0nance/status/2068976607360909664/video/1",
+              "media_key": "7_2068976539035721728",
+              "start": 21,
+              "url": "https://t.co/w6KfvM8rGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069388567873560987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068976607360909664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orphicres0nance: https://t.co/w6KfvM8rGV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068976539035721728"
+          ]
+        },
+        "author_id": "2020889558833848320",
+        "conversation_id": "2068976607360909664",
+        "created_at": "2026-06-22T08:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068976607360909664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6KfvM8rGV",
+              "end": 23,
+              "expanded_url": "https://x.com/orphicres0nance/status/2068976607360909664/video/1",
+              "media_key": "7_2068976539035721728",
+              "start": 0,
+              "url": "https://t.co/w6KfvM8rGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068976607360909664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 74556,
+          "like_count": 3938,
+          "quote_count": 34,
+          "reply_count": 13,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w6KfvM8rGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 490,
+          "like_count": 16465,
+          "listed_count": 3,
+          "media_count": 993,
+          "tweet_count": 7292
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T15:56:43.000Z",
+        "description": "kenosian",
+        "id": "2020889558833848320",
+        "location": "Frankonia",
+        "name": "Finnagain",
+        "pinned_tweet_id": "2062293300908843062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064426220754817026/NkIfg9ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 28,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "orphicres0nance",
+        "verified": false
+      }
+    ]
+  }
+}

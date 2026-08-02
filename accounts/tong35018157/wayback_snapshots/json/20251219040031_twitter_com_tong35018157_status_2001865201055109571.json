@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001678607765377031"
+      ],
+      "media_source_tweet_id": [
+        "2001678670159823117"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001865201055109571",
+    "created_at": "2025-12-19T04:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001865201055109571"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "ウクライナ",
+          "probability": 0.8371,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1399513314376388608",
+          "start": 3,
+          "username": "flanker_d500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WAIImScBoH",
+          "end": 61,
+          "expanded_url": "https://x.com/flanker_d500/status/2001678670159823117/video/1",
+          "media_key": "13_2001678607765377031",
+          "start": 38,
+          "url": "https://t.co/WAIImScBoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001865201055109571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001678670159823117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @flanker_d500: BVVDウクライナで練習した成果でてる https://t.co/WAIImScBoH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6725,
+        "height": 720,
+        "media_key": "13_2001678607765377031",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001678607765377031/img/Y8io-pmLCnR6i5gu.jpg",
+        "public_metrics": {
+          "view_count": 14629
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001678607765377031/vid/avc1/480x270/dTZfWGXySmID4CF9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001678607765377031/vid/avc1/640x360/g9B08y-aUd6Ww4FX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001678607765377031/vid/avc1/1280x720/oFlHakLzQe8I_EeD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001678607765377031/pl/ggYThlXFJBpPTheT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001678607765377031"
+          ],
+          "media_source_tweet_id": [
+            "2001678670159823117"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001865201055109571",
+        "created_at": "2025-12-19T04:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001865201055109571"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "ウクライナ",
+              "probability": 0.8371,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1399513314376388608",
+              "start": 3,
+              "username": "flanker_d500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAIImScBoH",
+              "end": 61,
+              "expanded_url": "https://x.com/flanker_d500/status/2001678670159823117/video/1",
+              "media_key": "13_2001678607765377031",
+              "start": 38,
+              "url": "https://t.co/WAIImScBoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001865201055109571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001678670159823117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @flanker_d500: BVVDウクライナで練習した成果でてる https://t.co/WAIImScBoH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001678607765377031"
+          ]
+        },
+        "author_id": "1399513314376388608",
+        "conversation_id": "2001678670159823117",
+        "created_at": "2025-12-18T15:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001678670159823117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ウクライナ",
+              "probability": 0.8492,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAIImScBoH",
+              "end": 43,
+              "expanded_url": "https://x.com/flanker_d500/status/2001678670159823117/video/1",
+              "media_key": "13_2001678607765377031",
+              "start": 20,
+              "url": "https://t.co/WAIImScBoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001678670159823117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 34735,
+          "like_count": 289,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "BVVDウクライナで練習した成果でてる https://t.co/WAIImScBoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 270,
+          "like_count": 10542,
+          "listed_count": 3,
+          "media_count": 866,
+          "tweet_count": 5488
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T23:49:22.000Z",
+        "description": "写真,クソゲー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sukhoi_yukkur…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@sukhoi_yukkuri?si=xkOj-HOw4G7PwwJj",
+                "start": 0,
+                "url": "https://t.co/zZix1cBSfN"
+              }
+            ]
+          }
+        },
+        "id": "1399513314376388608",
+        "location": "空の勝利は技術にあり",
+        "name": "054",
+        "pinned_tweet_id": "1889539881522831712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928098073525506048/_FbCWtbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1117,
+          "like_count": 81763,
+          "listed_count": 9,
+          "media_count": 2781,
+          "tweet_count": 23797
+        },
+        "url": "https://t.co/zZix1cBSfN",
+        "username": "flanker_d500",
+        "verified": false
+      }
+    ]
+  }
+}

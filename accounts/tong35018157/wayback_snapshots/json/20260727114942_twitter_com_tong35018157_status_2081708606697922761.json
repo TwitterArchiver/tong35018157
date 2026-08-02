@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2081708606697922761",
+    "created_at": "2026-07-27T11:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081708606697922761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287446671257767938",
+          "start": 3,
+          "username": "sergey_r6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081708606697922761",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081696707600097605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sergey_r6s: В Советском Союзе существовали кошколюди, но их существование было засекречено, а вся история была переписана. Это настоящи…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1511,
+        "media_key": "3_2081696696757899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOsHcxb0AALGVT.jpg",
+        "width": 1041
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2081696702654996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOsHyvaYAAoX7S.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2081708606697922761",
+        "created_at": "2026-07-27T11:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081708606697922761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287446671257767938",
+              "start": 3,
+              "username": "sergey_r6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081708606697922761",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081696707600097605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sergey_r6s: В Советском Союзе существовали кошколюди, но их существование было засекречено, а вся история была переписана. Это настоящи…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081696696757899264",
+            "3_2081696702654996480"
+          ]
+        },
+        "author_id": "1287446671257767938",
+        "conversation_id": "2081696707600097605",
+        "created_at": "2026-07-27T11:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081696707600097605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jwg5bUm3xS",
+              "end": 183,
+              "expanded_url": "https://x.com/sergey_r6s/status/2081696707600097605/photo/1",
+              "media_key": "3_2081696696757899264",
+              "start": 160,
+              "url": "https://t.co/Jwg5bUm3xS"
+            },
+            {
+              "display_url": "pic.x.com/Jwg5bUm3xS",
+              "end": 183,
+              "expanded_url": "https://x.com/sergey_r6s/status/2081696707600097605/photo/1",
+              "media_key": "3_2081696702654996480",
+              "start": 160,
+              "url": "https://t.co/Jwg5bUm3xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696707600097605",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "В Советском Союзе существовали кошколюди, но их существование было засекречено, а вся история была переписана. Это настоящие, неотредактированные фотографии. 🤫 https://t.co/Jwg5bUm3xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 522,
+          "like_count": 17774,
+          "listed_count": 3,
+          "media_count": 1044,
+          "tweet_count": 7861
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T17:56:29.000Z",
+        "description": "У меня 7 психиатрических диагнозов: БАР, ПРЛ, ГТР, ОКР, ВМФ, ВВС, ГКД. / Icon:sure_thing_boss💗 Head:hamzraider💗",
+        "id": "1287446671257767938",
+        "location": "Moscow, Russia",
+        "name": "낫망이🦭(라간의순진)",
+        "pinned_tweet_id": "1888965880350232935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907214829162815488/S2LWIb08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 331,
+          "like_count": 67418,
+          "listed_count": 13,
+          "media_count": 12745,
+          "tweet_count": 73728
+        },
+        "url": "",
+        "username": "sergey_r6s",
+        "verified": false
+      }
+    ]
+  }
+}

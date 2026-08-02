@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048940960474874308",
+    "created_at": "2026-04-28T01:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048940960474874308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amazlngnature/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/amazlngnature/status/2048781622523347420",
+          "start": 7,
+          "url": "https://t.co/b7whkQ3JAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048940960474874308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048781622523347420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小呆橘：☹️ https://t.co/b7whkQ3JAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2048781431229599744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6721bbUAAv5r6.jpg",
+        "width": 736
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2048781431242215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6721eb0AAhH4B.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048940960474874308",
+        "created_at": "2026-04-28T01:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048940960474874308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amazlngnature/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/amazlngnature/status/2048781622523347420",
+              "start": 7,
+              "url": "https://t.co/b7whkQ3JAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048940960474874308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048781622523347420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小呆橘：☹️ https://t.co/b7whkQ3JAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048781431229599744",
+            "3_2048781431242215424"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "2048781622523347420",
+        "created_at": "2026-04-27T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048781622523347420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Y79I1Hzg6",
+              "end": 152,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2048781622523347420/photo/1",
+              "media_key": "3_2048781431229599744",
+              "start": 129,
+              "url": "https://t.co/2Y79I1Hzg6"
+            },
+            {
+              "display_url": "pic.x.com/2Y79I1Hzg6",
+              "end": 152,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2048781622523347420/photo/1",
+              "media_key": "3_2048781431242215424",
+              "start": 129,
+              "url": "https://t.co/2Y79I1Hzg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048781622523347420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1562,
+          "impression_count": 525038,
+          "like_count": 17182,
+          "quote_count": 278,
+          "reply_count": 260,
+          "retweet_count": 1998
+        },
+        "reply_settings": "everyone",
+        "text": "I feel like everyone should know about Goldcrests. They weigh just about 1/100th of a pound and look really grumpy all the time. https://t.co/2Y79I1Hzg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 371,
+          "like_count": 13138,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6331
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖\n\n📧 submit clips & inquiries to media@fixated.com",
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6424073,
+          "following_count": 53,
+          "like_count": 1337,
+          "listed_count": 11758,
+          "media_count": 26488,
+          "tweet_count": 28065
+        },
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

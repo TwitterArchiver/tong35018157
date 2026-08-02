@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2059629188651610610",
+    "created_at": "2026-05-27T15:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059663211755114813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555915954353098757",
+          "start": 0,
+          "username": "amatsubame_26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059663211755114813",
+    "in_reply_to_user_id": "1555915954353098757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059658243547557994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amatsubame_26 15级小登"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2059629188651610610",
+        "created_at": "2026-05-27T15:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059663211755114813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555915954353098757",
+              "start": 0,
+              "username": "amatsubame_26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059663211755114813",
+        "in_reply_to_user_id": "1555915954353098757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059658243547557994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amatsubame_26 15级小登"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555915954353098757",
+        "conversation_id": "2059629188651610610",
+        "created_at": "2026-05-27T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658243547557994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658243547557994",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059629188651610610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 战雷新手吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 439,
+          "like_count": 14908,
+          "listed_count": 3,
+          "media_count": 964,
+          "tweet_count": 6839
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T13:57:45.000Z",
+        "description": "",
+        "id": "1555915954353098757",
+        "name": "一只无聊の雨燕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056839901480632320/a6nEYsLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 460,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 128
+        },
+        "username": "amatsubame_26",
+        "verified": false
+      }
+    ]
+  }
+}

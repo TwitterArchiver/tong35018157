@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048677173893194151",
+    "created_at": "2026-04-27T08:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048677364343926789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048677364343926789",
+    "in_reply_to_user_id": "1467315060041256963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048677173893194151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "调了一节课干涉环的影都没见到😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048677173893194151",
+        "created_at": "2026-04-27T08:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048677364343926789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048677364343926789",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048677173893194151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调了一节课干涉环的影都没见到😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048677173893194151",
+        "created_at": "2026-04-27T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048677173893194151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048677173893194151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大物实验放过我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 370,
+          "like_count": 13076,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6314
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

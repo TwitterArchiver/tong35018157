@@ -1,0 +1,678 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2022668456957743512",
+    "created_at": "2026-02-14T13:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022668456957743512"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 119,
+          "normalized_text": "Valentine's Day",
+          "probability": 0.7356,
+          "start": 105,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1074637014715248641",
+          "start": 3,
+          "username": "stalker_thegame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/46",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022668456957743512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022626881229721829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stalker_thegame: The detector is quiet. But your heart isn't. Send your stalker a card, because it's Valentine's Day! 💕 https://t.co/46…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2022355344295415809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDZeIJXUAEOSko.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2156,
+        "media_key": "3_2022355894160293888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDZ-IjXgAAPPOL.jpg",
+        "width": 3834
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2022355908135915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDZ-8nakAAVvnW.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022668456957743512",
+        "created_at": "2026-02-14T13:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022668456957743512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 119,
+              "normalized_text": "Valentine's Day",
+              "probability": 0.7356,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1074637014715248641",
+              "start": 3,
+              "username": "stalker_thegame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/46",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022668456957743512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022626881229721829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stalker_thegame: The detector is quiet. But your heart isn't. Send your stalker a card, because it's Valentine's Day! 💕 https://t.co/46…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022355344295415809",
+            "3_2022355894160293888",
+            "3_2022355908135915520"
+          ]
+        },
+        "author_id": "1074637014715248641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022626881229721829",
+        "created_at": "2026-02-14T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022626881229721829"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 98,
+              "normalized_text": "Valentine's Day",
+              "probability": 0.7312,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46maNuFqSf",
+              "end": 126,
+              "expanded_url": "https://x.com/stalker_thegame/status/2022626881229721829/photo/1",
+              "media_key": "3_2022355344295415809",
+              "start": 103,
+              "url": "https://t.co/46maNuFqSf"
+            },
+            {
+              "display_url": "pic.x.com/46maNuFqSf",
+              "end": 126,
+              "expanded_url": "https://x.com/stalker_thegame/status/2022626881229721829/photo/1",
+              "media_key": "3_2022355894160293888",
+              "start": 103,
+              "url": "https://t.co/46maNuFqSf"
+            },
+            {
+              "display_url": "pic.x.com/46maNuFqSf",
+              "end": 126,
+              "expanded_url": "https://x.com/stalker_thegame/status/2022626881229721829/photo/1",
+              "media_key": "3_2022355908135915520",
+              "start": 103,
+              "url": "https://t.co/46maNuFqSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022626881229721829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10630,
+          "like_count": 513,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "The detector is quiet. But your heart isn't. Send your stalker a card, because it's Valentine's Day! 💕 https://t.co/46maNuFqSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 290,
+          "like_count": 11038,
+          "listed_count": 3,
+          "media_count": 883,
+          "tweet_count": 5632
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T12:06:44.000Z",
+        "description": "Official Twitter account for the S.T.A.L.K.E.R. game franchise | S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stalker2.com",
+                "end": 23,
+                "expanded_url": "http://stalker2.com",
+                "start": 0,
+                "url": "https://t.co/hE33pzHsbU"
+              }
+            ]
+          }
+        },
+        "id": "1074637014715248641",
+        "location": "Chornobyl Zone, Prypiat",
+        "name": "S.T.A.L.K.E.R. OFFICIAL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018270283858145280/d1hzVStm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160617,
+          "following_count": 25,
+          "like_count": 1620,
+          "listed_count": 316,
+          "media_count": 1009,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/hE33pzHsbU",
+        "username": "stalker_thegame",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048027867028857033",
+    "created_at": "2026-04-26T05:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048268902460018920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880814311133847552",
+          "start": 0,
+          "username": "anussucker06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048268902460018920",
+    "in_reply_to_user_id": "1880814311133847552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048266828108222701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anussucker06 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048027867028857033",
+        "created_at": "2026-04-26T05:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048268902460018920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880814311133847552",
+              "start": 0,
+              "username": "anussucker06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048268902460018920",
+        "in_reply_to_user_id": "1880814311133847552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048266828108222701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anussucker06 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880814311133847552",
+        "conversation_id": "2048027867028857033",
+        "created_at": "2026-04-26T05:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048266828108222701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048266828108222701",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048029291250909197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 这不是我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 367,
+          "like_count": 13012,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6292
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T03:07:48.000Z",
+        "description": "在读研究生，外形优秀不缺得吃，已经对正常性生活感到腻味，追08年混血女高未果，反而自我洗脑成为她和对象的贡畜锁奴，在这里记录我的沦陷过程。",
+        "id": "1880814311133847552",
+        "location": "河北",
+        "name": "高贵混血女高的贡奴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880814650062966784/yzuwoyRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 479,
+          "like_count": 44,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 64
+        },
+        "username": "anussucker06",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041398718587629568"
+      ],
+      "media_source_tweet_id": [
+        "2041398723100680690"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2041513170674839653",
+    "created_at": "2026-04-07T13:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041513170674839653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468830913031475200",
+          "start": 3,
+          "username": "jurujururu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sov91VhtyH",
+          "end": 54,
+          "expanded_url": "https://x.com/jurujururu/status/2041398723100680690/photo/1",
+          "media_key": "3_2041398718587629568",
+          "start": 31,
+          "url": "https://t.co/sov91VhtyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041513170674839653",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2503
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041398723100680690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jurujururu: 집에 보내줘 씨바아알~~~ https://t.co/sov91VhtyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2041398718587629568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSBUZpacAAdaZz.jpg",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041398718587629568"
+          ],
+          "media_source_tweet_id": [
+            "2041398723100680690"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2041513170674839653",
+        "created_at": "2026-04-07T13:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041513170674839653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468830913031475200",
+              "start": 3,
+              "username": "jurujururu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sov91VhtyH",
+              "end": 54,
+              "expanded_url": "https://x.com/jurujururu/status/2041398723100680690/photo/1",
+              "media_key": "3_2041398718587629568",
+              "start": 31,
+              "url": "https://t.co/sov91VhtyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041513170674839653",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041398723100680690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jurujururu: 집에 보내줘 씨바아알~~~ https://t.co/sov91VhtyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041398718587629568"
+          ]
+        },
+        "author_id": "1468830913031475200",
+        "conversation_id": "2041398723100680690",
+        "created_at": "2026-04-07T06:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041398723100680690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sov91VhtyH",
+              "end": 38,
+              "expanded_url": "https://x.com/jurujururu/status/2041398723100680690/photo/1",
+              "media_key": "3_2041398718587629568",
+              "start": 15,
+              "url": "https://t.co/sov91VhtyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041398723100680690",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1290,
+          "impression_count": 419821,
+          "like_count": 13843,
+          "quote_count": 544,
+          "reply_count": 43,
+          "retweet_count": 2503
+        },
+        "reply_settings": "everyone",
+        "text": "집에 보내줘 씨바아알~~~ https://t.co/sov91VhtyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 323,
+          "like_count": 12206,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 6030
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T06:32:40.000Z",
+        "description": "",
+        "id": "1468830913031475200",
+        "name": "독라",
+        "pinned_tweet_id": "2040305044835418602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981233914350850048/4WJAgsrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9978,
+          "following_count": 994,
+          "like_count": 80974,
+          "listed_count": 23,
+          "media_count": 15724,
+          "tweet_count": 111210
+        },
+        "username": "jurujururu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812965685330427904"
+      ],
+      "media_source_tweet_id": [
+        "1812965766993748042"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1813057665842704687",
+    "created_at": "2024-07-16T03:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T04:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813057665842704687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1310019588843868160",
+          "start": 3,
+          "username": "CrossRufus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hyPbmLXUwo",
+          "end": 40,
+          "expanded_url": "https://twitter.com/CrossRufus1/status/1812965766993748042/photo/1",
+          "media_key": "3_1812965685330427904",
+          "start": 17,
+          "url": "https://t.co/hyPbmLXUwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813057665842704687",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 280
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812965766993748042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrossRufus1: https://t.co/hyPbmLXUwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1812965685330427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSjyr3AXwAAcYzV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812965685330427904"
+          ],
+          "media_source_tweet_id": [
+            "1812965766993748042"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813057665842704687",
+        "created_at": "2024-07-16T03:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T04:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813057665842704687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1310019588843868160",
+              "start": 3,
+              "username": "CrossRufus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hyPbmLXUwo",
+              "end": 40,
+              "expanded_url": "https://twitter.com/CrossRufus1/status/1812965766993748042/photo/1",
+              "media_key": "3_1812965685330427904",
+              "start": 17,
+              "url": "https://t.co/hyPbmLXUwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813057665842704687",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812965766993748042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrossRufus1: https://t.co/hyPbmLXUwo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812965685330427904"
+          ]
+        },
+        "author_id": "1310019588843868160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1812965766993748042",
+        "created_at": "2024-07-15T21:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T22:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812965766993748042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hyPbmLXUwo",
+              "end": 23,
+              "expanded_url": "https://twitter.com/CrossRufus1/status/1812965766993748042/photo/1",
+              "media_key": "3_1812965685330427904",
+              "start": 0,
+              "url": "https://t.co/hyPbmLXUwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812965766993748042",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 31955,
+          "like_count": 1190,
+          "quote_count": 30,
+          "reply_count": 8,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hyPbmLXUwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 205,
+          "like_count": 8077,
+          "listed_count": 1,
+          "tweet_count": 3820
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T00:53:17.000Z",
+        "description": "Bird lover",
+        "id": "1310019588843868160",
+        "name": "Pato Meira 🦜🇧🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798148546924838913/11UyMhTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3319,
+          "following_count": 414,
+          "like_count": 3560,
+          "listed_count": 13,
+          "tweet_count": 5517
+        },
+        "username": "CrossRufus1",
+        "verified": false
+      }
+    ]
+  }
+}

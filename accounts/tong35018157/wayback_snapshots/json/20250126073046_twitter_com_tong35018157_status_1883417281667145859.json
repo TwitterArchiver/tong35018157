@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1883321020259700808",
+    "created_at": "2025-01-26T07:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T08:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883417281667145859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "jiuxi17444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883417281667145859",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883321020259700808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuxi17444 反二吧豪堪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883321020259700808].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883321020259700808",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883321020259700808"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1883321020259700808",
+        "created_at": "2025-01-26T07:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T08:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883417281667145859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "jiuxi17444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883417281667145859",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883321020259700808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuxi17444 反二吧豪堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 217,
+          "like_count": 8304,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 4134
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/丰矿史同壬/二简字使用中/支持lgbt/支持🇺🇦🇵🇸/非毛左注意⚠️⚠️⚠️/战时先夆队/多党制无专/鬼图品鉴搭子:@KoNya14056😋😋😋/最喜欢的黄推:@Snowfenfei🥰🥰🥰/@Sww2080大人的恩情还不完😭😭😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "KoNya14056"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Snowfenfei"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "Sww2080"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "布宜诺斯艾利斯",
+        "name": "艾薇塔归来，看安资米莱土崩瓦解，阿根廷正义党🇦🇷执政之际已经到来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881871393249210369/2wOH8U7x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1093,
+          "like_count": 31462,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 4138
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

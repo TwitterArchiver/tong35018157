@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1966327888829100277",
+    "created_at": "2025-09-12T02:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966329591741690244"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966329591741690244",
+    "in_reply_to_user_id": "1467315060041256963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966327888829100277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的怕挂科，广东不怎么教这个☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1966327888829100277",
+        "created_at": "2025-09-12T02:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966329591741690244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966329591741690244",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966327888829100277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的怕挂科，广东不怎么教这个☹️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1966327888829100277",
+        "created_at": "2025-09-12T02:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966327888829100277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966327888829100277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我编程老师台湾人还烟嗓听着好难受啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 232,
+          "like_count": 9650,
+          "listed_count": 3,
+          "media_count": 811,
+          "tweet_count": 5113
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

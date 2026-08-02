@@ -1,0 +1,157 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1815707494418641003",
+    "created_at": "2024-07-23T12:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T13:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815729832040566960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644453758183538689",
+          "start": 0,
+          "username": "KoNya14056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815729832040566960",
+    "in_reply_to_user_id": "1644453758183538689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815728096529776922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoNya14056 亚成夜鹭是棕色，它眼睛红的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1815728096529776922].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1815728096529776922",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1815728096529776922"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1815707494418641003",
+        "created_at": "2024-07-23T12:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T13:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815729832040566960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644453758183538689",
+              "start": 0,
+              "username": "KoNya14056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815729832040566960",
+        "in_reply_to_user_id": "1644453758183538689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815728096529776922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoNya14056 亚成夜鹭是棕色，它眼睛红的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815395831643537408/1mjR8wae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 208,
+          "like_count": 8115,
+          "listed_count": 1,
+          "tweet_count": 3853
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T21:35:18.000Z",
+        "description": "一般通过同人女｜喜欢画逆天东西不代表立场｜不定期键政｜典中典左逼但欢迎一切卢关主义践行者｜#将卢关大革命进行到底 ｜ 养了猪咪欢迎大家来辱骂他😋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "将卢关大革命进行到底"
+              }
+            ]
+          }
+        },
+        "id": "1644453758183538689",
+        "name": "辛法的大橘瓣",
+        "pinned_tweet_id": "1772563774106693635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791760484506697728/mtFK09ek_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 682,
+          "like_count": 33383,
+          "listed_count": 3,
+          "tweet_count": 7507
+        },
+        "username": "KoNya14056",
+        "verified": false
+      }
+    ]
+  }
+}

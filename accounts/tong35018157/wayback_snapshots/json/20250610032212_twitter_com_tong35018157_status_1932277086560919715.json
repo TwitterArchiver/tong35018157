@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1932277086560919715",
+    "created_at": "2025-06-10T03:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T04:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932277086560919715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geckosdaily_/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/geckosdaily_/status/1932256073953468756",
+          "start": 9,
+          "url": "https://t.co/of2uj79N8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932277086560919715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932256073953468756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝缓缓向你爬来 https://t.co/of2uj79N8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26819,
+        "height": 768,
+        "media_key": "7_1932256053510414336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932256053510414336/pu/img/nsa-naxl4FIOGHbL.jpg",
+        "public_metrics": {
+          "view_count": 557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932256053510414336/pu/vid/avc1/320x426/RBG86gKmIValEhC3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932256053510414336/pu/vid/avc1/480x640/4yZY8449YKt8lTVv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932256053510414336/pu/vid/avc1/576x768/x2_qKTWVlq_cXO_R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932256053510414336/pu/pl/_rIKjKKmoGds0RNQ.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1932277086560919715",
+        "created_at": "2025-06-10T03:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T04:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932277086560919715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geckosdaily_/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/geckosdaily_/status/1932256073953468756",
+              "start": 9,
+              "url": "https://t.co/of2uj79N8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932277086560919715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932256073953468756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝缓缓向你爬来 https://t.co/of2uj79N8S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932256053510414336"
+          ]
+        },
+        "author_id": "1503764880423362560",
+        "conversation_id": "1932256073953468756",
+        "created_at": "2025-06-10T01:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T02:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932256073953468756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qi4EHFKfj",
+              "end": 23,
+              "expanded_url": "https://x.com/GeckosDaily_/status/1932256073953468756/video/1",
+              "media_key": "7_1932256053510414336",
+              "start": 0,
+              "url": "https://t.co/4qi4EHFKfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932256073953468756",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1344,
+          "like_count": 201,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4qi4EHFKfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 221,
+          "like_count": 8810,
+          "listed_count": 2,
+          "media_count": 717,
+          "tweet_count": 4473
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T16:07:50.000Z",
+        "description": "This account is for gecko lovers everywhere! art: #GeckoPictus\nBanner by @SleeplessRhythm !\npfp by @FrostwallArt \nOfficial Discord: https://t.co/TlAWRxVaQr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 50,
+                "tag": "GeckoPictus"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "SleeplessRhythm"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "FrostwallArt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/aksGt2CCwY",
+                "end": 155,
+                "expanded_url": "http://discord.gg/aksGt2CCwY",
+                "start": 132,
+                "url": "https://t.co/TlAWRxVaQr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/geckosdaily_",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/geckosdaily_",
+                "start": 0,
+                "url": "https://t.co/wMij3nT5Z7"
+              }
+            ]
+          }
+        },
+        "id": "1503764880423362560",
+        "location": "GeckoLands The Pre-Geckquel",
+        "name": "Geckos Daily🦎",
+        "pinned_tweet_id": "1503837593342988305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665900394512252928/4Zweb6KV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20108,
+          "following_count": 59,
+          "like_count": 35506,
+          "listed_count": 60,
+          "media_count": 5719,
+          "tweet_count": 8142
+        },
+        "url": "https://t.co/wMij3nT5Z7",
+        "username": "GeckosDaily_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1949636616416366870",
+    "created_at": "2025-07-28T01:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949636616416366870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/savosandsavos/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/savosandsavos/status/1949484560770597167",
+          "start": 6,
+          "url": "https://t.co/6GoR1PkHZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949636616416366870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949484560770597167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苹果踩踩背 https://t.co/6GoR1PkHZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1949484545322983424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gw313XsXIAA5rY0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gw313XsXIAA5rY0.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1949636616416366870",
+        "created_at": "2025-07-28T01:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949636616416366870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/savosandsavos/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/savosandsavos/status/1949484560770597167",
+              "start": 6,
+              "url": "https://t.co/6GoR1PkHZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949636616416366870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949484560770597167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苹果踩踩背 https://t.co/6GoR1PkHZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1949484545322983424"
+          ]
+        },
+        "author_id": "1752411736924123137",
+        "conversation_id": "1949484560770597167",
+        "created_at": "2025-07-27T14:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949484560770597167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9lcvYbDP7",
+              "end": 40,
+              "expanded_url": "https://x.com/SavosAndSavos/status/1949484560770597167/photo/1",
+              "media_key": "16_1949484545322983424",
+              "start": 17,
+              "url": "https://t.co/c9lcvYbDP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949484560770597167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1999,
+          "impression_count": 354786,
+          "like_count": 29139,
+          "quote_count": 196,
+          "reply_count": 111,
+          "retweet_count": 3464
+        },
+        "reply_settings": "everyone",
+        "text": "Does this to you https://t.co/c9lcvYbDP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 230,
+          "like_count": 9126,
+          "listed_count": 2,
+          "media_count": 767,
+          "tweet_count": 4771
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T19:21:40.000Z",
+        "description": "“Life’s a hoot” | Certified Owlposter🦉| 🇬🇧/🏳️‍🌈",
+        "id": "1752411736924123137",
+        "location": "Mature at times! | Zoos gtfo ",
+        "name": "Savos International",
+        "pinned_tweet_id": "1919540729400938607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939813032546140160/rgntNkqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18522,
+          "following_count": 3194,
+          "like_count": 119137,
+          "listed_count": 33,
+          "media_count": 3504,
+          "tweet_count": 8244
+        },
+        "username": "SavosAndSavos",
+        "verified": false
+      }
+    ]
+  }
+}

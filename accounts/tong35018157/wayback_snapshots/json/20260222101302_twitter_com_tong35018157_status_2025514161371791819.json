@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2025514161371791819",
+    "created_at": "2026-02-22T10:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025514161371791819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redoxx19333674…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/redoxx193336745/status/2025260397427585118",
+          "start": 11,
+          "url": "https://t.co/BuY9ARPz8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025514161371791819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025260397427585118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种俄解伪娘最欠操了 https://t.co/BuY9ARPz8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_2025260386853724160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsrl3AWIAAcOef.jpg",
+        "width": 1844
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025260387491287040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsrl5YWkAADOEX.jpg",
+        "width": 946
+      },
+      {
+        "height": 1633,
+        "media_key": "3_2025260387172483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsrl4MWAAA0oX6.jpg",
+        "width": 1844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2025514161371791819",
+        "created_at": "2026-02-22T10:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025514161371791819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redoxx19333674…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/redoxx193336745/status/2025260397427585118",
+              "start": 11,
+              "url": "https://t.co/BuY9ARPz8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025514161371791819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025260397427585118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种俄解伪娘最欠操了 https://t.co/BuY9ARPz8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025260386853724160",
+            "3_2025260387491287040",
+            "3_2025260387172483072"
+          ]
+        },
+        "author_id": "1821584989487505412",
+        "conversation_id": "2025260397427585118",
+        "created_at": "2026-02-21T17:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025260397427585118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHR4imSjgN",
+              "end": 51,
+              "expanded_url": "https://x.com/Redoxx193336745/status/2025260397427585118/photo/1",
+              "media_key": "3_2025260386853724160",
+              "start": 28,
+              "url": "https://t.co/GHR4imSjgN"
+            },
+            {
+              "display_url": "pic.x.com/GHR4imSjgN",
+              "end": 51,
+              "expanded_url": "https://x.com/Redoxx193336745/status/2025260397427585118/photo/1",
+              "media_key": "3_2025260387491287040",
+              "start": 28,
+              "url": "https://t.co/GHR4imSjgN"
+            },
+            {
+              "display_url": "pic.x.com/GHR4imSjgN",
+              "end": 51,
+              "expanded_url": "https://x.com/Redoxx193336745/status/2025260397427585118/photo/1",
+              "media_key": "3_2025260387172483072",
+              "start": 28,
+              "url": "https://t.co/GHR4imSjgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025260397427585118",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 206084,
+          "like_count": 893,
+          "quote_count": 95,
+          "reply_count": 119,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "Легализуйте пьяное вождение https://t.co/GHR4imSjgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 297,
+          "like_count": 11319,
+          "listed_count": 3,
+          "media_count": 888,
+          "tweet_count": 5692
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T16:31:26.000Z",
+        "description": "мойщик окон Овертона, Демиург демагогии, фембой, unironically living in 🇫🇮, дворянин, холодный как сталь труцел,номинант премии Оскар Дирлевангер",
+        "id": "1821584989487505412",
+        "location": "North sea empire",
+        "name": "Хуйло с района",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976387610848178176/fCJEPlOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 36,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 983,
+          "tweet_count": 1070
+        },
+        "username": "Redoxx193336745",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945459071026388992"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1945343160088981519",
+    "created_at": "2025-07-16T12:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945459085035315477"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "spas",
+          "probability": 0.6557,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1288619611236294671",
+          "start": 0,
+          "username": "YZsFerrari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sfnXQRG0Dh",
+          "end": 52,
+          "expanded_url": "https://x.com/tong35018157/status/1945459085035315477/photo/1",
+          "media_key": "3_1945459071026388992",
+          "start": 29,
+          "url": "https://t.co/sfnXQRG0Dh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945459085035315477",
+    "in_reply_to_user_id": "1288619611236294671",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945343160088981519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YZsFerrari Pls support spas https://t.co/sfnXQRG0Dh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_1945459071026388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-ot7WW4AAWln5.jpg",
+        "width": 199
+      },
+      {
+        "height": 1138,
+        "media_key": "3_1945338260684787712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv8611wX0AAuPpc.jpg",
+        "width": 558
+      },
+      {
+        "height": 1132,
+        "media_key": "3_1945338358202327040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv867hCXYAAcCst.jpg",
+        "width": 538
+      },
+      {
+        "height": 1146,
+        "media_key": "3_1945338403676889088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv86-KcWIAAhujR.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945459071026388992"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1945343160088981519",
+        "created_at": "2025-07-16T12:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945459085035315477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "spas",
+              "probability": 0.6557,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1288619611236294671",
+              "start": 0,
+              "username": "YZsFerrari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfnXQRG0Dh",
+              "end": 52,
+              "expanded_url": "https://x.com/tong35018157/status/1945459085035315477/photo/1",
+              "media_key": "3_1945459071026388992",
+              "start": 29,
+              "url": "https://t.co/sfnXQRG0Dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945459085035315477",
+        "in_reply_to_user_id": "1288619611236294671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945343160088981519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YZsFerrari Pls support spas https://t.co/sfnXQRG0Dh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945338260684787712",
+            "3_1945338358202327040",
+            "3_1945338403676889088"
+          ]
+        },
+        "author_id": "1288619611236294671",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1945343160088981519",
+        "created_at": "2025-07-16T04:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945343160088981519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "GFL2",
+              "probability": 0.6991,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Klukai",
+              "probability": 0.3631,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Leva",
+              "probability": 0.3715,
+              "start": 155,
+              "type": "Person"
+            },
+            {
+              "end": 175,
+              "normalized_text": "Makiatto",
+              "probability": 0.4433,
+              "start": 168,
+              "type": "Other"
+            },
+            {
+              "end": 193,
+              "normalized_text": "Voymastina",
+              "probability": 0.4091,
+              "start": 184,
+              "type": "Place"
+            },
+            {
+              "end": 221,
+              "normalized_text": "Balthilde",
+              "probability": 0.2928,
+              "start": 213,
+              "type": "Place"
+            },
+            {
+              "end": 234,
+              "normalized_text": "Ksenia",
+              "probability": 0.3145,
+              "start": 229,
+              "type": "Other"
+            },
+            {
+              "end": 245,
+              "normalized_text": "Faye",
+              "probability": 0.6836,
+              "start": 242,
+              "type": "Person"
+            },
+            {
+              "end": 258,
+              "normalized_text": "Nagant",
+              "probability": 0.2948,
+              "start": 253,
+              "type": "Other"
+            },
+            {
+              "end": 272,
+              "normalized_text": "Littara",
+              "probability": 0.3881,
+              "start": 266,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYXaxObfta",
+              "end": 303,
+              "expanded_url": "https://x.com/YZsFerrari/status/1945343160088981519/photo/1",
+              "media_key": "3_1945338260684787712",
+              "start": 280,
+              "url": "https://t.co/AYXaxObfta"
+            },
+            {
+              "display_url": "pic.x.com/AYXaxObfta",
+              "end": 303,
+              "expanded_url": "https://x.com/YZsFerrari/status/1945343160088981519/photo/1",
+              "media_key": "3_1945338358202327040",
+              "start": 280,
+              "url": "https://t.co/AYXaxObfta"
+            },
+            {
+              "display_url": "pic.x.com/AYXaxObfta",
+              "end": 303,
+              "expanded_url": "https://x.com/YZsFerrari/status/1945343160088981519/photo/1",
+              "media_key": "3_1945338403676889088",
+              "start": 280,
+              "url": "https://t.co/AYXaxObfta"
+            },
+            {
+              "display_url": "x.com/YZsFerrari/sta…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/YZsFerrari/status/1944859097339170989",
+              "start": 304,
+              "url": "https://t.co/lc5XS2h767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945343160088981519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 9539,
+          "like_count": 213,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944859097339170989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GFL2 Support-Hype Update\nWeighed by support use &amp; points, real popularity poll tomorrow*\n\nAs of right now,\n\nTop 5:\nKlukai - 436.5 million\nAlva - 23.5m\nLeva - 13.6m\nMakiatto - 7.7m\nVoymastina - 5.9m\n\nBottom 5:\nBalthilde - 62K\nKsenia - 44K\nFaye - 30K\nNagant - 25K\nLittara - 18K https://t.co/AYXaxObfta https://t.co/lc5XS2h767"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 226,
+          "like_count": 9044,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 4703
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T23:38:05.000Z",
+        "description": "Hello everyone\nGF-RC Lore Archivist & Writer\n\nLore Works: https://t.co/UI0TNkKgRv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 81,
+                "expanded_url": "https://drive.google.com/drive/folders/1M3b_OBNtwd7S8OAXchBNCVxBkPDSe1mc?usp=sharing",
+                "start": 58,
+                "url": "https://t.co/UI0TNkKgRv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ferrari7950",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ferrari7950",
+                "start": 0,
+                "url": "https://t.co/O8xj27taJw"
+              }
+            ]
+          }
+        },
+        "id": "1288619611236294671",
+        "name": "Ferrari",
+        "pinned_tweet_id": "1770823705423130837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874141406807068672/Q-aXvliW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15532,
+          "following_count": 837,
+          "like_count": 111965,
+          "listed_count": 58,
+          "media_count": 5582,
+          "tweet_count": 23706
+        },
+        "url": "https://t.co/O8xj27taJw",
+        "username": "YZsFerrari",
+        "verified": false
+      }
+    ]
+  }
+}

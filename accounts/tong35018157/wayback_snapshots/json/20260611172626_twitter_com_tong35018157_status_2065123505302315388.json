@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065085068549427200"
+      ],
+      "media_source_tweet_id": [
+        "2065086112444649955"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2065123505302315388",
+    "created_at": "2026-06-11T17:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065123505302315388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "commission"
+        },
+        {
+          "end": 83,
+          "start": 60,
+          "tag": "GirlsFrontline2Exilium"
+        },
+        {
+          "end": 98,
+          "start": 85,
+          "tag": "ドールズフロントライン2"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "少前2追放"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1558786637630685184",
+          "start": 3,
+          "username": "MichilinStuff"
+        },
+        {
+          "end": 59,
+          "id": "4900214531",
+          "start": 49,
+          "username": "HvwkinsPv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KTKiUTsbP1",
+          "end": 130,
+          "expanded_url": "https://x.com/MichilinStuff/status/2065086112444649955/photo/1",
+          "media_key": "3_2065085068549427200",
+          "start": 107,
+          "url": "https://t.co/KTKiUTsbP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065123505302315388",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065086112444649955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MichilinStuff: 🚨GEM ALERT‼️🚨\n#commission for @HvwkinsPv\n#GirlsFrontline2Exilium \n#ドールズフロントライン2 \n#少前2追放 https://t.co/KTKiUTsbP1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065123505302315388].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065123505302315388",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065123505302315388"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2065085068549427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKin7bXaEAA1gsp.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065085068549427200"
+          ]
+        },
+        "author_id": "1558786637630685184",
+        "conversation_id": "2065086112444649955",
+        "created_at": "2026-06-11T14:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065086112444649955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "commission"
+            },
+            {
+              "end": 64,
+              "start": 41,
+              "tag": "GirlsFrontline2Exilium"
+            },
+            {
+              "end": 79,
+              "start": 66,
+              "tag": "ドールズフロントライン2"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "少前2追放"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "4900214531",
+              "start": 30,
+              "username": "HvwkinsPv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTKiUTsbP1",
+              "end": 111,
+              "expanded_url": "https://x.com/MichilinStuff/status/2065086112444649955/photo/1",
+              "media_key": "3_2065085068549427200",
+              "start": 88,
+              "url": "https://t.co/KTKiUTsbP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065086112444649955",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 4939,
+          "like_count": 895,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "🚨GEM ALERT‼️🚨\n#commission for @HvwkinsPv\n#GirlsFrontline2Exilium \n#ドールズフロントライン2 \n#少前2追放 https://t.co/KTKiUTsbP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 472,
+          "like_count": 15605,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 7045
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T12:04:45.000Z",
+        "description": "Commissions open, DM\nSangvis Ferri Truther\n✦ Ko-Fi: https://t.co/BLajL2l3j4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/michilin",
+                "end": 75,
+                "expanded_url": "https://ko-fi.com/michilin",
+                "start": 52,
+                "url": "https://t.co/BLajL2l3j4"
+              }
+            ]
+          }
+        },
+        "id": "1558786637630685184",
+        "location": "Эндфилд",
+        "name": "Michilin! (Comms Open 5/?)",
+        "pinned_tweet_id": "2043411748292796691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964777776579235840/BmcVjvHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 347,
+          "like_count": 4560,
+          "listed_count": 11,
+          "media_count": 170,
+          "tweet_count": 2489
+        },
+        "username": "MichilinStuff",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-12T03:39:54.000Z",
+        "description": "RO635/Robella's Husband, FNC's Dad, and Chetty's Dad.\nReposting RO art and RO posts.\nCheck out my bros @RushZer_ and @asghtah33230.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "RushZer_"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "asghtah33230"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hvwkinspv.straw.page",
+                "end": 23,
+                "expanded_url": "https://hvwkinspv.straw.page",
+                "start": 0,
+                "url": "https://t.co/WVAQmz3crW"
+              }
+            ]
+          }
+        },
+        "id": "4900214531",
+        "location": "USA",
+        "name": "Hvwkins | Robella's Husband",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019921455048200192/Z-Y4nw80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 171,
+          "like_count": 21039,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/WVAQmz3crW",
+        "username": "HvwkinsPv",
+        "verified": false
+      }
+    ]
+  }
+}

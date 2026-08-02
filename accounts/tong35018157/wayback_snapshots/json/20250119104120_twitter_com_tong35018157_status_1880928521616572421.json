@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1880872847784218855",
+    "created_at": "2025-01-19T10:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880928521616572421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817380600480768000",
+          "start": 0,
+          "username": "Youkino25"
+        },
+        {
+          "end": 27,
+          "id": "1847963434102747136",
+          "start": 11,
+          "username": "moYUDTIvNs64199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880928521616572421",
+    "in_reply_to_user_id": "1817380600480768000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880923834766995956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youkino25 @moYUDTIvNs64199 嗯……打拳我现实很少遇到，基本巴掌能打到的范围内都挺老实的，反而是那些家境好的，有可以不读书的底气，可以阴阳别人的底气，去过很多你想去又没钱去的地方，我更排斥这种现实中遇得到的人，可能我想法比较不成熟吧🥲🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1880872847784218855",
+        "created_at": "2025-01-19T10:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880928521616572421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817380600480768000",
+              "start": 0,
+              "username": "Youkino25"
+            },
+            {
+              "end": 27,
+              "id": "1847963434102747136",
+              "start": 11,
+              "username": "moYUDTIvNs64199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880928521616572421",
+        "in_reply_to_user_id": "1817380600480768000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880923834766995956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youkino25 @moYUDTIvNs64199 嗯……打拳我现实很少遇到，基本巴掌能打到的范围内都挺老实的，反而是那些家境好的，有可以不读书的底气，可以阴阳别人的底气，去过很多你想去又没钱去的地方，我更排斥这种现实中遇得到的人，可能我想法比较不成熟吧🥲🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817380600480768000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "1880872847784218855",
+        "created_at": "2025-01-19T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880923834766995956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            },
+            {
+              "end": 30,
+              "id": "1847963434102747136",
+              "start": 14,
+              "username": "moYUDTIvNs64199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880923834766995956",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880922183821877540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 @moYUDTIvNs64199 贫富差距如果工薪合理社会保障合理那么根本不是什么大事，打拳是真的死妈，明明这个社会已经倾斜了给她们一些她们却想要独占这个社会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 211,
+          "like_count": 8222,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4061
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T02:05:14.000Z",
+        "description": "黃種人至上主義，華夏国社主义/中華統領東亞共榮/借反共產主義の名反中華者—天誅國賊！/全世界的民族主义者都有同样的任务：追杀国际主义分子安提法分子，直到世界末日也不停/什么？你们要民主？你们是反动派！因为你们是反动派，所以不能给你们民主/与国际主义逆向民族主义汉奸势不两立/你不炒作，你永无出头之日！",
+        "id": "1817380600480768000",
+        "location": "第三新东京市，千叶区，总武新校，侍奉部",
+        "name": "雪乃莉莉安卍天誅猶露🇹🇼",
+        "pinned_tweet_id": "1860343292929470710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878730884699881472/Y2sdg7Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 481,
+          "like_count": 21109,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 11283
+        },
+        "username": "Youkino25",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广西，南宁一中，广西师范大学，南宁百货大楼",
+        "name": "隆美尔的克星·氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879743441439227904/eFzQ9ePg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 353,
+          "like_count": 2190,
+          "listed_count": 9,
+          "media_count": 1400,
+          "tweet_count": 3574
+        },
+        "username": "moYUDTIvNs64199",
+        "verified": false
+      }
+    ]
+  }
+}

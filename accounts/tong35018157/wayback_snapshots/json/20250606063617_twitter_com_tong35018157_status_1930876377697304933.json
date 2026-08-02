@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1930847266216305054",
+    "created_at": "2025-06-06T06:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930876377697304933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "jiuxi17444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930876377697304933",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930847266216305054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuxi17444 昨天晚修看乌合麒麟的作品写作文写了一百字睡着了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1930847266216305054",
+        "created_at": "2025-06-06T06:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930876377697304933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "jiuxi17444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930876377697304933",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930847266216305054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuxi17444 昨天晚修看乌合麒麟的作品写作文写了一百字睡着了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "conversation_id": "1930847266216305054",
+        "created_at": "2025-06-06T04:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930847266216305054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moriyomiko/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/moriyomiko/status/1930564377729736800",
+              "start": 15,
+              "url": "https://t.co/V40rK97LoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930847266216305054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930564377729736800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年高考生都很有生活了🌚🌚🌚 https://t.co/V40rK97LoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 221,
+          "like_count": 8794,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 4446
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/支持lgbt/使用二简字/主搞中表🇨🇳䒙表🇷🇪/非毛左注意⚠️⚠️⚠️/对象兼革命伴侣@xiaye2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "xiaye2023"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "ps：主抪第三人称不分性别均称“他”",
+        "name": "强吃瓷爹的暴力机器反被人民民主专政🏁🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914209046611308544/fBTjBZyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 1319,
+          "like_count": 46160,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 5648
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

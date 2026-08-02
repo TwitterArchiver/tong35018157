@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1987170061115621570",
+    "created_at": "2025-11-08T14:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987170061115621570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coneofarc/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/coneofarc/status/1986868693326807153",
+          "start": 12,
+          "url": "https://t.co/zcUZ3pCsg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987170061115621570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986868693326807153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全世界只有我没搞到鼠鼠 https://t.co/zcUZ3pCsg0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1986868622032076801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5LGfB-XgAEicgK.png",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1987170061115621570",
+        "created_at": "2025-11-08T14:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987170061115621570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coneofarc/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/coneofarc/status/1986868693326807153",
+              "start": 12,
+              "url": "https://t.co/zcUZ3pCsg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987170061115621570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986868693326807153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全世界只有我没搞到鼠鼠 https://t.co/zcUZ3pCsg0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986868622032076801"
+          ]
+        },
+        "author_id": "1163636848989810693",
+        "conversation_id": "1986868693326807153",
+        "created_at": "2025-11-07T18:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986868693326807153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "War Thunder",
+              "probability": 0.8809,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2r81KUkZu",
+              "end": 76,
+              "expanded_url": "https://x.com/ConeOfArc/status/1986868693326807153/photo/1",
+              "media_key": "3_1986868622032076801",
+              "start": 53,
+              "url": "https://t.co/Y2r81KUkZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986868693326807153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 9392,
+          "like_count": 1100,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "War Thunder after their anniversary celebration ends https://t.co/Y2r81KUkZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 252,
+          "like_count": 10123,
+          "listed_count": 3,
+          "media_count": 848,
+          "tweet_count": 5338
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T02:20:25.000Z",
+        "description": "I make videos on tanks and other military stuff",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "coneofarc.com",
+                "end": 23,
+                "expanded_url": "https://www.coneofarc.com/",
+                "start": 0,
+                "url": "https://t.co/wg98KJKjXg"
+              }
+            ]
+          }
+        },
+        "id": "1163636848989810693",
+        "location": "United States",
+        "name": "ConeOfArc",
+        "pinned_tweet_id": "1978121810722877443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348151163854737408/mlMprkee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18350,
+          "following_count": 164,
+          "like_count": 5918,
+          "listed_count": 26,
+          "media_count": 2915,
+          "tweet_count": 6741
+        },
+        "url": "https://t.co/wg98KJKjXg",
+        "username": "ConeOfArc",
+        "verified": true
+      }
+    ]
+  }
+}

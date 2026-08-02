@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2073573690240081938",
+    "created_at": "2026-07-05T17:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073824613461881108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073824613461881108",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073573690240081938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2220,
+        "media_key": "3_2073573680257585152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbQRqNaUAAiwvo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2073573690240081938",
+        "created_at": "2026-07-05T17:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073824613461881108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073824613461881108",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073573690240081938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073573680257585152"
+          ]
+        },
+        "author_id": "1232837627939676160",
+        "conversation_id": "2073573690240081938",
+        "created_at": "2026-07-05T01:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073573690240081938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmqAP68xC4",
+              "end": 29,
+              "expanded_url": "https://x.com/Akhromeyev_CCCP/status/2073573690240081938/photo/1",
+              "media_key": "3_2073573680257585152",
+              "start": 6,
+              "url": "https://t.co/zmqAP68xC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073573690240081938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又老一岁咯 https://t.co/zmqAP68xC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 501,
+          "like_count": 17062,
+          "listed_count": 3,
+          "media_count": 1012,
+          "tweet_count": 7550
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "—Жила бы страна родная,И нету других забот.願親愛的家鄉美好，願祖國呀萬年長。/反資本，建制，父權與保守/Le lâche accablé d'ans n'a point connu la vie！被歲月所壓垮的懦夫，永遠無法理解什麼叫活著！",
+        "id": "1232837627939676160",
+        "location": "苏联乌克兰苏维埃社会主义共和国 基辅军区",
+        "name": "🇷🇺🕊️🇺🇦🚩📕☭阿赫羅梅耶夫元帥歸來，看戈爾巴喬夫蘇修叛徒集團土崩瓦解🏳️🏁",
+        "pinned_tweet_id": "2033206698597658682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923670349356417024/Y9SYAV7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 2111,
+          "like_count": 148475,
+          "listed_count": 16,
+          "media_count": 4012,
+          "tweet_count": 29166
+        },
+        "url": "",
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      }
+    ]
+  }
+}

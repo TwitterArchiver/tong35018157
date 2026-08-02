@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2041388569076601237",
+    "created_at": "2026-04-07T05:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041388569076601237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1413025697996546049",
+          "start": 3,
+          "username": "NatureUnedited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041388569076601237",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1996
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041179554878833084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NatureUnedited: This turtle behavior, often called “claw fluttering,” is a courtship ritual where a male rapidly vibrates or waves his…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19500,
+        "height": 640,
+        "media_key": "13_2041177761843404800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041177761843404800/img/nUsTjHVip_Gposnb.jpg",
+        "public_metrics": {
+          "view_count": 830633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041177761843404800/vid/avc1/320x426/vci1Qh7CYvVQG9N-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041177761843404800/vid/avc1/480x640/9F90TprYTyfw_Ppd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041177761843404800/pl/-FuxFslw1Zn1iOb9.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2041388569076601237",
+        "created_at": "2026-04-07T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041388569076601237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1413025697996546049",
+              "start": 3,
+              "username": "NatureUnedited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041388569076601237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1996
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041179554878833084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NatureUnedited: This turtle behavior, often called “claw fluttering,” is a courtship ritual where a male rapidly vibrates or waves his…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041177761843404800"
+          ]
+        },
+        "author_id": "1413025697996546049",
+        "conversation_id": "2041179554878833084",
+        "created_at": "2026-04-06T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041179554878833084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc8FhLXR9Z",
+              "end": 195,
+              "expanded_url": "https://x.com/NatureUnedited/status/2041179554878833084/video/1",
+              "media_key": "13_2041177761843404800",
+              "start": 172,
+              "url": "https://t.co/zc8FhLXR9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041179554878833084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5328,
+          "impression_count": 2299654,
+          "like_count": 23912,
+          "quote_count": 1121,
+          "reply_count": 594,
+          "retweet_count": 1996
+        },
+        "reply_settings": "everyone",
+        "text": "This turtle behavior, often called “claw fluttering,” is a courtship ritual where a male rapidly vibrates or waves his long front claws near a female’s face to attract her https://t.co/zc8FhLXR9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 323,
+          "like_count": 12205,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 6029
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T06:43:29.000Z",
+        "description": "🐶😺🐼🐫🐯🐇🐴🐊🐺🐆🐨🐘🐈\n Daily animal videos to brighten your feed 🐾",
+        "id": "1413025697996546049",
+        "name": "Nature Unedited",
+        "pinned_tweet_id": "2009417483397083392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997457624556589056/z_hRiQW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257613,
+          "following_count": 20,
+          "like_count": 626,
+          "listed_count": 478,
+          "media_count": 3708,
+          "tweet_count": 3865
+        },
+        "username": "NatureUnedited",
+        "verified": true
+      }
+    ]
+  }
+}

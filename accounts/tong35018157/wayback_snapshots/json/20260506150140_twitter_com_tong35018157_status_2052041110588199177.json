@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2052009942220202240",
+    "created_at": "2026-05-06T15:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052041110588199177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1451855512002170884",
+          "start": 0,
+          "username": "7lIRHt7PWA43lqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052041110588199177",
+    "in_reply_to_user_id": "1451855512002170884",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052039306345074826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7lIRHt7PWA43lqo 1或互攻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2052009942220202240",
+        "created_at": "2026-05-06T15:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052041110588199177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1451855512002170884",
+              "start": 0,
+              "username": "7lIRHt7PWA43lqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052041110588199177",
+        "in_reply_to_user_id": "1451855512002170884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052039306345074826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7lIRHt7PWA43lqo 1或互攻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451855512002170884",
+        "conversation_id": "2052009942220202240",
+        "created_at": "2026-05-06T14:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052039306345074826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052039306345074826",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009942220202240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 4i嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 376,
+          "like_count": 13633,
+          "listed_count": 4,
+          "media_count": 942,
+          "tweet_count": 6455
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T10:18:32.000Z",
+        "description": "再忙也要每天都要刷推",
+        "id": "1451855512002170884",
+        "name": "Kaze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047323206302982145/4QJ5a68g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 129,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "username": "7lIRHt7PWA43lqo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1812645281982263296"
+      ],
+      "media_source_tweet_id": [
+        "1812645286637904302"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2023452065536897418",
+    "created_at": "2026-02-16T17:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023452065536897418"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "BELL",
+          "probability": 0.487,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792360646782107648",
+          "start": 3,
+          "username": "pyrrultra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIO23kNkA3",
+          "end": 51,
+          "expanded_url": "https://x.com/pyrrultra/status/1812645286637904302/photo/1",
+          "media_key": "3_1812645281982263296",
+          "start": 28,
+          "url": "https://t.co/lIO23kNkA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023452065536897418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812645286637904302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyrrultra: BELL MISSED? https://t.co/lIO23kNkA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1812645281982263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSfPR7hXMAAxMDX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1812645281982263296"
+          ],
+          "media_source_tweet_id": [
+            "1812645286637904302"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2023452065536897418",
+        "created_at": "2026-02-16T17:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023452065536897418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "BELL",
+              "probability": 0.487,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792360646782107648",
+              "start": 3,
+              "username": "pyrrultra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIO23kNkA3",
+              "end": 51,
+              "expanded_url": "https://x.com/pyrrultra/status/1812645286637904302/photo/1",
+              "media_key": "3_1812645281982263296",
+              "start": 28,
+              "url": "https://t.co/lIO23kNkA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023452065536897418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812645286637904302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyrrultra: BELL MISSED? https://t.co/lIO23kNkA3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1812645281982263296"
+          ]
+        },
+        "author_id": "1792360646782107648",
+        "conversation_id": "1812645286637904302",
+        "created_at": "2024-07-15T00:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T01:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812645286637904302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "BELL",
+              "probability": 0.5266,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIO23kNkA3",
+              "end": 36,
+              "expanded_url": "https://x.com/pyrrultra/status/1812645286637904302/photo/1",
+              "media_key": "3_1812645281982263296",
+              "start": 13,
+              "url": "https://t.co/lIO23kNkA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812645286637904302",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 91597,
+          "like_count": 3284,
+          "quote_count": 20,
+          "reply_count": 32,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "BELL MISSED? https://t.co/lIO23kNkA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 292,
+          "like_count": 11150,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 5653
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T01:04:24.000Z",
+        "description": "I try to draw in every single style at once. 20. I HATE adbell. Comms open. @sirenscript",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "sirenscript"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pyrrultra.straw.page",
+                "end": 23,
+                "expanded_url": "http://pyrrultra.straw.page",
+                "start": 0,
+                "url": "https://t.co/piftPtYK6H"
+              }
+            ]
+          }
+        },
+        "id": "1792360646782107648",
+        "location": "he/him",
+        "name": "eric",
+        "pinned_tweet_id": "1792583388378927150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987314892550864896/-j7RcmZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 274,
+          "like_count": 3217,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/piftPtYK6H",
+        "username": "pyrrultra",
+        "verified": false
+      }
+    ]
+  }
+}

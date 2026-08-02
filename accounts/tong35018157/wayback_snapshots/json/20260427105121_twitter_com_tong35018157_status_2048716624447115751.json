@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048698342964891860",
+    "created_at": "2026-04-27T10:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048716624447115751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1530033859860893696",
+          "start": 0,
+          "username": "sable8066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048716624447115751",
+    "in_reply_to_user_id": "1530033859860893696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048716255881052413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sable8066 习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048698342964891860",
+        "created_at": "2026-04-27T10:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048716624447115751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1530033859860893696",
+              "start": 0,
+              "username": "sable8066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048716624447115751",
+        "in_reply_to_user_id": "1530033859860893696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048716255881052413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sable8066 习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530033859860893696",
+        "conversation_id": "2048698342964891860",
+        "created_at": "2026-04-27T10:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048716255881052413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048716255881052413",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048698342964891860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 老师你的评论区好像有不明物体带着不明逻辑入侵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 370,
+          "like_count": 13090,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6319
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T03:51:21.000Z",
+        "description": "我累了！",
+        "id": "1530033859860893696",
+        "location": "All Humans' Earth",
+        "name": "麦香鱼！",
+        "pinned_tweet_id": "2045621395825267115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038849905612267520/63pdHDYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 192,
+          "like_count": 2563,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "sable8066",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2049890052696924670",
+    "created_at": "2026-04-30T16:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049890052696924670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xun404214/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xun404214/status/2049718931355730409",
+          "start": 9,
+          "url": "https://t.co/5Zq0FpqLPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049890052696924670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049718931355730409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我小学就有了 https://t.co/5Zq0FpqLPu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2049890052696924670",
+        "created_at": "2026-04-30T16:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049890052696924670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xun404214/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xun404214/status/2049718931355730409",
+              "start": 9,
+              "url": "https://t.co/5Zq0FpqLPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049890052696924670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049718931355730409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我小学就有了 https://t.co/5Zq0FpqLPu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2049718931355730409",
+        "created_at": "2026-04-30T05:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049718931355730409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049718931355730409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3878,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "初高中能找到闺蜜的就珍惜吧！高中毕业之后你就会发现人家都自带闺蜜，就像古代那个外出求学上任的家里都有一个糟糠之妻一样。\n人家和闺蜜一起风雨同舟过来的，后来的根本插不进去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 372,
+          "like_count": 13376,
+          "listed_count": 4,
+          "media_count": 935,
+          "tweet_count": 6392
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "小狗🩷：@CcNan328",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "CcNan328"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 0,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "name": "玄",
+        "pinned_tweet_id": "2009211803260309517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527260261310464/Jgl5YKwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10761,
+          "following_count": 323,
+          "like_count": 5830,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 9085
+        },
+        "url": "https://t.co/BwKNjBbg24",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076424238030876673"
+      ],
+      "media_source_tweet_id": [
+        "2076424294435885197"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076500001795321912",
+    "created_at": "2026-07-13T02:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076500001795321912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027418011301486592",
+          "start": 3,
+          "username": "rawmeatrot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHm7EJBAdp",
+          "end": 39,
+          "expanded_url": "https://x.com/rawmeatrot/status/2076424294435885197/video/1",
+          "media_key": "13_2076424238030876673",
+          "start": 16,
+          "url": "https://t.co/gHm7EJBAdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076500001795321912",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076424294435885197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rawmeatrot: https://t.co/gHm7EJBAdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21766,
+        "height": 720,
+        "media_key": "13_2076424238030876673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076424238030876673/img/OaORjz_l-c4zyzez.jpg",
+        "public_metrics": {
+          "view_count": 1723
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076424238030876673/vid/avc1/480x270/cRWibiO01A9KgNd1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076424238030876673/vid/avc1/640x360/HhM8wn8EzvWBzJrY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076424238030876673/vid/avc1/1280x720/PFjUuwzqt979LKxz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076424238030876673/pl/GBw-6nMqrBFZ0GVR.m3u8?v=80b"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076424238030876673"
+          ],
+          "media_source_tweet_id": [
+            "2076424294435885197"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076500001795321912",
+        "created_at": "2026-07-13T02:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076500001795321912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027418011301486592",
+              "start": 3,
+              "username": "rawmeatrot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHm7EJBAdp",
+              "end": 39,
+              "expanded_url": "https://x.com/rawmeatrot/status/2076424294435885197/video/1",
+              "media_key": "13_2076424238030876673",
+              "start": 16,
+              "url": "https://t.co/gHm7EJBAdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076500001795321912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076424294435885197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rawmeatrot: https://t.co/gHm7EJBAdp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076424238030876673"
+          ]
+        },
+        "author_id": "2027418011301486592",
+        "conversation_id": "2076424294435885197",
+        "created_at": "2026-07-12T21:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076424294435885197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHm7EJBAdp",
+              "end": 23,
+              "expanded_url": "https://x.com/rawmeatrot/status/2076424294435885197/video/1",
+              "media_key": "13_2076424238030876673",
+              "start": 0,
+              "url": "https://t.co/gHm7EJBAdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076424294435885197",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 3359,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gHm7EJBAdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 518,
+          "like_count": 17454,
+          "listed_count": 3,
+          "media_count": 1020,
+          "tweet_count": 7721
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T16:18:25.000Z",
+        "description": "𑣲 celibatária voluntária / neurodivergent🦝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isabellamello.straw.page",
+                "end": 23,
+                "expanded_url": "https://isabellamello.straw.page",
+                "start": 0,
+                "url": "https://t.co/DCLB2RlzHC"
+              }
+            ]
+          }
+        },
+        "id": "2027418011301486592",
+        "name": "🥩isabella🩹",
+        "pinned_tweet_id": "2076298060435423639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075304565512044544/jlzEJrwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 1054,
+          "like_count": 19479,
+          "listed_count": 4,
+          "media_count": 1715,
+          "tweet_count": 9349
+        },
+        "url": "https://t.co/DCLB2RlzHC",
+        "username": "rawmeatrot",
+        "verified": false
+      }
+    ]
+  }
+}

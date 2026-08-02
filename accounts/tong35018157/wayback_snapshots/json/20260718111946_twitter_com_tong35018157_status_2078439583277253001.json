@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078439566319730688"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078439583277253001",
+    "created_at": "2026-07-18T11:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078439583277253001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pi5EBzNDEa",
+          "end": 33,
+          "expanded_url": "https://x.com/tong35018157/status/2078439583277253001/photo/1",
+          "media_key": "3_2078439566319730688",
+          "start": 10,
+          "url": "https://t.co/Pi5EBzNDEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078439583277253001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的小红书好像废了 https://t.co/Pi5EBzNDEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078439566319730688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgZxgWawAAJdv6.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078439566319730688"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078439583277253001",
+        "created_at": "2026-07-18T11:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078439583277253001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pi5EBzNDEa",
+              "end": 33,
+              "expanded_url": "https://x.com/tong35018157/status/2078439583277253001/photo/1",
+              "media_key": "3_2078439566319730688",
+              "start": 10,
+              "url": "https://t.co/Pi5EBzNDEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078439583277253001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小红书好像废了 https://t.co/Pi5EBzNDEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 522,
+          "like_count": 17607,
+          "listed_count": 3,
+          "media_count": 1023,
+          "tweet_count": 7787
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

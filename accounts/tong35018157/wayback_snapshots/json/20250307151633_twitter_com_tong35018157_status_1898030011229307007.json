@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1897981982069633312",
+    "created_at": "2025-03-07T15:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T16:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898030011229307007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898030011229307007",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897981982069633312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 能抽但不支持，不得在人多的地方抽以及不能引导别人抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1897981982069633312",
+        "created_at": "2025-03-07T15:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898030011229307007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898030011229307007",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897981982069633312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 能抽但不支持，不得在人多的地方抽以及不能引导别人抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1897981982069633312",
+        "created_at": "2025-03-07T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897981982069633312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897981982069633312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3257,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 83,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道大家对烟民的看法🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 213,
+          "like_count": 8587,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 4279
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "无可奈何",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "第六天魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893966067652792320/ltZEek7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12538,
+          "following_count": 2658,
+          "like_count": 49540,
+          "listed_count": 18,
+          "media_count": 311,
+          "tweet_count": 13730
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

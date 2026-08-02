@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1921932875726745969",
+    "created_at": "2025-05-12T14:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921932875726745969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puffy026/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/puffy026/status/1915642599806763325",
+          "start": 18,
+          "url": "https://t.co/o1kJc8DAMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921932875726745969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915642599806763325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kcco打赢盗火派胜利结算动画（） https://t.co/o1kJc8DAMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1915642591846293505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpW6yaubYAE-4hP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1921932875726745969",
+        "created_at": "2025-05-12T14:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921932875726745969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puffy026/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/puffy026/status/1915642599806763325",
+              "start": 18,
+              "url": "https://t.co/o1kJc8DAMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921932875726745969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915642599806763325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kcco打赢盗火派胜利结算动画（） https://t.co/o1kJc8DAMi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915642591846293505"
+          ]
+        },
+        "author_id": "1329990487181148167",
+        "conversation_id": "1915642599806763325",
+        "created_at": "2025-04-25T05:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T06:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915642599806763325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Carter",
+              "probability": 0.5025,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "The Yegor Smile",
+              "probability": 0.669,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RS03AxwVUw",
+              "end": 65,
+              "expanded_url": "https://x.com/Puffy026/status/1915642599806763325/photo/1",
+              "media_key": "3_1915642591846293505",
+              "start": 42,
+              "url": "https://t.co/RS03AxwVUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915642599806763325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 6517,
+          "like_count": 342,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "[GFL] The Carter, The Yegor Smile is real https://t.co/RS03AxwVUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 219,
+          "like_count": 8723,
+          "listed_count": 2,
+          "media_count": 710,
+          "tweet_count": 4398
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T03:30:22.000Z",
+        "description": "6年少前指挥官 | AN94 私の妻 | 🈯 Girls Frontline Art/Memes | 🈲 NO Politics/Drama | sometimes doodle T-dorks as a pastime! __〆ヾ(≧▽≦)シ | 💯 On Exam Hiatus 11/5-23/5",
+        "id": "1329990487181148167",
+        "name": "🐣",
+        "pinned_tweet_id": "1920448691569123443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904763674495246336/E-Dqc6Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 1888,
+          "like_count": 70532,
+          "listed_count": 14,
+          "media_count": 525,
+          "tweet_count": 9382
+        },
+        "username": "Puffy026",
+        "verified": false
+      }
+    ]
+  }
+}

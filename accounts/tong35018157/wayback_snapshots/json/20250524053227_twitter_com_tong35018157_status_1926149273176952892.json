@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926149239484141568"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1926149273176952892",
+    "created_at": "2025-05-24T05:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T06:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926149273176952892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fTN3Fns2Eo",
+          "end": 29,
+          "expanded_url": "https://x.com/tong35018157/status/1926149273176952892/photo/1",
+          "media_key": "3_1926149239484141568",
+          "start": 6,
+          "url": "https://t.co/fTN3Fns2Eo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926149273176952892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "龙哥爆典了 https://t.co/fTN3Fns2Eo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1926149239484141568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsOhzPXUAAZXat.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926149239484141568"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1926149273176952892",
+        "created_at": "2025-05-24T05:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T06:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926149273176952892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTN3Fns2Eo",
+              "end": 29,
+              "expanded_url": "https://x.com/tong35018157/status/1926149273176952892/photo/1",
+              "media_key": "3_1926149239484141568",
+              "start": 6,
+              "url": "https://t.co/fTN3Fns2Eo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926149273176952892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龙哥爆典了 https://t.co/fTN3Fns2Eo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 220,
+          "like_count": 8745,
+          "listed_count": 2,
+          "media_count": 712,
+          "tweet_count": 4412
+        },
+        "username": "tong35018157",
+        "verified": false
+      }
+    ]
+  }
+}

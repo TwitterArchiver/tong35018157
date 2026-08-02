@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1850377432362328454",
+    "created_at": "2024-10-27T04:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T05:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850397852826263669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530874247354421248",
+          "start": 0,
+          "username": "KyouenPark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850397852826263669",
+    "in_reply_to_user_id": "1530874247354421248",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850377432362328454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyouenPark 两三年前她就众叛亲离了好吧……其实她发那篇帖子我就知道是在说谁了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1850377432362328454",
+        "created_at": "2024-10-27T04:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T05:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850397852826263669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530874247354421248",
+              "start": 0,
+              "username": "KyouenPark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850397852826263669",
+        "in_reply_to_user_id": "1530874247354421248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850377432362328454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyouenPark 两三年前她就众叛亲离了好吧……其实她发那篇帖子我就知道是在说谁了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530874247354421248",
+        "conversation_id": "1850377432362328454",
+        "created_at": "2024-10-27T03:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T04:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850377432362328454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850377432362328454",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前从图哈聊到安娜霸凌过喜欢图哈的台湾网友☹️安娜还把我拉黑了今天开小号把她写的文拿出来看了一遍真是难绷卧槽，，，还好退坑了这老颠婆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850209063852019712/zY-h5a0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 209,
+          "like_count": 8164,
+          "listed_count": 1,
+          "tweet_count": 3939
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T11:30:48.000Z",
+        "description": "中文/日本語/English←OK\n出来玩的捏🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/72956893",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/72956893",
+                "start": 0,
+                "url": "https://t.co/1rkjwoGGga"
+              }
+            ]
+          }
+        },
+        "id": "1530874247354421248",
+        "location": "全ソ•ジャガイモ販売総局",
+        "name": "神秘🐔人",
+        "pinned_tweet_id": "1654479653921275904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774064008880111616/1_Dwftjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 431,
+          "like_count": 59709,
+          "listed_count": 2,
+          "tweet_count": 11049
+        },
+        "url": "https://t.co/1rkjwoGGga",
+        "username": "KyouenPark",
+        "verified": false
+      }
+    ]
+  }
+}

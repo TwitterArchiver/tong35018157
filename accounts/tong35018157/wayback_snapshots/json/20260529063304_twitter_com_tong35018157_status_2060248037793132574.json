@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2060248037793132574",
+    "created_at": "2026-05-29T06:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060248037793132574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060248037793132574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060216464767066356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 粗大的鸡巴确实可以改变女人，之前我约闺蜜出去玩，她的粗大几把让我一夜之间从直女变成了女同……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2060248037793132574",
+        "created_at": "2026-05-29T06:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060248037793132574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060248037793132574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060216464767066356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 粗大的鸡巴确实可以改变女人，之前我约闺蜜出去玩，她的粗大几把让我一夜之间从直女变成了女同……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2060216464767066356",
+        "created_at": "2026-05-29T04:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060216464767066356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060216464767066356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1303,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "粗大的鸡巴确实可以改变女人，之前我约闺蜜出去玩，她的粗大几把让我一夜之间从直女变成了女同……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 446,
+          "like_count": 14981,
+          "listed_count": 3,
+          "media_count": 966,
+          "tweet_count": 6857
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22982,
+          "following_count": 198,
+          "like_count": 721,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23629
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

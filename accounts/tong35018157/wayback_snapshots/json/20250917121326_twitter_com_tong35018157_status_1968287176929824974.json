@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1968287176929824974",
+    "created_at": "2025-09-17T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968287176929824974"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "sensha",
+          "probability": 0.4331,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "germany",
+          "probability": 0.2972,
+          "start": 72,
+          "type": "Place"
+        },
+        {
+          "end": 115,
+          "normalized_text": "T",
+          "probability": 0.4701,
+          "start": 115,
+          "type": "Other"
+        },
+        {
+          "end": 119,
+          "normalized_text": "55A",
+          "probability": 0.3877,
+          "start": 117,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1261101216022425600",
+          "start": 3,
+          "username": "FlexuallyT"
+        },
+        {
+          "end": 105,
+          "id": "1489966600203681794",
+          "start": 89,
+          "username": "That_CS_Alfredo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968287176929824974",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967969294886867149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FlexuallyT: wait a minutes, this isn't sensha-do, it's southeastern germany\ncomm for @That_CS_Alfredo \n\nexpect T-55A template in the ne…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1967967588677558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-gGFyboAAYGt0.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1227,
+        "media_key": "3_1967967758433599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-gP-LbQAAPXUQ.jpg",
+        "width": 858
+      },
+      {
+        "height": 3483,
+        "media_key": "3_1967967834404950016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-gUZMaEAABvLf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3483,
+        "media_key": "3_1967967834673479680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-gUaMbgAAfaAq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1968287176929824974",
+        "created_at": "2025-09-17T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968287176929824974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "sensha",
+              "probability": 0.4331,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "germany",
+              "probability": 0.2972,
+              "start": 72,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "T",
+              "probability": 0.4701,
+              "start": 115,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "55A",
+              "probability": 0.3877,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1261101216022425600",
+              "start": 3,
+              "username": "FlexuallyT"
+            },
+            {
+              "end": 105,
+              "id": "1489966600203681794",
+              "start": 89,
+              "username": "That_CS_Alfredo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968287176929824974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967969294886867149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FlexuallyT: wait a minutes, this isn't sensha-do, it's southeastern germany\ncomm for @That_CS_Alfredo \n\nexpect T-55A template in the ne…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967967588677558272",
+            "3_1967967758433599488",
+            "3_1967967834404950016",
+            "3_1967967834673479680"
+          ]
+        },
+        "author_id": "1261101216022425600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967969294886867149",
+        "created_at": "2025-09-16T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967969294886867149"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "sensha",
+              "probability": 0.4249,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "southeastern germany",
+              "probability": 0.3812,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 99,
+              "normalized_text": "T",
+              "probability": 0.5376,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "55A",
+              "probability": 0.46,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1489966600203681794",
+              "start": 73,
+              "username": "That_CS_Alfredo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1l61mBELO",
+              "end": 156,
+              "expanded_url": "https://x.com/FlexuallyT/status/1967969294886867149/photo/1",
+              "media_key": "3_1967967588677558272",
+              "start": 133,
+              "url": "https://t.co/e1l61mBELO"
+            },
+            {
+              "display_url": "pic.x.com/e1l61mBELO",
+              "end": 156,
+              "expanded_url": "https://x.com/FlexuallyT/status/1967969294886867149/photo/1",
+              "media_key": "3_1967967758433599488",
+              "start": 133,
+              "url": "https://t.co/e1l61mBELO"
+            },
+            {
+              "display_url": "pic.x.com/e1l61mBELO",
+              "end": 156,
+              "expanded_url": "https://x.com/FlexuallyT/status/1967969294886867149/photo/1",
+              "media_key": "3_1967967834404950016",
+              "start": 133,
+              "url": "https://t.co/e1l61mBELO"
+            },
+            {
+              "display_url": "pic.x.com/e1l61mBELO",
+              "end": 156,
+              "expanded_url": "https://x.com/FlexuallyT/status/1967969294886867149/photo/1",
+              "media_key": "3_1967967834673479680",
+              "start": 133,
+              "url": "https://t.co/e1l61mBELO"
+            },
+            {
+              "display_url": "x.com/FlexuallyT/sta…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/FlexuallyT/status/1967474336006287852",
+              "start": 157,
+              "url": "https://t.co/xndo1qCdTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967969294886867149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 37130,
+          "like_count": 1655,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967474336006287852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wait a minutes, this isn't sensha-do, it's southeastern germany\ncomm for @That_CS_Alfredo \n\nexpect T-55A template in the near future https://t.co/e1l61mBELO https://t.co/xndo1qCdTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 234,
+          "like_count": 9680,
+          "listed_count": 3,
+          "media_count": 817,
+          "tweet_count": 5139
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T01:09:04.000Z",
+        "description": "he/him | Human hobby artist who draws 2D militaria & lots of other stuff, absolutely no A.I allowed, may draw suggestive 1/2 naked ppl and other diabolical shit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/FlexuallyT/sta…",
+                "end": 23,
+                "expanded_url": "https://x.com/FlexuallyT/status/1829222064840159698",
+                "start": 0,
+                "url": "https://t.co/ahBUvYJuW0"
+              }
+            ]
+          }
+        },
+        "id": "1261101216022425600",
+        "location": "comms closed thank you",
+        "name": "Ras (occasional soft-NSFW)",
+        "pinned_tweet_id": "1651079344377430016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960584181580521472/GREG8ddS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6684,
+          "following_count": 1315,
+          "like_count": 86652,
+          "listed_count": 16,
+          "media_count": 3559,
+          "tweet_count": 17705
+        },
+        "url": "https://t.co/ahBUvYJuW0",
+        "username": "FlexuallyT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T14:18:43.000Z",
+        "description": "A POS user of basket weaving forums who's interest consist of antique firearms, militaria, and 2D woman.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCUTee…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCUTee5irP0E9tZcdGNCcRaA",
+                "start": 0,
+                "url": "https://t.co/qSE34KQkXS"
+              }
+            ]
+          }
+        },
+        "id": "1489966600203681794",
+        "location": "I'm inside your walls",
+        "name": "csAlfredo",
+        "pinned_tweet_id": "1930464196061474875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875209595167162368/ah4JSJd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12428,
+          "following_count": 955,
+          "like_count": 134190,
+          "listed_count": 22,
+          "media_count": 4365,
+          "tweet_count": 12070
+        },
+        "url": "https://t.co/qSE34KQkXS",
+        "username": "That_CS_Alfredo",
+        "verified": true
+      }
+    ]
+  }
+}

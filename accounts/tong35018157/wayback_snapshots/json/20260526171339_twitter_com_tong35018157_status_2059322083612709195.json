@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2059322083612709195",
+    "created_at": "2026-05-26T17:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059322083612709195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/detonatedcom/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/detonatedcom/status/2059305373954163157",
+          "start": 20,
+          "url": "https://t.co/Uw8PZHUOk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059322083612709195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059305373954163157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "an94在bo世界观里居然被大规模列装 https://t.co/Uw8PZHUOk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AN-94 in Cutscene",
+        "height": 774,
+        "media_key": "3_2059305138368458752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQfHNiWsAAcXaa.jpg",
+        "width": 774
+      },
+      {
+        "alt_text": "AN94",
+        "height": 2843,
+        "media_key": "3_2059305230890635264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQfMmNXEAAmIxB.jpg",
+        "width": 2843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2059322083612709195",
+        "created_at": "2026-05-26T17:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059322083612709195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/detonatedcom/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/detonatedcom/status/2059305373954163157",
+              "start": 20,
+              "url": "https://t.co/Uw8PZHUOk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059322083612709195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059305373954163157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "an94在bo世界观里居然被大规模列装 https://t.co/Uw8PZHUOk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059305138368458752",
+            "3_2059305230890635264"
+          ]
+        },
+        "author_id": "1647125149630574592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059305373954163157",
+        "created_at": "2026-05-26T16:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059305373954163157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "BlackOps7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEA8RR4TjM",
+              "end": 74,
+              "expanded_url": "https://x.com/DETONATEDcom/status/2059305373954163157/photo/1",
+              "media_key": "3_2059305138368458752",
+              "start": 51,
+              "url": "https://t.co/eEA8RR4TjM"
+            },
+            {
+              "display_url": "pic.x.com/eEA8RR4TjM",
+              "end": 74,
+              "expanded_url": "https://x.com/DETONATEDcom/status/2059305373954163157/photo/1",
+              "media_key": "3_2059305230890635264",
+              "start": 51,
+              "url": "https://t.co/eEA8RR4TjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059305373954163157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 43464,
+          "like_count": 1340,
+          "quote_count": 21,
+          "reply_count": 41,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "The 'AN-94' (BO2) RETURNS in #BlackOps7 Season 4 🔥 https://t.co/eEA8RR4TjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 426,
+          "like_count": 14855,
+          "listed_count": 3,
+          "media_count": 963,
+          "tweet_count": 6813
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T06:31:44.000Z",
+        "description": "Providing EXPLOSIVE Gaming Coverage focused on Modern Warfare 4, Black Ops 7, Warzone, & More 💥 RUN BY: @fajartys 💥 BUSINESS: contact@DETONATED.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "fajartys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "detonated.com",
+                "end": 23,
+                "expanded_url": "http://detonated.com",
+                "start": 0,
+                "url": "https://t.co/JoIlvtrYfS"
+              }
+            ]
+          }
+        },
+        "id": "1647125149630574592",
+        "location": "DTND HQ",
+        "name": "DETONATED",
+        "pinned_tweet_id": "2036529152421978533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647272180885987328/B9DwTwNq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72877,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 150,
+          "media_count": 8791,
+          "tweet_count": 17511
+        },
+        "url": "https://t.co/JoIlvtrYfS",
+        "username": "DETONATEDcom",
+        "verified": true
+      }
+    ]
+  }
+}

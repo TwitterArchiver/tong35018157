@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058074466627059712"
+      ],
+      "media_source_tweet_id": [
+        "2058077755133383136"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058081951089852872",
+    "created_at": "2026-05-23T07:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058081951089852872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1013960541922971648",
+          "start": 3,
+          "username": "Neopentane5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSDnZn56K6",
+          "end": 51,
+          "expanded_url": "https://x.com/Neopentane5/status/2058077755133383136/video/1",
+          "media_key": "13_2058074466627059712",
+          "start": 28,
+          "url": "https://t.co/QSDnZn56K6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058081951089852872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058077755133383136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neopentane5: 给我的芭比娃娃换衣服 https://t.co/QSDnZn56K6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138666,
+        "height": 996,
+        "media_key": "13_2058074466627059712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058074466627059712/img/vi8TJ3FFpjv_AuAE.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058074466627059712/vid/avc1/320x442/di7Vd5V5qBFuvOrS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058074466627059712/vid/avc1/480x664/OBwpEi3837S-0mH-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058074466627059712/vid/avc1/720x996/Pv-SqlVpY0v7h1C5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058074466627059712/pl/tQ2Q8b5ZeXqxOKxZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058074466627059712"
+          ],
+          "media_source_tweet_id": [
+            "2058077755133383136"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058081951089852872",
+        "created_at": "2026-05-23T07:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058081951089852872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1013960541922971648",
+              "start": 3,
+              "username": "Neopentane5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSDnZn56K6",
+              "end": 51,
+              "expanded_url": "https://x.com/Neopentane5/status/2058077755133383136/video/1",
+              "media_key": "13_2058074466627059712",
+              "start": 28,
+              "url": "https://t.co/QSDnZn56K6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058081951089852872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058077755133383136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neopentane5: 给我的芭比娃娃换衣服 https://t.co/QSDnZn56K6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058074466627059712"
+          ]
+        },
+        "author_id": "1013960541922971648",
+        "conversation_id": "2058077755133383136",
+        "created_at": "2026-05-23T06:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058077755133383136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSDnZn56K6",
+              "end": 34,
+              "expanded_url": "https://x.com/Neopentane5/status/2058077755133383136/video/1",
+              "media_key": "13_2058074466627059712",
+              "start": 11,
+              "url": "https://t.co/QSDnZn56K6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058077755133383136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "给我的芭比娃娃换衣服 https://t.co/QSDnZn56K6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 414,
+          "like_count": 14636,
+          "listed_count": 3,
+          "media_count": 959,
+          "tweet_count": 6724
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-03T01:40:06.000Z",
+        "description": "Hi I am neo🇨🇳戊先生 形式自由派蓬蒿人 中文/English Unclassifiable. Unbound. Just someone doing whatever the hell I want, in whatever style I like",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pin.it/3haGOWAwB",
+                "end": 23,
+                "expanded_url": "https://pin.it/3haGOWAwB",
+                "start": 0,
+                "url": "https://t.co/6Ec7iA3SNK"
+              }
+            ]
+          }
+        },
+        "id": "1013960541922971648",
+        "name": "Иё0",
+        "pinned_tweet_id": "2022603314257658194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054840076794998784/hUvpOesw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 364,
+          "like_count": 14940,
+          "listed_count": 7,
+          "media_count": 1032,
+          "tweet_count": 7762
+        },
+        "url": "https://t.co/6Ec7iA3SNK",
+        "username": "Neopentane5",
+        "verified": false
+      }
+    ]
+  }
+}

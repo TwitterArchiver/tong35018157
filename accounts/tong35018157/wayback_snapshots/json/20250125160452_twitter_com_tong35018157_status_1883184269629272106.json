@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1883143121598582981",
+    "created_at": "2025-01-25T16:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883184269629272106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620318501360791553",
+          "start": 0,
+          "username": "lw98277780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883184269629272106",
+    "in_reply_to_user_id": "1620318501360791553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883170116667666880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lw98277780 惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1883143121598582981",
+        "created_at": "2025-01-25T16:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883184269629272106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620318501360791553",
+              "start": 0,
+              "username": "lw98277780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883184269629272106",
+        "in_reply_to_user_id": "1620318501360791553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883170116667666880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lw98277780 惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620318501360791553",
+        "conversation_id": "1883143121598582981",
+        "created_at": "2025-01-25T15:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883170116667666880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883170116667666880",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883161609046262239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 😅我才刚20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 215,
+          "like_count": 8298,
+          "listed_count": 1,
+          "media_count": 668,
+          "tweet_count": 4129
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:10:31.000Z",
+        "description": "“I leave no trace of wings in the air,but I am glad I have had my flight.”\n“天空没有留下翅膀的痕迹，但我已飞过。”\n           ——泰戈尔《流萤集​Fireflie​s》",
+        "id": "1620318501360791553",
+        "location": "Kantō, Tochigi",
+        "name": "灬氩（Ar）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839106489052708864/xu4pxipr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 573,
+          "like_count": 1933,
+          "listed_count": 0,
+          "media_count": 503,
+          "tweet_count": 3830
+        },
+        "username": "lw98277780",
+        "verified": false
+      }
+    ]
+  }
+}

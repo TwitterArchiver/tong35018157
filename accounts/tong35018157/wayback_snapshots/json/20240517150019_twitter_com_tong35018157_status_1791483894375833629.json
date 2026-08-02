@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1791447651030065622",
+    "created_at": "2024-05-17T15:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T16:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791483894375833629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679686176083685376",
+          "start": 0,
+          "username": "cra_ku55262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791483894375833629",
+    "in_reply_to_user_id": "1679686176083685376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791454509258199373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cra_ku55262 okok……你今年暑假好好玩……感觉高一比初三压力还大……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1791454509258199373].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791454509258199373",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1791454509258199373"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1791447651030065622",
+        "created_at": "2024-05-17T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791483894375833629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679686176083685376",
+              "start": 0,
+              "username": "cra_ku55262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791483894375833629",
+        "in_reply_to_user_id": "1679686176083685376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791454509258199373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cra_ku55262 okok……你今年暑假好好玩……感觉高一比初三压力还大……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750482046236172288/yZ4e_tlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 202,
+          "like_count": 7721,
+          "listed_count": 1,
+          "tweet_count": 3626
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T02:56:14.000Z",
+        "description": "历史同人爱好者/睡觉主义万岁/死人老登厨",
+        "id": "1679686176083685376",
+        "location": "he/they/entp5w4",
+        "name": "灯灯",
+        "pinned_tweet_id": "1771483827631755313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790753389003087872/5piSDBbq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 371,
+          "like_count": 4612,
+          "listed_count": 0,
+          "tweet_count": 5681
+        },
+        "username": "cra_ku55262",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2074042196333138277",
+    "created_at": "2026-07-06T08:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074042196333138277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rymsuki67/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/rymsuki67/status/2073768047698116871",
+          "start": 10,
+          "url": "https://t.co/2OvKoAzcJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074042196333138277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073768047698116871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我初一在上面画ch https://t.co/2OvKoAzcJu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073768023228559360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeBB6MaMAAiSOp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073768023618674688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeBB7pa4AAy2Aq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073768024092581888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeBB9aaIAAGXfQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2074042196333138277",
+        "created_at": "2026-07-06T08:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074042196333138277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rymsuki67/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rymsuki67/status/2073768047698116871",
+              "start": 10,
+              "url": "https://t.co/2OvKoAzcJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074042196333138277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073768047698116871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初一在上面画ch https://t.co/2OvKoAzcJu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073768023228559360",
+            "3_2073768023618674688",
+            "3_2073768024092581888"
+          ]
+        },
+        "author_id": "2060896400779698176",
+        "conversation_id": "2073768047698116871",
+        "created_at": "2026-07-05T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073768047698116871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZBqKGynvo",
+              "end": 29,
+              "expanded_url": "https://x.com/rymsuki67/status/2073768047698116871/photo/1",
+              "media_key": "3_2073768023228559360",
+              "start": 6,
+              "url": "https://t.co/5ZBqKGynvo"
+            },
+            {
+              "display_url": "pic.x.com/5ZBqKGynvo",
+              "end": 29,
+              "expanded_url": "https://x.com/rymsuki67/status/2073768047698116871/photo/1",
+              "media_key": "3_2073768023618674688",
+              "start": 6,
+              "url": "https://t.co/5ZBqKGynvo"
+            },
+            {
+              "display_url": "pic.x.com/5ZBqKGynvo",
+              "end": 29,
+              "expanded_url": "https://x.com/rymsuki67/status/2073768047698116871/photo/1",
+              "media_key": "3_2073768024092581888",
+              "start": 6,
+              "url": "https://t.co/5ZBqKGynvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073768047698116871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 20673,
+          "like_count": 210,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "全家不沾😇 https://t.co/5ZBqKGynvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 499,
+          "like_count": 17101,
+          "listed_count": 3,
+          "media_count": 1012,
+          "tweet_count": 7564
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T01:31:04.000Z",
+        "description": "共匪支那粉区自己来找死了？😂看来是劳动的不够树皮观音土吃太饱了🤣赤匪是单细胞生物只会用脏话骂人却没有任何的语言逻辑可言😹",
+        "id": "2060896400779698176",
+        "location": "🇹󠅴‍🇼ROC .YunNan",
+        "name": "弹口罩（总指导大手子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060897380225191936/gq3-5pFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 508,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "rymsuki67",
+        "verified": false
+      }
+    ]
+  }
+}

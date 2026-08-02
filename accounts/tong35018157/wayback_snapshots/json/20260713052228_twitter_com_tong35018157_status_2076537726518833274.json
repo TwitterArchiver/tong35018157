@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076433434474319872"
+      ],
+      "media_source_tweet_id": [
+        "2076433454498042330"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076537726518833274",
+    "created_at": "2026-07-13T05:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076537726518833274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592777910808711169",
+          "start": 3,
+          "username": "JailbirdSven"
+        },
+        {
+          "end": 33,
+          "id": "1062357909621874688",
+          "start": 18,
+          "username": "DylanBurns1776"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAltx9l2If",
+          "end": 82,
+          "expanded_url": "https://x.com/JailbirdSven/status/2076433454498042330/video/1",
+          "media_key": "13_2076433434474319872",
+          "start": 59,
+          "url": "https://t.co/iAltx9l2If"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076537726518833274",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076433454498042330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JailbirdSven: @DylanBurns1776 The video is even better https://t.co/iAltx9l2If"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14954,
+        "height": 720,
+        "media_key": "13_2076433434474319872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076433434474319872/img/hVwtkppWD6RpXeHg.jpg",
+        "public_metrics": {
+          "view_count": 3571
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076433434474319872/vid/avc1/388x270/jJrmwhUnyw2y-OrM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076433434474319872/vid/avc1/518x360/VQnIf3vqfyc_yyTH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076433434474319872/vid/avc1/1038x720/iiQ5Y9bh9O69t3_s.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076433434474319872/pl/wNaxKKYwB1-t_Cp4.m3u8?tag=14&v=861"
+          }
+        ],
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076433434474319872"
+          ],
+          "media_source_tweet_id": [
+            "2076433454498042330"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076537726518833274",
+        "created_at": "2026-07-13T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076537726518833274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592777910808711169",
+              "start": 3,
+              "username": "JailbirdSven"
+            },
+            {
+              "end": 33,
+              "id": "1062357909621874688",
+              "start": 18,
+              "username": "DylanBurns1776"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAltx9l2If",
+              "end": 82,
+              "expanded_url": "https://x.com/JailbirdSven/status/2076433454498042330/video/1",
+              "media_key": "13_2076433434474319872",
+              "start": 59,
+              "url": "https://t.co/iAltx9l2If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076537726518833274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076433454498042330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JailbirdSven: @DylanBurns1776 The video is even better https://t.co/iAltx9l2If"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076433434474319872"
+          ]
+        },
+        "author_id": "1592777910808711169",
+        "conversation_id": "2076415115776139507",
+        "created_at": "2026-07-12T22:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076433454498042330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1062357909621874688",
+              "start": 0,
+              "username": "DylanBurns1776"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAltx9l2If",
+              "end": 64,
+              "expanded_url": "https://x.com/JailbirdSven/status/2076433454498042330/video/1",
+              "media_key": "13_2076433434474319872",
+              "start": 41,
+              "url": "https://t.co/iAltx9l2If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076433454498042330",
+        "in_reply_to_user_id": "1062357909621874688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 5825,
+          "like_count": 408,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076415115776139507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DylanBurns1776 The video is even better https://t.co/iAltx9l2If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 520,
+          "like_count": 17461,
+          "listed_count": 3,
+          "media_count": 1020,
+          "tweet_count": 7724
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T07:15:41.000Z",
+        "description": "No response usually means Blocked or Muted |||\nMAGA get blocked ASAP, u guys are just worthless\nSame w/ the Jesus freaks.\n\n|| OG Fella",
+        "id": "1592777910808711169",
+        "location": "Elmo's Twitter Jail",
+        "name": "Svengerd Hoek III △",
+        "pinned_tweet_id": "2070527075291713765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970821189082714112/bneTD006_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 6127,
+          "like_count": 44065,
+          "listed_count": 2,
+          "media_count": 9745,
+          "tweet_count": 23167
+        },
+        "url": "",
+        "username": "JailbirdSven",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-13T14:53:58.000Z",
+        "description": "Reporting on the ground in Ukraine, Journalist and Streamer @OffbeatResearch - @trackukraine founder\ndylanburnstv@gmail.com | https://t.co/QS25kOKc3f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "OffbeatResearch"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "trackukraine"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/dylanburnstv",
+                "end": 149,
+                "expanded_url": "http://linktr.ee/dylanburnstv",
+                "start": 126,
+                "url": "https://t.co/QS25kOKc3f"
+              }
+            ]
+          }
+        },
+        "id": "1062357909621874688",
+        "location": "Ukraine",
+        "name": "Dylan Burns 🦀",
+        "pinned_tweet_id": "2073832638528274541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891280919756935168/U2q3gU7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108202,
+          "following_count": 2117,
+          "like_count": 79786,
+          "listed_count": 453,
+          "media_count": 7779,
+          "tweet_count": 34472
+        },
+        "url": "",
+        "username": "DylanBurns1776",
+        "verified": true
+      }
+    ]
+  }
+}

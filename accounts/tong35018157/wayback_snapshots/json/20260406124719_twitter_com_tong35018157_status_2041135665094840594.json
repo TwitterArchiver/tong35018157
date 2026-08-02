@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2041135665094840594",
+    "created_at": "2026-04-06T12:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041135665094840594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shenxiao123971…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/shenxiao123971/status/2041006565193662676",
+          "start": 10,
+          "url": "https://t.co/jKK2Z0Icpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041135665094840594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041006565193662676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺德咸鸡是佛山菜吗 https://t.co/jKK2Z0Icpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103533,
+        "height": 960,
+        "media_key": "13_2041006400860721153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041006400860721153/img/rvhwWuIsFvaO78FT.jpg",
+        "public_metrics": {
+          "view_count": 350692
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041006400860721153/vid/avc1/320x426/xXNyxW5nO_uJR3Fj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041006400860721153/vid/avc1/480x640/ayPbOdpvw6Nq-lU5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041006400860721153/vid/avc1/720x960/Jf8Bw2fi9dKY5bC1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041006400860721153/pl/UH6Z98pVAZYjqZC2.m3u8?v=010"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2041135665094840594",
+        "created_at": "2026-04-06T12:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041135665094840594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shenxiao123971…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/shenxiao123971/status/2041006565193662676",
+              "start": 10,
+              "url": "https://t.co/jKK2Z0Icpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041135665094840594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041006565193662676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺德咸鸡是佛山菜吗 https://t.co/jKK2Z0Icpq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041006400860721153"
+          ]
+        },
+        "author_id": "1939242814547914752",
+        "conversation_id": "2041006565193662676",
+        "created_at": "2026-04-06T04:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041006565193662676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7vgMxb1I6",
+              "end": 45,
+              "expanded_url": "https://x.com/Shenxiao123971/status/2041006565193662676/video/1",
+              "media_key": "13_2041006400860721153",
+              "start": 22,
+              "url": "https://t.co/r7vgMxb1I6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041006565193662676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 646186,
+          "like_count": 580,
+          "quote_count": 1,
+          "reply_count": 94,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "在原著里这段踩的是👀为了过审才换成葡萄…… https://t.co/r7vgMxb1I6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 320,
+          "like_count": 12180,
+          "listed_count": 3,
+          "media_count": 918,
+          "tweet_count": 6019
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "我是Shenxiao本xiao",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2036086738314305732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32724,
+          "following_count": 5474,
+          "like_count": 130128,
+          "listed_count": 125,
+          "media_count": 987,
+          "tweet_count": 30847
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

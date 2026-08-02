@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2058174836028178694",
+    "created_at": "2026-05-23T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058196693645226127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487537956974108672",
+          "start": 0,
+          "username": "dhskKnslQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058196693645226127",
+    "in_reply_to_user_id": "1487537956974108672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058174836028178694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhskKnslQn 两波人挺配的，上网就天天盯着异性说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2058174836028178694",
+        "created_at": "2026-05-23T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058196693645226127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487537956974108672",
+              "start": 0,
+              "username": "dhskKnslQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058196693645226127",
+        "in_reply_to_user_id": "1487537956974108672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058174836028178694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhskKnslQn 两波人挺配的，上网就天天盯着异性说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487537956974108672",
+        "conversation_id": "2058174836028178694",
+        "created_at": "2026-05-23T13:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058174836028178694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mike95271314/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mike95271314/status/2058108637718130855",
+              "start": 14,
+              "url": "https://t.co/XY3JnZn2gD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058174836028178694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058108637718130855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续互殴吧\n生育率都不要了 https://t.co/XY3JnZn2gD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 414,
+          "like_count": 14664,
+          "listed_count": 3,
+          "media_count": 961,
+          "tweet_count": 6738
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T21:27:59.000Z",
+        "description": "左翼民粹主义者\n崇尚力量和知识\n保护弱小和无助",
+        "id": "1487537956974108672",
+        "name": "内哈特拿求",
+        "pinned_tweet_id": "1603753864754528256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947200191691472896/MNFO6zdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 611,
+          "like_count": 173361,
+          "listed_count": 28,
+          "media_count": 1642,
+          "tweet_count": 31956
+        },
+        "username": "dhskKnslQn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2043560790243078304",
+    "created_at": "2026-04-13T06:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043575779909402971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1703963332020146176",
+          "start": 0,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043575779909402971",
+    "in_reply_to_user_id": "1703963332020146176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043560790243078304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_RadicalDino 在中国发布色情内容违法，跟同性恋没关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2043560790243078304",
+        "created_at": "2026-04-13T06:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043575779909402971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703963332020146176",
+              "start": 0,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043575779909402971",
+        "in_reply_to_user_id": "1703963332020146176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043560790243078304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_RadicalDino 在中国发布色情内容违法，跟同性恋没关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703963332020146176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2043560790243078304",
+        "created_at": "2026-04-13T05:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043560790243078304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FujiNews_/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/FujiNews_/status/2043467960946168209",
+              "start": 77,
+              "url": "https://t.co/zpa3KmO8i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043560790243078304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043467960946168209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "But, but my favorite Communist streamer Hassan told me \"China is super gay\"? https://t.co/zpa3KmO8i6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 325,
+          "like_count": 12355,
+          "listed_count": 3,
+          "media_count": 924,
+          "tweet_count": 6083
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 1092,
+          "like_count": 383035,
+          "listed_count": 15,
+          "media_count": 1139,
+          "tweet_count": 17730
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056963286747451393"
+      ],
+      "media_source_tweet_id": [
+        "2056963296969056383"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057279561088528542",
+    "created_at": "2026-05-21T01:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057279561088528542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVyHJR2GAr",
+          "end": 49,
+          "expanded_url": "https://x.com/axzamyzed/status/2056963296969056383/photo/1",
+          "media_key": "3_2056963286747451393",
+          "start": 26,
+          "url": "https://t.co/UVyHJR2GAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057279561088528542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056963296969056383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 这是核爆产生的蘑菇云 https://t.co/UVyHJR2GAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2056963286747451393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvNNgaaEAEmZqR.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056963286747451393"
+          ],
+          "media_source_tweet_id": [
+            "2056963296969056383"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057279561088528542",
+        "created_at": "2026-05-21T01:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057279561088528542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVyHJR2GAr",
+              "end": 49,
+              "expanded_url": "https://x.com/axzamyzed/status/2056963296969056383/photo/1",
+              "media_key": "3_2056963286747451393",
+              "start": 26,
+              "url": "https://t.co/UVyHJR2GAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057279561088528542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056963296969056383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 这是核爆产生的蘑菇云 https://t.co/UVyHJR2GAr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056963286747451393"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2056963296969056383",
+        "created_at": "2026-05-20T05:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056963296969056383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVyHJR2GAr",
+              "end": 34,
+              "expanded_url": "https://x.com/axzamyzed/status/2056963296969056383/photo/1",
+              "media_key": "3_2056963286747451393",
+              "start": 11,
+              "url": "https://t.co/UVyHJR2GAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056963296969056383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6943,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这是核爆产生的蘑菇云 https://t.co/UVyHJR2GAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 406,
+          "like_count": 14360,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6650
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 939,
+          "like_count": 11515,
+          "listed_count": 10,
+          "media_count": 1676,
+          "tweet_count": 6791
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

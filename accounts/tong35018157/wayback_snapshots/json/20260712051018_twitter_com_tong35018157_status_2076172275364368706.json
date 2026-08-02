@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076012004985221120"
+      ],
+      "media_source_tweet_id": [
+        "2076012009380794834"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2076172275364368706",
+    "created_at": "2026-07-12T05:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076172275364368706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "534400451",
+          "start": 3,
+          "username": "stparabellum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDuSwt0nwO",
+          "end": 69,
+          "expanded_url": "https://x.com/stparabellum/status/2076012009380794834/photo/1",
+          "media_key": "3_2076012004985221120",
+          "start": 46,
+          "url": "https://t.co/DDuSwt0nwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076172275364368706",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076012009380794834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stparabellum: Maximum tank commander aura https://t.co/DDuSwt0nwO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2076012004985221120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9561qXMAASp4q.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076012004985221120"
+          ],
+          "media_source_tweet_id": [
+            "2076012009380794834"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2076172275364368706",
+        "created_at": "2026-07-12T05:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076172275364368706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "534400451",
+              "start": 3,
+              "username": "stparabellum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDuSwt0nwO",
+              "end": 69,
+              "expanded_url": "https://x.com/stparabellum/status/2076012009380794834/photo/1",
+              "media_key": "3_2076012004985221120",
+              "start": 46,
+              "url": "https://t.co/DDuSwt0nwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076172275364368706",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076012009380794834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stparabellum: Maximum tank commander aura https://t.co/DDuSwt0nwO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076012004985221120"
+          ]
+        },
+        "author_id": "534400451",
+        "conversation_id": "2076012009380794834",
+        "created_at": "2026-07-11T18:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076012009380794834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDuSwt0nwO",
+              "end": 51,
+              "expanded_url": "https://x.com/stparabellum/status/2076012009380794834/photo/1",
+              "media_key": "3_2076012004985221120",
+              "start": 28,
+              "url": "https://t.co/DDuSwt0nwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076012009380794834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 7247,
+          "like_count": 812,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "Maximum tank commander aura https://t.co/DDuSwt0nwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 514,
+          "like_count": 17409,
+          "listed_count": 3,
+          "media_count": 1018,
+          "tweet_count": 7710
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-23T15:14:53.000Z",
+        "description": "War Aesthetics and Balaclavas",
+        "id": "534400451",
+        "location": "Sahara ☀️",
+        "name": "𝙉𝙞𝙛",
+        "pinned_tweet_id": "1766131555309654341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415687355330560/y_m31G4P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47571,
+          "following_count": 268,
+          "like_count": 101223,
+          "listed_count": 127,
+          "media_count": 7078,
+          "tweet_count": 15466
+        },
+        "url": "",
+        "username": "stparabellum",
+        "verified": true
+      }
+    ]
+  }
+}

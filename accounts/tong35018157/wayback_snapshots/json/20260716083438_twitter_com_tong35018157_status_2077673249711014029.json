@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077654532193185792"
+      ],
+      "media_source_tweet_id": [
+        "2077654536068682065"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "News from Bloomberg LP (not Mike Bloomberg)",
+          "id": "10044802072",
+          "name": "Bloomberg"
+        }
+      }
+    ],
+    "conversation_id": "2077673249711014029",
+    "created_at": "2026-07-16T08:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077673249711014029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908792625025024",
+          "start": 3,
+          "username": "NAR_command"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZjUioAkYB",
+          "end": 61,
+          "expanded_url": "https://x.com/NAR_command/status/2077654536068682065/photo/1",
+          "media_key": "3_2077654532193185792",
+          "start": 38,
+          "url": "https://t.co/rZjUioAkYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077673249711014029",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077654536068682065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NAR_command: Me in about 10 years https://t.co/rZjUioAkYB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2077654532193185792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVPygVa8AA2RI_.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077654532193185792"
+          ],
+          "media_source_tweet_id": [
+            "2077654536068682065"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "News from Bloomberg LP (not Mike Bloomberg)",
+              "id": "10044802072",
+              "name": "Bloomberg"
+            }
+          }
+        ],
+        "conversation_id": "2077673249711014029",
+        "created_at": "2026-07-16T08:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077673249711014029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908792625025024",
+              "start": 3,
+              "username": "NAR_command"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZjUioAkYB",
+              "end": 61,
+              "expanded_url": "https://x.com/NAR_command/status/2077654536068682065/photo/1",
+              "media_key": "3_2077654532193185792",
+              "start": 38,
+              "url": "https://t.co/rZjUioAkYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077673249711014029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077654536068682065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NAR_command: Me in about 10 years https://t.co/rZjUioAkYB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077654532193185792"
+          ]
+        },
+        "author_id": "2029908792625025024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "News from Bloomberg LP (not Mike Bloomberg)",
+              "id": "10044802072",
+              "name": "Bloomberg"
+            }
+          }
+        ],
+        "conversation_id": "2077654536068682065",
+        "created_at": "2026-07-16T07:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077654536068682065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZjUioAkYB",
+              "end": 44,
+              "expanded_url": "https://x.com/NAR_command/status/2077654536068682065/photo/1",
+              "media_key": "3_2077654532193185792",
+              "start": 21,
+              "url": "https://t.co/rZjUioAkYB"
+            },
+            {
+              "display_url": "x.com/polymarket/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/polymarket/status/2077524358202097889",
+              "start": 45,
+              "url": "https://t.co/hYpYWBeCPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077654536068682065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 158,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077524358202097889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Me in about 10 years https://t.co/rZjUioAkYB https://t.co/hYpYWBeCPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 522,
+          "like_count": 17556,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 7765
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:17:55.000Z",
+        "description": "ドールズフロントライン同人誌製作サークル\n反ロクサット主義者同盟 \n広報&空談&頽落的猥談&思想哲学&歴史上の人物の名言投稿\n複垢\n文頭のマークは投稿個体識別。\nNAR人民の名言やブラックジョークも載せていきますのでご容赦ください。\n雑談・創作Discordサーバー「NAR」参加者募集中、気軽にご応募ください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kind_slug5509/…",
+                "end": 23,
+                "expanded_url": "https://note.com/kind_slug5509/portal",
+                "start": 0,
+                "url": "https://t.co/UM6HlhMbad"
+              }
+            ]
+          }
+        },
+        "id": "2029908792625025024",
+        "location": "ジュガーノフツィ",
+        "name": "NAR-武装少女中核",
+        "pinned_tweet_id": "2029917260366938584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029909480214007808/mulPJyyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 495,
+          "like_count": 8846,
+          "listed_count": 3,
+          "media_count": 1837,
+          "tweet_count": 8077
+        },
+        "url": "https://t.co/UM6HlhMbad",
+        "username": "NAR_command",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1817194194546626684",
+    "created_at": "2024-07-27T13:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T14:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817194194546626684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cccp192243/sta…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/cccp192243/status/1817061177962504583",
+          "start": 60,
+          "url": "https://t.co/ofZa3KZ1lE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817194194546626684",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817061177962504583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苏联截断了流入咸海的径流种棉花，现在咸海的干涸面积是90%以上\n泥鹅的传统艺能就是，压榨中亚的土地，再歧视回中亚人…… https://t.co/ofZa3KZ1lE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1817194194546626684",
+        "created_at": "2024-07-27T13:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T14:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817194194546626684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cccp192243/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/cccp192243/status/1817061177962504583",
+              "start": 60,
+              "url": "https://t.co/ofZa3KZ1lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817194194546626684",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817061177962504583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苏联截断了流入咸海的径流种棉花，现在咸海的干涸面积是90%以上\n泥鹅的传统艺能就是，压榨中亚的土地，再歧视回中亚人…… https://t.co/ofZa3KZ1lE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442525944493666308",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1817061177962504583",
+        "created_at": "2024-07-27T04:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T05:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817061177962504583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817061177962504583",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苏联媒体一直在洗白沙俄的侵略罪行，把沙俄军队描述成“保护者”的角色，要把某民族从“穆斯林”、“英国资本”、“突厥人”手中拯救出来。《文学报》在1952年7月10日的文章称“18世纪俄国吞并哈萨克斯坦具有深远的进步作用……哈萨克斯坦的劳动人民通过日常生活体验，体会到了在俄国这个强大国家生活的好处。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815395831643537408/1mjR8wae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 208,
+          "like_count": 8128,
+          "listed_count": 1,
+          "tweet_count": 3863
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T16:26:10.000Z",
+        "description": "CCCP的大老板斯大林，索赛罗是本人斯大林的笔名，只此一家别无分号/Stalinism钢门/有斯大林、斯大林主义、苏联相关的内容欢迎给我投稿😘",
+        "id": "1442525944493666308",
+        "location": "卢比扬卡大酒店",
+        "name": "索赛罗(钢门)bot🌑🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781967530128719872/f8icqhJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 69,
+          "like_count": 93,
+          "listed_count": 3,
+          "tweet_count": 459
+        },
+        "username": "cccp192243",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883728598198353920"
+      ],
+      "media_source_tweet_id": [
+        "1883728648030801943"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1883802198758584736",
+    "created_at": "2025-01-27T09:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883802198758584736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226744356784050177",
+          "start": 3,
+          "username": "kaxiaojiawww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lsHe0UsLP",
+          "end": 53,
+          "expanded_url": "https://x.com/kaxiaojiawww/status/1883728648030801943/photo/1",
+          "media_key": "3_1883728598198353920",
+          "start": 30,
+          "url": "https://t.co/6lsHe0UsLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883802198758584736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883728648030801943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaxiaojiawww: 在玩COC,这是我PC https://t.co/6lsHe0UsLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883728598198353920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiRZLfzbgAACf4C.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883728598198353920"
+          ],
+          "media_source_tweet_id": [
+            "1883728648030801943"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1883802198758584736",
+        "created_at": "2025-01-27T09:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883802198758584736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226744356784050177",
+              "start": 3,
+              "username": "kaxiaojiawww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lsHe0UsLP",
+              "end": 53,
+              "expanded_url": "https://x.com/kaxiaojiawww/status/1883728648030801943/photo/1",
+              "media_key": "3_1883728598198353920",
+              "start": 30,
+              "url": "https://t.co/6lsHe0UsLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883802198758584736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883728648030801943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaxiaojiawww: 在玩COC,这是我PC https://t.co/6lsHe0UsLP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883728598198353920"
+          ]
+        },
+        "author_id": "1226744356784050177",
+        "conversation_id": "1883728648030801943",
+        "created_at": "2025-01-27T04:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883728648030801943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lsHe0UsLP",
+              "end": 35,
+              "expanded_url": "https://x.com/kaxiaojiawww/status/1883728648030801943/photo/1",
+              "media_key": "3_1883728598198353920",
+              "start": 12,
+              "url": "https://t.co/6lsHe0UsLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883728648030801943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在玩COC,这是我PC https://t.co/6lsHe0UsLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 218,
+          "like_count": 8324,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 4141
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T05:47:10.000Z",
+        "description": "🙌唐突用中文 如果打扰了很抱歉！\n😭突然关注并且一声不吭对不起！！\n💘但是，你们的画实在都太好看了……\n✨喜欢描绘未来的作品！\n💭主页杂乱 RT狂魔\n👉18↑/无性别/无意识形态/实干派/不喜欢说话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaxiaojiawww.lofter.com",
+                "end": 23,
+                "expanded_url": "https://kaxiaojiawww.lofter.com/",
+                "start": 0,
+                "url": "https://t.co/UGLAOn8JqP"
+              }
+            ]
+          }
+        },
+        "id": "1226744356784050177",
+        "location": "🌏space🌌",
+        "name": "卡小嘉（低浮上）",
+        "pinned_tweet_id": "1854802173273817201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713651073377021952/R5o9O5QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 180,
+          "like_count": 5501,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/UGLAOn8JqP",
+        "username": "kaxiaojiawww",
+        "verified": false
+      }
+    ]
+  }
+}

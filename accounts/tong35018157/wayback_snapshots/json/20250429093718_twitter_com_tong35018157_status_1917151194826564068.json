@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1526616263857799168",
+          "name": "Pac-Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1526616263857799168",
+          "name": "Pac-Man"
+        }
+      }
+    ],
+    "conversation_id": "1917151194826564068",
+    "created_at": "2025-04-29T09:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T10:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917151194826564068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miyakehidekazu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/miyakehidekazu/status/1916533138454413433",
+          "start": 9,
+          "url": "https://t.co/bPnoVi0X2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917151194826564068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916533138454413433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个新鲜出炉的披萨 https://t.co/bPnoVi0X2f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916533135103447040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpjku24bUAArm0e.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1526616263857799168",
+              "name": "Pac-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1526616263857799168",
+              "name": "Pac-Man"
+            }
+          }
+        ],
+        "conversation_id": "1917151194826564068",
+        "created_at": "2025-04-29T09:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T10:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917151194826564068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miyakehidekazu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/miyakehidekazu/status/1916533138454413433",
+              "start": 9,
+              "url": "https://t.co/bPnoVi0X2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917151194826564068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916533138454413433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个新鲜出炉的披萨 https://t.co/bPnoVi0X2f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916533135103447040"
+          ]
+        },
+        "author_id": "1731295519685988352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1526616263857799168",
+              "name": "Pac-Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1526616263857799168",
+              "name": "Pac-Man"
+            }
+          }
+        ],
+        "conversation_id": "1916533138454413433",
+        "created_at": "2025-04-27T16:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916533138454413433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGdAS9EcyG",
+              "end": 48,
+              "expanded_url": "https://x.com/MiyakeHidekazu/status/1916533138454413433/photo/1",
+              "media_key": "3_1916533135103447040",
+              "start": 25,
+              "url": "https://t.co/FGdAS9EcyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916533138454413433",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 30334,
+          "like_count": 635,
+          "quote_count": 86,
+          "reply_count": 26,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "Albino Pac-Man Frog male https://t.co/FGdAS9EcyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 223,
+          "like_count": 8693,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 4369
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T12:53:40.000Z",
+        "description": "色んな生き物と関わって, 行き着いたツノガエルさん達に爆愛。気が付いたら100匹以上飼育中。繁殖するも良しだけど,  どちらかと言えばコレクター 。皆さん仲良くして下さい。最近, 自然保護の重要性に危機感。生き物全般的に好きです。",
+        "id": "1731295519685988352",
+        "location": "長期出張中",
+        "name": "Hidekazu Miyake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800863738742079489/YC0sNTTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 273,
+          "like_count": 2563,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 993
+        },
+        "username": "MiyakeHidekazu",
+        "verified": false
+      }
+    ]
+  }
+}

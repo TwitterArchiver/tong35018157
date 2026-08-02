@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1810754873975263380",
+    "created_at": "2024-07-11T09:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T10:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811327012713169276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "President_Lei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811327012713169276",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810754873975263380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@President_Lei 开两把迷你世界恢复出厂设置"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1810754873975263380",
+        "created_at": "2024-07-11T09:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T10:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811327012713169276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "President_Lei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811327012713169276",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810754873975263380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@President_Lei 开两把迷你世界恢复出厂设置"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810754868996624387"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1810754873975263380",
+        "created_at": "2024-07-09T19:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T20:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810754873975263380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1kz11DzcWd",
+              "end": 23,
+              "expanded_url": "https://twitter.com/President_Lei/status/1810754873975263380/photo/1",
+              "media_key": "3_1810754868996624387",
+              "start": 0,
+              "url": "https://t.co/1kz11DzcWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810754873975263380",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 142178,
+          "like_count": 925,
+          "quote_count": 8,
+          "reply_count": 93,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1kz11DzcWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809568956837183488/hx0rimXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 204,
+          "like_count": 8004,
+          "listed_count": 1,
+          "tweet_count": 3785
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "似",
+        "id": "1680834021377593344",
+        "location": "🐷",
+        "name": "🍥磊哥聊社经🏳️‍⚧️🇷🇺🇮🇱🏖🍆🫲🌛🫲",
+        "pinned_tweet_id": "1779491426847584590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810931389673656322/Mrh4vDxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 901,
+          "like_count": 23876,
+          "listed_count": 11,
+          "tweet_count": 9038
+        },
+        "username": "President_Lei",
+        "verified": false
+      }
+    ]
+  }
+}

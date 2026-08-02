@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006009910648266753",
+        "3_2006009910648266754",
+        "3_2006009910648332288",
+        "3_2006009910644072449"
+      ],
+      "media_source_tweet_id": [
+        "2006009954809831747",
+        "2006009954809831747",
+        "2006009954809831747",
+        "2006009954809831747"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010759170958757916",
+    "created_at": "2026-01-12T17:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010759170958757916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 20,
+          "tag": "2025年自分が選ぶ今年の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4768935252",
+          "start": 3,
+          "username": "FerroGeronimo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44q1aNVXZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+          "media_key": "3_2006009910648266753",
+          "start": 37,
+          "url": "https://t.co/44q1aNVXZ2"
+        },
+        {
+          "display_url": "pic.x.com/44q1aNVXZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+          "media_key": "3_2006009910648266754",
+          "start": 37,
+          "url": "https://t.co/44q1aNVXZ2"
+        },
+        {
+          "display_url": "pic.x.com/44q1aNVXZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+          "media_key": "3_2006009910648332288",
+          "start": 37,
+          "url": "https://t.co/44q1aNVXZ2"
+        },
+        {
+          "display_url": "pic.x.com/44q1aNVXZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+          "media_key": "3_2006009910644072449",
+          "start": 37,
+          "url": "https://t.co/44q1aNVXZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010759170958757916",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006009954809831747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @FerroGeronimo_: #2025年自分が選ぶ今年の4枚 https://t.co/44q1aNVXZ2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010759170958757916].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010759170958757916",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010759170958757916"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2006009910648266753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bHYqwaYAE_8l-.jpg",
+        "width": 827
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2006009910648266754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bHYqwaYAIiSak.jpg",
+        "width": 756
+      },
+      {
+        "height": 658,
+        "media_key": "3_2006009910648332288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bHYqwbYAAjsEH.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2006009910644072449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bHYqvaYAEIjmS.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006009910648266753",
+            "3_2006009910648266754",
+            "3_2006009910648332288",
+            "3_2006009910644072449"
+          ]
+        },
+        "author_id": "4768935252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006009954809831747",
+        "created_at": "2025-12-30T14:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006009954809831747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44q1aNVXZ2",
+              "end": 40,
+              "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+              "media_key": "3_2006009910648266753",
+              "start": 17,
+              "url": "https://t.co/44q1aNVXZ2"
+            },
+            {
+              "display_url": "pic.x.com/44q1aNVXZ2",
+              "end": 40,
+              "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+              "media_key": "3_2006009910648266754",
+              "start": 17,
+              "url": "https://t.co/44q1aNVXZ2"
+            },
+            {
+              "display_url": "pic.x.com/44q1aNVXZ2",
+              "end": 40,
+              "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+              "media_key": "3_2006009910648332288",
+              "start": 17,
+              "url": "https://t.co/44q1aNVXZ2"
+            },
+            {
+              "display_url": "pic.x.com/44q1aNVXZ2",
+              "end": 40,
+              "expanded_url": "https://x.com/FerroGeronimo_/status/2006009954809831747/photo/1",
+              "media_key": "3_2006009910644072449",
+              "start": 17,
+              "url": "https://t.co/44q1aNVXZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006009954809831747",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 12078,
+          "like_count": 872,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 81
+        },
+        "reply_settings": "following",
+        "text": "#2025年自分が選ぶ今年の4枚 https://t.co/44q1aNVXZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 278,
+          "like_count": 10574,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 5516
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-16T15:30:05.000Z",
+        "description": "A drawer love cooking some comics🔫Sometimes draw NSFW🔞 love tactical gear and girls👱🏻‍♀️ English/中文(简体/繁體)/日本語✍🏻 FK AI🖕🏻and FK Political🖕🏻 日本語は勉強中📖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/404ger…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/404geronimo.bsky.social",
+                "start": 0,
+                "url": "https://t.co/i0rK46YuD9"
+              }
+            ]
+          }
+        },
+        "id": "4768935252",
+        "location": "СНРК",
+        "name": "Geronimo",
+        "pinned_tweet_id": "1836842315564077549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818263302272868352/0fBMEEsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15738,
+          "following_count": 5833,
+          "like_count": 69906,
+          "listed_count": 64,
+          "media_count": 460,
+          "tweet_count": 3739
+        },
+        "url": "https://t.co/i0rK46YuD9",
+        "username": "FerroGeronimo_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057722823515553792"
+      ],
+      "media_source_tweet_id": [
+        "2057722880599982355"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057852167026040953",
+    "created_at": "2026-05-22T15:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057852167026040953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1953882396820176896",
+          "start": 3,
+          "username": "birdscolour56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W7zKxWZ52u",
+          "end": 88,
+          "expanded_url": "https://x.com/birdscolour56/status/2057722880599982355/video/1",
+          "media_key": "7_2057722823515553792",
+          "start": 65,
+          "url": "https://t.co/W7zKxWZ52u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057852167026040953",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057722880599982355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdscolour56: Born to be this cute, and I’m not changing. 🐥 https://t.co/W7zKxWZ52u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2933,
+        "height": 900,
+        "media_key": "7_2057722823515553792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057722823515553792/pu/img/R0PwGxj7QR_0Kckh.jpg",
+        "public_metrics": {
+          "view_count": 2229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057722823515553792/pu/vid/avc1/320x400/YsIIVhvQcaIRophA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057722823515553792/pu/vid/avc1/480x600/PsdKABsvXr_Xjp0i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057722823515553792/pu/vid/avc1/720x900/0Ww9pL2-g7eIEGTU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057722823515553792/pu/pl/PVzeEy7svf5Y3zKv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057722823515553792"
+          ],
+          "media_source_tweet_id": [
+            "2057722880599982355"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2057852167026040953",
+        "created_at": "2026-05-22T15:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057852167026040953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1953882396820176896",
+              "start": 3,
+              "username": "birdscolour56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7zKxWZ52u",
+              "end": 88,
+              "expanded_url": "https://x.com/birdscolour56/status/2057722880599982355/video/1",
+              "media_key": "7_2057722823515553792",
+              "start": 65,
+              "url": "https://t.co/W7zKxWZ52u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057852167026040953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057722880599982355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdscolour56: Born to be this cute, and I’m not changing. 🐥 https://t.co/W7zKxWZ52u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057722823515553792"
+          ]
+        },
+        "author_id": "1953882396820176896",
+        "conversation_id": "2057722880599982355",
+        "created_at": "2026-05-22T07:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057722880599982355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7zKxWZ52u",
+              "end": 69,
+              "expanded_url": "https://x.com/birdscolour56/status/2057722880599982355/video/1",
+              "media_key": "7_2057722823515553792",
+              "start": 46,
+              "url": "https://t.co/W7zKxWZ52u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057722880599982355",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 8189,
+          "like_count": 566,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "Born to be this cute, and I’m not changing. 🐥 https://t.co/W7zKxWZ52u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 414,
+          "like_count": 14575,
+          "listed_count": 4,
+          "media_count": 958,
+          "tweet_count": 6709
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T18:14:22.000Z",
+        "description": "The official Positive Side Of @X ! I'm Sender from Netherland.All copyright belong to their owners!Exploring the world through a bird's eye view 🐦🕊️🌿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 30,
+                "username": "X"
+              }
+            ]
+          }
+        },
+        "id": "1953882396820176896",
+        "name": "Birds Colour 🕊️",
+        "pinned_tweet_id": "2057192576466489717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030581484159926272/u1GPgJ0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16738,
+          "following_count": 3836,
+          "like_count": 701,
+          "listed_count": 58,
+          "media_count": 4753,
+          "tweet_count": 5176
+        },
+        "username": "birdscolour56",
+        "verified": true
+      }
+    ]
+  }
+}

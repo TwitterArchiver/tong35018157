@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1928659281252917314",
+    "created_at": "2025-05-31T03:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928659281252917314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shushengbeiyon…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shushengbeiyong/status/1928106628873666983",
+          "start": 13,
+          "url": "https://t.co/AAPmsEk45x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928659281252917314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928106628873666983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以往每个人脸上泼猪屎了 https://t.co/AAPmsEk45x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46000,
+        "height": 848,
+        "media_key": "7_1733867703902044160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1733867703902044160/pu/img/skOXT28NtD2rJWGA.jpg",
+        "public_metrics": {
+          "view_count": 444118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1733867703902044160/pu/vid/avc1/320x564/B28rbm4uT_Ijy5vP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1733867703902044160/pu/vid/avc1/480x848/Te9EhOgQZ8jHDa7N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1733867703902044160/pu/pl/bfEwKF-lAtXhFP_f.m3u8?tag=12&v=ec1"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1928659281252917314",
+        "created_at": "2025-05-31T03:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928659281252917314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shushengbeiyon…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shushengbeiyong/status/1928106628873666983",
+              "start": 13,
+              "url": "https://t.co/AAPmsEk45x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928659281252917314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928106628873666983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以往每个人脸上泼猪屎了 https://t.co/AAPmsEk45x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1733867703902044160"
+          ],
+          "media_source_tweet_id": [
+            "1733867734176591984"
+          ]
+        },
+        "author_id": "1479159472182501377",
+        "conversation_id": "1928106628873666983",
+        "created_at": "2025-05-29T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928106628873666983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDgLFrUR9x",
+              "end": 39,
+              "expanded_url": "https://x.com/wakeup_arrow/status/1733867734176591984/video/1",
+              "media_key": "7_1733867703902044160",
+              "start": 16,
+              "url": "https://t.co/FDgLFrUR9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928106628873666983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 472210,
+          "like_count": 1071,
+          "quote_count": 40,
+          "reply_count": 592,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "什么是新疆问题，这就是新疆问题 https://t.co/FDgLFrUR9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 222,
+          "like_count": 8779,
+          "listed_count": 2,
+          "media_count": 713,
+          "tweet_count": 4435
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T18:34:43.000Z",
+        "description": "",
+        "id": "1479159472182501377",
+        "name": "书生",
+        "pinned_tweet_id": "1870551049703932249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485155496722149380/vJZw2qPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 330,
+          "like_count": 6189,
+          "listed_count": 18,
+          "media_count": 225,
+          "tweet_count": 2653
+        },
+        "username": "shushengbeiyong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "2048640215363805513",
+    "created_at": "2026-04-27T15:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048779389685657724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048779389685657724",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048640215363805513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 假如战争来临，请让我们00后先上，因为我们00后爱玩和平精英和王者荣耀等游戏，每个人都有超强的作战经验和团队意识，就比如我喜欢钢枪，一个人就可以拿下整个科学馆，我们00后都是隐形的特种兵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2048640210410340352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG47as4XAAAT_Nk.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2048640215363805513",
+        "created_at": "2026-04-27T15:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048779389685657724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048779389685657724",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048640215363805513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 假如战争来临，请让我们00后先上，因为我们00后爱玩和平精英和王者荣耀等游戏，每个人都有超强的作战经验和团队意识，就比如我喜欢钢枪，一个人就可以拿下整个科学馆，我们00后都是隐形的特种兵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048640210410340352"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2048640215363805513",
+        "created_at": "2026-04-27T05:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048640215363805513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZIgWKvssg",
+              "end": 59,
+              "expanded_url": "https://x.com/satireorcry1/status/2048640215363805513/photo/1",
+              "media_key": "3_2048640210410340352",
+              "start": 36,
+              "url": "https://t.co/kZIgWKvssg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048640215363805513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11493,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小粉红又丢脸了！\n\nbro以为自己能上战场，真让他去吓得大小便都失禁了 https://t.co/kZIgWKvssg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 371,
+          "like_count": 13112,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6326
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23360,
+          "following_count": 1551,
+          "like_count": 13858,
+          "listed_count": 52,
+          "media_count": 2772,
+          "tweet_count": 4153
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

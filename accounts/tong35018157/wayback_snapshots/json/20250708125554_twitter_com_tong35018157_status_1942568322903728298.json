@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942387479316770816"
+      ],
+      "media_source_tweet_id": [
+        "1942387595717259361"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1942568322903728298",
+    "created_at": "2025-07-08T12:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T13:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942568322903728298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560714408841871360",
+          "start": 3,
+          "username": "Nier_A2mata"
+        },
+        {
+          "end": 30,
+          "id": "1474091860025122817",
+          "start": 17,
+          "username": "ShitpostGate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GCUr1PhCc3",
+          "end": 54,
+          "expanded_url": "https://x.com/Nier_A2mata/status/1942387595717259361/photo/1",
+          "media_key": "3_1942387479316770816",
+          "start": 31,
+          "url": "https://t.co/GCUr1PhCc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942568322903728298",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942387595717259361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nier_A2mata: @ShitpostGate https://t.co/GCUr1PhCc3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_1942387479316770816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS_HwjXsAA0b5s.png",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942387479316770816"
+          ],
+          "media_source_tweet_id": [
+            "1942387595717259361"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1942568322903728298",
+        "created_at": "2025-07-08T12:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942568322903728298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560714408841871360",
+              "start": 3,
+              "username": "Nier_A2mata"
+            },
+            {
+              "end": 30,
+              "id": "1474091860025122817",
+              "start": 17,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCUr1PhCc3",
+              "end": 54,
+              "expanded_url": "https://x.com/Nier_A2mata/status/1942387595717259361/photo/1",
+              "media_key": "3_1942387479316770816",
+              "start": 31,
+              "url": "https://t.co/GCUr1PhCc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942568322903728298",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942387595717259361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nier_A2mata: @ShitpostGate https://t.co/GCUr1PhCc3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942387479316770816"
+          ]
+        },
+        "author_id": "1560714408841871360",
+        "conversation_id": "1942194385636225460",
+        "created_at": "2025-07-08T00:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942387595717259361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474091860025122817",
+              "start": 0,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCUr1PhCc3",
+              "end": 37,
+              "expanded_url": "https://x.com/Nier_A2mata/status/1942387595717259361/photo/1",
+              "media_key": "3_1942387479316770816",
+              "start": 14,
+              "url": "https://t.co/GCUr1PhCc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942387595717259361",
+        "in_reply_to_user_id": "1474091860025122817",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16711,
+          "like_count": 470,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942194385636225460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShitpostGate https://t.co/GCUr1PhCc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 226,
+          "like_count": 9004,
+          "listed_count": 2,
+          "media_count": 756,
+          "tweet_count": 4664
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T19:44:54.000Z",
+        "description": "",
+        "id": "1560714408841871360",
+        "name": "migon",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 148,
+          "like_count": 13403,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 902
+        },
+        "username": "Nier_A2mata",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552222,
+          "following_count": 2323,
+          "like_count": 3075,
+          "listed_count": 3127,
+          "media_count": 31261,
+          "tweet_count": 46024
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

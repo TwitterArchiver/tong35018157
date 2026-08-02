@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1796955620253524181",
+    "created_at": "2024-06-02T09:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797195894841811002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1695660872415547392",
+          "start": 0,
+          "username": "king_lieut"
+        },
+        {
+          "end": 21,
+          "id": "215939847",
+          "start": 12,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797195894841811002",
+    "in_reply_to_user_id": "1695660872415547392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797051386598920583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@king_lieut @bboczeng 85版大雄的宇宙小战争，里面那个皮西亚原型就是皮大帅来着（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1796955620253524181",
+        "created_at": "2024-06-02T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797195894841811002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695660872415547392",
+              "start": 0,
+              "username": "king_lieut"
+            },
+            {
+              "end": 21,
+              "id": "215939847",
+              "start": 12,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797195894841811002",
+        "in_reply_to_user_id": "1695660872415547392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797051386598920583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king_lieut @bboczeng 85版大雄的宇宙小战争，里面那个皮西亚原型就是皮大帅来着（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1695660872415547392",
+        "conversation_id": "1796955620253524181",
+        "created_at": "2024-06-01T23:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T00:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797051386598920583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797051386598920583",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2145,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796955620253524181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 这是哪一集？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18↓顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750482046236172288/yZ4e_tlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 206,
+          "like_count": 7742,
+          "listed_count": 1,
+          "tweet_count": 3662
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:54:14.000Z",
+        "description": "平壤：两颗氢弹同时爆发",
+        "id": "1695660872415547392",
+        "name": "King Fucked🇹🇼🇰🇷🇮🇱🇫🇮🇮🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796843451226710016/eHb8jBT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 78,
+          "like_count": 189,
+          "listed_count": 1,
+          "tweet_count": 696
+        },
+        "username": "king_lieut",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，欢迎订阅日报阅读我的投资经验分享与市场总结，或加入会员群讨论\n失败学、润学创始人，弘扬知识、真相和逻辑\nYouTube科普和键政频道（https://t.co/1HbWAvCPfN）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              },
+              {
+                "display_url": "youtube.com/@boist",
+                "end": 121,
+                "expanded_url": "http://youtube.com/@boist",
+                "start": 98,
+                "url": "https://t.co/1HbWAvCPfN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1796412269863264441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675380931006459904/mwE_8Bwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122600,
+          "following_count": 579,
+          "like_count": 48713,
+          "listed_count": 598,
+          "tweet_count": 47729
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

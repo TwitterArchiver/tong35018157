@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1943587969232785731",
+    "created_at": "2025-07-11T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943587969232785731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cinnam0nnn/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/cinnam0nnn/status/1943422187236659301",
+          "start": 3,
+          "url": "https://t.co/Cd3rLHIqpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943587969232785731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943422187236659301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢 https://t.co/Cd3rLHIqpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_1943422182014517250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvhsLYeXAAIwbY-.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1943587969232785731",
+        "created_at": "2025-07-11T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943587969232785731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cinnam0nnn/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/cinnam0nnn/status/1943422187236659301",
+              "start": 3,
+              "url": "https://t.co/Cd3rLHIqpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943587969232785731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943422187236659301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢 https://t.co/Cd3rLHIqpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943422182014517250"
+          ]
+        },
+        "author_id": "1886947608989491200",
+        "conversation_id": "1943422187236659301",
+        "created_at": "2025-07-10T21:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943422187236659301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6RYvnQmBz",
+              "end": 23,
+              "expanded_url": "https://x.com/cinnam0nnn/status/1943422187236659301/photo/1",
+              "media_key": "3_1943422182014517250",
+              "start": 0,
+              "url": "https://t.co/D6RYvnQmBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943422187236659301",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 952,
+          "impression_count": 676473,
+          "like_count": 14599,
+          "quote_count": 238,
+          "reply_count": 24,
+          "retweet_count": 3451
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D6RYvnQmBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932096647762505728/zDTqfr3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 225,
+          "like_count": 9010,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 4675
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T01:20:24.000Z",
+        "description": "✧ ೃ༄*ੈ✩ @loveg1fs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "loveg1fs"
+              }
+            ]
+          }
+        },
+        "id": "1886947608989491200",
+        "location": "florida kilos ",
+        "name": "♱",
+        "pinned_tweet_id": "1921762793637724210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941503330959667201/0nSdMN5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14833,
+          "following_count": 952,
+          "like_count": 3498,
+          "listed_count": 21,
+          "media_count": 525,
+          "tweet_count": 1712
+        },
+        "username": "cinnam0nnn",
+        "verified": true
+      }
+    ]
+  }
+}

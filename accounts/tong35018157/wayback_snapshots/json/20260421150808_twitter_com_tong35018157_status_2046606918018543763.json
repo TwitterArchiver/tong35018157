@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046537984938504415",
+    "created_at": "2026-04-21T15:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046606918018543763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1973066126956654592",
+          "start": 0,
+          "username": "tt_iphone62659"
+        },
+        {
+          "end": 27,
+          "id": "1327820153975836672",
+          "start": 16,
+          "username": "Waaifu1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046606918018543763",
+    "in_reply_to_user_id": "1973066126956654592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046601541294117162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt_iphone62659 @Waaifu1201 日本人有自己的伏拉夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046537984938504415",
+        "created_at": "2026-04-21T15:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046606918018543763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1973066126956654592",
+              "start": 0,
+              "username": "tt_iphone62659"
+            },
+            {
+              "end": 27,
+              "id": "1327820153975836672",
+              "start": 16,
+              "username": "Waaifu1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046606918018543763",
+        "in_reply_to_user_id": "1973066126956654592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046601541294117162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt_iphone62659 @Waaifu1201 日本人有自己的伏拉夫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973066126956654592",
+        "conversation_id": "2046537984938504415",
+        "created_at": "2026-04-21T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046601541294117162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            },
+            {
+              "end": 25,
+              "id": "1327820153975836672",
+              "start": 14,
+              "username": "Waaifu1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046601541294117162",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046581064844652557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 @Waaifu1201 评论区日本人也没几个讨论政治问题的啊，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 342,
+          "like_count": 12675,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6191
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T16:43:28.000Z",
+        "description": "取义成仁今日事，人间种遍自由花",
+        "id": "1973066126956654592",
+        "location": "Krasnoyarsk",
+        "name": "LOVE404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037222493426245632/3a5eiiMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 119,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 911
+        },
+        "username": "tt_iphone62659",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T03:46:19.000Z",
+        "description": "共產黨人。裏推:@YVStalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "YVStalin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NewHongqi",
+                "end": 23,
+                "expanded_url": "https://t.me/NewHongqi",
+                "start": 0,
+                "url": "https://t.co/Q8qXCWlyTG"
+              }
+            ]
+          }
+        },
+        "id": "1327820153975836672",
+        "location": "實在界",
+        "name": "槐琥",
+        "pinned_tweet_id": "1920722618790871525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628769448520998913/absTf0l4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6777,
+          "following_count": 1155,
+          "like_count": 102200,
+          "listed_count": 16,
+          "media_count": 1838,
+          "tweet_count": 17563
+        },
+        "url": "https://t.co/Q8qXCWlyTG",
+        "username": "Waaifu1201",
+        "verified": false
+      }
+    ]
+  }
+}

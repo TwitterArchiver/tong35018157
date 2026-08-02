@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1817289336075034702",
+    "created_at": "2024-07-27T20:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T21:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817289336075034702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koshercockney/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/koshercockney/status/1810041837245358537",
+          "start": 8,
+          "url": "https://t.co/aLqTaQt38Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817289336075034702",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810041837245358537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这世界真是癫了 https://t.co/aLqTaQt38Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1817289336075034702",
+        "created_at": "2024-07-27T20:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T21:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817289336075034702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koshercockney/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/koshercockney/status/1810041837245358537",
+              "start": 8,
+              "url": "https://t.co/aLqTaQt38Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817289336075034702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810041837245358537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这世界真是癫了 https://t.co/aLqTaQt38Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1810041831649906688"
+          ]
+        },
+        "author_id": "1521607150778392576",
+        "conversation_id": "1810041837245358537",
+        "created_at": "2024-07-07T20:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T21:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810041837245358537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "France",
+              "probability": 0.9466,
+              "start": 2,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Q0CSfhHqPw",
+              "end": 89,
+              "expanded_url": "https://twitter.com/KosherCockney/status/1810041837245358537/photo/1",
+              "media_key": "3_1810041831649906688",
+              "start": 66,
+              "url": "https://t.co/Q0CSfhHqPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810041837245358537",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 661,
+          "impression_count": 1171725,
+          "like_count": 20628,
+          "quote_count": 259,
+          "reply_count": 527,
+          "retweet_count": 4143
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 France is doomed 🇫🇷 \n\nFrench Jews, get out while you still can. https://t.co/Q0CSfhHqPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815395831643537408/1mjR8wae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 207,
+          "like_count": 8128,
+          "listed_count": 1,
+          "tweet_count": 3864
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T21:46:44.000Z",
+        "description": "A Jewish Jew and bloke-ish bloke. Not a journalist. Nothing special. Just opinions of a Jewish bloke.",
+        "id": "1521607150778392576",
+        "name": "Kosher🎗🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771995500545265664/8y09pkfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42359,
+          "following_count": 7009,
+          "like_count": 95705,
+          "listed_count": 222,
+          "tweet_count": 47589
+        },
+        "username": "KosherCockney",
+        "verified": true
+      }
+    ]
+  }
+}

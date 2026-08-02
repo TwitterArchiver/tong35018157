@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Needlework",
+          "id": "847869593674698752",
+          "name": "Needlework"
+        }
+      }
+    ],
+    "conversation_id": "2023707603298361771",
+    "created_at": "2026-02-17T10:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023707603298361771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4306496294",
+          "start": 3,
+          "username": "hujimari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023707603298361771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023622370867765267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hujimari: 【匠🐦‍⬛💞】\n①葉を縫い合わせて巣を作ることで知られるサイホウチョウ\n②巧みな機織り技術で巣を作るキムネコウヨウジャク\n③ 一夫多妻制でオスが複数のメスを惹きつけるために複数の巣を作るハシブトハタオリ\n④ キムネコウヨウジャクは雄が草を編み込み複雑…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37986,
+        "height": 1024,
+        "media_key": "7_2023404207639056384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023404207639056384/pu/img/W3LGQC4ZgtWXgX71.jpg",
+        "public_metrics": {
+          "view_count": 251172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023404207639056384/pu/vid/avc1/320x568/ZC3OVmJVCOJH8dfX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023404207639056384/pu/vid/avc1/480x852/qeDD2LbF5LnCAfOn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023404207639056384/pu/vid/avc1/576x1024/FA0sKpl1xzKNqkPp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023404207639056384/pu/pl/ZBFF6AX52maoctRQ.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2023707603298361771",
+        "created_at": "2026-02-17T10:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023707603298361771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4306496294",
+              "start": 3,
+              "username": "hujimari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023707603298361771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023622370867765267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hujimari: 【匠🐦‍⬛💞】\n①葉を縫い合わせて巣を作ることで知られるサイホウチョウ\n②巧みな機織り技術で巣を作るキムネコウヨウジャク\n③ 一夫多妻制でオスが複数のメスを惹きつけるために複数の巣を作るハシブトハタオリ\n④ キムネコウヨウジャクは雄が草を編み込み複雑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023404207639056384"
+          ],
+          "media_source_tweet_id": [
+            "2023404241696723265"
+          ]
+        },
+        "author_id": "4306496294",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2023622370867765267",
+        "created_at": "2026-02-17T04:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023622370867765267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIDyy8DoVg",
+              "end": 153,
+              "expanded_url": "https://x.com/MWFaithOfficial/status/2023404241696723265/video/1",
+              "media_key": "7_2023404207639056384",
+              "start": 130,
+              "url": "https://t.co/yIDyy8DoVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023622370867765267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1296,
+          "impression_count": 269213,
+          "like_count": 6030,
+          "quote_count": 75,
+          "reply_count": 45,
+          "retweet_count": 1159
+        },
+        "reply_settings": "everyone",
+        "text": "【匠🐦‍⬛💞】\n①葉を縫い合わせて巣を作ることで知られるサイホウチョウ\n②巧みな機織り技術で巣を作るキムネコウヨウジャク\n③ 一夫多妻制でオスが複数のメスを惹きつけるために複数の巣を作るハシブトハタオリ\n④ キムネコウヨウジャクは雄が草を編み込み複雑な巣を作るhttps://t.co/yIDyy8DoVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 293,
+          "like_count": 11172,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 5657
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-21T00:44:34.000Z",
+        "description": "🇯🇵真実を見抜く千里眼❥ 読心術❥ 自然環境保護❥ アニミズム自然天狗❥虫 鳥 植物 動物とコンタクトする忍者カムイ❥浄化❥俯瞰 鳥瞰 家庭菜園❥ソマチッド 振動周波数 トーラスフィールド 縄文❥Camera デザイン アート❥食物効能❥モノづくり❥楽器演奏❥子供を守る❥アニメ❥人道的活動❥アナログ回帰❥水泳バスケ",
+        "id": "4306496294",
+        "location": "神戸市",
+        "name": "藤🎧ふじ🥷🔥",
+        "pinned_tweet_id": "1695793052269596919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738155358156451840/BoadLJLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83139,
+          "following_count": 963,
+          "like_count": 93216,
+          "listed_count": 202,
+          "media_count": 15488,
+          "tweet_count": 104176
+        },
+        "username": "hujimari",
+        "verified": true
+      }
+    ]
+  }
+}

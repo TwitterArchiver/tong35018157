@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1882046035566174275",
+    "created_at": "2025-01-22T12:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T13:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882046035566174275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ghost_prole/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ghost_prole/status/1881839990197588234",
+          "start": 28,
+          "url": "https://t.co/k9ItNAwAh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882046035566174275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881839990197588234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们玩德军总部不是框框玩……这mod有什么好议论的…… https://t.co/k9ItNAwAh3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1882046035566174275",
+        "created_at": "2025-01-22T12:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T13:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882046035566174275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ghost_prole/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ghost_prole/status/1881839990197588234",
+              "start": 28,
+              "url": "https://t.co/k9ItNAwAh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882046035566174275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881839990197588234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们玩德军总部不是框框玩……这mod有什么好议论的…… https://t.co/k9ItNAwAh3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1881839851101720577"
+          ]
+        },
+        "author_id": "1159670994652598272",
+        "conversation_id": "1881839990197588234",
+        "created_at": "2025-01-21T23:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T00:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881839990197588234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "xiaohongshu",
+              "probability": 0.6798,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWnviuwSym",
+              "end": 66,
+              "expanded_url": "https://x.com/ghost_prole/status/1881839990197588234/video/1",
+              "media_key": "13_1881839851101720577",
+              "start": 43,
+              "url": "https://t.co/vWnviuwSym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881839990197588234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2075,
+          "impression_count": 440988,
+          "like_count": 10946,
+          "quote_count": 97,
+          "reply_count": 89,
+          "retweet_count": 893
+        },
+        "reply_settings": "everyone",
+        "text": "Incredible things happening on xiaohongshu https://t.co/vWnviuwSym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 214,
+          "like_count": 8252,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 4093
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-09T03:41:25.000Z",
+        "description": "chicago style maoist | sober vx | screamo agitprop @iwanchicago | PHOTOS: @_GHOSTFINDER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "iwanchicago"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "_GHOSTFINDER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ghostfinder.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://ghostfinder.myportfolio.com",
+                "start": 0,
+                "url": "https://t.co/LiHqQyF74K"
+              }
+            ]
+          }
+        },
+        "id": "1159670994652598272",
+        "location": "no coast",
+        "name": "ghost",
+        "pinned_tweet_id": "1597667511733919744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881573352491380736/rDZEBVn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4973,
+          "following_count": 1327,
+          "like_count": 171973,
+          "listed_count": 22,
+          "media_count": 4891,
+          "tweet_count": 34259
+        },
+        "url": "https://t.co/LiHqQyF74K",
+        "username": "ghost_prole",
+        "verified": false
+      }
+    ]
+  }
+}

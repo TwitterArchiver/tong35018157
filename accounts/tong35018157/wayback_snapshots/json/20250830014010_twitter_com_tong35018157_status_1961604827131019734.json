@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1961604827131019734",
+    "created_at": "2025-08-30T01:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T02:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961604827131019734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/localbateman/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/localbateman/status/1961474175631040968",
+          "start": 10,
+          "url": "https://t.co/32sX1s89Kw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961604827131019734",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961474175631040968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想摸雷电的魔丸 https://t.co/32sX1s89Kw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9600,
+        "height": 1114,
+        "media_key": "13_1961146913337511936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961146913337511936/img/MZEp7EsQr-WeMvgJ.jpg",
+        "public_metrics": {
+          "view_count": 97934
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961146913337511936/vid/avc1/320x494/6DLWvQ1hqETnrSX8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961146913337511936/vid/avc1/480x742/I9T4M3-CyjyFZCoa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961146913337511936/vid/avc1/720x1114/HDBBcuVpRlPHY9SF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961146913337511936/pl/5iW9syfMjyNwSF2u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1961604827131019734",
+        "created_at": "2025-08-30T01:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T02:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961604827131019734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/localbateman/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/localbateman/status/1961474175631040968",
+              "start": 10,
+              "url": "https://t.co/32sX1s89Kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961604827131019734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961474175631040968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想摸雷电的魔丸 https://t.co/32sX1s89Kw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961146913337511936"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961474175631040968",
+        "created_at": "2025-08-29T17:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961474175631040968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsQWzpP9Tp",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/1961474175631040968/video/1",
+              "media_key": "13_1961146913337511936",
+              "start": 0,
+              "url": "https://t.co/XsQWzpP9Tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961474175631040968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 894,
+          "impression_count": 214021,
+          "like_count": 4516,
+          "quote_count": 44,
+          "reply_count": 47,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XsQWzpP9Tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 227,
+          "like_count": 9444,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 5000
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768844,
+          "following_count": 193,
+          "like_count": 78780,
+          "listed_count": 1441,
+          "media_count": 20821,
+          "tweet_count": 24248
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

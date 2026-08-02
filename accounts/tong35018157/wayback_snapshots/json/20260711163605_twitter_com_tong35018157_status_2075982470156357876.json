@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075679347248164864"
+      ],
+      "media_source_tweet_id": [
+        "2075679371617055088"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075982470156357876",
+    "created_at": "2026-07-11T16:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075982470156357876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "133194311",
+          "start": 3,
+          "username": "AfroKidoOo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JViPmpFUGy",
+          "end": 84,
+          "expanded_url": "https://x.com/AfroKidoOo/status/2075679371617055088/photo/1",
+          "media_key": "3_2075679347248164864",
+          "start": 61,
+          "url": "https://t.co/JViPmpFUGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075982470156357876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1668
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075679371617055088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AfroKidoOo: 'Nothing to Wear' by Daniil Kudryashov, 2022 https://t.co/JViPmpFUGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2075679347248164864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5LXnBXcAAH4Wn.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075679347248164864"
+          ],
+          "media_source_tweet_id": [
+            "2075679371617055088"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075982470156357876",
+        "created_at": "2026-07-11T16:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075982470156357876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "133194311",
+              "start": 3,
+              "username": "AfroKidoOo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JViPmpFUGy",
+              "end": 84,
+              "expanded_url": "https://x.com/AfroKidoOo/status/2075679371617055088/photo/1",
+              "media_key": "3_2075679347248164864",
+              "start": 61,
+              "url": "https://t.co/JViPmpFUGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075982470156357876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1668
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075679371617055088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AfroKidoOo: 'Nothing to Wear' by Daniil Kudryashov, 2022 https://t.co/JViPmpFUGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075679347248164864"
+          ]
+        },
+        "author_id": "133194311",
+        "conversation_id": "2075679371617055088",
+        "created_at": "2026-07-10T20:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075679371617055088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JViPmpFUGy",
+              "end": 68,
+              "expanded_url": "https://x.com/AfroKidoOo/status/2075679371617055088/photo/1",
+              "media_key": "3_2075679347248164864",
+              "start": 45,
+              "url": "https://t.co/JViPmpFUGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075679371617055088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1093,
+          "impression_count": 146438,
+          "like_count": 17140,
+          "quote_count": 165,
+          "reply_count": 27,
+          "retweet_count": 1668
+        },
+        "reply_settings": "everyone",
+        "text": "'Nothing to Wear' by Daniil Kudryashov, 2022 https://t.co/JViPmpFUGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 514,
+          "like_count": 17394,
+          "listed_count": 3,
+          "media_count": 1018,
+          "tweet_count": 7705
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-15T07:19:35.000Z",
+        "description": "a visual feast of curiosities / philosophy of mind and painting enthusiastic / deeply annoyed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/127967030…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/1279670307?si=IEL89Pp4Tsa3htb3s7cv1g",
+                "start": 0,
+                "url": "https://t.co/QXUkpC6TDk"
+              }
+            ]
+          }
+        },
+        "id": "133194311",
+        "location": "nomad",
+        "name": "Arash Todd",
+        "pinned_tweet_id": "1540393534003593217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877746106009808896/jE9m8d4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 285,
+          "like_count": 34790,
+          "listed_count": 6,
+          "media_count": 14693,
+          "tweet_count": 42772
+        },
+        "url": "https://t.co/QXUkpC6TDk",
+        "username": "AfroKidoOo",
+        "verified": false
+      }
+    ]
+  }
+}

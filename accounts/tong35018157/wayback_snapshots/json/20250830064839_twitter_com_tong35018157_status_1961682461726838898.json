@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1961464105002569762",
+    "created_at": "2025-08-30T06:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T07:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961682461726838898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1741660022046638080",
+          "start": 0,
+          "username": "BaI4006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961682461726838898",
+    "in_reply_to_user_id": "1741660022046638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961464105002569762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaI4006 跟老痞一路人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1961464105002569762",
+        "created_at": "2025-08-30T06:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T07:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961682461726838898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741660022046638080",
+              "start": 0,
+              "username": "BaI4006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961682461726838898",
+        "in_reply_to_user_id": "1741660022046638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961464105002569762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaI4006 跟老痞一路人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741660022046638080",
+        "conversation_id": "1961464105002569762",
+        "created_at": "2025-08-29T16:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961464105002569762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RebelCartoon/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/RebelCartoon/status/1961177001932591478",
+              "start": 66,
+              "url": "https://t.co/mYDFJErTrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961464105002569762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2449,
+          "like_count": 99,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961177001932591478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也太油腻了吧，感觉画板后是个戴着黑框眼镜、坐着有两层泳圈、说话嘴角会泛白沫和朋友吃饭时总会把话题岔到结婚和理想型另一半的中年平头男 https://t.co/mYDFJErTrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 227,
+          "like_count": 9458,
+          "listed_count": 3,
+          "media_count": 799,
+          "tweet_count": 5003
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T03:18:14.000Z",
+        "description": "叔本华、海明威、魔幻小说，我时常发表对三者的拙见",
+        "id": "1741660022046638080",
+        "location": "古关忧的古书馆3号书架后的小沙发",
+        "name": "Ba1",
+        "pinned_tweet_id": "1892134839324721578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356434454478848/8_b3WLHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 231,
+          "like_count": 30835,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 6329
+        },
+        "username": "BaI4006",
+        "verified": false
+      }
+    ]
+  }
+}

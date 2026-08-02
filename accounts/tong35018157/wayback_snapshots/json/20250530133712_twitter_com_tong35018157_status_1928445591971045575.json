@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1928445591971045575",
+    "created_at": "2025-05-30T13:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T14:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928445591971045575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilisan1899111…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/lilisan18991118/status/1928106154116218926",
+          "start": 28,
+          "url": "https://t.co/kSScUiaPXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928445591971045575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928106154116218926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也在想这种垃圾剧情垃圾美工还抄袭的游戏怎么能遍布全球 https://t.co/kSScUiaPXy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1928445591971045575",
+        "created_at": "2025-05-30T13:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928445591971045575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilisan1899111…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/lilisan18991118/status/1928106154116218926",
+              "start": 28,
+              "url": "https://t.co/kSScUiaPXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928445591971045575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928106154116218926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也在想这种垃圾剧情垃圾美工还抄袭的游戏怎么能遍布全球 https://t.co/kSScUiaPXy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754227609930735616",
+        "conversation_id": "1928106154116218926",
+        "created_at": "2025-05-29T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928106154116218926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928106154116218926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5221,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "感觉米哈游的游戏是二游里最傻逼的，主要他还不给跳过剧情，他是不是觉得自己剧情写很好？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908944332515909632/rV3VObCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 222,
+          "like_count": 8765,
+          "listed_count": 2,
+          "media_count": 712,
+          "tweet_count": 4426
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T19:37:25.000Z",
+        "description": "果真如此，那我也真够不幸了，因为我一直在努力摆脱知识分子哲学的毒害。",
+        "id": "1754227609930735616",
+        "location": "中华总工会",
+        "name": "李立三",
+        "pinned_tweet_id": "1908531538557288747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921617176722636800/YZaOM6PU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1351,
+          "like_count": 45732,
+          "listed_count": 7,
+          "media_count": 1288,
+          "tweet_count": 18462
+        },
+        "username": "lilisan18991118",
+        "verified": false
+      }
+    ]
+  }
+}

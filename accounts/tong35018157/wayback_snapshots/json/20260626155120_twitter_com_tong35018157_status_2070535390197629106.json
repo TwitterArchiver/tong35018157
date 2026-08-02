@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2070422911689826382",
+    "created_at": "2026-06-26T15:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070535390197629106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862790267432296448",
+          "start": 0,
+          "username": "hyw_AR_26710_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070535390197629106",
+    "in_reply_to_user_id": "1862790267432296448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070534224978063381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyw_AR_26710_ 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2070422911689826382",
+        "created_at": "2026-06-26T15:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070535390197629106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862790267432296448",
+              "start": 0,
+              "username": "hyw_AR_26710_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070535390197629106",
+        "in_reply_to_user_id": "1862790267432296448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070534224978063381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyw_AR_26710_ 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862790267432296448",
+        "conversation_id": "2070422911689826382",
+        "created_at": "2026-06-26T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070534224978063381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070534224978063381",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070422911689826382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 曼巴了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 488,
+          "like_count": 16606,
+          "listed_count": 3,
+          "media_count": 994,
+          "tweet_count": 7339
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T09:26:46.000Z",
+        "description": "“死若有时，生亦有时”",
+        "id": "1862790267432296448",
+        "location": "生化斯坦超验枢",
+        "name": "骨灰扬诺夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933384381831524352/liBM_Xjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 46,
+          "like_count": 3648,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 1828
+        },
+        "url": "",
+        "username": "hyw_AR_26710_",
+        "verified": false
+      }
+    ]
+  }
+}

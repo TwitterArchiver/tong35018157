@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078561130411167745"
+      ],
+      "media_source_tweet_id": [
+        "2078561152921895424"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2078877978323521707",
+    "created_at": "2026-07-19T16:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078877978323521707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548538740393607168",
+          "start": 3,
+          "username": "ijimaia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsQOAhlpi4",
+          "end": 59,
+          "expanded_url": "https://x.com/ijimaia/status/2078561152921895424/video/1",
+          "media_key": "13_2078561130411167745",
+          "start": 36,
+          "url": "https://t.co/nsQOAhlpi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078877978323521707",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13524
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078561152921895424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijimaia: When you have a friend https://t.co/nsQOAhlpi4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2360,
+        "height": 520,
+        "media_key": "13_2078561130411167745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078561130411167745/img/U67iMomJEO6LQ5Pc.jpg",
+        "public_metrics": {
+          "view_count": 608918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078561130411167745/vid/avc1/320x346/JJ8UTB2owMZsMLSn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078561130411167745/vid/avc1/480x520/BS_e0WgnUVZV_U3H.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078561130411167745/pl/ByDugKAEvWmVCFUs.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078561130411167745"
+          ]
+        },
+        "author_id": "1548538740393607168",
+        "conversation_id": "2078561152921895424",
+        "created_at": "2026-07-18T19:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078561152921895424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsQOAhlpi4",
+              "end": 46,
+              "expanded_url": "https://x.com/ijimaia/status/2078561152921895424/video/1",
+              "media_key": "13_2078561130411167745",
+              "start": 23,
+              "url": "https://t.co/nsQOAhlpi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078561152921895424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9514,
+          "impression_count": 1512065,
+          "like_count": 118936,
+          "quote_count": 993,
+          "reply_count": 361,
+          "retweet_count": 13524
+        },
+        "reply_settings": "everyone",
+        "text": "When you have a friend https://t.co/nsQOAhlpi4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078561130411167745"
+          ],
+          "media_source_tweet_id": [
+            "2078561152921895424"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2078877978323521707",
+        "created_at": "2026-07-19T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078877978323521707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548538740393607168",
+              "start": 3,
+              "username": "ijimaia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsQOAhlpi4",
+              "end": 59,
+              "expanded_url": "https://x.com/ijimaia/status/2078561152921895424/video/1",
+              "media_key": "13_2078561130411167745",
+              "start": 36,
+              "url": "https://t.co/nsQOAhlpi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078877978323521707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13524
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078561152921895424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ijimaia: When you have a friend https://t.co/nsQOAhlpi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 522,
+          "like_count": 17649,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7804
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T05:23:09.000Z",
+        "description": "hi I'm hicc! 😁 loudly and proudly monofandom ⋆⭒˚.⋆ 𓆝 𓆟 𓆞 𓆝⋆.˚⭒⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "albumoftheyear.org/user/ijimaia/",
+                "end": 23,
+                "expanded_url": "https://www.albumoftheyear.org/user/ijimaia/",
+                "start": 0,
+                "url": "https://t.co/GIIfmSNsjC"
+              }
+            ]
+          }
+        },
+        "id": "1548538740393607168",
+        "location": "he/him ",
+        "name": "nutty putty cave updates",
+        "pinned_tweet_id": "1717634952437674014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078643773584621568/LIE077Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 1169,
+          "like_count": 245778,
+          "listed_count": 32,
+          "media_count": 11925,
+          "tweet_count": 101584
+        },
+        "url": "https://t.co/GIIfmSNsjC",
+        "username": "ijimaia",
+        "verified": false
+      }
+    ]
+  }
+}

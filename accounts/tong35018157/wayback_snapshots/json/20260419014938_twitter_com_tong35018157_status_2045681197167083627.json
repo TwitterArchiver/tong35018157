@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045528814156206080",
+        "3_2045528814537621504"
+      ],
+      "media_source_tweet_id": [
+        "2045528834691244347",
+        "2045528834691244347"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2045681197167083627",
+    "created_at": "2026-04-19T01:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045681197167083627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844800508713639945",
+          "start": 3,
+          "username": "ChuvydlaFirst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0EwY8uu5e3",
+          "end": 74,
+          "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+          "media_key": "3_2045528814156206080",
+          "start": 51,
+          "url": "https://t.co/0EwY8uu5e3"
+        },
+        {
+          "display_url": "pic.x.com/0EwY8uu5e3",
+          "end": 74,
+          "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+          "media_key": "3_2045528814537621504",
+          "start": 51,
+          "url": "https://t.co/0EwY8uu5e3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045681197167083627",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045528834691244347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChuvydlaFirst: Russian version of Chainsaw Man https://t.co/0EwY8uu5e3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045528814156206080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMtnmmbUAAMeC2.jpg",
+        "width": 1719
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045528814537621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMtnoBXQAAGo6C.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045528814156206080",
+            "3_2045528814537621504"
+          ],
+          "media_source_tweet_id": [
+            "2045528834691244347",
+            "2045528834691244347"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2045681197167083627",
+        "created_at": "2026-04-19T01:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045681197167083627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844800508713639945",
+              "start": 3,
+              "username": "ChuvydlaFirst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EwY8uu5e3",
+              "end": 74,
+              "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+              "media_key": "3_2045528814156206080",
+              "start": 51,
+              "url": "https://t.co/0EwY8uu5e3"
+            },
+            {
+              "display_url": "pic.x.com/0EwY8uu5e3",
+              "end": 74,
+              "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+              "media_key": "3_2045528814537621504",
+              "start": 51,
+              "url": "https://t.co/0EwY8uu5e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045681197167083627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045528834691244347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChuvydlaFirst: Russian version of Chainsaw Man https://t.co/0EwY8uu5e3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045528814156206080",
+            "3_2045528814537621504"
+          ]
+        },
+        "author_id": "1844800508713639945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2045528834691244347",
+        "created_at": "2026-04-18T15:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045528834691244347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EwY8uu5e3",
+              "end": 55,
+              "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+              "media_key": "3_2045528814156206080",
+              "start": 32,
+              "url": "https://t.co/0EwY8uu5e3"
+            },
+            {
+              "display_url": "pic.x.com/0EwY8uu5e3",
+              "end": 55,
+              "expanded_url": "https://x.com/ChuvydlaFirst/status/2045528834691244347/photo/1",
+              "media_key": "3_2045528814537621504",
+              "start": 32,
+              "url": "https://t.co/0EwY8uu5e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045528834691244347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 21423,
+          "like_count": 1140,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "Russian version of Chainsaw Man https://t.co/0EwY8uu5e3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 334,
+          "like_count": 12545,
+          "listed_count": 3,
+          "media_count": 926,
+          "tweet_count": 6141
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T18:01:54.000Z",
+        "description": "tg: cumyshovy_kot/chuvydla \nyt: chuvydla \nBaby bear from the Siberian taiga🐻 Ultracentrist and r-pop idol. I like Sam Hyde, network-centric warfare & soulslike",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chuvydla",
+                "end": 23,
+                "expanded_url": "https://t.me/chuvydla",
+                "start": 0,
+                "url": "https://t.co/iBMHsRnTj9"
+              }
+            ]
+          }
+        },
+        "id": "1844800508713639945",
+        "location": "Москва, Россия",
+        "name": "Арина Павлова",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024941055494193152/-Wew4ZOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 5,
+          "like_count": 329,
+          "listed_count": 41,
+          "media_count": 84,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/iBMHsRnTj9",
+        "username": "ChuvydlaFirst",
+        "verified": false
+      }
+    ]
+  }
+}

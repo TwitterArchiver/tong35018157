@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2077263482224058418",
+    "created_at": "2026-07-15T13:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077379331513586022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077379331513586022",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077263482224058418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 这个皮太雷霆了我没抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "16_2077263134461747200",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNPr0KKbYAAbS2C.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNPr0KKbYAAbS2C.mp4"
+          }
+        ],
+        "width": 456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2077263482224058418",
+        "created_at": "2026-07-15T13:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077379331513586022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077379331513586022",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077263482224058418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 这个皮太雷霆了我没抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077263134461747200"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077263482224058418",
+        "created_at": "2026-07-15T05:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077263482224058418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5GBcIhadU",
+              "end": 39,
+              "expanded_url": "https://x.com/Poca2381/status/2077263482224058418/photo/1",
+              "media_key": "16_2077263134461747200",
+              "start": 16,
+              "url": "https://t.co/v5GBcIhadU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077263482224058418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1892,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛二游疯了吧从屁眼拔武器 https://t.co/v5GBcIhadU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 520,
+          "like_count": 17533,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 7751
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22706,
+          "following_count": 9958,
+          "like_count": 153278,
+          "listed_count": 51,
+          "media_count": 5457,
+          "tweet_count": 53881
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1886367440336203839",
+    "created_at": "2025-02-03T14:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T15:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886426401429217486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876148869098319872",
+          "start": 0,
+          "username": "spicycockno5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886426401429217486",
+    "in_reply_to_user_id": "1876148869098319872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886423447980720391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spicycockno5 人生第一款假小子🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1886367440336203839",
+        "created_at": "2025-02-03T14:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886426401429217486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876148869098319872",
+              "start": 0,
+              "username": "spicycockno5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886426401429217486",
+        "in_reply_to_user_id": "1876148869098319872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886423447980720391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spicycockno5 人生第一款假小子🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876148869098319872",
+        "conversation_id": "1886367440336203839",
+        "created_at": "2025-02-03T14:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886423447980720391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886423447980720391",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886367440336203839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 伏虎确实顶(●'◡'●)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 211,
+          "like_count": 8523,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 4238
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T06:08:51.000Z",
+        "description": "想当高手……",
+        "id": "1876148869098319872",
+        "name": "本本小阿本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876282426093424640/gwpqzuSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 35
+        },
+        "username": "spicycockno5",
+        "verified": false
+      }
+    ]
+  }
+}

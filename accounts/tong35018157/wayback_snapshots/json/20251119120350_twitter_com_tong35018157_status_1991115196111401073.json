@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1991079473727394043",
+    "created_at": "2025-11-19T12:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991115196111401073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365184212127477767",
+          "start": 0,
+          "username": "wensan0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991115196111401073",
+    "in_reply_to_user_id": "1365184212127477767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991079473727394043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wensan0521 烂完了，，她主页纯良得没边了都有人找茬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1991079473727394043",
+        "created_at": "2025-11-19T12:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991115196111401073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365184212127477767",
+              "start": 0,
+              "username": "wensan0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991115196111401073",
+        "in_reply_to_user_id": "1365184212127477767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991079473727394043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wensan0521 烂完了，，她主页纯良得没边了都有人找茬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365184212127477767",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1991079473727394043",
+        "created_at": "2025-11-19T09:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991079473727394043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/squidkid1111/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/squidkid1111/status/1873410125182193789",
+              "start": 2,
+              "url": "https://t.co/uKWWZfrB8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991079473727394043",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873410125182193789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/uKWWZfrB8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 251,
+          "like_count": 10269,
+          "listed_count": 3,
+          "media_count": 855,
+          "tweet_count": 5388
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T06:17:43.000Z",
+        "description": "⚠️20+/this is my spam acc you have been warned日常碎碎念账号偶尔发图❤️",
+        "id": "1365184212127477767",
+        "location": "Ile-de-France, France",
+        "name": "kreisler",
+        "pinned_tweet_id": "1982910518835982784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981673153219751936/npdVb5sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 219,
+          "like_count": 4259,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 5274
+        },
+        "username": "wensan0521",
+        "verified": false
+      }
+    ]
+  }
+}

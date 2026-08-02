@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2023848546592846101",
+    "created_at": "2026-02-17T19:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023848546592846101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/williamlong/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/williamlong/status/2023626804402040848",
+          "start": 15,
+          "url": "https://t.co/WWKzzJGmI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023848546592846101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023626804402040848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本地人怎么不知道惠州有地铁 https://t.co/WWKzzJGmI5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2023848546592846101",
+        "created_at": "2026-02-17T19:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023848546592846101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/williamlong/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/williamlong/status/2023626804402040848",
+              "start": 15,
+              "url": "https://t.co/WWKzzJGmI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023848546592846101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023626804402040848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本地人怎么不知道惠州有地铁 https://t.co/WWKzzJGmI5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "2023626804402040848",
+        "created_at": "2026-02-17T05:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023626804402040848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023626804402040848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 262712,
+          "like_count": 729,
+          "quote_count": 9,
+          "reply_count": 185,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，在中国养老的话，惠州是个不错的选择，房价非常低，离深圳近，地铁高铁都有，交通便利，城市不大不小，临山靠海，风景优美，空气质量好，冬季温暖，夏季也不太热，医疗设施也有一些，生活成本比较低。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/性取向个人感觉泛偏直/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 294,
+          "like_count": 11193,
+          "listed_count": 3,
+          "media_count": 886,
+          "tweet_count": 5663
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367052,
+          "following_count": 374,
+          "like_count": 0,
+          "listed_count": 2746,
+          "media_count": 3651,
+          "tweet_count": 31311
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

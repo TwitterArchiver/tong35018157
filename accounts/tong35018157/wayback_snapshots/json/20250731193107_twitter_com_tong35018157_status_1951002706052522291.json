@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traffic",
+          "id": "1037076073719025664",
+          "name": "Traffic"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Brisbane",
+          "id": "861520133566611456",
+          "name": "Brisbane"
+        }
+      }
+    ],
+    "conversation_id": "1951002706052522291",
+    "created_at": "2025-07-31T19:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T20:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951002706052522291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drewpavlou/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/drewpavlou/status/1950855111800135945",
+          "start": 20,
+          "url": "https://t.co/KUsAXxYSKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951002706052522291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950855111800135945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闹麻了，你们两个都滚出土著和鹦鹉的国家 https://t.co/KUsAXxYSKA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950855104527273984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLUYambEAAyYO_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Brisbane",
+              "id": "861520133566611456",
+              "name": "Brisbane"
+            }
+          }
+        ],
+        "conversation_id": "1951002706052522291",
+        "created_at": "2025-07-31T19:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T20:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951002706052522291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drewpavlou/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/drewpavlou/status/1950855111800135945",
+              "start": 20,
+              "url": "https://t.co/KUsAXxYSKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951002706052522291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950855111800135945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闹麻了，你们两个都滚出土著和鹦鹉的国家 https://t.co/KUsAXxYSKA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950855104527273984"
+          ]
+        },
+        "author_id": "1133510366422392833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Brisbane",
+              "id": "861520133566611456",
+              "name": "Brisbane"
+            }
+          }
+        ],
+        "conversation_id": "1950855111800135945",
+        "created_at": "2025-07-31T09:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950855111800135945"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Brisbane",
+              "probability": 0.8596,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Australia",
+              "probability": 0.9872,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 148,
+              "normalized_text": "CCP",
+              "probability": 0.4329,
+              "start": 146,
+              "type": "Organization"
+            },
+            {
+              "end": 180,
+              "normalized_text": "SYMBOL",
+              "probability": 0.4063,
+              "start": 175,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPouxQtOWU",
+              "end": 274,
+              "expanded_url": "https://x.com/DrewPavlou/status/1950855111800135945/photo/1",
+              "media_key": "3_1950855104527273984",
+              "start": 251,
+              "url": "https://t.co/iPouxQtOWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950855111800135945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 214404,
+          "like_count": 6514,
+          "quote_count": 52,
+          "reply_count": 353,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "I was driving in Brisbane, Australia today. \n\nI looked to my left while stopped at the traffic lights.\n\nI saw a Chinese guy driving around with a CCP PEOPLE’S LIBERATION ARMY SYMBOL on his car door. His car plates read “PLA”. \n\nGET OUT OF MY COUNTRY. https://t.co/iPouxQtOWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 219,
+          "like_count": 9165,
+          "listed_count": 2,
+          "media_count": 773,
+          "tweet_count": 4805
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-28T23:08:25.000Z",
+        "description": "Western civilisation enjoyer. Based anti-communist liberalism. Survived CCP kidnap plot. FREE TIBET.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/drewpavlou",
+                "end": 23,
+                "expanded_url": "https://link.me/drewpavlou",
+                "start": 0,
+                "url": "https://t.co/7jA7wCZ42Z"
+              }
+            ]
+          }
+        },
+        "id": "1133510366422392833",
+        "location": "Brisbane, Australia",
+        "name": "Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼",
+        "pinned_tweet_id": "1809479391472459903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943668374002888704/jsuiPWi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171217,
+          "following_count": 5394,
+          "like_count": 203375,
+          "listed_count": 1586,
+          "media_count": 22175,
+          "tweet_count": 127911
+        },
+        "url": "https://t.co/7jA7wCZ42Z",
+        "username": "DrewPavlou",
+        "verified": true
+      }
+    ]
+  }
+}

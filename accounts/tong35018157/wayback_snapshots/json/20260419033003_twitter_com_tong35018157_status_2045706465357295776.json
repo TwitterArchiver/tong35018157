@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045237404198645760"
+      ],
+      "media_source_tweet_id": [
+        "2045237410758578544"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2045706465357295776",
+    "created_at": "2026-04-19T03:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045706465357295776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1398176351345987584",
+          "start": 3,
+          "username": "MN90047517"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlbhkJ2ieO",
+          "end": 46,
+          "expanded_url": "https://x.com/MN90047517/status/2045237410758578544/photo/1",
+          "media_key": "3_2045237404198645760",
+          "start": 23,
+          "url": "https://t.co/tlbhkJ2ieO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045706465357295776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045237410758578544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MN90047517: Squall https://t.co/tlbhkJ2ieO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2045237404198645760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIklT6aMAAhJn0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045237404198645760"
+          ],
+          "media_source_tweet_id": [
+            "2045237410758578544"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2045706465357295776",
+        "created_at": "2026-04-19T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045706465357295776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1398176351345987584",
+              "start": 3,
+              "username": "MN90047517"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlbhkJ2ieO",
+              "end": 46,
+              "expanded_url": "https://x.com/MN90047517/status/2045237410758578544/photo/1",
+              "media_key": "3_2045237404198645760",
+              "start": 23,
+              "url": "https://t.co/tlbhkJ2ieO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045706465357295776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045237410758578544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MN90047517: Squall https://t.co/tlbhkJ2ieO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045237404198645760"
+          ]
+        },
+        "author_id": "1398176351345987584",
+        "conversation_id": "2045237410758578544",
+        "created_at": "2026-04-17T20:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045237410758578544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlbhkJ2ieO",
+              "end": 30,
+              "expanded_url": "https://x.com/MN90047517/status/2045237410758578544/photo/1",
+              "media_key": "3_2045237404198645760",
+              "start": 7,
+              "url": "https://t.co/tlbhkJ2ieO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045237410758578544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 23228,
+          "like_count": 2409,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "Squall https://t.co/tlbhkJ2ieO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 334,
+          "like_count": 12549,
+          "listed_count": 3,
+          "media_count": 926,
+          "tweet_count": 6142
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-28T07:18:22.000Z",
+        "description": "２０↑ 階層都市在住。絵を見るのも描くのも好き。 好きな作家は弐瓶勉、安倍吉俊。 無断AI編集・転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "metronome8008.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://metronome8008.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/v3PAJnYrxC"
+              }
+            ]
+          }
+        },
+        "id": "1398176351345987584",
+        "location": "東亜重工",
+        "name": "M.N ﾒﾄﾛﾉｰﾑ",
+        "pinned_tweet_id": "1995437207583432935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426919250388606976/rpx9MuAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18418,
+          "following_count": 2539,
+          "like_count": 38277,
+          "listed_count": 89,
+          "media_count": 1240,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/v3PAJnYrxC",
+        "username": "MN90047517",
+        "verified": false
+      }
+    ]
+  }
+}

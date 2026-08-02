@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2070176646859260212",
+    "created_at": "2026-06-25T17:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070190434861940793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549985313694822400",
+          "start": 0,
+          "username": "Warden47119942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070190434861940793",
+    "in_reply_to_user_id": "1549985313694822400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070176646859260212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warden47119942 咋这样，梯子的问题吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070176639573729280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq-r3gaoAAqWwt.jpg",
+        "width": 1919
+      },
+      {
+        "height": 592,
+        "media_key": "3_2070176640702054400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq-r7tbgAAM-hV.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2070176646859260212",
+        "created_at": "2026-06-25T17:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070190434861940793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549985313694822400",
+              "start": 0,
+              "username": "Warden47119942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070190434861940793",
+        "in_reply_to_user_id": "1549985313694822400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070176646859260212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warden47119942 咋这样，梯子的问题吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070176639573729280",
+            "3_2070176640702054400"
+          ]
+        },
+        "author_id": "1549985313694822400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070176646859260212",
+        "created_at": "2026-06-25T16:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070176646859260212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUShJv0avB",
+              "end": 65,
+              "expanded_url": "https://x.com/Warden47119942/status/2070176646859260212/photo/1",
+              "media_key": "3_2070176639573729280",
+              "start": 42,
+              "url": "https://t.co/WUShJv0avB"
+            },
+            {
+              "display_url": "pic.x.com/WUShJv0avB",
+              "end": 65,
+              "expanded_url": "https://x.com/Warden47119942/status/2070176646859260212/photo/1",
+              "media_key": "3_2070176640702054400",
+              "start": 42,
+              "url": "https://t.co/WUShJv0avB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070176646859260212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没招了，我的号怎么感觉被当机器人了发消息都没有显示现在😭😭😭我还没开始发涩东西呢 https://t.co/WUShJv0avB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 487,
+          "like_count": 16582,
+          "listed_count": 3,
+          "media_count": 993,
+          "tweet_count": 7323
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！战雷，塔科夫，kards……（日本語を勉强しています。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱一起玩 all gender友好 对象招募ing（日常+偶尔涩涩当树洞朋友圈发）是乌萨奇-infp😼求骚扰ing欢迎互相倾诉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 70,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 47,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 4149,
+          "like_count": 131606,
+          "listed_count": 1,
+          "media_count": 1243,
+          "tweet_count": 7653
+        },
+        "url": "",
+        "username": "Warden47119942",
+        "verified": false
+      }
+    ]
+  }
+}

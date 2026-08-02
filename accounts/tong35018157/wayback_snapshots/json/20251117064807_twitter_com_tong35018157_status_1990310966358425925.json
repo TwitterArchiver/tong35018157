@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1990297872072626496",
+    "created_at": "2025-11-17T06:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T07:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990310966358425925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365184212127477767",
+          "start": 0,
+          "username": "wensan0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990310966358425925",
+    "in_reply_to_user_id": "1365184212127477767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990297872072626496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wensan0521 我也废了被别人当门槛妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1990297872072626496",
+        "created_at": "2025-11-17T06:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990310966358425925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365184212127477767",
+              "start": 0,
+              "username": "wensan0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990310966358425925",
+        "in_reply_to_user_id": "1365184212127477767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990297872072626496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wensan0521 我也废了被别人当门槛妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365184212127477767",
+        "conversation_id": "1990297872072626496",
+        "created_at": "2025-11-17T05:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990297872072626496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990297872072626496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刷中推现在只能刷到mtf这个号是不是废了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 249,
+          "like_count": 10252,
+          "listed_count": 3,
+          "media_count": 855,
+          "tweet_count": 5381
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T06:17:43.000Z",
+        "description": "⚠️20+/this is my spam acc you have been warned日常碎碎念账号偶尔发图❤️",
+        "id": "1365184212127477767",
+        "location": "Ile-de-France, France",
+        "name": "kreisler",
+        "pinned_tweet_id": "1982910518835982784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981673153219751936/npdVb5sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 214,
+          "like_count": 4166,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 5187
+        },
+        "username": "wensan0521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1897657871044940271",
+    "created_at": "2025-03-07T12:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897982942410162280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818097500575891457",
+          "start": 0,
+          "username": "moeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897982942410162280",
+    "in_reply_to_user_id": "1818097500575891457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897657871044940271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeTvT 军迷一般不玩这个，喜欢玩这个的基本都是鉴证的还是比较魔怔的那批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1897657871044940271",
+        "created_at": "2025-03-07T12:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897982942410162280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818097500575891457",
+              "start": 0,
+              "username": "moeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897982942410162280",
+        "in_reply_to_user_id": "1818097500575891457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897657871044940271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeTvT 军迷一般不玩这个，喜欢玩这个的基本都是鉴证的还是比较魔怔的那批"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818097500575891457",
+        "conversation_id": "1897657871044940271",
+        "created_at": "2025-03-06T14:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897657871044940271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897657871044940271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6846,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "玩钢4的人里面九成都不值得交往"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩少前和方舟，史同淡圈，科bg，gl，bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 213,
+          "like_count": 8582,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 4274
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T01:33:24.000Z",
+        "description": "♥️🐱@wtswaishiteruyo\n可以叫我澪澪/Mio\n我是宅女，欢迎宅宅们跟我玩^_^女宝互关大欢迎！\n不键政|品客勿扰|看黄的不准关注我|被我拉黑就是因为我讨厌你|随缘回关|喜欢萌萌的东西|FAFO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "wtswaishiteruyo"
+              }
+            ]
+          }
+        },
+        "id": "1818097500575891457",
+        "location": "空を見上げて",
+        "name": "Mio大王666",
+        "pinned_tweet_id": "1897950518531834341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877574138493390848/_fJPUWYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1102,
+          "like_count": 55210,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 4681
+        },
+        "username": "moeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2080576352701571432",
+    "created_at": "2026-07-24T08:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080576352701571432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rawmeatrot/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rawmeatrot/status/2080411341567713656",
+          "start": 2,
+          "url": "https://t.co/espADsAh7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080576352701571432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080411341567713656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/espADsAh7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19116,
+        "height": 720,
+        "media_key": "13_2080411292355973120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080411292355973120/img/urlj3tcfuzCmi7rP.jpg",
+        "public_metrics": {
+          "view_count": 7068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080411292355973120/vid/avc1/326x270/TqMzumG8O5VopnzH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080411292355973120/vid/avc1/434x360/JSgUJMwSwi8fURF7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080411292355973120/vid/avc1/870x720/dxzLmU8zI8bShmYL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080411292355973120/pl/jwhYnGPKLk1uCnhd.m3u8?v=cfc"
+          }
+        ],
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2080576352701571432",
+        "created_at": "2026-07-24T08:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080576352701571432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rawmeatrot/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rawmeatrot/status/2080411341567713656",
+              "start": 2,
+              "url": "https://t.co/espADsAh7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080576352701571432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080411341567713656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/espADsAh7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080411292355973120"
+          ]
+        },
+        "author_id": "2027418011301486592",
+        "conversation_id": "2080411341567713656",
+        "created_at": "2026-07-23T21:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080411341567713656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAM0Y4zYDk",
+              "end": 23,
+              "expanded_url": "https://x.com/rawmeatrot/status/2080411341567713656/video/1",
+              "media_key": "13_2080411292355973120",
+              "start": 0,
+              "url": "https://t.co/fAM0Y4zYDk"
+            },
+            {
+              "display_url": "x.com/m1908_enjoyer/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/m1908_enjoyer/status/2080408095197626509",
+              "start": 24,
+              "url": "https://t.co/SMujZlcGoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080411341567713656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 15522,
+          "like_count": 925,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080408095197626509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/fAM0Y4zYDk https://t.co/SMujZlcGoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 521,
+          "like_count": 17726,
+          "listed_count": 3,
+          "media_count": 1035,
+          "tweet_count": 7851
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T16:18:25.000Z",
+        "description": "volcel / neurodivergent / sometimes cosplayer 🦝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isabellamello.straw.page",
+                "end": 23,
+                "expanded_url": "https://isabellamello.straw.page",
+                "start": 0,
+                "url": "https://t.co/DCLB2Rl1S4"
+              }
+            ]
+          }
+        },
+        "id": "2027418011301486592",
+        "location": "☕️agartha 🏔️",
+        "name": "🥩isabella🧉",
+        "pinned_tweet_id": "2077857062550110306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079484235891523584/jMMB34nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213,
+          "following_count": 1158,
+          "like_count": 22658,
+          "listed_count": 5,
+          "media_count": 1787,
+          "tweet_count": 10619
+        },
+        "url": "https://t.co/DCLB2Rl1S4",
+        "username": "rawmeatrot",
+        "verified": false
+      }
+    ]
+  }
+}

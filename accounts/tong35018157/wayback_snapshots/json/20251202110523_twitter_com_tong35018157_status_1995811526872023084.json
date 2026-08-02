@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930624325281058816"
+      ],
+      "media_source_tweet_id": [
+        "1930624333040488614"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1995811526872023084",
+    "created_at": "2025-12-02T11:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995811526872023084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "917608619109105664",
+          "start": 3,
+          "username": "SECTER__7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZp2AL4SV4",
+          "end": 38,
+          "expanded_url": "https://x.com/SECTER__7/status/1930624333040488614/photo/1",
+          "media_key": "3_1930624325281058816",
+          "start": 15,
+          "url": "https://t.co/lZp2AL4SV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995811526872023084",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930624333040488614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SECTER__7: https://t.co/lZp2AL4SV4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930624325281058816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr0mE8bEAAhedq.jpg",
+        "width": 1915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930624325281058816"
+          ],
+          "media_source_tweet_id": [
+            "1930624333040488614"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1995811526872023084",
+        "created_at": "2025-12-02T11:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995811526872023084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "917608619109105664",
+              "start": 3,
+              "username": "SECTER__7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZp2AL4SV4",
+              "end": 38,
+              "expanded_url": "https://x.com/SECTER__7/status/1930624333040488614/photo/1",
+              "media_key": "3_1930624325281058816",
+              "start": 15,
+              "url": "https://t.co/lZp2AL4SV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995811526872023084",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930624333040488614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SECTER__7: https://t.co/lZp2AL4SV4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930624325281058816"
+          ]
+        },
+        "author_id": "917608619109105664",
+        "conversation_id": "1930624333040488614",
+        "created_at": "2025-06-05T13:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930624333040488614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZp2AL4SV4",
+              "end": 23,
+              "expanded_url": "https://x.com/SECTER__7/status/1930624333040488614/photo/1",
+              "media_key": "3_1930624325281058816",
+              "start": 0,
+              "url": "https://t.co/lZp2AL4SV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930624333040488614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 11723,
+          "like_count": 740,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lZp2AL4SV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 261,
+          "like_count": 10473,
+          "listed_count": 3,
+          "media_count": 863,
+          "tweet_count": 5445
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-10T04:31:57.000Z",
+        "description": "I'm Gooner artist,main GFL,I draw🔞 and general content,I hope you guys can accept 🔞content 😭🙏please,I don't like draw sex scenes male/girl,l like Futa/Yuri",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/51450287",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/51450287",
+                "start": 0,
+                "url": "https://t.co/7MBszI5Kvl"
+              }
+            ]
+          }
+        },
+        "id": "917608619109105664",
+        "location": "Hyperborea - Agartha",
+        "name": "SLAVSEGGER",
+        "pinned_tweet_id": "1976233306950861002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992177840071282688/AciVGWbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14420,
+          "following_count": 574,
+          "like_count": 21931,
+          "listed_count": 85,
+          "media_count": 920,
+          "tweet_count": 16048
+        },
+        "url": "https://t.co/7MBszI5Kvl",
+        "username": "SECTER__7",
+        "verified": false
+      }
+    ]
+  }
+}

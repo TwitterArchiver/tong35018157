@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1954350138690052574",
+    "created_at": "2025-08-13T17:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T18:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955682087748747653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347113323976814594",
+          "start": 0,
+          "username": "MonsterJuicu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955682087748747653",
+    "in_reply_to_user_id": "1347113323976814594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955556702692282531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MonsterJuicu 不要的索尼尼康佳能可以寄给我销毁，怕你下手不够狠🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1954350138690052574",
+        "created_at": "2025-08-13T17:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T18:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955682087748747653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347113323976814594",
+              "start": 0,
+              "username": "MonsterJuicu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955682087748747653",
+        "in_reply_to_user_id": "1347113323976814594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955556702692282531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MonsterJuicu 不要的索尼尼康佳能可以寄给我销毁，怕你下手不够狠🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347113323976814594",
+        "conversation_id": "1954350138690052574",
+        "created_at": "2025-08-13T09:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955556702692282531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955556702692282531",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954350138690052574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 那我该把我相机也扔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947040514311688195/0iKbFrT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 217,
+          "like_count": 9286,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 4892
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T09:30:30.000Z",
+        "description": "分享喜欢的照片，侵删！\n西安互勉约拍。",
+        "id": "1347113323976814594",
+        "location": "西安市",
+        "name": "非著名摄影爱好者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565848576499990528/BoJ8o954_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1160,
+          "like_count": 192,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 2914
+        },
+        "username": "MonsterJuicu",
+        "verified": false
+      }
+    ]
+  }
+}

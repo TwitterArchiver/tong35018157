@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960385230352809986",
+        "3_1960385316323516418",
+        "3_1960385316315152384",
+        "3_1960385316323467264"
+      ],
+      "media_source_tweet_id": [
+        "1960385417074892911",
+        "1960385417074892911",
+        "1960385417074892911",
+        "1960385417074892911"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1960516085825839612",
+    "created_at": "2025-08-27T01:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T02:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960516085825839612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1460180997895786497",
+          "start": 3,
+          "username": "Para919"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hcDaNTkeAC",
+          "end": 39,
+          "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+          "media_key": "3_1960385230352809986",
+          "start": 16,
+          "url": "https://t.co/hcDaNTkeAC"
+        },
+        {
+          "display_url": "pic.x.com/hcDaNTkeAC",
+          "end": 39,
+          "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+          "media_key": "3_1960385316323516418",
+          "start": 16,
+          "url": "https://t.co/hcDaNTkeAC"
+        },
+        {
+          "display_url": "pic.x.com/hcDaNTkeAC",
+          "end": 39,
+          "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+          "media_key": "3_1960385316315152384",
+          "start": 16,
+          "url": "https://t.co/hcDaNTkeAC"
+        },
+        {
+          "display_url": "pic.x.com/hcDaNTkeAC",
+          "end": 39,
+          "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+          "media_key": "3_1960385316323467264",
+          "start": 16,
+          "url": "https://t.co/hcDaNTkeAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960516085825839612",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960385417074892911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Para919: ☃️ https://t.co/hcDaNTkeAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2848,
+        "media_key": "3_1960385230352809986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSv-v4aAAIR3UA.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2646,
+        "media_key": "3_1960385316323516418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSwDwJa4AI1f3A.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1690,
+        "media_key": "3_1960385316315152384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSwDwHbQAAMcm5.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1296,
+        "media_key": "3_1960385316323467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSwDwJaIAATNFg.jpg",
+        "width": 2119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960385230352809986",
+            "3_1960385316323516418",
+            "3_1960385316315152384",
+            "3_1960385316323467264"
+          ],
+          "media_source_tweet_id": [
+            "1960385417074892911",
+            "1960385417074892911",
+            "1960385417074892911",
+            "1960385417074892911"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1960516085825839612",
+        "created_at": "2025-08-27T01:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T02:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960516085825839612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1460180997895786497",
+              "start": 3,
+              "username": "Para919"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 39,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385230352809986",
+              "start": 16,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 39,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316323516418",
+              "start": 16,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 39,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316315152384",
+              "start": 16,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 39,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316323467264",
+              "start": 16,
+              "url": "https://t.co/hcDaNTkeAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960516085825839612",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960385417074892911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Para919: ☃️ https://t.co/hcDaNTkeAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960385230352809986",
+            "3_1960385316323516418",
+            "3_1960385316315152384",
+            "3_1960385316323467264"
+          ]
+        },
+        "author_id": "1460180997895786497",
+        "conversation_id": "1960385417074892911",
+        "created_at": "2025-08-26T16:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960385417074892911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 26,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385230352809986",
+              "start": 3,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 26,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316323516418",
+              "start": 3,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 26,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316315152384",
+              "start": 3,
+              "url": "https://t.co/hcDaNTkeAC"
+            },
+            {
+              "display_url": "pic.x.com/hcDaNTkeAC",
+              "end": 26,
+              "expanded_url": "https://x.com/Para919/status/1960385417074892911/photo/1",
+              "media_key": "3_1960385316323467264",
+              "start": 3,
+              "url": "https://t.co/hcDaNTkeAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960385417074892911",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 20112,
+          "like_count": 1947,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "☃️ https://t.co/hcDaNTkeAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 222,
+          "like_count": 9382,
+          "listed_count": 3,
+          "media_count": 792,
+          "tweet_count": 4956
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T09:41:56.000Z",
+        "description": "Gun, Sci-Fi 🎨\nhttps://t.co/Eqg2rgTUel",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25490694",
+                "end": 37,
+                "expanded_url": "https://www.pixiv.net/users/25490694",
+                "start": 14,
+                "url": "https://t.co/Eqg2rgTUel"
+              }
+            ]
+          }
+        },
+        "id": "1460180997895786497",
+        "name": "Para",
+        "pinned_tweet_id": "1872162082357182589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889217402333999104/G-isHME6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10224,
+          "following_count": 1124,
+          "like_count": 37424,
+          "listed_count": 47,
+          "media_count": 310,
+          "tweet_count": 1491
+        },
+        "username": "Para919",
+        "verified": false
+      }
+    ]
+  }
+}

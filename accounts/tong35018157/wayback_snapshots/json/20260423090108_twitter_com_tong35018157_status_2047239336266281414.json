@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047239336266281414",
+    "created_at": "2026-04-23T09:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047239336266281414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2047080506668224590",
+          "start": 18,
+          "url": "https://t.co/G2RCF9hdZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047239336266281414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047080506668224590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好不是主城区，放假我都不敢回家了 https://t.co/G2RCF9hdZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86563,
+        "height": 848,
+        "media_key": "13_2047011471427563520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047011471427563520/img/j_AvCknRcANv-Ega.jpg",
+        "public_metrics": {
+          "view_count": 22986
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047011471427563520/vid/avc1/320x584/l_IK7byLVMN1HSHE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047011471427563520/vid/avc1/464x848/8zW_ENwm7Z0pwXOS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047011471427563520/pl/1yyIjMwuWf9_IOEr.m3u8?v=cfc"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047239336266281414",
+        "created_at": "2026-04-23T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047239336266281414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2047080506668224590",
+              "start": 18,
+              "url": "https://t.co/G2RCF9hdZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047239336266281414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047080506668224590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好不是主城区，放假我都不敢回家了 https://t.co/G2RCF9hdZu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047011471427563520"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2047080506668224590",
+        "created_at": "2026-04-22T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047080506668224590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHbSjenMwl",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047080506668224590/video/1",
+              "media_key": "13_2047011471427563520",
+              "start": 63,
+              "url": "https://t.co/jHbSjenMwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047080506668224590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 109447,
+          "like_count": 465,
+          "quote_count": 11,
+          "reply_count": 54,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：4月22日，广东省惠州市博罗县罗阳街道一处休闲公园发生持刀伤人事件，网传视频显示，现场有人持刀行凶，多人受伤倒地。 https://t.co/jHbSjenMwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 360,
+          "like_count": 12808,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 6232
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199932,
+          "following_count": 1037,
+          "like_count": 9417,
+          "listed_count": 8636,
+          "media_count": 45657,
+          "tweet_count": 52739
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

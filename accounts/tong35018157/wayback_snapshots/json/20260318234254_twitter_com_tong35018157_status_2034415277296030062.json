@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2034415277296030062",
+    "created_at": "2026-03-18T23:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T00:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034415277296030062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034415277296030062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034101461030998456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: 上大学前以为选专业就业是理想面包二选一，现在发现是吃屎和喝西北风二选一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2034415277296030062",
+        "created_at": "2026-03-18T23:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T00:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034415277296030062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034415277296030062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034101461030998456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: 上大学前以为选专业就业是理想面包二选一，现在发现是吃屎和喝西北风二选一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2034101461030998456",
+        "created_at": "2026-03-18T02:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034101461030998456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034101461030998456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17723,
+          "like_count": 615,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "上大学前以为选专业就业是理想面包二选一，现在发现是吃屎和喝西北风二选一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/可以和除了教友粉红男女拳的任何群体友好相处",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 311,
+          "like_count": 11953,
+          "listed_count": 3,
+          "media_count": 909,
+          "tweet_count": 5879
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "🚪288/388/520纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 240,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

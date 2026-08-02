@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2047977238608609703",
+    "created_at": "2026-04-25T09:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047977238608609703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/av1o492/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/av1o492/status/2047389870595903607",
+          "start": 2,
+          "url": "https://t.co/EbXUOLuBMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047977238608609703",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047389870595903607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🎯 https://t.co/EbXUOLuBMp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2047977238608609703",
+        "created_at": "2026-04-25T09:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047977238608609703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/av1o492/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/av1o492/status/2047389870595903607",
+              "start": 2,
+              "url": "https://t.co/EbXUOLuBMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047977238608609703",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047389870595903607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🎯 https://t.co/EbXUOLuBMp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047389870595903607",
+        "created_at": "2026-04-23T18:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047389870595903607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047389870595903607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17405,
+          "like_count": 373,
+          "quote_count": 17,
+          "reply_count": 25,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD撸管就是一边刷社媒笑成傻逼然后切屏回黄色网址接着撸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 364,
+          "like_count": 12955,
+          "listed_count": 4,
+          "media_count": 932,
+          "tweet_count": 6271
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 71,
+          "like_count": 3785,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966957638421225472"
+      ],
+      "media_source_tweet_id": [
+        "1966957646713651209"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1967278762103537935",
+    "created_at": "2025-09-14T17:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T18:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967278762103537935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1391603115560947713",
+          "start": 3,
+          "username": "tacticalluddite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MnkP6W1D6W",
+          "end": 44,
+          "expanded_url": "https://x.com/tacticalluddite/status/1966957646713651209/photo/1",
+          "media_key": "3_1966957638421225472",
+          "start": 21,
+          "url": "https://t.co/MnkP6W1D6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967278762103537935",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966957646713651209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tacticalluddite: https://t.co/MnkP6W1D6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_1966957638421225472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0wJjP5WoAArmff.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966957638421225472"
+          ],
+          "media_source_tweet_id": [
+            "1966957646713651209"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1967278762103537935",
+        "created_at": "2025-09-14T17:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T18:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967278762103537935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1391603115560947713",
+              "start": 3,
+              "username": "tacticalluddite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnkP6W1D6W",
+              "end": 44,
+              "expanded_url": "https://x.com/tacticalluddite/status/1966957646713651209/photo/1",
+              "media_key": "3_1966957638421225472",
+              "start": 21,
+              "url": "https://t.co/MnkP6W1D6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967278762103537935",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966957646713651209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tacticalluddite: https://t.co/MnkP6W1D6W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966957638421225472"
+          ]
+        },
+        "author_id": "1391603115560947713",
+        "conversation_id": "1966957646713651209",
+        "created_at": "2025-09-13T20:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T21:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966957646713651209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnkP6W1D6W",
+              "end": 23,
+              "expanded_url": "https://x.com/tacticalluddite/status/1966957646713651209/photo/1",
+              "media_key": "3_1966957638421225472",
+              "start": 0,
+              "url": "https://t.co/MnkP6W1D6W"
+            },
+            {
+              "display_url": "x.com/punishedlinuss…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/punishedlinusst/status/1966597995383734607",
+              "start": 24,
+              "url": "https://t.co/dsp6qYcVsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966957646713651209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 47443,
+          "like_count": 3077,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966597995383734607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MnkP6W1D6W https://t.co/dsp6qYcVsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 234,
+          "like_count": 9666,
+          "listed_count": 3,
+          "media_count": 817,
+          "tweet_count": 5131
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T03:57:09.000Z",
+        "description": "*I remember*\nESP/ENG \nlearning russian",
+        "id": "1391603115560947713",
+        "name": "Marengo 🌲🏍🏍",
+        "pinned_tweet_id": "1868050370204942573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923879166690099200/5EotDdoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 810,
+          "like_count": 190002,
+          "listed_count": 4,
+          "media_count": 4490,
+          "tweet_count": 91165
+        },
+        "username": "tacticalluddite",
+        "verified": false
+      }
+    ]
+  }
+}

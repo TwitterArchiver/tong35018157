@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2048811531069186091",
+    "created_at": "2026-04-27T17:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048811531069186091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889290861261053953",
+          "start": 3,
+          "username": "OwO7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048811531069186091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048618364323655890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OwO7u: 这一切都是原生家庭、生物遗传、教育环境、社会文化、人际关系、电子产品、经济状况导致的。反正我没错。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2048811531069186091",
+        "created_at": "2026-04-27T17:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048811531069186091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889290861261053953",
+              "start": 3,
+              "username": "OwO7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048811531069186091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048618364323655890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OwO7u: 这一切都是原生家庭、生物遗传、教育环境、社会文化、人际关系、电子产品、经济状况导致的。反正我没错。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889290861261053953",
+        "conversation_id": "2048618364323655890",
+        "created_at": "2026-04-27T04:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048618364323655890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048618364323655890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6445,
+          "like_count": 267,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "这一切都是原生家庭、生物遗传、教育环境、社会文化、人际关系、电子产品、经济状况导致的。反正我没错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 371,
+          "like_count": 13118,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 6327
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T12:30:29.000Z",
+        "description": "惡語傷咪心",
+        "id": "1889290861261053953",
+        "location": "纯绿🚪188",
+        "name": "白咪饭",
+        "pinned_tweet_id": "2044073456367743083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004052588275400704/A9RN6l5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15366,
+          "following_count": 28,
+          "like_count": 488,
+          "listed_count": 30,
+          "media_count": 160,
+          "tweet_count": 742
+        },
+        "username": "OwO7u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2075193874335891525",
+    "created_at": "2026-07-09T12:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075193874335891525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287446671257767938",
+          "start": 3,
+          "username": "sergey_r6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075193874335891525",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075187655239967058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sergey_r6s: Гриша: Саша, смотри! Я сбил ещё одного!\nСаша: (Из-за того, что Гриша его бросил, чуть не стал добычей мессеров)\n🦊💕😾\n\n🥰 comm…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2075187653386084353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyMLQpaoAEsvLh.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2075193874335891525",
+        "created_at": "2026-07-09T12:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075193874335891525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287446671257767938",
+              "start": 3,
+              "username": "sergey_r6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075193874335891525",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075187655239967058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sergey_r6s: Гриша: Саша, смотри! Я сбил ещё одного!\nСаша: (Из-за того, что Гриша его бросил, чуть не стал добычей мессеров)\n🦊💕😾\n\n🥰 comm…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075187653386084353"
+          ]
+        },
+        "author_id": "1287446671257767938",
+        "conversation_id": "2075187655239967058",
+        "created_at": "2026-07-09T11:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075187655239967058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "참새님의 [0.3~] 시대물 캐릭터는 오라, CREPE에서 신청할 수 있어요.",
+              "display_url": "kre.pe/ZcGc",
+              "end": 156,
+              "expanded_url": "http://kre.pe/ZcGc",
+              "start": 133,
+              "status": 200,
+              "title": "참새님의 [0.3~] 시대물 캐릭터는 오라 | CREPE",
+              "unwound_url": "https://crepe.cm/ko/@SOVIETAIRFORCE/cb3f0558",
+              "url": "https://t.co/619YoQH4SL"
+            },
+            {
+              "display_url": "pic.x.com/QKqn3mVPnT",
+              "end": 180,
+              "expanded_url": "https://x.com/sergey_r6s/status/2075187655239967058/photo/1",
+              "media_key": "3_2075187653386084353",
+              "start": 157,
+              "url": "https://t.co/QKqn3mVPnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187655239967058",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "Гриша: Саша, смотри! Я сбил ещё одного!\nСаша: (Из-за того, что Гриша его бросил, чуть не стал добычей мессеров)\n🦊💕😾\n\n🥰 commission by https://t.co/619YoQH4SL https://t.co/QKqn3mVPnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 508,
+          "like_count": 17286,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7651
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T17:56:29.000Z",
+        "description": "У меня 7 психиатрических диагнозов: БАР, ПРЛ, ГТР, ОКР, ВМФ, ВВС, ГКД. / Icon:sure_thing_boss💗 Head:hamzraider💗",
+        "id": "1287446671257767938",
+        "location": "Moscow, Russia",
+        "name": "낫망이🦭(라간의순진)",
+        "pinned_tweet_id": "1888965880350232935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907214829162815488/S2LWIb08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 331,
+          "like_count": 67128,
+          "listed_count": 13,
+          "media_count": 12704,
+          "tweet_count": 73523
+        },
+        "url": "",
+        "username": "sergey_r6s",
+        "verified": false
+      }
+    ]
+  }
+}

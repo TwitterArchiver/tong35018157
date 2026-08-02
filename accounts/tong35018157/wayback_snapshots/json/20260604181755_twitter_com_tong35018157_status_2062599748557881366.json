@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062286925361197056"
+      ],
+      "media_source_tweet_id": [
+        "2062286965844627463"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2062599748557881366",
+    "created_at": "2026-06-04T18:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062599748557881366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "375297468",
+          "start": 3,
+          "username": "a_london_pigeon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nxnp3hB3hc",
+          "end": 44,
+          "expanded_url": "https://x.com/a_london_pigeon/status/2062286965844627463/photo/1",
+          "media_key": "3_2062286925361197056",
+          "start": 21,
+          "url": "https://t.co/Nxnp3hB3hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062599748557881366",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062286965844627463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_london_pigeon: https://t.co/Nxnp3hB3hc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2062286925361197056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ63CDsWMAAdlgh.png",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062286925361197056"
+          ],
+          "media_source_tweet_id": [
+            "2062286965844627463"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2062599748557881366",
+        "created_at": "2026-06-04T18:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062599748557881366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "375297468",
+              "start": 3,
+              "username": "a_london_pigeon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxnp3hB3hc",
+              "end": 44,
+              "expanded_url": "https://x.com/a_london_pigeon/status/2062286965844627463/photo/1",
+              "media_key": "3_2062286925361197056",
+              "start": 21,
+              "url": "https://t.co/Nxnp3hB3hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062599748557881366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062286965844627463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_london_pigeon: https://t.co/Nxnp3hB3hc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062286925361197056"
+          ]
+        },
+        "author_id": "375297468",
+        "conversation_id": "2062286965844627463",
+        "created_at": "2026-06-03T21:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062286965844627463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxnp3hB3hc",
+              "end": 23,
+              "expanded_url": "https://x.com/a_london_pigeon/status/2062286965844627463/photo/1",
+              "media_key": "3_2062286925361197056",
+              "start": 0,
+              "url": "https://t.co/Nxnp3hB3hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062286965844627463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 581880,
+          "like_count": 8750,
+          "quote_count": 268,
+          "reply_count": 62,
+          "retweet_count": 1630
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nxnp3hB3hc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 455,
+          "like_count": 15246,
+          "listed_count": 3,
+          "media_count": 977,
+          "tweet_count": 6941
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-17T21:39:52.000Z",
+        "description": "The meek shall inherit the Earth? We already have.\nThis account now semi-retired. Still around because every pigeon needs to be somewhere. Bless you every one.",
+        "id": "375297468",
+        "location": "UK, Isle of Wight and London.",
+        "name": "alan1945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774898121807478784/1ekPO-98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6631,
+          "following_count": 507,
+          "like_count": 46418,
+          "listed_count": 131,
+          "media_count": 25008,
+          "tweet_count": 57799
+        },
+        "username": "a_london_pigeon",
+        "verified": false
+      }
+    ]
+  }
+}

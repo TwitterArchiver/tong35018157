@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868216070852825088"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1867910158132842750",
+    "created_at": "2024-12-15T08:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T09:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868216083779604933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HM5iD4nqKV",
+          "end": 39,
+          "expanded_url": "https://x.com/tong35018157/status/1868216083779604933/photo/1",
+          "media_key": "3_1868216070852825088",
+          "start": 16,
+          "url": "https://t.co/HM5iD4nqKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868216083779604933",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867910158132842750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 https://t.co/HM5iD4nqKV"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867910158132842750].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867910158132842750",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867910158132842750"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1868216070852825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge08nkLb0AAr7fZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868216070852825088"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1867910158132842750",
+        "created_at": "2024-12-15T08:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868216083779604933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM5iD4nqKV",
+              "end": 39,
+              "expanded_url": "https://x.com/tong35018157/status/1868216083779604933/photo/1",
+              "media_key": "3_1868216070852825088",
+              "start": 16,
+              "url": "https://t.co/HM5iD4nqKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868216083779604933",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867910158132842750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 https://t.co/HM5iD4nqKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865813924832219136/ss0kAIWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 206,
+          "like_count": 8123,
+          "listed_count": 1,
+          "media_count": 646,
+          "tweet_count": 3971
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "窝囊过，也窝囊过，还窝囊过",
+        "id": "1647217584117280771",
+        "location": "地球",
+        "name": "山᳐海懒得平᳐੭",
+        "pinned_tweet_id": "1864696881403842991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864676943855276033/rqD8Xlr__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1125,
+          "like_count": 117408,
+          "listed_count": 2,
+          "media_count": 708,
+          "tweet_count": 18281
+        },
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

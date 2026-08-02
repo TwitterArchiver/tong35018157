@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044465460658458624"
+      ],
+      "media_source_tweet_id": [
+        "2044465465427218662"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2057306862236893241",
+    "created_at": "2026-05-21T03:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057306862236893241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792360646782107648",
+          "start": 3,
+          "username": "pyrrultra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bwgf33H8NR",
+          "end": 52,
+          "expanded_url": "https://x.com/pyrrultra/status/2044465465427218662/photo/1",
+          "media_key": "3_2044465460658458624",
+          "start": 29,
+          "url": "https://t.co/bwgf33H8NR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057306862236893241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044465465427218662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyrrultra: Oh, my agony. https://t.co/bwgf33H8NR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057306862236893241].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057306862236893241",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057306862236893241"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044465460658458624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9mgSIaUAAZWIa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044465460658458624"
+          ]
+        },
+        "author_id": "1792360646782107648",
+        "conversation_id": "2044465465427218662",
+        "created_at": "2026-04-15T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044465465427218662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwgf33H8NR",
+              "end": 37,
+              "expanded_url": "https://x.com/pyrrultra/status/2044465465427218662/photo/1",
+              "media_key": "3_2044465460658458624",
+              "start": 14,
+              "url": "https://t.co/bwgf33H8NR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044465465427218662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 4509,
+          "like_count": 560,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "Oh, my agony. https://t.co/bwgf33H8NR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 406,
+          "like_count": 14375,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 6656
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T01:04:24.000Z",
+        "description": "The Adler Guy | 20 | I HATE adbell | Comms open | nsfw: @sirenscript",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "sirenscript"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pyrrultra.straw.page",
+                "end": 23,
+                "expanded_url": "https://pyrrultra.straw.page",
+                "start": 0,
+                "url": "https://t.co/Jds5wKGmPv"
+              }
+            ]
+          }
+        },
+        "id": "1792360646782107648",
+        "location": "he/him",
+        "name": "eric",
+        "pinned_tweet_id": "2056448202270716046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987314892550864896/-j7RcmZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 278,
+          "like_count": 3282,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/Jds5wKGmPv",
+        "username": "pyrrultra",
+        "verified": false
+      }
+    ]
+  }
+}

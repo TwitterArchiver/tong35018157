@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984944305526743041",
+        "3_1984944305505812480"
+      ],
+      "media_source_tweet_id": [
+        "1984944312371826723",
+        "1984944312371826723"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1985170589619773659",
+    "created_at": "2025-11-03T02:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T03:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985170589619773659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "917608619109105664",
+          "start": 3,
+          "username": "SECTER__7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXB9uTQ4Uj",
+          "end": 38,
+          "expanded_url": "https://x.com/SECTER__7/status/1984944312371826723/photo/1",
+          "media_key": "3_1984944305526743041",
+          "start": 15,
+          "url": "https://t.co/nXB9uTQ4Uj"
+        },
+        {
+          "display_url": "pic.x.com/nXB9uTQ4Uj",
+          "end": 38,
+          "expanded_url": "https://x.com/SECTER__7/status/1984944312371826723/photo/1",
+          "media_key": "3_1984944305505812480",
+          "start": 15,
+          "url": "https://t.co/nXB9uTQ4Uj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985170589619773659",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984944312371826723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SECTER__7: https://t.co/nXB9uTQ4Uj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985170589619773659].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985170589619773659",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985170589619773659"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984944305526743041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vwVEXbIAEh03M.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984944305505812480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vwVESbwAA9O7D.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984944305526743041",
+            "3_1984944305505812480"
+          ]
+        },
+        "author_id": "917608619109105664",
+        "conversation_id": "1984944312371826723",
+        "created_at": "2025-11-02T11:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984944312371826723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXB9uTQ4Uj",
+              "end": 23,
+              "expanded_url": "https://x.com/SECTER__7/status/1984944312371826723/photo/1",
+              "media_key": "3_1984944305526743041",
+              "start": 0,
+              "url": "https://t.co/nXB9uTQ4Uj"
+            },
+            {
+              "display_url": "pic.x.com/nXB9uTQ4Uj",
+              "end": 23,
+              "expanded_url": "https://x.com/SECTER__7/status/1984944312371826723/photo/1",
+              "media_key": "3_1984944305505812480",
+              "start": 0,
+              "url": "https://t.co/nXB9uTQ4Uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984944312371826723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 3733,
+          "like_count": 535,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nXB9uTQ4Uj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机，史同淡圈，爱好爬行动物和鸟类，雷4i，对性少数态度看个人：）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 249,
+          "like_count": 10038,
+          "listed_count": 3,
+          "media_count": 844,
+          "tweet_count": 5307
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-10T04:31:57.000Z",
+        "description": "I'm Gooner artist,main GFL,I draw🔞 and general content,I hope you guys can accept 🔞content 😭🙏please,I don't like draw sex scenes male/girl,l like Futa/Yuri",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/51450287",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/51450287",
+                "start": 0,
+                "url": "https://t.co/7MBszI5cFN"
+              }
+            ]
+          }
+        },
+        "id": "917608619109105664",
+        "location": "Leningrad - Berlin ",
+        "name": "SLAVSEGGER",
+        "pinned_tweet_id": "1966029874214425032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980245037905518593/zOiEW8_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13885,
+          "following_count": 564,
+          "like_count": 21438,
+          "listed_count": 82,
+          "media_count": 1352,
+          "tweet_count": 16219
+        },
+        "url": "https://t.co/7MBszI5cFN",
+        "username": "SECTER__7",
+        "verified": false
+      }
+    ]
+  }
+}

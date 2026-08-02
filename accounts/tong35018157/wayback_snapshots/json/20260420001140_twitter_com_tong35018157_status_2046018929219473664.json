@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045945600353738752",
+        "3_2045945600395620352",
+        "3_2045945600819200000"
+      ],
+      "media_source_tweet_id": [
+        "2045945602887061608",
+        "2045945602887061608",
+        "2045945602887061608"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2046018929219473664",
+    "created_at": "2026-04-20T00:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046018929219473664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808872425251352577",
+          "start": 3,
+          "username": "SAMSA3945"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u4EpWYJnS7",
+          "end": 62,
+          "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+          "media_key": "3_2045945600353738752",
+          "start": 39,
+          "url": "https://t.co/u4EpWYJnS7"
+        },
+        {
+          "display_url": "pic.x.com/u4EpWYJnS7",
+          "end": 62,
+          "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+          "media_key": "3_2045945600395620352",
+          "start": 39,
+          "url": "https://t.co/u4EpWYJnS7"
+        },
+        {
+          "display_url": "pic.x.com/u4EpWYJnS7",
+          "end": 62,
+          "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+          "media_key": "3_2045945600819200000",
+          "start": 39,
+          "url": "https://t.co/u4EpWYJnS7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046018929219473664",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045945602887061608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SAMSA3945: 주기적으로 봐줘야해서 끌올함\n\n동탄님 CM https://t.co/u4EpWYJnS7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2045945600353738752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSorwLboAAE4mE.jpg",
+        "width": 918
+      },
+      {
+        "height": 682,
+        "media_key": "3_2045945600395620352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSorwVasAAnJ6E.jpg",
+        "width": 735
+      },
+      {
+        "height": 630,
+        "media_key": "3_2045945600819200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSorx6aAAA6H2c.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045945600353738752",
+            "3_2045945600395620352",
+            "3_2045945600819200000"
+          ],
+          "media_source_tweet_id": [
+            "2045945602887061608",
+            "2045945602887061608",
+            "2045945602887061608"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2046018929219473664",
+        "created_at": "2026-04-20T00:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046018929219473664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808872425251352577",
+              "start": 3,
+              "username": "SAMSA3945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 62,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600353738752",
+              "start": 39,
+              "url": "https://t.co/u4EpWYJnS7"
+            },
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 62,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600395620352",
+              "start": 39,
+              "url": "https://t.co/u4EpWYJnS7"
+            },
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 62,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600819200000",
+              "start": 39,
+              "url": "https://t.co/u4EpWYJnS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046018929219473664",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045945602887061608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SAMSA3945: 주기적으로 봐줘야해서 끌올함\n\n동탄님 CM https://t.co/u4EpWYJnS7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045945600353738752",
+            "3_2045945600395620352",
+            "3_2045945600819200000"
+          ]
+        },
+        "author_id": "1808872425251352577",
+        "conversation_id": "2045945602887061608",
+        "created_at": "2026-04-19T19:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045945602887061608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 47,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600353738752",
+              "start": 24,
+              "url": "https://t.co/u4EpWYJnS7"
+            },
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 47,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600395620352",
+              "start": 24,
+              "url": "https://t.co/u4EpWYJnS7"
+            },
+            {
+              "display_url": "pic.x.com/u4EpWYJnS7",
+              "end": 47,
+              "expanded_url": "https://x.com/SAMSA3945/status/2045945602887061608/photo/1",
+              "media_key": "3_2045945600819200000",
+              "start": 24,
+              "url": "https://t.co/u4EpWYJnS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045945602887061608",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 964,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "주기적으로 봐줘야해서 끌올함\n\n동탄님 CM https://t.co/u4EpWYJnS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女/半个键政人/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 336,
+          "like_count": 12591,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 6159
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T14:36:12.000Z",
+        "description": "IL-2 바이럴 계정",
+        "id": "1808872425251352577",
+        "location": "Profile. @Gugbab_II",
+        "name": "34",
+        "pinned_tweet_id": "2002315459547574667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993346873432948736/uBkqHKSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 114,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 2260
+        },
+        "username": "SAMSA3945",
+        "verified": false
+      }
+    ]
+  }
+}

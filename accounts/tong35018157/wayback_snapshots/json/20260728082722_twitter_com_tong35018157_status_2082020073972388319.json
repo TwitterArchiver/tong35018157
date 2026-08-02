@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2082020073972388319",
+    "created_at": "2026-07-28T08:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082020073972388319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/replyarchive/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/replyarchive/status/2081835012169556076",
+          "start": 3,
+          "url": "https://t.co/CVLcPEO8Nm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082020073972388319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081835012169556076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神了 https://t.co/CVLcPEO8Nm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2081723681177247744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPEqJkWoAAs8Zv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2082020073972388319",
+        "created_at": "2026-07-28T08:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082020073972388319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/replyarchive/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/replyarchive/status/2081835012169556076",
+              "start": 3,
+              "url": "https://t.co/CVLcPEO8Nm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082020073972388319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081835012169556076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了 https://t.co/CVLcPEO8Nm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081723681177247744"
+          ]
+        },
+        "author_id": "1874118570495311872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081835012169556076",
+        "created_at": "2026-07-27T20:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081835012169556076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHWniWyJj8",
+              "end": 23,
+              "expanded_url": "https://x.com/ReplyArchive/status/2081835012169556076/photo/1",
+              "media_key": "3_2081723681177247744",
+              "start": 0,
+              "url": "https://t.co/qHWniWyJj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081835012169556076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 20027,
+          "like_count": 855,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qHWniWyJj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 528,
+          "like_count": 17800,
+          "listed_count": 3,
+          "media_count": 1044,
+          "tweet_count": 7872
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:41:17.000Z",
+        "description": "rare replies archived",
+        "id": "1874118570495311872",
+        "name": "Reply Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008920108874285056/-n_xXGwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350316,
+          "following_count": 4,
+          "like_count": 187,
+          "listed_count": 319,
+          "media_count": 654,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "ReplyArchive",
+        "verified": true
+      }
+    ]
+  }
+}

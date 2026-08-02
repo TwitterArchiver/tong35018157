@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2082651182871544236",
+    "created_at": "2026-07-30T02:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082651182871544236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069486569380003840",
+          "start": 3,
+          "username": "Umic5sy"
+        },
+        {
+          "end": 29,
+          "id": "2065113044024209408",
+          "start": 13,
+          "username": "AlexiTheItaryan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/wryzsp",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/wryzsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082651182871544236",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082571180209295449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Umic5sy: @AlexiTheItaryan (I dream to see Dirlewanger being replaced by Beria and Bierut by Yezhov on this picture) https://t.co/wryzsp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2082571172546236417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObHco8WUAEto-X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2082651182871544236",
+        "created_at": "2026-07-30T02:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082651182871544236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069486569380003840",
+              "start": 3,
+              "username": "Umic5sy"
+            },
+            {
+              "end": 29,
+              "id": "2065113044024209408",
+              "start": 13,
+              "username": "AlexiTheItaryan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/wryzsp",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/wryzsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082651182871544236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082571180209295449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Umic5sy: @AlexiTheItaryan (I dream to see Dirlewanger being replaced by Beria and Bierut by Yezhov on this picture) https://t.co/wryzsp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082571172546236417"
+          ]
+        },
+        "author_id": "2069486569380003840",
+        "conversation_id": "2082476858096955508",
+        "created_at": "2026-07-29T20:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082571180209295449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065113044024209408",
+              "start": 0,
+              "username": "AlexiTheItaryan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wryzspCdvc",
+              "end": 130,
+              "expanded_url": "https://x.com/Umic5sy/status/2082571180209295449/photo/1",
+              "media_key": "3_2082571172546236417",
+              "start": 107,
+              "url": "https://t.co/wryzspCdvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082571180209295449",
+        "in_reply_to_user_id": "2065113044024209408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2401,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082476858096955508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexiTheItaryan (I dream to see Dirlewanger being replaced by Beria and Bierut by Yezhov on this picture) https://t.co/wryzspCdvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 527,
+          "like_count": 17852,
+          "listed_count": 3,
+          "media_count": 1047,
+          "tweet_count": 7887
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T19:09:53.000Z",
+        "description": "Life is a gamble no one can win",
+        "id": "2069486569380003840",
+        "name": "Umi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081939651862925312/vX2HAxc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3239
+        },
+        "url": "",
+        "username": "Umic5sy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T16:45:59.000Z",
+        "description": "My ideology is killing everybaldi I don't like | 0th worldist | Homofascists DNI | Alt: @AlexiTheII o algo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "AlexiTheII"
+              }
+            ]
+          }
+        },
+        "id": "2065113044024209408",
+        "location": "Como, Kingdom of Italy",
+        "name": "Columbia's Top Goy🇻🇦⚜️",
+        "pinned_tweet_id": "2074977901271822563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081854832478920704/jeHQo9As_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 508,
+          "like_count": 8217,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 3528
+        },
+        "url": "",
+        "username": "AlexiTheItaryan",
+        "verified": false
+      }
+    ]
+  }
+}

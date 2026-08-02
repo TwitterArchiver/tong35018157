@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957447616121470976"
+      ],
+      "media_source_tweet_id": [
+        "1957447683062555027"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "1957472713397703126",
+    "created_at": "2025-08-18T16:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957472713397703126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701527334329937920",
+          "start": 3,
+          "username": "OvvvGog13235"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5UTpSHGafM",
+          "end": 44,
+          "expanded_url": "https://x.com/OvvvGog13235/status/1957447683062555027/photo/1",
+          "media_key": "3_1957447616121470976",
+          "start": 21,
+          "url": "https://t.co/5UTpSHGafM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957472713397703126",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957447683062555027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvvvGog13235: GF https://t.co/5UTpSHGafM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2674,
+        "media_key": "3_1957447616121470976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GypAPGFbAAA5MbZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957447616121470976"
+          ],
+          "media_source_tweet_id": [
+            "1957447683062555027"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "1957472713397703126",
+        "created_at": "2025-08-18T16:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957472713397703126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701527334329937920",
+              "start": 3,
+              "username": "OvvvGog13235"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UTpSHGafM",
+              "end": 44,
+              "expanded_url": "https://x.com/OvvvGog13235/status/1957447683062555027/photo/1",
+              "media_key": "3_1957447616121470976",
+              "start": 21,
+              "url": "https://t.co/5UTpSHGafM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957472713397703126",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957447683062555027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvvvGog13235: GF https://t.co/5UTpSHGafM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957447616121470976"
+          ]
+        },
+        "author_id": "1701527334329937920",
+        "conversation_id": "1957447683062555027",
+        "created_at": "2025-08-18T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957447683062555027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UTpSHGafM",
+              "end": 26,
+              "expanded_url": "https://x.com/OvvvGog13235/status/1957447683062555027/photo/1",
+              "media_key": "3_1957447616121470976",
+              "start": 3,
+              "url": "https://t.co/5UTpSHGafM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957447683062555027",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 3079,
+          "like_count": 270,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "GF https://t.co/5UTpSHGafM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18+顺女/半个键政人/玩少前和方舟，史同淡圈，爱好爬行动物和鸟类，雷4i",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339306399772676/GY2LKRMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 218,
+          "like_count": 9335,
+          "listed_count": 2,
+          "media_count": 788,
+          "tweet_count": 4924
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T09:25:17.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26462756",
+                "end": 23,
+                "expanded_url": "https://pixiv.net/users/26462756",
+                "start": 0,
+                "url": "https://t.co/hLT5LcKoZT"
+              }
+            ]
+          }
+        },
+        "id": "1701527334329937920",
+        "name": "GOGO",
+        "pinned_tweet_id": "1770049251885961396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789679121683058688/SdKRBRLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6205,
+          "following_count": 214,
+          "like_count": 1206,
+          "listed_count": 31,
+          "media_count": 293,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/hLT5LcKoZT",
+        "username": "OvvvGog13235",
+        "verified": false
+      }
+    ]
+  }
+}

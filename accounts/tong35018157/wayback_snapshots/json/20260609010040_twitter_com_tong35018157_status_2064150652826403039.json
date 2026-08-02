@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2064150652826403039",
+    "created_at": "2026-06-09T01:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064150652826403039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858373015056367616",
+          "start": 3,
+          "username": "Manulisten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064150652826403039",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2873
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063916980055191807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manulisten: This was literally my ideology in 4th grade"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2064150652826403039",
+        "created_at": "2026-06-09T01:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064150652826403039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858373015056367616",
+              "start": 3,
+              "username": "Manulisten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064150652826403039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2873
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063916980055191807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manulisten: This was literally my ideology in 4th grade"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858373015056367616",
+        "conversation_id": "2063916980055191807",
+        "created_at": "2026-06-08T09:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063916980055191807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/incelhurts/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/incelhurts/status/2063067462170448142",
+              "start": 44,
+              "url": "https://t.co/EKpsKAf6b9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063916980055191807",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1964,
+          "impression_count": 514827,
+          "like_count": 53123,
+          "quote_count": 20,
+          "reply_count": 64,
+          "retweet_count": 2873
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063067462170448142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This was literally my ideology in 4th grade https://t.co/EKpsKAf6b9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 461,
+          "like_count": 15424,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6981
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T04:53:55.000Z",
+        "description": "Maya's strongest Manul | Watch Ongezellig",
+        "id": "1858373015056367616",
+        "location": "🌅 ",
+        "name": "Manulisten 🌲☀️",
+        "pinned_tweet_id": "1951059799149346886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061994143350501376/pTtEPndZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 997,
+          "like_count": 88548,
+          "listed_count": 10,
+          "media_count": 1219,
+          "tweet_count": 13071
+        },
+        "username": "Manulisten",
+        "verified": false
+      }
+    ]
+  }
+}

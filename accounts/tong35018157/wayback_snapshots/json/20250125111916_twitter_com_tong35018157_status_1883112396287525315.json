@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "1883108335630815306",
+    "created_at": "2025-01-25T11:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883112396287525315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547227506339524609",
+          "start": 0,
+          "username": "lipoeas1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883112396287525315",
+    "in_reply_to_user_id": "1547227506339524609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883110967703462053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipoeas1 是，呆着烦躁头晕😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "1883108335630815306",
+        "created_at": "2025-01-25T11:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883112396287525315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547227506339524609",
+              "start": 0,
+              "username": "lipoeas1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883112396287525315",
+        "in_reply_to_user_id": "1547227506339524609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883110967703462053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipoeas1 是，呆着烦躁头晕😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547227506339524609",
+        "conversation_id": "1883108335630815306",
+        "created_at": "2025-01-25T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883110967703462053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467315060041256963",
+              "start": 0,
+              "username": "tong35018157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883110967703462053",
+        "in_reply_to_user_id": "1467315060041256963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883108335630815306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong35018157 我也不太喜欢上海那边。。。感觉那边的人冷冰冰的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873581876532903937/F3cz_DoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 215,
+          "like_count": 8290,
+          "listed_count": 1,
+          "media_count": 668,
+          "tweet_count": 4124
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T14:33:14.000Z",
+        "description": "＝立礼CN/EN/just A normal rat:)/studying for a test and don't usually in online:(",
+        "id": "1547227506339524609",
+        "name": "Lipoeas",
+        "pinned_tweet_id": "1874493099235537093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754179794659401728/6ujhhlQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 122,
+          "like_count": 1440,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1642
+        },
+        "username": "lipoeas1",
+        "verified": false
+      }
+    ]
+  }
+}

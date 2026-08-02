@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066526311145713664"
+      ],
+      "media_source_tweet_id": [
+        "2066526606923858370"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      }
+    ],
+    "conversation_id": "2066693783790702694",
+    "created_at": "2026-06-16T01:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066693783790702694"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "stalker"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "stalker2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040146459417321472",
+          "start": 3,
+          "username": "d1dodan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TIjjdj1zuA",
+          "end": 55,
+          "expanded_url": "https://x.com/d1dodan/status/2066526606923858370/photo/1",
+          "media_key": "3_2066526311145713664",
+          "start": 32,
+          "url": "https://t.co/TIjjdj1zuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066693783790702694",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066526606923858370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d1dodan: #stalker #stalker2 https://t.co/TIjjdj1zuA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2066526311145713664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3GuybWsAA8d5s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066526311145713664"
+          ],
+          "media_source_tweet_id": [
+            "2066526606923858370"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          }
+        ],
+        "conversation_id": "2066693783790702694",
+        "created_at": "2026-06-16T01:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066693783790702694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "stalker"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "stalker2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040146459417321472",
+              "start": 3,
+              "username": "d1dodan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIjjdj1zuA",
+              "end": 55,
+              "expanded_url": "https://x.com/d1dodan/status/2066526606923858370/photo/1",
+              "media_key": "3_2066526311145713664",
+              "start": 32,
+              "url": "https://t.co/TIjjdj1zuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066693783790702694",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066526606923858370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d1dodan: #stalker #stalker2 https://t.co/TIjjdj1zuA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066526311145713664"
+          ]
+        },
+        "author_id": "2040146459417321472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          }
+        ],
+        "conversation_id": "2066526606923858370",
+        "created_at": "2026-06-15T14:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066526606923858370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "stalker"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "stalker2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIjjdj1zuA",
+              "end": 42,
+              "expanded_url": "https://x.com/d1dodan/status/2066526606923858370/photo/1",
+              "media_key": "3_2066526311145713664",
+              "start": 19,
+              "url": "https://t.co/TIjjdj1zuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066526606923858370",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 498,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#stalker #stalker2 https://t.co/TIjjdj1zuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前和方舟，杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号，互关会取关/转发关注不代表政治立场",
+        "id": "1467315060041256963",
+        "location": "广州有吃到人生千层面的记得私我",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042088612066684929/-wBTbOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 478,
+          "like_count": 15893,
+          "listed_count": 3,
+          "media_count": 985,
+          "tweet_count": 7132
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T19:16:47.000Z",
+        "description": "he/him | digital artist | multifandom | ocs | #украрт #укртві |  🏳️‍⚧️🏳️‍🌈 | MDNI; russians dni",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "украрт"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "укртві"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dantheshelfsel…",
+                "end": 23,
+                "expanded_url": "https://t.me/dantheshelfseller",
+                "start": 0,
+                "url": "https://t.co/2RhwPQPe3o"
+              }
+            ]
+          }
+        },
+        "id": "2040146459417321472",
+        "location": "🇺🇦",
+        "name": "daniel🇺🇦",
+        "pinned_tweet_id": "2043734903418761429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057919531524222976/lDMN38Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 20,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/2RhwPQPe3o",
+        "username": "d1dodan",
+        "verified": false
+      }
+    ]
+  }
+}
