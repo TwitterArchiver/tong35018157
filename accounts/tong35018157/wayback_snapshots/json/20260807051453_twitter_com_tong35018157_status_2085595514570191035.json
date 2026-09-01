@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2085595514570191035",
+    "created_at": "2026-08-07T05:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085595514570191035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/libertyelysium…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/libertyelysium/status/2085417737866932373",
+          "start": 2,
+          "url": "https://t.co/K0KrtwX8eY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085595514570191035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085417737866932373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/K0KrtwX8eY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2085595514570191035",
+        "created_at": "2026-08-07T05:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085595514570191035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/libertyelysium…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/libertyelysium/status/2085417737866932373",
+              "start": 2,
+              "url": "https://t.co/K0KrtwX8eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085595514570191035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085417737866932373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/K0KrtwX8eY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2085417737866932373",
+        "created_at": "2026-08-06T17:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085417737866932373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085417737866932373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3103,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实广东ip经常比河南山东更傻逼，因为广东ip不但有本地傻逼还集中了全中国的低端人口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 527,
+          "like_count": 17987,
+          "listed_count": 3,
+          "media_count": 1057,
+          "tweet_count": 7941
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "周围神经病",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12131,
+          "following_count": 703,
+          "like_count": 90930,
+          "listed_count": 37,
+          "media_count": 2114,
+          "tweet_count": 32637
+        },
+        "url": "",
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

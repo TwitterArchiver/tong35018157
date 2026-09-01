@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085077628843675648"
+      ],
+      "media_source_tweet_id": [
+        "2085077668089712799"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085516322541392196",
+    "created_at": "2026-08-07T00:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085516322541392196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459014276409081856",
+          "start": 3,
+          "username": "KyoukiDesu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tYhqNviG4l",
+          "end": 124,
+          "expanded_url": "https://x.com/kafkawhatsapp/status/2085077668089712799/video/1",
+          "media_key": "13_2085077628843675648",
+          "start": 101,
+          "url": "https://t.co/tYhqNviG4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085516322541392196",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085300896401915959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyoukiDesu_: Me siento así cada que conozco a alguien y llega el momento de decir que soy gamer: https://t.co/tYhqNviG4l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 1024,
+        "media_key": "13_2085077628843675648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085077628843675648/img/JF8beLxJbdQqhcGG.jpg",
+        "public_metrics": {
+          "view_count": 62559
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085077628843675648/vid/avc1/320x568/48aK25MaKx8rS2Kk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085077628843675648/vid/avc1/480x852/XigSO7Omaule5z8G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085077628843675648/vid/avc1/576x1024/DvCisJS1f3Z333Zs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085077628843675648/pl/GZm7njXN1Z2wQnz-.m3u8?tag=14&v=d09"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085077628843675648"
+          ]
+        },
+        "author_id": "1621849200995536896",
+        "conversation_id": "2085054518950076836",
+        "created_at": "2026-08-05T18:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085077668089712799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031814282942275585",
+              "start": 0,
+              "username": "FN_Homer"
+            },
+            {
+              "end": 26,
+              "id": "1418344999499014152",
+              "start": 10,
+              "username": "IronmouseSprite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBEvz6vw09",
+              "end": 69,
+              "expanded_url": "https://x.com/kafkawhatsapp/status/2085077668089712799/video/1",
+              "media_key": "13_2085077628843675648",
+              "start": 46,
+              "url": "https://t.co/UBEvz6vw09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085077668089712799",
+        "in_reply_to_user_id": "1621849200995536896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 40372,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085077614830424331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FN_Homer @IronmouseSprite anyways here it is https://t.co/UBEvz6vw09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085077628843675648"
+          ],
+          "media_source_tweet_id": [
+            "2085077668089712799"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085516322541392196",
+        "created_at": "2026-08-07T00:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085516322541392196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459014276409081856",
+              "start": 3,
+              "username": "KyoukiDesu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYhqNviG4l",
+              "end": 124,
+              "expanded_url": "https://x.com/kafkawhatsapp/status/2085077668089712799/video/1",
+              "media_key": "13_2085077628843675648",
+              "start": 101,
+              "url": "https://t.co/tYhqNviG4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085516322541392196",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085300896401915959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KyoukiDesu_: Me siento así cada que conozco a alguien y llega el momento de decir que soy gamer: https://t.co/tYhqNviG4l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085077628843675648"
+          ],
+          "media_source_tweet_id": [
+            "2085077668089712799"
+          ]
+        },
+        "author_id": "1459014276409081856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085300896401915959",
+        "created_at": "2026-08-06T09:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085300896401915959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYhqNviG4l",
+              "end": 107,
+              "expanded_url": "https://x.com/kafkawhatsapp/status/2085077668089712799/video/1",
+              "media_key": "13_2085077628843675648",
+              "start": 84,
+              "url": "https://t.co/tYhqNviG4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085300896401915959",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 736,
+          "impression_count": 117073,
+          "like_count": 4096,
+          "quote_count": 49,
+          "reply_count": 46,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "Me siento así cada que conozco a alguien y llega el momento de decir que soy gamer: https://t.co/tYhqNviG4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 527,
+          "like_count": 17977,
+          "listed_count": 3,
+          "media_count": 1057,
+          "tweet_count": 7938
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T04:25:08.000Z",
+        "description": "18y🇲🇽 || 0x fncs win🔥|| Uptempo & Riddim producer || Kanokari fan || Music acc:@KyoukiDubz || i speak 🇪🇸/🇬🇧/🇯🇵|| Fortnite comp player || Ado民🌹💙||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "KyoukiDubz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kyoukidubz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kyoukidubz",
+                "start": 0,
+                "url": "https://t.co/tjiYWxjmIa"
+              }
+            ]
+          }
+        },
+        "id": "1459014276409081856",
+        "location": "♡ Aguascalientes, México ♡",
+        "name": "๑ Kyouki狂気 🌺",
+        "pinned_tweet_id": "2045738064379560178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070646443300237312/RBqxMXcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 3294,
+          "like_count": 166055,
+          "listed_count": 4,
+          "media_count": 11828,
+          "tweet_count": 76109
+        },
+        "url": "https://t.co/tjiYWxjmIa",
+        "username": "KyoukiDesu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2085033794722288051",
+    "created_at": "2026-08-05T16:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085033794722288051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sugihara_tatuo…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/sugihara_tatuo/status/2084999852321358284",
+          "start": 14,
+          "url": "https://t.co/wdiXIXtvyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085033794722288051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084999852321358284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "粥批神人咋这么多前有个虹猫 https://t.co/wdiXIXtvyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_2084999843030900736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9oT3iaIAAhh9O.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2085033794722288051",
+        "created_at": "2026-08-05T16:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085033794722288051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sugihara_tatuo…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sugihara_tatuo/status/2084999852321358284",
+              "start": 14,
+              "url": "https://t.co/wdiXIXtvyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085033794722288051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084999852321358284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粥批神人咋这么多前有个虹猫 https://t.co/wdiXIXtvyJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084999843030900736"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2084999852321358284",
+        "created_at": "2026-08-05T13:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084999852321358284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gauCSpu2dv",
+              "end": 138,
+              "expanded_url": "https://x.com/sugihara_tatuo/status/2084999852321358284/photo/1",
+              "media_key": "3_2084999843030900736",
+              "start": 115,
+              "url": "https://t.co/gauCSpu2dv"
+            },
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/2084954577582125525",
+              "start": 139,
+              "url": "https://t.co/5OBfyrZMhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084999852321358284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 479,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084954577582125525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国某中学生在漫展cosplay哈马斯，警察约谈其父母并上门劝诫，此人将视频删除；2024年高考后，数名考生公然展示巴勒斯坦旗帜，特警均当即拦阻并将旗帜没收🤣🤣\n\n孤烟大妈言辞凿凿「道德区分人与畜牲」，那么而今究竟谁是畜牲啊😁😁 https://t.co/gauCSpu2dv https://t.co/5OBfyrZMhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 527,
+          "like_count": 17960,
+          "listed_count": 3,
+          "media_count": 1057,
+          "tweet_count": 7928
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 109,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 86,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5695,
+          "following_count": 770,
+          "like_count": 161239,
+          "listed_count": 33,
+          "media_count": 1829,
+          "tweet_count": 16973
+        },
+        "url": "",
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

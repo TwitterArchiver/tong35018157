@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "conversation_id": "2084449358947422317",
+    "created_at": "2026-08-04T01:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084449358947422317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n3thsfx/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/n3thsfx/status/2084018749741408329",
+          "start": 19,
+          "url": "https://t.co/TK0EzcyZRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084449358947422317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084018749741408329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老是感觉下一秒就是jumpscare https://t.co/TK0EzcyZRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2503,
+        "height": 720,
+        "media_key": "13_2034742255353733120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034742255353733120/img/F0si3uLbKTYYA4L9.jpg",
+        "public_metrics": {
+          "view_count": 2056784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034742255353733120/vid/avc1/278x270/5WLotTwIG-JRnJp7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034742255353733120/vid/avc1/370x360/0kvvksdIBgGTdtV8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034742255353733120/vid/avc1/742x720/VVYQF_wZTSUTUbda.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034742255353733120/pl/RftXAbIaFcXI2HAT.m3u8"
+          }
+        ],
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "conversation_id": "2084449358947422317",
+        "created_at": "2026-08-04T01:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084449358947422317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n3thsfx/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/n3thsfx/status/2084018749741408329",
+              "start": 19,
+              "url": "https://t.co/TK0EzcyZRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084449358947422317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084018749741408329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老是感觉下一秒就是jumpscare https://t.co/TK0EzcyZRo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034742255353733120"
+          ],
+          "media_source_tweet_id": [
+            "2034742279341064270"
+          ]
+        },
+        "author_id": "1958968272730431488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027570780",
+              "name": "Jell-O"
+            }
+          }
+        ],
+        "conversation_id": "2084018749741408329",
+        "created_at": "2026-08-02T20:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084018749741408329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3AZkTIGEy",
+              "end": 52,
+              "expanded_url": "https://x.com/ieatu4lunch/status/2034742279341064270/video/1",
+              "media_key": "13_2034742255353733120",
+              "start": 29,
+              "url": "https://t.co/n3AZkTIGEy"
+            },
+            {
+              "display_url": "x.com/kresniktorch/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/kresniktorch/status/2083721918583021752",
+              "start": 53,
+              "url": "https://t.co/46MQ595QEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084018749741408329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26432,
+          "impression_count": 3292172,
+          "like_count": 103118,
+          "quote_count": 240,
+          "reply_count": 353,
+          "retweet_count": 4411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083721918583021752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this genuinely how they look https://t.co/n3AZkTIGEy https://t.co/46MQ595QEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 526,
+          "like_count": 17936,
+          "listed_count": 3,
+          "media_count": 1055,
+          "tweet_count": 7921
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T19:03:36.000Z",
+        "description": "",
+        "id": "1958968272730431488",
+        "name": "nath.",
+        "pinned_tweet_id": "2028265975838028098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071451389230731264/Xe7VO2DC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 422,
+          "like_count": 40242,
+          "listed_count": 4,
+          "media_count": 1090,
+          "tweet_count": 2820
+        },
+        "url": "",
+        "username": "n3thsfx",
+        "verified": false
+      }
+    ]
+  }
+}

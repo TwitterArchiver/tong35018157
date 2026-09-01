@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085383467513135104"
+      ],
+      "media_source_tweet_id": [
+        "2085383909450149962"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404124108795777026",
+          "name": "S.T.A.L.K.E.R."
+        }
+      }
+    ],
+    "conversation_id": "2085384667390427636",
+    "created_at": "2026-08-06T15:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085384667390427636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 47,
+          "tag": "stalker2"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "art"
+        },
+        {
+          "end": 69,
+          "start": 62,
+          "tag": "украрт"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2031711674227732480",
+          "start": 3,
+          "username": "Angelina_SJim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hjp5d7i2u1",
+          "end": 93,
+          "expanded_url": "https://x.com/Angelina_SJim/status/2085383909450149962/photo/1",
+          "media_key": "3_2085383467513135104",
+          "start": 70,
+          "url": "https://t.co/Hjp5d7i2u1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085384667390427636",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085383909450149962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelina_SJim: А як вам такий пан снорк? 🤭\n#stalker2 #art #украрт https://t.co/Hjp5d7i2u1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_2085383467513135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDFNwGXwAAUois.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085383467513135104"
+          ]
+        },
+        "author_id": "2031711674227732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          }
+        ],
+        "conversation_id": "2085383909450149962",
+        "created_at": "2026-08-06T15:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085383909450149962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "stalker2"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "art"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "украрт"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hjp5d7i2u1",
+              "end": 74,
+              "expanded_url": "https://x.com/Angelina_SJim/status/2085383909450149962/photo/1",
+              "media_key": "3_2085383467513135104",
+              "start": 51,
+              "url": "https://t.co/Hjp5d7i2u1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085383909450149962",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "А як вам такий пан снорк? 🤭\n#stalker2 #art #украрт https://t.co/Hjp5d7i2u1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085383467513135104"
+          ],
+          "media_source_tweet_id": [
+            "2085383909450149962"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404124108795777026",
+              "name": "S.T.A.L.K.E.R."
+            }
+          }
+        ],
+        "conversation_id": "2085384667390427636",
+        "created_at": "2026-08-06T15:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085384667390427636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "stalker2"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "art"
+            },
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "украрт"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2031711674227732480",
+              "start": 3,
+              "username": "Angelina_SJim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hjp5d7i2u1",
+              "end": 93,
+              "expanded_url": "https://x.com/Angelina_SJim/status/2085383909450149962/photo/1",
+              "media_key": "3_2085383467513135104",
+              "start": 70,
+              "url": "https://t.co/Hjp5d7i2u1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085384667390427636",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085383909450149962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelina_SJim: А як вам такий пан снорк? 🤭\n#stalker2 #art #украрт https://t.co/Hjp5d7i2u1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 527,
+          "like_count": 17970,
+          "listed_count": 3,
+          "media_count": 1057,
+          "tweet_count": 7935
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:42:11.000Z",
+        "description": "2D Artist / Character concept artist 🎨                          \nАрхів артів 🖌\nМалюю на замовлення ✏️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/art_sjim_galle…",
+                "end": 23,
+                "expanded_url": "https://t.me/art_sjim_gallery",
+                "start": 0,
+                "url": "https://t.co/GM2r8KUivH"
+              }
+            ]
+          }
+        },
+        "id": "2031711674227732480",
+        "location": "Україна",
+        "name": "Angelina_S.Jim. 🇺🇦",
+        "pinned_tweet_id": "2031746180120498224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037451593571065856/6tl1RaSy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 41,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/GM2r8KUivH",
+        "username": "Angelina_SJim",
+        "verified": false
+      }
+    ]
+  }
+}

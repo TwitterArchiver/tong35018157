@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084121741287120896",
+        "3_2084121844232146944"
+      ],
+      "media_source_tweet_id": [
+        "2084121861231693948",
+        "2084121861231693948"
+      ]
+    },
+    "author_id": "1467315060041256963",
+    "conversation_id": "2084247559107973150",
+    "created_at": "2026-08-03T11:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084247559107973150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1497645684111159304",
+          "start": 3,
+          "username": "vz_natan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0b8SIhXoU1",
+          "end": 103,
+          "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+          "media_key": "16_2084121741287120896",
+          "start": 80,
+          "url": "https://t.co/0b8SIhXoU1"
+        },
+        {
+          "display_url": "pic.x.com/0b8SIhXoU1",
+          "end": 103,
+          "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+          "media_key": "3_2084121844232146944",
+          "start": 80,
+          "url": "https://t.co/0b8SIhXoU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084247559107973150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084121861231693948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vz_natan: \"shark fursonas if being as realistic as possible is good design\" https://t.co/0b8SIhXoU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2084121741287120896",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOxJrnoWYAAFzfH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOxJrnoWYAAFzfH.mp4"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "height": 782,
+        "media_key": "3_2084121844232146944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxJxnIW0AAXCki.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084121741287120896",
+            "3_2084121844232146944"
+          ]
+        },
+        "author_id": "1497645684111159304",
+        "conversation_id": "2084121861231693948",
+        "created_at": "2026-08-03T03:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084121861231693948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b8SIhXoU1",
+              "end": 89,
+              "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+              "media_key": "16_2084121741287120896",
+              "start": 66,
+              "url": "https://t.co/0b8SIhXoU1"
+            },
+            {
+              "display_url": "pic.x.com/0b8SIhXoU1",
+              "end": 89,
+              "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+              "media_key": "3_2084121844232146944",
+              "start": 66,
+              "url": "https://t.co/0b8SIhXoU1"
+            },
+            {
+              "display_url": "x.com/beaniigoated/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/beaniigoated/status/2083880025796080124",
+              "start": 90,
+              "url": "https://t.co/HMvcA2a5ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084121861231693948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 813,
+          "impression_count": 180390,
+          "like_count": 5531,
+          "quote_count": 18,
+          "reply_count": 38,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083880025796080124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"shark fursonas if being as realistic as possible is good design\" https://t.co/0b8SIhXoU1 https://t.co/HMvcA2a5ct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084121741287120896",
+            "3_2084121844232146944"
+          ],
+          "media_source_tweet_id": [
+            "2084121861231693948",
+            "2084121861231693948"
+          ]
+        },
+        "author_id": "1467315060041256963",
+        "conversation_id": "2084247559107973150",
+        "created_at": "2026-08-03T11:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084247559107973150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1497645684111159304",
+              "start": 3,
+              "username": "vz_natan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b8SIhXoU1",
+              "end": 103,
+              "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+              "media_key": "16_2084121741287120896",
+              "start": 80,
+              "url": "https://t.co/0b8SIhXoU1"
+            },
+            {
+              "display_url": "pic.x.com/0b8SIhXoU1",
+              "end": 103,
+              "expanded_url": "https://x.com/vz_natan/status/2084121861231693948/photo/1",
+              "media_key": "3_2084121844232146944",
+              "start": 80,
+              "url": "https://t.co/0b8SIhXoU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084247559107973150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084121861231693948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vz_natan: \"shark fursonas if being as realistic as possible is good design\" https://t.co/0b8SIhXoU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/06顺女，取向泛偏直/玩少前雪松杂七杂八单机/爱好爬行动物和鸟类/对性少数态度看个人：）/会b有大量男女拳激顺激同内容账号/转发军逼内容只能说明我有恋物癖",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "2079478293485830307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081343816842514432/zo-1CI9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 526,
+          "like_count": 17923,
+          "listed_count": 3,
+          "media_count": 1054,
+          "tweet_count": 7917
+        },
+        "url": "",
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T18:52:31.000Z",
+        "description": "• Brazilian Amateur Artist (PT/EG) / Be prepared for some Mid Paleoart and the worst takes on Character Design you have ever seen / Currently working on #Edda",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 158,
+                "start": 153,
+                "tag": "Edda"
+              }
+            ]
+          }
+        },
+        "id": "1497645684111159304",
+        "location": "Edda, on your mother's house",
+        "name": "✨️NatanVZ🇧🇷✨️",
+        "pinned_tweet_id": "1874555252571287767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944223219365392384/G_hUFLHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 4440,
+          "like_count": 396929,
+          "listed_count": 10,
+          "media_count": 966,
+          "tweet_count": 72310
+        },
+        "url": "",
+        "username": "vz_natan",
+        "verified": false
+      }
+    ]
+  }
+}
