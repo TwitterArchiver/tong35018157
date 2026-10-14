@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1467315060041256963",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "1841539830251131224",
+    "created_at": "2024-10-02T18:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T19:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841539830251131224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yurichtofen/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yurichtofen/status/1841413692229103960",
+          "start": 7,
+          "url": "https://t.co/CIN4jclsSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841539830251131224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841413692229103960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就好这一口🤤 https://t.co/CIN4jclsSV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467315060041256963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1841539830251131224",
+        "created_at": "2024-10-02T18:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T19:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841539830251131224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yurichtofen/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yurichtofen/status/1841413692229103960",
+              "start": 7,
+              "url": "https://t.co/CIN4jclsSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841539830251131224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841413692229103960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就好这一口🤤 https://t.co/CIN4jclsSV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841413386124541952"
+          ]
+        },
+        "author_id": "869735415036628992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1841413692229103960",
+        "created_at": "2024-10-02T09:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T10:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841413692229103960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQcqQHAF1Z",
+              "end": 40,
+              "expanded_url": "https://x.com/Yurichtofen/status/1841413692229103960/photo/1",
+              "media_key": "3_1841413386124541952",
+              "start": 17,
+              "url": "https://t.co/wQcqQHAF1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841413692229103960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 796,
+          "impression_count": 54751,
+          "like_count": 3725,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "#oc #創作百合  \n大嫌い… https://t.co/wQcqQHAF1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-05T02:09:19.000Z",
+        "description": "废话很多/18y顺女/半个键政人/玩世4偶尔钢丝/杂七杂八单机/任天堂/日乙/韩漫/主打bg沾点bl，爱好爬行动物和鸟类（沉迷观鸟ing不关注人类）",
+        "id": "1467315060041256963",
+        "name": "板板板板栗🌰",
+        "pinned_tweet_id": "1643135713691701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836020406995849218/TXcY86G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 209,
+          "like_count": 8149,
+          "listed_count": 1,
+          "tweet_count": 3924
+        },
+        "username": "tong35018157",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T02:00:56.000Z",
+        "description": "日本語を勉強している留学生、ゲームプロデューサー、イラストレーター\n百合を描く\nhttps://t.co/7dgRJ6U9cP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15131268",
+                "end": 63,
+                "expanded_url": "http://pixiv.net/users/15131268",
+                "start": 40,
+                "url": "https://t.co/7dgRJ6U9cP"
+              }
+            ]
+          }
+        },
+        "id": "869735415036628992",
+        "location": "きつね島",
+        "name": "Yurika-R🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824379702250967041/H0o2Ae8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13535,
+          "following_count": 399,
+          "like_count": 789,
+          "listed_count": 172,
+          "tweet_count": 484
+        },
+        "username": "Yurichtofen",
+        "verified": false
+      }
+    ]
+  }
+}
